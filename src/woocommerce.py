@@ -1,35 +1,58 @@
 import os
-from dotenv import load_dotenv
+
 import requests
+from dotenv import load_dotenv
 
 load_dotenv()
 
-BASE_URL = os.getenv("WC_URL")
+BASE_URL = os.getenv("WC_URL", "").rstrip("/")
 KEY = os.getenv("WC_CONSUMER_KEY")
 SECRET = os.getenv("WC_CONSUMER_SECRET")
 
 
-def test_connection():
-    url = f"{BASE_URL}/wp-json/wc/v3/products"
+def load_products():
+    if not BASE_URL or not KEY or not SECRET:
+        raise RuntimeError("WooCommerce piekļuves dati nav norādīti .env failā.")
 
-    response = requests.get(
-        url,
-        auth=(KEY, SECRET),
-        params={"per_page": 5},
-        timeout=30,
-    )
+    products = []
+    page = 1
 
-    print(f"HTTP Status: {response.status_code}")
+    print("Nolasa WooCommerce produktus...")
 
-    if response.status_code == 200:
-        products = response.json()
-        print(f"✅ Atrasti {len(products)} produkti")
+    while True:
+        response = requests.get(
+            f"{BASE_URL}/wp-json/wc/v3/products",
+            auth=(KEY, SECRET),
+            params={
+                "per_page": 100,
+                "page": page,
+                "status": "any",
+            },
+            timeout=60,
+        )
+        response.raise_for_status()
 
-        for product in products:
-            print(f"{product['sku']}  |  {product['name']}")
-    else:
-        print(response.text)
+        page_products = response.json()
+
+        if not page_products:
+            break
+
+        products.extend(page_products)
+        print(f"  Nolasīta {page}. lapa — kopā {len(products)} produkti.")
+
+        if len(page_products) < 100:
+            break
+
+        page += 1
+
+    print(f"WooCommerce atrasti {len(products)} produkti.")
+    return products
 
 
 if __name__ == "__main__":
-    test_connection()
+    products = load_products()
+
+    print("\nPirmie 5 produkti:\n")
+
+    for product in products[:5]:
+        print(f"{product.get('sku', '')} | {product.get('name', '')}")

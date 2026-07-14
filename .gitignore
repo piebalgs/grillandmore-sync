@@ -1,4 +1,7 @@
-dpwd
-
-
-Martinss-MacBook-Air:grillandmore-sync mpiebalgs$ pwd
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+reports/

@@ -1,0 +1,186 @@
+{
+  "cache_version": 2,
+  "sku": "1500178",
+  "assets": [
+    {
+      "asset_id": "kbgcnxzsptjpcq7ksz3g5w",
+      "asset_name": "SummitBase Stainless Features Glow-Knobs Filet-Mignon 2345 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bsvmgfcb2443x4ks678mvvf9",
+      "asset_name": "SummitBase Stainless Food Filet-Mignon 1965 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "sxgxrtvfjv7986jsgbbgf3",
+      "asset_name": "SummitBase Stainless Food Oysters 1932 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nnc34wj4gc6rw4h993r5c",
+      "asset_name": "SummitBase Stainless Food Prime-Rib 1905 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ng3jnsbts6r7rs4t7vb25n5",
+      "asset_name": "SummitBase Stainless Food Salmon 1846 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kfv4m8v3fxmg6rwqrgrmsw3x",
+      "asset_name": "SummitBase Stainless Food Salmon 1848 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "vj8rgq47qttnfcb2k7h8t8z",
+      "asset_name": "SummitBase Stainless Lifestyle Overhead-Food 2292 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "63mm4vb665h7r47kvm9pxgfm",
+      "asset_name": "SummitSmart Food Full-Chicken-Rotisserie 1508 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "shkm7mmms4pxh9538j74f",
+      "asset_name": "SummitSmart Food Seafood-Stew 1693 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "fz4vh98pcps34xxmbm2ttgk8",
+      "asset_name": "Summit SS Grates G1 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "w38xzxssf7cfrwpnnb4b",
+      "asset_name": "Summit Smart SS Probes W1 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "sjrs5s68jqg8b8sfj4z6746",
+      "asset_name": "[EMEA/AUNZ]Summit FS38X Smart LP",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "494nm72hfnnxg4sncqnnrqt",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gfnp3zxt2vhvxm7g5kqfx6h",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "48xfrq2zt86gkzqmpg84rjkh",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "vpbmw8vfq988pgwnw2k6r53",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "s5jb6c4hp4mf7j3tqfwc6kt",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8s2wm7t53pqk2sb4nh47p4",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bscfh9kqbz8jpmj77j9wjr9r",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "wm7b57rhg3rgzqmtc93xsg",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "jj7msm26bfktvv9ssjhjncpf",
+      "asset_name": "[EMEA/AUNZ] Summit Smart FS38X E",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "cn28rkhpwvsmxgkz5vhp5v88",
+      "asset_name": "NPD MasterCopyDoc Summit Smart Gas Grill - EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "wz3zvjrq23x4nkt7h8jp5h3r",
+      "asset_name": "SummitBase Stainless Lifestyle Filet-Mignon 2164 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3wf3n4vhm6p87kwf429fthb",
+      "asset_name": "SummitSmart Food Features 3374 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rkmrkjtpvwr466vsnvwcbjp",
+      "asset_name": "SummitSmart Food Side-Burner 1543 1x1",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ntbxnw9n7f6wfm3m7px33fw",
+      "asset_name": "Summit Smart SS Grates G1 1x1",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "7hj93g9hqgrx33sx5khc7z",
+      "filename": "1500113_A_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6900,
+      "height": 6900,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7hj93g9hqgrx33sx5khc7z/1500113_A_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7hj93g9hqgrx33sx5khc7z/v/1273359522/original/1500113_A_rgb.jpg?Expires=1784283764&KeyName=gcs-bfldr-prod&Signature=6RpcLCUaPTxalCQkGfSyor5icqM=",
+      "url": "https://storage-us-gcs.bfldr.com/7hj93g9hqgrx33sx5khc7z/v/1273359522/original/1500113_A_rgb.jpg?Expires=1784283764&KeyName=gcs-bfldr-prod&Signature=6RpcLCUaPTxalCQkGfSyor5icqM="
+    },
+    {
+      "attachment_id": "93ts867xsgrq6tqxh9x45s9v",
+      "filename": "1500113_B2_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 6900,
+      "height": 6900,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/93ts867xsgrq6tqxh9x45s9v/1500113_B2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/93ts867xsgrq6tqxh9x45s9v/v/1273359523/original/1500113_B2_rgb.jpg?Expires=1784283764&KeyName=gcs-bfldr-prod&Signature=1ZGpCNNVeRu-vgTo7I2artLO95k=",
+      "url": "https://storage-us-gcs.bfldr.com/93ts867xsgrq6tqxh9x45s9v/v/1273359523/original/1500113_B2_rgb.jpg?Expires=1784283764&KeyName=gcs-bfldr-prod&Signature=1ZGpCNNVeRu-vgTo7I2artLO95k="
+    },
+    {
+      "attachment_id": "4gw6cwrw9ftx885n499pxxp",
+      "filename": "1500113_B_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 6900,
+      "height": 6900,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4gw6cwrw9ftx885n499pxxp/1500113_B_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4gw6cwrw9ftx885n499pxxp/v/1273359524/original/1500113_B_rgb.jpg?Expires=1784283764&KeyName=gcs-bfldr-prod&Signature=4tDL4_Jx3tPljWUosgv0NICC7Lw=",
+      "url": "https://storage-us-gcs.bfldr.com/4gw6cwrw9ftx885n499pxxp/v/1273359524/original/1500113_B_rgb.jpg?Expires=1784283764&KeyName=gcs-bfldr-prod&Signature=4tDL4_Jx3tPljWUosgv0NICC7Lw="
+    },
+    {
+      "attachment_id": "6sq3cbnpqmtsrxjf9599x7c",
+      "filename": "1500113_C_rgb.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 6900,
+      "height": 6900,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6sq3cbnpqmtsrxjf9599x7c/1500113_C_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6sq3cbnpqmtsrxjf9599x7c/v/1273359525/original/1500113_C_rgb.jpg?Expires=1784283764&KeyName=gcs-bfldr-prod&Signature=M0z3du8PrgDS0xs7-rKhRDYexhE=",
+      "url": "https://storage-us-gcs.bfldr.com/6sq3cbnpqmtsrxjf9599x7c/v/1273359525/original/1500113_C_rgb.jpg?Expires=1784283764&KeyName=gcs-bfldr-prod&Signature=M0z3du8PrgDS0xs7-rKhRDYexhE="
+    }
+  ]
+}

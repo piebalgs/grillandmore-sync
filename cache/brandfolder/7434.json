@@ -1,0 +1,25 @@
+{
+  "cache_version": 2,
+  "sku": "7434",
+  "assets": [
+    {
+      "asset_id": "pi8x7k-8oo0tk-5brhvg",
+      "asset_name": "47 cm Hinged Cooking Grate 7434 Product",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pi8x7k-8oo0tk-3lzugx",
+      "filename": "7434A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi8x7k-8oo0tk-3lzugx/7434A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi8x7k-8oo0tk-3lzugx/v/2664305/original/7434A.png?Expires=1784282844&KeyName=gcs-bfldr-prod&Signature=0XRTT_8M--5uent_Y2yClknpHL0=",
+      "url": "https://storage-us-gcs.bfldr.com/pi8x7k-8oo0tk-3lzugx/v/2664305/original/7434A.png?Expires=1784282844&KeyName=gcs-bfldr-prod&Signature=0XRTT_8M--5uent_Y2yClknpHL0="
+    }
+  ]
+}

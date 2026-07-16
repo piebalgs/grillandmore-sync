@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import os
 import re
+import time
 from pathlib import Path
 from typing import Any
 from urllib.parse import unquote, urlparse
@@ -12,8 +13,15 @@ from urllib.parse import unquote, urlparse
 import requests
 from dotenv import load_dotenv
 
-from src.brandfolder import create_session as create_brandfolder_session
+from src.brandfolder import (
+    create_session as create_brandfolder_session,
+)
 from src.brandfolder import get_product_images
+from src.image_processor import (
+    ImageProcessingError,
+    describe_processed_image,
+    process_remote_image,
+)
 from src.woocommerce import load_products
 
 
@@ -24,9 +32,31 @@ WC_URL = os.getenv("WC_URL", "").rstrip("/")
 WC_CONSUMER_KEY = os.getenv("WC_CONSUMER_KEY")
 WC_CONSUMER_SECRET = os.getenv("WC_CONSUMER_SECRET")
 
+WP_USERNAME = os.getenv("WP_USERNAME", "").strip()
+
+WP_APP_PASSWORD = "".join(
+    os.getenv("WP_APP_PASSWORD", "").split()
+)
+
+RETRY_STATUS_CODES = {
+    429,
+    500,
+    502,
+    503,
+    504,
+}
+
+RETRY_DELAYS = (
+    20,
+    45,
+    90,
+)
+
+PRODUCT_UPDATE_PAUSE = 3
+
 
 class ImageSyncError(RuntimeError):
-    """WooCommerce attēlu sinhronizācijas kļūda."""
+    """WooCommerce vai WordPress attēlu sinhronizācijas kļūda."""
 
 
 def normalize_sku(value: Any) -> str:
@@ -44,16 +74,6 @@ def filename_from_url(url: Any) -> str:
 
 
 def normalize_filename(value: Any) -> str:
-    """
-    Izveido faila salīdzināšanas atslēgu.
-
-    Piemēram:
-      7032A1_rgb.png
-      7032A1_rgb-1.png
-      7032A1_rgb-scaled.png
-
-    tiek uzskatīti par vienu attēlu.
-    """
     text = unquote(str(value or "")).strip()
 
     if not text:
@@ -65,13 +85,8 @@ def normalize_filename(value: Any) -> str:
 
     stem = Path(text).stem.upper()
 
-    # Vispirms noņemam WordPress -scaled.
     stem = re.sub(r"-SCALED$", "", stem)
-
-    # Tad WordPress dublikātu sufiksus -1, -2 utt.
     stem = re.sub(r"-\d+$", "", stem)
-
-    # Ignorējam atstarpju, domuzīmju un _ atšķirības.
     stem = re.sub(r"[\s_-]+", "", stem)
 
     return stem
@@ -82,7 +97,8 @@ def image_key(image: dict[str, Any]) -> str:
         image.get("filename")
         or image.get("name")
         or filename_from_url(
-            image.get("src") or image.get("url")
+            image.get("src")
+            or image.get("url")
         )
     )
 
@@ -90,11 +106,6 @@ def image_key(image: dict[str, Any]) -> str:
 def deduplicate_brandfolder_images(
     images: list[dict[str, Any]],
 ) -> list[dict[str, Any]]:
-    """
-    Vienā Brandfolder meklējumā viens fails var parādīties
-    vairākos aktīvos. Atstājam tikai vienu attēlu katram
-    normalizētajam faila nosaukumam.
-    """
     unique: dict[str, dict[str, Any]] = {}
 
     for image in images:
@@ -129,8 +140,9 @@ def deduplicate_brandfolder_images(
     result = list(unique.values())
 
     result.sort(
-        key=lambda image: (
-            str(image.get("filename") or "").upper()
+        key=lambda item: (
+            int(item.get("position", 9999)),
+            str(item.get("filename") or "").upper(),
         )
     )
 
@@ -190,7 +202,9 @@ def prepare_image_update(
         raw_brandfolder_images
     )
 
-    woo_keys = existing_woocommerce_keys(existing_images)
+    woo_keys = existing_woocommerce_keys(
+        existing_images
+    )
 
     already_present: list[dict[str, Any]] = []
     missing_images: list[dict[str, Any]] = []
@@ -208,8 +222,6 @@ def prepare_image_update(
 
     payload_images: list[dict[str, Any]] = []
 
-    # Saglabājam esošos WooCommerce Media Library attēlus.
-    # Pirmais paliek galvenais produkta attēls.
     for image in existing_images:
         if not isinstance(image, dict):
             continue
@@ -217,12 +229,20 @@ def prepare_image_update(
         image_id = image.get("id")
 
         if image_id:
-            payload_images.append({"id": int(image_id)})
+            payload_images.append(
+                {
+                    "id": int(image_id),
+                }
+            )
 
-    # Pievienojam tikai patiesi trūkstošos attēlus.
     for image in missing_images:
-        filename = str(image.get("filename") or "").strip()
-        url = str(image.get("url") or "").strip()
+        filename = str(
+            image.get("filename") or ""
+        ).strip()
+
+        url = str(
+            image.get("url") or ""
+        ).strip()
 
         if not url:
             continue
@@ -231,7 +251,11 @@ def prepare_image_update(
             {
                 "src": url,
                 "name": filename,
-                "alt": Path(filename).stem if filename else "",
+                "alt": (
+                    Path(filename).stem
+                    if filename
+                    else ""
+                ),
             }
         )
 
@@ -244,35 +268,210 @@ def prepare_image_update(
     }
 
 
-def update_product_images(
-    product_id: int,
-    payload_images: list[dict[str, Any]],
-) -> dict[str, Any]:
+def validate_configuration() -> None:
+    missing: list[str] = []
+
     if not WC_URL:
+        missing.append("WC_URL")
+
+    if not WC_CONSUMER_KEY:
+        missing.append("WC_CONSUMER_KEY")
+
+    if not WC_CONSUMER_SECRET:
+        missing.append("WC_CONSUMER_SECRET")
+
+    if not WP_USERNAME:
+        missing.append("WP_USERNAME")
+
+    if not WP_APP_PASSWORD:
+        missing.append("WP_APP_PASSWORD")
+
+    if missing:
         raise ImageSyncError(
-            "WC_URL nav norādīts .env failā."
+            ".env failā trūkst: "
+            + ", ".join(missing)
         )
 
+
+def wordpress_auth() -> tuple[str, str]:
+    if not WP_USERNAME or not WP_APP_PASSWORD:
+        raise ImageSyncError(
+            "WordPress Media API piekļuves dati nav norādīti."
+        )
+
+    return WP_USERNAME, WP_APP_PASSWORD
+
+
+def wc_auth() -> tuple[str, str]:
     if not WC_CONSUMER_KEY or not WC_CONSUMER_SECRET:
         raise ImageSyncError(
-            "WooCommerce API atslēgas nav norādītas .env failā."
+            "WooCommerce API piekļuves dati nav norādīti."
         )
 
-    response = requests.put(
-        f"{WC_URL}/wp-json/wc/v3/products/{product_id}",
-        auth=(
-            WC_CONSUMER_KEY,
-            WC_CONSUMER_SECRET,
-        ),
-        json={"images": payload_images},
-        timeout=(30, 600),
+    return WC_CONSUMER_KEY, WC_CONSUMER_SECRET
+
+
+def request_with_retry(
+    *,
+    method: str,
+    url: str,
+    request_name: str,
+    acceptable_statuses: set[int] | None = None,
+    **kwargs: Any,
+) -> requests.Response:
+    last_error: Exception | None = None
+
+    acceptable = acceptable_statuses or {
+        200,
+        201,
+    }
+
+    for attempt in range(len(RETRY_DELAYS) + 1):
+        try:
+            response = requests.request(
+                method,
+                url,
+                **kwargs,
+            )
+
+            if response.status_code in acceptable:
+                return response
+
+            if response.status_code not in RETRY_STATUS_CODES:
+                print("\nServera atbilde:")
+                print(response.text[:2000])
+
+                response.raise_for_status()
+
+            last_error = requests.HTTPError(
+                (
+                    f"{request_name}: "
+                    f"HTTP {response.status_code}"
+                ),
+                response=response,
+            )
+
+        except requests.RequestException as error:
+            last_error = error
+
+        if attempt >= len(RETRY_DELAYS):
+            break
+
+        delay = RETRY_DELAYS[attempt]
+
+        print(
+            f"    ⚠ {request_name} neizdevās. "
+            f"Mēģinājums {attempt + 2} no "
+            f"{len(RETRY_DELAYS) + 1} pēc "
+            f"{delay} sekundēm..."
+        )
+
+        time.sleep(delay)
+
+    raise ImageSyncError(
+        f"{request_name} neizdevās pēc "
+        f"{len(RETRY_DELAYS) + 1} mēģinājumiem. "
+        f"Pēdējā kļūda: {last_error}"
     )
 
-    if not response.ok:
-        print("\nWooCommerce atbilde:")
-        print(response.text[:2000])
 
-    response.raise_for_status()
+def upload_media_file(
+    *,
+    file_path: Path,
+    filename: str,
+    content_type: str,
+    alt_text: str,
+) -> dict[str, Any]:
+    endpoint = (
+        f"{WC_URL}/wp-json/wp/v2/media"
+    )
+
+    file_bytes = file_path.read_bytes()
+
+    response = request_with_retry(
+        method="POST",
+        url=endpoint,
+        request_name=f"Media augšupielāde {filename}",
+        acceptable_statuses={201},
+        auth=wordpress_auth(),
+        headers={
+            "Content-Disposition": (
+                f'attachment; filename="{filename}"'
+            ),
+            "Content-Type": content_type,
+            "Accept": "application/json",
+        },
+        data=file_bytes,
+        timeout=(30, 300),
+    )
+
+    media = response.json()
+
+    if not isinstance(media, dict):
+        raise ImageSyncError(
+            "WordPress Media API atgrieza "
+            "negaidītu datu formātu."
+        )
+
+    media_id = media.get("id")
+
+    if not media_id:
+        raise ImageSyncError(
+            f"WordPress neizveidoja Media ID failam {filename}."
+        )
+
+    metadata_endpoint = (
+        f"{WC_URL}/wp-json/wp/v2/media/{media_id}"
+    )
+
+    metadata_response = request_with_retry(
+        method="POST",
+        url=metadata_endpoint,
+        request_name=f"Media metadati {filename}",
+        acceptable_statuses={200},
+        auth=wordpress_auth(),
+        json={
+            "title": Path(filename).stem,
+            "alt_text": alt_text,
+            "caption": "",
+            "description": "",
+        },
+        timeout=(30, 120),
+    )
+
+    metadata = metadata_response.json()
+
+    if isinstance(metadata, dict):
+        media.update(metadata)
+
+    return media
+
+
+def put_product_image_ids(
+    *,
+    product_id: int,
+    image_ids: list[int],
+) -> dict[str, Any]:
+    endpoint = (
+        f"{WC_URL}/wp-json/wc/v3/products/{product_id}"
+    )
+
+    response = request_with_retry(
+        method="PUT",
+        url=endpoint,
+        request_name=f"WooCommerce produkts {product_id}",
+        acceptable_statuses={200},
+        auth=wc_auth(),
+        json={
+            "images": [
+                {
+                    "id": image_id,
+                }
+                for image_id in image_ids
+            ]
+        },
+        timeout=(30, 300),
+    )
 
     payload = response.json()
 
@@ -284,7 +483,141 @@ def update_product_images(
     return payload
 
 
-def display_filename(image: dict[str, Any]) -> str:
+def update_product_images(
+    product_id: int,
+    payload_images: list[dict[str, Any]],
+) -> dict[str, Any]:
+    """
+    Saglabā esošos Media ID un katru jauno attēlu:
+
+      1. lejupielādē Python pusē;
+      2. pārveido uz 800×800;
+      3. augšupielādē WordPress Media Library;
+      4. uzreiz piesaista WooCommerce produktam.
+
+    Produkts tiek saglabāts pēc katra attēla, tādēļ,
+    ja process pārtrūkst, veiksmīgi pievienotie attēli
+    nepazūd un nākamajā palaišanā netiek dublēti.
+    """
+    validate_configuration()
+
+    existing_ids: list[int] = []
+    remote_images: list[dict[str, Any]] = []
+
+    for item in payload_images:
+        image_id = item.get("id")
+
+        if image_id:
+            existing_ids.append(int(image_id))
+            continue
+
+        source_url = str(
+            item.get("src") or ""
+        ).strip()
+
+        if source_url:
+            remote_images.append(item)
+
+    current_ids = list(dict.fromkeys(existing_ids))
+
+    if not remote_images:
+        return put_product_image_ids(
+            product_id=product_id,
+            image_ids=current_ids,
+        )
+
+    download_session = requests.Session()
+    download_session.headers.update(
+        {
+            "User-Agent": (
+                "GrillAndMore-Sync/0.3 "
+                "(image processor)"
+            ),
+            "Accept": "image/*,*/*;q=0.8",
+        }
+    )
+
+    last_product: dict[str, Any] | None = None
+
+    try:
+        for number, image in enumerate(
+            remote_images,
+            start=1,
+        ):
+            source_url = str(
+                image.get("src") or ""
+            ).strip()
+
+            original_filename = str(
+                image.get("name")
+                or filename_from_url(source_url)
+                or "product-image"
+            ).strip()
+
+            alt_text = str(
+                image.get("alt")
+                or Path(original_filename).stem
+            ).strip()
+
+            print(
+                f"\n  [{number}/{len(remote_images)}] "
+                f"{original_filename}"
+            )
+
+            processed = process_remote_image(
+                url=source_url,
+                filename=original_filename,
+                session=download_session,
+                use_cache=True,
+            )
+
+            print(
+                "    "
+                + describe_processed_image(processed)
+            )
+
+            media = upload_media_file(
+                file_path=processed.path,
+                filename=processed.filename,
+                content_type=processed.content_type,
+                alt_text=alt_text,
+            )
+
+            media_id = int(media["id"])
+
+            if media_id not in current_ids:
+                current_ids.append(media_id)
+
+            print(
+                f"    ✓ Media Library ID: {media_id}"
+            )
+
+            last_product = put_product_image_ids(
+                product_id=product_id,
+                image_ids=current_ids,
+            )
+
+            print(
+                "    ✓ Pievienots WooCommerce produktam."
+            )
+
+            time.sleep(PRODUCT_UPDATE_PAUSE)
+
+    finally:
+        download_session.close()
+
+    if last_product is None:
+        last_product = put_product_image_ids(
+            product_id=product_id,
+            image_ids=current_ids,
+        )
+
+    return last_product
+
+
+def display_filename(
+    image: dict[str, Any],
+) -> str:
     return str(
         image.get("filename")
         or image.get("name")
@@ -299,8 +632,13 @@ def print_image_list(
 ) -> None:
     print(f"\n{title}: {len(images)}")
 
-    for number, image in enumerate(images, start=1):
-        print(f"  {number}. {display_filename(image)}")
+    for number, image in enumerate(
+        images,
+        start=1,
+    ):
+        print(
+            f"  {number}. {display_filename(image)}"
+        )
 
 
 def sync_one_product(
@@ -367,14 +705,15 @@ def sync_one_product(
     )
 
     if not plan["brandfolder_images"]:
-        print("\nBrandfolder produktu attēli netika atrasti.")
+        print(
+            "\nBrandfolder produktu attēli netika atrasti."
+        )
         return False
 
     if not plan["missing_images"]:
         print(
-            "\n✅ Visi unikālie Brandfolder attēli jau ir WooCommerce."
+            "\n✅ Visi Brandfolder attēli jau ir WooCommerce."
         )
-        print("Nekādas izmaiņas nav nepieciešamas.")
         return False
 
     print(
@@ -394,26 +733,36 @@ def sync_one_product(
         )
 
     if not apply:
-        print("\nDRY RUN — WooCommerce nekas netika mainīts.")
         print(
-            "\nReālai sinhronizācijai palaid:\n"
-            f"python3 -m src.image_sync "
-            f"{normalized_sku} --apply"
+            "\nDRY RUN — WooCommerce nekas netika mainīts."
         )
         return False
 
-    print("\nPievieno tikai trūkstošos attēlus...")
+    product_id = product.get("id")
+
+    if not product_id:
+        raise ImageSyncError(
+            "WooCommerce produktam nav ID."
+        )
+
+    print(
+        "\nLejupielādē, samazina un augšupielādē "
+        "trūkstošos attēlus..."
+    )
 
     updated_product = update_product_images(
-        product_id=int(product["id"]),
+        product_id=int(product_id),
         payload_images=plan["payload_images"],
     )
 
-    updated_images = updated_product.get("images", [])
+    updated_images = updated_product.get(
+        "images",
+        [],
+    )
 
     print("\n✅ Attēlu sinhronizācija pabeigta.")
     print(
-        "WooCommerce attēlu skaits pēc atjaunināšanas: "
+        "WooCommerce attēlu skaits: "
         f"{len(updated_images) if isinstance(updated_images, list) else 0}"
     )
 
@@ -423,20 +772,20 @@ def sync_one_product(
 def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
-            "Pievieno tikai trūkstošos Brandfolder attēlus "
-            "WooCommerce produktam."
+            "Samazina Brandfolder attēlus līdz 800×800 "
+            "un augšupielādē WordPress Media Library."
         )
     )
 
     parser.add_argument(
         "sku",
-        help="WooCommerce produkta SKU, piemēram, 7032.",
+        help="WooCommerce produkta SKU.",
     )
 
     parser.add_argument(
         "--apply",
         action="store_true",
-        help="Reāli veikt izmaiņas WooCommerce.",
+        help="Reāli veikt izmaiņas.",
     )
 
     parser.add_argument(

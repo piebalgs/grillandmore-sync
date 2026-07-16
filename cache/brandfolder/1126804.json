@@ -1,0 +1,49 @@
+{
+  "cache_version": 2,
+  "sku": "1126804",
+  "assets": [
+    {
+      "asset_id": "pfkv0g-cek374-654cmy",
+      "asset_name": "1126804 Smokey Joe Premium Product",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pfkv0g-cek374-29faen",
+      "filename": "1126804A.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2501,
+      "height": 2965,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfkv0g-cek374-29faen/1126804A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfkv0g-cek374-29faen/v/2381370/original/1126804A.png?Expires=1784284024&KeyName=gcs-bfldr-prod&Signature=bYEiXg31w-N53g_mLJpct0i9P4c=",
+      "url": "https://storage-us-gcs.bfldr.com/pfkv0g-cek374-29faen/v/2381370/original/1126804A.png?Expires=1784284024&KeyName=gcs-bfldr-prod&Signature=bYEiXg31w-N53g_mLJpct0i9P4c="
+    },
+    {
+      "attachment_id": "pfkv0g-cek374-cn5xzj",
+      "filename": "1126804B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2567,
+      "height": 2890,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfkv0g-cek374-cn5xzj/1126804B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfkv0g-cek374-cn5xzj/v/2381372/original/1126804B.png?Expires=1784284024&KeyName=gcs-bfldr-prod&Signature=_0XRukdGKOHLDrvKQuMb11MAD50=",
+      "url": "https://storage-us-gcs.bfldr.com/pfkv0g-cek374-cn5xzj/v/2381372/original/1126804B.png?Expires=1784284024&KeyName=gcs-bfldr-prod&Signature=_0XRukdGKOHLDrvKQuMb11MAD50="
+    },
+    {
+      "attachment_id": "pfkv0g-cek374-5psgu1",
+      "filename": "1126804C.png",
+      "extension": "png",
+      "position": 3,
+      "width": 2515,
+      "height": 2964,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfkv0g-cek374-5psgu1/1126804C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfkv0g-cek374-5psgu1/v/2381373/original/1126804C.png?Expires=1784284024&KeyName=gcs-bfldr-prod&Signature=d_QrG88i2NdL333P8GnzfLSta-s=",
+      "url": "https://storage-us-gcs.bfldr.com/pfkv0g-cek374-5psgu1/v/2381373/original/1126804C.png?Expires=1784284024&KeyName=gcs-bfldr-prod&Signature=d_QrG88i2NdL333P8GnzfLSta-s="
+    }
+  ]
+}

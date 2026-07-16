@@ -26,11 +26,13 @@ from src.woocommerce import load_products
 VERSION = "0.2.0"
 
 
-def normalize_text(value: Any) -> str:
-    return str(value or "").strip().casefold()
-
-
 def normalize_sku(value: Any) -> str:
+    """
+    Normalizē WooCommerce SKU.
+
+    Brandfolder specifiskā sufiksu apstrāde notiek
+    src/brandfolder.py modulī.
+    """
     return str(value or "").strip().upper()
 
 
@@ -46,119 +48,70 @@ def format_duration(seconds: float) -> str:
     return f"{minutes:02d}:{seconds:02d}"
 
 
-def product_has_brand(
-    product: dict[str, Any],
-    requested_brand: str,
-) -> bool:
-    """
-    Pārbauda WooCommerce produkta brands lauku.
-
-    Piemērs:
-      "brands": [
-          {
-              "id": 241,
-              "name": "Weber",
-              "slug": "weber",
-          }
-      ]
-    """
-    wanted = normalize_text(requested_brand)
-
-    if not wanted:
-        return True
-
-    brands = product.get("brands", [])
-
-    if not isinstance(brands, list):
-        return False
-
-    for brand in brands:
-        if not isinstance(brand, dict):
-            continue
-
-        brand_name = normalize_text(brand.get("name"))
-        brand_slug = normalize_text(brand.get("slug"))
-
-        if wanted in {brand_name, brand_slug}:
-            return True
-
-    return False
-
-
-def select_products(
-    products: list[dict[str, Any]],
-    *,
-    brand: str | None,
-    limit: int | None,
-) -> list[dict[str, Any]]:
-    selected: list[dict[str, Any]] = []
-
-    for product in products:
-        sku = normalize_sku(product.get("sku"))
-
-        if not sku:
-            continue
-
-        if brand and not product_has_brand(product, brand):
-            continue
-
-        selected.append(product)
-
-    if limit is not None:
-        return selected[:limit]
-
-    return selected
-
-
-def display_filename(image: dict[str, Any]) -> str:
+def get_display_filename(image: dict[str, Any]) -> str:
     return str(
         image.get("filename")
         or image.get("name")
         or image.get("src")
-        or image.get("url")
         or ""
     )
 
 
-def print_product_header(
+def select_products(
+    products: list[dict[str, Any]],
+    limit: int | None,
+) -> list[dict[str, Any]]:
+    """
+    Atlasa produktus ar aizpildītu SKU.
+
+    --limit attiecas uz produktiem ar SKU, nevis uz
+    tukšiem vai nederīgiem WooCommerce ierakstiem.
+    """
+    products_with_sku = [
+        product
+        for product in products
+        if normalize_sku(product.get("sku"))
+    ]
+
+    if limit is None:
+        return products_with_sku
+
+    return products_with_sku[:limit]
+
+
+def print_product_plan(
     *,
     number: int,
     total: int,
+    sku: str,
     product: dict[str, Any],
-) -> None:
-    sku = normalize_sku(product.get("sku"))
-    name = str(product.get("name") or "")
-
-    print("\n" + "-" * 72)
-    print(f"[{number}/{total}] SKU {sku} | {name}")
-    print("-" * 72)
-
-
-def print_plan(
-    plan: dict[str, Any],
-    *,
+    existing_count: int,
+    brandfolder_count: int,
+    already_present_count: int,
+    missing_images: list[dict[str, Any]],
     verbose: bool,
 ) -> None:
-    existing_images = plan.get("existing_images", [])
-    brandfolder_images = plan.get("brandfolder_images", [])
-    already_present = plan.get("already_present", [])
-    missing_images = plan.get("missing_images", [])
+    print("\n" + "-" * 72)
+    print(
+        f"[{number}/{total}] "
+        f"SKU {sku} | {product.get('name', '')}"
+    )
+    print("-" * 72)
 
-    print(f"WooCommerce attēli:       {len(existing_images)}")
-    print(f"Brandfolder unikālie:     {len(brandfolder_images)}")
-    print(f"Jau ir WooCommerce:       {len(already_present)}")
+    print(f"WooCommerce attēli:       {existing_count}")
+    print(f"Brandfolder unikālie:     {brandfolder_count}")
+    print(f"Jau ir WooCommerce:       {already_present_count}")
     print(f"Trūkstošie:               {len(missing_images)}")
 
     if verbose and missing_images:
         print("\nPievienojamie attēli:")
 
         for image in missing_images:
-            print(f"  + {display_filename(image)}")
+            print(f"  + {get_display_filename(image)}")
 
 
 def sync_images(
     *,
-    brand: str | None,
     limit: int | None,
     apply: bool,
     use_cache: bool,
@@ -170,47 +123,42 @@ def sync_images(
     print("GRILLANDMORE ATTĒLU SINHRONIZĀCIJA")
     print("=" * 72)
     print(f"Versija: {VERSION}")
+    print(
+        "Režīms:  "
+        + (
+            "REĀLA SINHRONIZĀCIJA"
+            if apply
+            else "DRY RUN — izmaiņas netiks veiktas"
+        )
+    )
 
-    if apply:
-        print("Režīms:  REĀLA SINHRONIZĀCIJA")
+    if limit is not None:
+        print(f"Limits:  pirmie {limit} produkti ar SKU")
     else:
-        print("Režīms:  DRY RUN — izmaiņas netiks veiktas")
-
-    print(f"Zīmols:  {brand or 'visi zīmoli'}")
-
-    if limit is None:
-        print("Limits:  visi atlasītie produkti")
-    else:
-        print(f"Limits:  pirmie {limit} atlasītie produkti")
+        print("Limits:  visi WooCommerce produkti ar SKU")
 
     print("\nNolasa WooCommerce produktus...")
 
     try:
         all_products = load_products()
     except Exception as error:
-        print(
-            "\n❌ Neizdevās nolasīt WooCommerce produktus: "
-            f"{error}"
-        )
+        print(f"\n❌ Neizdevās nolasīt WooCommerce produktus: {error}")
         return 1
 
     products = select_products(
-        all_products,
-        brand=brand,
+        products=all_products,
         limit=limit,
     )
 
-    print(f"\nWooCommerce produkti kopā: {len(all_products)}")
-    print(f"Produkti apstrādei:         {len(products)}")
+    print(f"\nProdukti apstrādei: {len(products)}")
 
     if not products:
-        print(
-            "\nNav atrasts neviens produkts, kas atbilst "
-            "norādītajiem filtriem."
-        )
+        print("Nav produktu, ko apstrādāt.")
         return 0
 
     statistics: Counter[str] = Counter()
+
+    # Detalizēti kļūdu ieraksti gala kopsavilkumam.
     errors: list[dict[str, str]] = []
 
     with create_brandfolder_session() as brandfolder_session:
@@ -219,11 +167,9 @@ def sync_images(
             product_id = product.get("id")
             product_name = str(product.get("name") or "")
 
-            print_product_header(
-                number=number,
-                total=len(products),
-                product=product,
-            )
+            if not sku:
+                statistics["without_sku"] += 1
+                continue
 
             try:
                 brandfolder_images = get_product_images(
@@ -233,7 +179,12 @@ def sync_images(
                 )
 
                 if not brandfolder_images:
-                    print("⚪ Brandfolder attēli nav atrasti.")
+                    print(
+                        f"\n[{number}/{len(products)}] "
+                        f"SKU {sku} | {product_name}"
+                    )
+                    print("⚪ Brandfolder produkta attēli nav atrasti.")
+
                     statistics["no_brandfolder"] += 1
                     continue
 
@@ -242,19 +193,41 @@ def sync_images(
                     raw_brandfolder_images=brandfolder_images,
                 )
 
-                print_plan(
-                    plan,
-                    verbose=verbose,
+                existing_images = plan.get(
+                    "existing_images",
+                    [],
                 )
-
+                unique_brandfolder_images = plan.get(
+                    "brandfolder_images",
+                    [],
+                )
+                already_present = plan.get(
+                    "already_present",
+                    [],
+                )
                 missing_images = plan.get(
                     "missing_images",
                     [],
                 )
-
                 payload_images = plan.get(
                     "payload_images",
                     [],
+                )
+
+                print_product_plan(
+                    number=number,
+                    total=len(products),
+                    sku=sku,
+                    product=product,
+                    existing_count=len(existing_images),
+                    brandfolder_count=len(
+                        unique_brandfolder_images
+                    ),
+                    already_present_count=len(
+                        already_present
+                    ),
+                    missing_images=missing_images,
+                    verbose=verbose,
                 )
 
                 if not missing_images:
@@ -264,11 +237,10 @@ def sync_images(
 
                 if not apply:
                     print(
-                        "🔎 DRY RUN — tiktu pievienoti "
+                        f"🔎 DRY RUN — tiktu pievienoti "
                         f"{len(missing_images)} attēli."
                     )
-
-                    statistics["planned_products"] += 1
+                    statistics["planned"] += 1
                     statistics["planned_images"] += len(
                         missing_images
                     )
@@ -294,25 +266,19 @@ def sync_images(
                     [],
                 )
 
-                updated_count = (
-                    len(updated_images)
-                    if isinstance(updated_images, list)
-                    else 0
-                )
-
                 print(
-                    "✅ Produkts atjaunināts. "
+                    "✅ Atjaunināts. "
                     "WooCommerce attēlu skaits: "
-                    f"{updated_count}"
+                    f"{len(updated_images)}"
                 )
 
-                statistics["updated_products"] += 1
+                statistics["updated"] += 1
                 statistics["added_images"] += len(
                     missing_images
                 )
 
             except KeyboardInterrupt:
-                print("\n\nDarbība pārtraukta.")
+                print("\n\nDarbība pārtraukta ar tastatūru.")
                 return 130
 
             except (
@@ -323,7 +289,9 @@ def sync_images(
                 TypeError,
                 KeyError,
             ) as error:
-                print(f"❌ Kļūda: {error}")
+                print(
+                    f"\n❌ SKU {sku}: {error}"
+                )
 
                 statistics["errors"] += 1
 
@@ -335,16 +303,13 @@ def sync_images(
                     }
                 )
 
+                # Turpinām ar nākamo produktu.
                 continue
 
             except Exception as error:
-                error_message = (
-                    f"{type(error).__name__}: {error}"
-                )
-
                 print(
-                    "❌ Negaidīta kļūda: "
-                    f"{error_message}"
+                    f"\n❌ SKU {sku}: "
+                    f"negaidīta kļūda: {error}"
                 )
 
                 statistics["errors"] += 1
@@ -353,7 +318,9 @@ def sync_images(
                     {
                         "sku": sku,
                         "product": product_name,
-                        "error": error_message,
+                        "error": (
+                            f"{type(error).__name__}: {error}"
+                        ),
                     }
                 )
 
@@ -365,85 +332,64 @@ def sync_images(
     print("ATTĒLU SINHRONIZĀCIJAS KOPSAVILKUMS")
     print("=" * 72)
 
-    print(f"Atlasīti produkti:         {len(products)}")
-    print(f"Jau aktuāli:               {statistics['unchanged']}")
+    print(f"Apstrādei atlasīti:       {len(products)}")
+    print(f"Jau aktuāli:              {statistics['unchanged']}")
     print(
-        "Bez Brandfolder attēliem: "
-        f"{statistics['no_brandfolder']}"
+        f"Bez Brandfolder attēliem: {statistics['no_brandfolder']}"
     )
 
     if apply:
+        print(f"Atjaunināti produkti:     {statistics['updated']}")
         print(
-            "Atjaunināti produkti:      "
-            f"{statistics['updated_products']}"
-        )
-        print(
-            "Pievienoti attēli:         "
+            f"Pievienoti attēli:        "
             f"{statistics['added_images']}"
         )
     else:
         print(
-            "Plānoti produkti:          "
-            f"{statistics['planned_products']}"
+            f"Plānoti atjauninājumi:    "
+            f"{statistics['planned']}"
         )
         print(
-            "Plānots pievienot attēlus: "
-            f"{statistics['planned_images']}"
+            f"Plānots pievienot attēlus:"
+            f" {statistics['planned_images']}"
         )
 
-    print(f"Kļūdas:                    {statistics['errors']}")
-    print(f"Izpildes laiks:            {format_duration(elapsed)}")
+    print(f"Kļūdas:                   {statistics['errors']}")
+    print(f"Izpildes laiks:           {format_duration(elapsed)}")
 
     if errors:
         print("\nKļūdu saraksts:")
 
-        for item in errors:
+        for error in errors:
             print(
-                f"  - SKU {item['sku']} | "
-                f"{item['product']}: "
-                f"{item['error']}"
+                f"  - SKU {error['sku']} | "
+                f"{error['product']}: "
+                f"{error['error']}"
             )
 
     print("=" * 72)
 
     if not apply:
         print(
-            "\nDRY RUN pabeigts — WooCommerce nekas "
-            "netika mainīts."
+            "\nDRY RUN pabeigts — WooCommerce nekas netika mainīts."
         )
 
-        command_parts = [
-            "python3",
-            "sync.py",
-            "--images",
-        ]
+        print(
+            "\nReālai palaišanai izmanto:"
+        )
 
-        if brand:
-            command_parts.extend(
-                [
-                    "--brand",
-                    f'"{brand}"',
-                ]
-            )
+        command = "python3 sync.py --images --apply"
 
         if limit is not None:
-            command_parts.extend(
-                [
-                    "--limit",
-                    str(limit),
-                ]
-            )
-
-        command_parts.append("--apply")
+            command += f" --limit {limit}"
 
         if use_cache:
-            command_parts.append("--cache")
+            command += " --cache"
 
         if verbose:
-            command_parts.append("--verbose")
+            command += " --verbose"
 
-        print("\nReālai palaišanai:")
-        print(" ".join(command_parts))
+        print(command)
 
     return 1 if statistics["errors"] else 0
 
@@ -466,21 +412,11 @@ def build_parser() -> argparse.ArgumentParser:
     )
 
     parser.add_argument(
-        "--brand",
-        type=str,
-        default=None,
-        help=(
-            "Apstrādāt tikai norādītā WooCommerce "
-            "zīmola produktus, piemēram, Weber."
-        ),
-    )
-
-    parser.add_argument(
         "--limit",
         type=int,
         default=None,
         help=(
-            "Apstrādāt tikai pirmos N atlasītos "
+            "Apstrādāt tikai pirmos N WooCommerce "
             "produktus ar SKU."
         ),
     )
@@ -499,7 +435,7 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help=(
             "Izmantot iepriekš saglabāto Brandfolder "
-            "kešatmiņu."
+            "kešatmiņu, ja tā ir pieejama."
         ),
     )
 
@@ -507,7 +443,7 @@ def build_parser() -> argparse.ArgumentParser:
         "--verbose",
         action="store_true",
         help=(
-            "Parādīt pievienojamo attēlu failu "
+            "Parādīt visu pievienojamo attēlu failu "
             "nosaukumus."
         ),
     )
@@ -535,11 +471,6 @@ def validate_arguments(
             "--limit jābūt pozitīvam veselam skaitlim."
         )
 
-    if args.brand is not None and not args.brand.strip():
-        parser.error(
-            "--brand vērtība nedrīkst būt tukša."
-        )
-
 
 def main() -> int:
     parser = build_parser()
@@ -552,7 +483,6 @@ def main() -> int:
 
     if args.images:
         return sync_images(
-            brand=args.brand,
             limit=args.limit,
             apply=args.apply,
             use_cache=args.cache,

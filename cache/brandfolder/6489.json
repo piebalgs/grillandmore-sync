@@ -1,0 +1,42 @@
+{
+  "cache_version": 2,
+  "sku": "6489",
+  "assets": [
+    {
+      "asset_id": "ph5rxr-7iz2vc-8xw2vy",
+      "asset_name": "Corn Holder Set 6489 Product",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4v7b8xvqptxhkp5nz6xfsfj",
+      "asset_name": "58054 0816 RevE",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ph5rxr-7iz2vc-3eg9gf",
+      "filename": "6489C1.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2957,
+      "height": 2014,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5rxr-7iz2vc-3eg9gf/6489C1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5rxr-7iz2vc-3eg9gf/v/2552142/original/6489C1.png?Expires=1784283427&KeyName=gcs-bfldr-prod&Signature=XxOzYy3xyiTaZh5jw0ckuj-NWdM=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5rxr-7iz2vc-3eg9gf/v/2552142/original/6489C1.png?Expires=1784283427&KeyName=gcs-bfldr-prod&Signature=XxOzYy3xyiTaZh5jw0ckuj-NWdM="
+    },
+    {
+      "attachment_id": "ph5scp-8q7tb4-eopixy",
+      "filename": "6489C2.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3682,
+      "height": 2586,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5scp-8q7tb4-eopixy/6489C2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5scp-8q7tb4-eopixy/v/2552176/original/6489C2.png?Expires=1784283427&KeyName=gcs-bfldr-prod&Signature=9hKpKp75BimDDBJY5ic7XoJYJ9o=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5scp-8q7tb4-eopixy/v/2552176/original/6489C2.png?Expires=1784283427&KeyName=gcs-bfldr-prod&Signature=9hKpKp75BimDDBJY5ic7XoJYJ9o="
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "cache_version": 2,
+  "sku": "3400320",
+  "assets": [
+    {
+      "asset_id": "vnjxpfxv9h5mq86f57w6sfp",
+      "asset_name": "8656456 9501453 0225 RevC OL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "j4t5vp7hsxcct24bhq86cn6",
+      "asset_name": "[EMEA] Ultra Thin Short Food Probe MASTER COPY",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "wr2mmkmmkv2vb4gs3whq3np",
+      "asset_name": "Ultra Thin Short Food Probe",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "6xfkrshw8gfcwhrbgzkjr3",
+      "filename": "3400320_B_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4505,
+      "height": 4505,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6xfkrshw8gfcwhrbgzkjr3/3400320_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6xfkrshw8gfcwhrbgzkjr3/v/1263105782/original/3400320_B_rgb.png?Expires=1784282688&KeyName=gcs-bfldr-prod&Signature=r-uCyuCyfAgr6QVNUzWJU68Btd4=",
+      "url": "https://storage-us-gcs.bfldr.com/6xfkrshw8gfcwhrbgzkjr3/v/1263105782/original/3400320_B_rgb.png?Expires=1784282688&KeyName=gcs-bfldr-prod&Signature=r-uCyuCyfAgr6QVNUzWJU68Btd4="
+    },
+    {
+      "attachment_id": "r35pbt4469h9b4gshhrj7hj",
+      "filename": "3400320_D1_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4507,
+      "height": 4507,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r35pbt4469h9b4gshhrj7hj/3400320_D1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/r35pbt4469h9b4gshhrj7hj/v/1263105783/original/3400320_D1_rgb.png?Expires=1784282688&KeyName=gcs-bfldr-prod&Signature=rk1DjoCSTpg5ypPfv6YGBGZFXw4=",
+      "url": "https://storage-us-gcs.bfldr.com/r35pbt4469h9b4gshhrj7hj/v/1263105783/original/3400320_D1_rgb.png?Expires=1784282688&KeyName=gcs-bfldr-prod&Signature=rk1DjoCSTpg5ypPfv6YGBGZFXw4="
+    },
+    {
+      "attachment_id": "tsn4vnjn5pvtc4h48r49c62j",
+      "filename": "3400320_W1_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4499,
+      "height": 4500,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tsn4vnjn5pvtc4h48r49c62j/3400320_W1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tsn4vnjn5pvtc4h48r49c62j/v/1263106571/original/3400320_W1_rgb.png?Expires=1784282688&KeyName=gcs-bfldr-prod&Signature=HoCnDgwnDZ5lF1cAOtkuuRhToSA=",
+      "url": "https://storage-us-gcs.bfldr.com/tsn4vnjn5pvtc4h48r49c62j/v/1263106571/original/3400320_W1_rgb.png?Expires=1784282688&KeyName=gcs-bfldr-prod&Signature=HoCnDgwnDZ5lF1cAOtkuuRhToSA="
+    }
+  ]
+}

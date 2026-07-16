@@ -1,0 +1,59 @@
+{
+  "cache_version": 2,
+  "sku": "3401333",
+  "assets": [
+    {
+      "asset_id": "rtwr5qhhtx47t59h45zhxc",
+      "asset_name": "Griddle Butter Roller",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7gfqf9hc3zfbsgrwpmfjnz",
+      "asset_name": "Griddle Butter Roller",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "m978gbfhtz2654cxspsck5bx",
+      "asset_name": "enGLOBAL Griddle Butter Roller 3401333 26NPDACCESSORIES MasterCopyDoc FINAL",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "74sqqj5cvk8f83rnht8trp",
+      "filename": "3401333-Butter_Roller_Accesssory_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/74sqqj5cvk8f83rnht8trp/3401333-Butter_Roller_Accesssory_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/74sqqj5cvk8f83rnht8trp/v/1267594503/original/3401333-Butter_Roller_Accesssory_A_rgb.png?Expires=1784284468&KeyName=gcs-bfldr-prod&Signature=5M2OtCMWoG_ab6E7u074bIR-VY4=",
+      "url": "https://storage-us-gcs.bfldr.com/74sqqj5cvk8f83rnht8trp/v/1267594503/original/3401333-Butter_Roller_Accesssory_A_rgb.png?Expires=1784284468&KeyName=gcs-bfldr-prod&Signature=5M2OtCMWoG_ab6E7u074bIR-VY4="
+    },
+    {
+      "attachment_id": "37456f8n7vcwvq8n98qrvb8q",
+      "filename": "3401333-Butter_Roller_Accesssory_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/37456f8n7vcwvq8n98qrvb8q/3401333-Butter_Roller_Accesssory_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/37456f8n7vcwvq8n98qrvb8q/v/1267594504/original/3401333-Butter_Roller_Accesssory_B_rgb.png?Expires=1784284468&KeyName=gcs-bfldr-prod&Signature=Nz2GaxSA74L2-ajreu8um2HFeVE=",
+      "url": "https://storage-us-gcs.bfldr.com/37456f8n7vcwvq8n98qrvb8q/v/1267594504/original/3401333-Butter_Roller_Accesssory_B_rgb.png?Expires=1784284468&KeyName=gcs-bfldr-prod&Signature=Nz2GaxSA74L2-ajreu8um2HFeVE="
+    },
+    {
+      "attachment_id": "n7w75cvhxj5qn8q76vjspfmx",
+      "filename": "3401333-Butter_Roller_Accesssory_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n7w75cvhxj5qn8q76vjspfmx/3401333-Butter_Roller_Accesssory_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/n7w75cvhxj5qn8q76vjspfmx/v/1267594506/original/3401333-Butter_Roller_Accesssory_C_rgb.png?Expires=1784284468&KeyName=gcs-bfldr-prod&Signature=UVX7EJJBPNNRD1Szwhu1ClkpEUs=",
+      "url": "https://storage-us-gcs.bfldr.com/n7w75cvhxj5qn8q76vjspfmx/v/1267594506/original/3401333-Butter_Roller_Accesssory_C_rgb.png?Expires=1784284468&KeyName=gcs-bfldr-prod&Signature=UVX7EJJBPNNRD1Szwhu1ClkpEUs="
+    }
+  ]
+}

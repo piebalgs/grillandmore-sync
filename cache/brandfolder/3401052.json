@@ -1,0 +1,17 @@
+{
+  "cache_version": 2,
+  "sku": "3401052",
+  "assets": [
+    {
+      "asset_id": "kwmw4g25rmnsfm4pfp9nxg33",
+      "asset_name": "[EMEA/APAC] Alder Pellets",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kfxkmkrptjrcrhtgjghcnhv",
+      "asset_name": "3401052 ALDER 0125 RevC LR",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": []
+}

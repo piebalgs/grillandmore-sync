@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "brandfolder_assets": 61,
+    "woocommerce_skus": 579,
+    "matched_skus": 15,
+    "matched_images": 57,
+    "unmatched_assets": 13,
+    "skipped_skus": 296,
+    "errors": 0,
+    "image_width": 800,
+    "image_height": 800,
+    "image_format": "webp",
+    "sku_source": "Country - SKU Number",
+    "included_images": [
+      "*_rgb",
+      "*M1*",
+      "*M2*",
+      "*M3*"
+    ],
+    "excluded_images": [
+      "*_pkg",
+      "*_master"
+    ]
+  },
+  "products": {
+    "1501951": {
+      "sku": "1501951",
+      "woocommerce_id": 16450,
+      "woocommerce_name": "Gāzes grils GENESIS EX-325W LP BLK 75CP",
+      "asset_ids": [
+        "wbrr2vcpb3s7jbt4f7pq5qcn"
+      ],
+      "asset_names": [
+        "[EMEA] GENESIS EX-325W"
+      ],
+      "images": [
+        {
+          "attachment_id": "kzxp74gxhpf33c4wwsp39g9",
+          "filename": "1501890_GENESIS_EX325W_EMEA.343_B_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/kzxp74gxhpf33c4wwsp39g9/1501890_GENESIS_EX325W_EMEA.343_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "r9j36n253mbhbcc793cmbht",
+          "filename": "1501890_GENESIS_EX325W_EMEA.344_C_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/r9j36n253mbhbcc793cmbht/1501890_GENESIS_EX325W_EMEA.344_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "4sh5qrx7qhc6mr7g4c2hsxqm",
+          "filename": "1501890_GENESIS_EX325W_EMEA.345_A_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/4sh5qrx7qhc6mr7g4c2hsxqm/1501890_GENESIS_EX325W_EMEA.345_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "1502079": {
+      "sku": "1502079",
+      "woocommerce_id": 16406,
+      "woocommerce_name": "Gāzes grils Spirit® EX-325 Smart",
+      "asset_ids": [
+        "fkmwgqmh28rmwfwbnqsqxm"
+      ],
+      "asset_names": [
+        "[EMEA] Spirit EX-325 LP"
+      ],
+      "images": [
+        {
+          "attachment_id": "6qrfgnjk6mfsw3t8gqfshkv8",
+          "filename": "1502122 Spirit EX-325_LP_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/6qrfgnjk6mfsw3t8gqfshkv8/1502122%20Spirit%20EX-325_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "jnkwzrt2s7gmv33fxknf8t",
+          "filename": "1502122 Spirit EX-325_LP_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/jnkwzrt2s7gmv33fxknf8t/1502122%20Spirit%20EX-325_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "vjjn7svjnsx3j99wjkxh3wm",
+          "filename": "1502122 Spirit EX-325_LP_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/vjjn7svjnsx3j99wjkxh3wm/1502122%20Spirit%20EX-325_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "1502117": {
+      "sku": "1502117",
+      "woocommerce_id": 16493,
+      "woocommerce_name": "Gāzes grils Spirit® E-435",
+      "asset_ids": [
+        "nznz3v59m57zn8rxh5b9r9"
+      ],
+      "asset_names": [
+        "[EMEA] Spirit E-435 LP"
+      ],
+      "images": [
+        {
+          "attachment_id": "2frrhf5n6t3h6vksnht9gtpp",
+          "filename": "1502110 Spirit E-435_LP_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/2frrhf5n6t3h6vksnht9gtpp/1502110%20Spirit%20E-435_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "h9v93gcsgbr5j9jzjkshsz",
+          "filename": "1502110 Spirit E-435_LP_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/h9v93gcsgbr5j9jzjkshsz/1502110%20Spirit%20E-435_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "xhrkbkrhmh2qk5wkmh769jq",
+          "filename": "1502110 Spirit E-435_LP_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/xhrkbkrhmh2qk5wkmh769jq/1502110%20Spirit%20E-435_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "1502121": {
+      "sku": "1502121",
+      "woocommerce_id": 16409,
+      "woocommerce_name": "Gāzes grils Spirit® E-435 (aizvieto 1502117)",
+      "asset_ids": [
+        "nznz3v59m57zn8rxh5b9r9"
+      ],
+      "asset_names": [
+        "[EMEA] Spirit E-435 LP"
+      ],
+      "images": [
+        {
+          "attachment_id": "2frrhf5n6t3h6vksnht9gtpp",
+          "filename": "1502110 Spirit E-435_LP_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/2frrhf5n6t3h6vksnht9gtpp/1502110%20Spirit%20E-435_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "h9v93gcsgbr5j9jzjkshsz",
+          "filename": "1502110 Spirit E-435_LP_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/h9v93gcsgbr5j9jzjkshsz/1502110%20Spirit%20E-435_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "xhrkbkrhmh2qk5wkmh769jq",
+          "filename": "1502110 Spirit E-435_LP_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/xhrkbkrhmh2qk5wkmh769jq/1502110%20Spirit%20E-435_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "1502136": {
+      "sku": "1502136",
+      "woocommerce_id": 16410,
+      "woocommerce_name": "Gāzes grils Spirit® S-435 (1502132)",
+      "asset_ids": [
+        "885h2qggqxh3cprxwqsgkg44"
+      ],
+      "asset_names": [
+        "[EMEA] Spirit S-435 LP"
+      ],
+      "images": [
+        {
+          "attachment_id": "m8cq97r852v4h5ppqhp6pkw",
+          "filename": "1502105 Spirit S-435_LP_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/m8cq97r852v4h5ppqhp6pkw/1502105%20Spirit%20S-435_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "fw2crx7pntxbx8893sngfx7",
+          "filename": "1502105 Spirit S-435_LP_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/fw2crx7pntxbx8893sngfx7/1502105%20Spirit%20S-435_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "hgrkfjsnhqxgf9n9bbvqmbz",
+          "filename": "1502105 Spirit S-435_LP_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/hgrkfjsnhqxgf9n9bbvqmbz/1502105%20Spirit%20S-435_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "1502137": {
+      "sku": "1502137",
+      "woocommerce_id": 16408,
+      "woocommerce_name": "Gāzes grils Spirit® EX-425 Smart",
+      "asset_ids": [
+        "jh8jm8wsq9j82wq6cjp67t85"
+      ],
+      "asset_names": [
+        "[EMEA] Spirit EX-425 LP"
+      ],
+      "images": [
+        {
+          "attachment_id": "hfjq2ptrx5c6cpchswhvg4s",
+          "filename": "1502140 Spirit EX-425_LP_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/hfjq2ptrx5c6cpchswhvg4s/1502140%20Spirit%20EX-425_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "gvhgwsrrgrkp7f7v9tb74n",
+          "filename": "1502140 Spirit EX-425_LP_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/gvhgwsrrgrkp7f7v9tb74n/1502140%20Spirit%20EX-425_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "cf2f33mxg3wmh3tgs8rkkm",
+          "filename": "1502140 Spirit EX-425_LP_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/cf2f33mxg3wmh3tgs8rkkm/1502140%20Spirit%20EX-425_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "1502151": {
+      "sku": "1502151",
+      "woocommerce_id": 16412,
+      "woocommerce_name": "Gāzes grils Spirit® EPX-435R Stealth® Edition Smart  Stealth® Edition (1502170)",
+      "asset_ids": [
+        "czpvc3hzc9zr8s5hzkwkvm7"
+      ],
+      "asset_names": [
+        "[EMEA] Spirit EPX-435R Stealth LP"
+      ],
+      "images": [
+        {
+          "attachment_id": "86mf7gmpnk533fcv2tg9hpr",
+          "filename": "1502138 Spirit EPX-435R Stealth_LP_Apsd_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/86mf7gmpnk533fcv2tg9hpr/1502138%20Spirit%20EPX-435R%20Stealth_LP_Apsd_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "s3j5vk66jjm4n669h87hzjw",
+          "filename": "1502138 Spirit EPX-435R Stealth_LP_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/s3j5vk66jjm4n669h87hzjw/1502138%20Spirit%20EPX-435R%20Stealth_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "ckc3n4j7vg3gb4tr82jg76s",
+          "filename": "1502138 Spirit EPX-435R Stealth_LP_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/ckc3n4j7vg3gb4tr82jg76s/1502138%20Spirit%20EPX-435R%20Stealth_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "1502165": {
+      "sku": "1502165",
+      "woocommerce_id": 16411,
+      "woocommerce_name": "Gāzes grils Spirit® EPX-435 Smart (1502181)",
+      "asset_ids": [
+        "87mtghthnxv83wp93b5fsvs"
+      ],
+      "asset_names": [
+        "[EMEA] Spirit EPX-435 LP"
+      ],
+      "images": [
+        {
+          "attachment_id": "2h7xhr5snbcsnmrrxf76b6b8",
+          "filename": "1502173 Spirit EPX-435_LP_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/2h7xhr5snbcsnmrrxf76b6b8/1502173%20Spirit%20EPX-435_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "wncg3wckngfptm4km66mtx",
+          "filename": "1502173 Spirit EPX-435_LP_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/wncg3wckngfptm4km66mtx/1502173%20Spirit%20EPX-435_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "ncjbz9srktz3fb6v86ck7",
+          "filename": "1502173 Spirit EPX-435_LP_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/ncjbz9srktz3fb6v86ck7/1502173%20Spirit%20EPX-435_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "1502181": {
+      "sku": "1502181",
+      "woocommerce_id": 16492,
+      "woocommerce_name": "Gāzes grils Spirit® EPX-435 Smart",
+      "asset_ids": [
+        "87mtghthnxv83wp93b5fsvs"
+      ],
+      "asset_names": [
+        "[EMEA] Spirit EPX-435 LP"
+      ],
+      "images": [
+        {
+          "attachment_id": "2h7xhr5snbcsnmrrxf76b6b8",
+          "filename": "1502173 Spirit EPX-435_LP_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/2h7xhr5snbcsnmrrxf76b6b8/1502173%20Spirit%20EPX-435_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "wncg3wckngfptm4km66mtx",
+          "filename": "1502173 Spirit EPX-435_LP_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/wncg3wckngfptm4km66mtx/1502173%20Spirit%20EPX-435_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "ncjbz9srktz3fb6v86ck7",
+          "filename": "1502173 Spirit EPX-435_LP_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/ncjbz9srktz3fb6v86ck7/1502173%20Spirit%20EPX-435_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "3400589": {
+      "sku": "3400589",
+      "woocommerce_id": 16420,
+      "woocommerce_name": "Weber viedā bezvadu temperatūras zonde Plus ar signāla pastiprinātāju un lādētāju",
+      "asset_ids": [
+        "snp849xrfc9t7rxvvwspr4j"
+      ],
+      "asset_names": [
+        "Wireless Probe Plus with Booster"
+      ],
+      "images": [
+        {
+          "attachment_id": "9cpbw2vpxwf8kq25rmtn9v",
+          "filename": "3400603_Wireless Probe Plus WBooster_AC_AMER_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/9cpbw2vpxwf8kq25rmtn9v/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "9jcth7jzkz6p7kfn5wks7cx",
+          "filename": "3400603_Wireless Probe Plus WBooster_A_AMER_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/9jcth7jzkz6p7kfn5wks7cx/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "3x78gntpm4sv74zwm369rqh",
+          "filename": "3400603_Wireless Probe Plus WBooster_B_AMER_rgb.png",
+          "position": 5,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/3x78gntpm4sv74zwm369rqh/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "c4pp6m9pj46r3k25r6c8xk",
+          "filename": "3400603_Wireless Probe Plus WBooster_CB_AMER_rgb.png",
+          "position": 6,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/c4pp6m9pj46r3k25r6c8xk/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "3401289": {
+      "sku": "3401289",
+      "woocommerce_id": 16426,
+      "woocommerce_name": "WEBER Premium grila pārsegs Lumin grilam ar statīvu vai Premium ratiņiem",
+      "asset_ids": [
+        "tk2n2f8mkj29rf6tscc5cc7v"
+      ],
+      "asset_names": [
+        "Premium Grill Cover for Lumin w/ Stand"
+      ],
+      "images": [
+        {
+          "attachment_id": "tsq9nnb9vvnfrnrt6v6j5hf",
+          "filename": "3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/tsq9nnb9vvnfrnrt6v6j5hf/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "tnk4kv5bp59sn8vxcvgvjb",
+          "filename": "3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_2_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/tnk4kv5bp59sn8vxcvgvjb/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_2_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "wjfxfv5p7sm452kfxs8sngb",
+          "filename": "3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/wjfxfv5p7sm452kfxs8sngb/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "68pbx3cr58cfnff9q73qk",
+          "filename": "3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_C_rgb.png",
+          "position": 3,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/68pbx3cr58cfnff9q73qk/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "3401381": {
+      "sku": "3401381",
+      "woocommerce_id": 16435,
+      "woocommerce_name": "WEBER pusapaļš grilēšanas grozs",
+      "asset_ids": [
+        "cn8crhgwgtx773npc7qmbc"
+      ],
+      "asset_names": [
+        "Half Moon Basket"
+      ],
+      "images": [
+        {
+          "attachment_id": "kxkqhpt5xp4t5jz5w9s4g67",
+          "filename": "3401381_Half Moon Basket_A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/kxkqhpt5xp4t5jz5w9s4g67/3401381_Half%20Moon%20Basket_A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "kt5cfcmsmthw7bqx6ht5wrkq",
+          "filename": "3401381_Half Moon Basket_B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/kt5cfcmsmthw7bqx6ht5wrkq/3401381_Half%20Moon%20Basket_B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "4m3vvgvq2ng9kvswb5qxbh",
+          "filename": "3401381_Half Moon Basket_C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/4m3vvgvq2ng9kvswb5qxbh/3401381_Half%20Moon%20Basket_C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "6792": {
+      "sku": "6792",
+      "woocommerce_id": 16241,
+      "woocommerce_name": "WEBER Genesis pilna izmēra panna 400 sērijas griliem",
+      "asset_ids": [
+        "ps6m9mhrscns9s6fgtsggcn"
+      ],
+      "asset_names": [
+        "Genesis EPX-470"
+      ],
+      "images": [
+        {
+          "attachment_id": "2j4h7jgfjqfv5vwhwk89mrk",
+          "filename": "36617079BB_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/2j4h7jgfjqfv5vwhwk89mrk/36617079BB_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "jm9nsm69c93wkn7v2vgm9xkx",
+          "filename": "36617079G1_rgb.jpg",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/jm9nsm69c93wkn7v2vgm9xkx/36617079G1_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "7687": {
+      "sku": "7687",
+      "woocommerce_id": 16135,
+      "woocommerce_name": "Weber WEBER CRAFTED GENESIS gatavošanas režģa komplekts",
+      "asset_ids": [
+        "gb5wqqgcsbv7gpht38g3ff"
+      ],
+      "asset_names": [
+        "Weber Crafted Genesis Frame Kit"
+      ],
+      "images": [
+        {
+          "attachment_id": "53frfkh8wz6qnmg9pjz3mtb",
+          "filename": "7677A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/53frfkh8wz6qnmg9pjz3mtb/7677A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "hz88rg7fgs4mht72n5kc92s",
+          "filename": "7677B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/hz88rg7fgs4mht72n5kc92s/7677B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "7mgb8zmfjwt4mxbc7hg5nq6k",
+          "filename": "7677C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/7mgb8zmfjwt4mxbc7hg5nq6k/7677C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    },
+    "92010953": {
+      "sku": "92010953",
+      "woocommerce_id": 16193,
+      "woocommerce_name": "Elektriskais grils Lumin Compact Black",
+      "asset_ids": [
+        "4n5wppmtn4jhscgb2j2p5tbg"
+      ],
+      "asset_names": [
+        "[EMEA] Lumin"
+      ],
+      "images": [
+        {
+          "attachment_id": "wjssn8fbjr3w4k55vvfqmpx",
+          "filename": "92010901 92010904 Lumin Black Product 92010901A_rgb.png",
+          "position": 0,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/wjssn8fbjr3w4k55vvfqmpx/92010901%2092010904%20Lumin%20Black%20Product%2092010901A_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "39svf6crvvbjtffs3cn9v",
+          "filename": "92010901 92010904 Lumin Black Product 92010901B_rgb.png",
+          "position": 1,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/39svf6crvvbjtffs3cn9v/92010901%2092010904%20Lumin%20Black%20Product%2092010901B_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "c879wnb97p3zh935k5kcf85",
+          "filename": "92010901 92010904 Lumin Black Product 92010901C_rgb.png",
+          "position": 2,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/c879wnb97p3zh935k5kcf85/92010901%2092010904%20Lumin%20Black%20Product%2092010901C_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "rxmmftr9vjxsr9jp8bgbvc",
+          "filename": "Lumin Black Thermometer Lumin_Thermometer_Black_C_rgb.jpg",
+          "position": 3,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/rxmmftr9vjxsr9jp8bgbvc/Lumin%20Black%20Thermometer%20Lumin_Thermometer_Black_C_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "wqgckchm28n3k38hrs4qxj6",
+          "filename": "Lumin Knobs Knobs_POS_01_rgb.jpg",
+          "position": 4,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/wqgckchm28n3k38hrs4qxj6/Lumin%20Knobs%20Knobs_POS_01_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "th7bm776h9pffwxkq8b62k9c",
+          "filename": "Lumin Knobs Knobs_POS_02_rgb.jpg",
+          "position": 5,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/th7bm776h9pffwxkq8b62k9c/Lumin%20Knobs%20Knobs_POS_02_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "9qfwmhksgkrcw67ss8tw6h",
+          "filename": "Lumin Knobs Knobs_POS_04_rgb.jpg",
+          "position": 6,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/9qfwmhksgkrcw67ss8tw6h/Lumin%20Knobs%20Knobs_POS_04_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "49hhvsgmkq5b6trbr6c29qb",
+          "filename": "Lumin Knobs Knobs_POS_03_rgb.jpg",
+          "position": 7,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/49hhvsgmkq5b6trbr6c29qb/Lumin%20Knobs%20Knobs_POS_03_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "5773jjsmfqqxq99zf797fthw",
+          "filename": "Lumin Knobs Knobs_POS_06_rgb.jpg",
+          "position": 7,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/5773jjsmfqqxq99zf797fthw/Lumin%20Knobs%20Knobs_POS_06_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "54psbsnfk92jxkptv34rzk3",
+          "filename": "Lumin Knobs Knobs_POS_05_rgb.jpg",
+          "position": 8,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/54psbsnfk92jxkptv34rzk3/Lumin%20Knobs%20Knobs_POS_05_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "hpkcrwbxws48jzf6wvrz3r63",
+          "filename": "Lumin Knobs Knobs_POS_07_rgb.jpg",
+          "position": 9,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/hpkcrwbxws48jzf6wvrz3r63/Lumin%20Knobs%20Knobs_POS_07_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "2jjkjjkrhprc4q53sgq5sr4",
+          "filename": "Lumin_Logo_rgb.jpg",
+          "position": 10,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/2jjkjjkrhprc4q53sgq5sr4/Lumin_Logo_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "j76r87hbk3j7v9k9twnj",
+          "filename": "Lumin_Reservoir_rgb.png",
+          "position": 11,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/j76r87hbk3j7v9k9twnj/Lumin_Reservoir_rgb.png?width=800&height=800&pad=true&auto=webp"
+        },
+        {
+          "attachment_id": "9vvhrfmx8wr5cwjkcg7f8tww",
+          "filename": "Lumin_side_handle_rgb.jpg",
+          "position": 12,
+          "url": "https://cdn.brandfolder.io/XBRZ2A26/at/9vvhrfmx8wr5cwjkcg7f8tww/Lumin_side_handle_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+        }
+      ]
+    }
+  }
+}

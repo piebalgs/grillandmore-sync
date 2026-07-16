@@ -1,0 +1,57 @@
+{
+  "cache_version": 2,
+  "sku": "3400321",
+  "assets": [
+    {
+      "asset_id": "n4nwrzxxp3j3t6wpsvjzjcqc",
+      "asset_name": "8656461 9501454 0225 RevC OL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "jsmwmg376zbf9kw8tpkvggb9",
+      "asset_name": "NPD MasterCopyDoc Premium Wired Food Probe",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5mjxjcrg6vr78msstbqzbbjx",
+      "asset_name": "Wired Premium 3 Sensor Food Probe",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "w4c76nfz29qh53t7gv72cj6",
+      "asset_name": "Weber Smoque XL Pellet w/ Wired Prem 3 sensor Probe",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "vrn8wj96szq73zk4gpx4b74x",
+      "asset_name": "Wired Premium 3 Sensor Food Probe",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "hrs88qzv8h3gbxxhf5k7j",
+      "filename": "3400321_B_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4505,
+      "height": 4505,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hrs88qzv8h3gbxxhf5k7j/3400321_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hrs88qzv8h3gbxxhf5k7j/v/1263104599/original/3400321_B_rgb.png?Expires=1784282689&KeyName=gcs-bfldr-prod&Signature=nv5Gw3OvCHDkV9ykwRJ82OL-_bQ=",
+      "url": "https://storage-us-gcs.bfldr.com/hrs88qzv8h3gbxxhf5k7j/v/1263104599/original/3400321_B_rgb.png?Expires=1784282689&KeyName=gcs-bfldr-prod&Signature=nv5Gw3OvCHDkV9ykwRJ82OL-_bQ="
+    },
+    {
+      "attachment_id": "nqntsjj7fqc9j9nss86fc84b",
+      "filename": "3400321_D1_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4507,
+      "height": 4507,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nqntsjj7fqc9j9nss86fc84b/3400321_D1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nqntsjj7fqc9j9nss86fc84b/v/1263104600/original/3400321_D1_rgb.png?Expires=1784282689&KeyName=gcs-bfldr-prod&Signature=2Gfu268qCsCYgeLC67c4WSP_gvE=",
+      "url": "https://storage-us-gcs.bfldr.com/nqntsjj7fqc9j9nss86fc84b/v/1263104600/original/3400321_D1_rgb.png?Expires=1784282689&KeyName=gcs-bfldr-prod&Signature=2Gfu268qCsCYgeLC67c4WSP_gvE="
+    }
+  ]
+}

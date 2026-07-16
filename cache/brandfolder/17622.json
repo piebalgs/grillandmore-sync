@@ -1,0 +1,30 @@
+{
+  "cache_version": 2,
+  "sku": "17622",
+  "assets": [
+    {
+      "asset_id": "plwbz2-3jx03c-f07z5c",
+      "asset_name": "Beech Wood Chips 17622 Product",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5n43j83qvhjsshtqk3j7f89",
+      "asset_name": "17622 Wood Chips Beech 0,7 kg 2024 v4",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "plwbz2-3jx03c-8lo4yf",
+      "filename": "17622B.png",
+      "extension": "png",
+      "position": 182238,
+      "width": 1800,
+      "height": 1800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwbz2-3jx03c-8lo4yf/17622B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/plwbz2-3jx03c-8lo4yf/v/3023326/original/17622B.png?Expires=1784283255&KeyName=gcs-bfldr-prod&Signature=9lbZrd5S1d-LQpbo5byOvHCgC74=",
+      "url": "https://storage-us-gcs.bfldr.com/plwbz2-3jx03c-8lo4yf/v/3023326/original/17622B.png?Expires=1784283255&KeyName=gcs-bfldr-prod&Signature=9lbZrd5S1d-LQpbo5byOvHCgC74="
+    }
+  ]
+}

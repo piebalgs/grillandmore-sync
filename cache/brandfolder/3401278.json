@@ -1,0 +1,92 @@
+{
+  "cache_version": 2,
+  "sku": "3401278",
+  "assets": [
+    {
+      "asset_id": "jvc7qr5cbmkmb6gbnx7h9ghr",
+      "asset_name": "8659655 9501917 0925 RevA KH OL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "567wwm83bntp9swg93sttffq",
+      "asset_name": "[cze] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bqhtjvgzphmbscnnrqf9tn7",
+      "asset_name": "[dan] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4wcwh5qprwcb3rn5898hp8hx",
+      "asset_name": "[dut-NL] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nzc3tqv595hnhwg2t56fqx9",
+      "asset_name": "[en-GB] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3mcw26bs5njqgc79p4b7nn9",
+      "asset_name": "[fin] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "h383m5gbt93t3n99tp8sbrq",
+      "asset_name": "[fre-FR] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "cq3s4nj55fstjkp85b5xsp6j",
+      "asset_name": "[ger-DE] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "tx2hm44wjwhgrb5c32q",
+      "asset_name": "[hrv] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "369zst7rpcfr7b9qjrtn",
+      "asset_name": "[ita-IT] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "brsrckt8qgx7jv4nq9kjg84m",
+      "asset_name": "[no] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "n8sj4bvb99br8v3w7bm3q",
+      "asset_name": "[pol] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8kt758z2sxhnxjvg2fqkpn",
+      "asset_name": "[por-PT] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4qw5xx6s3vrw8q37qjsh6nw6",
+      "asset_name": "[sk] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "x6396x9hhv3sfcjsfkbpq4sp",
+      "asset_name": "[slv] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "r839qrgq8sjmn77zvvwcbnv8",
+      "asset_name": "[spa-ES] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ttm3pwk9gns34rbrr3gqnm",
+      "asset_name": "[swe-SE] PelletGrillScraper&BrushSet MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": []
+}

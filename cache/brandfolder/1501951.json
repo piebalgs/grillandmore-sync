@@ -1,0 +1,159 @@
+{
+  "cache_version": 2,
+  "sku": "1501951",
+  "assets": [
+    {
+      "asset_id": "bgw7wtbphmvv9f7k2rwvrvbx",
+      "asset_name": "[EMEA/AUNZ] Genesis EX-325 / EX-325W",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bm4wmnfgk6jtqstmsmgs3ph6",
+      "asset_name": "[EMEA/AUNZ] Genesis EX-325 / EX-325W",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3b3jvw3tf8vpkfv4hx742z",
+      "asset_name": "[EMEA/AUNZ] Genesis EX-325 / EX-325W",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7376pjv5vg4whsnb57ksn26",
+      "asset_name": "[EMEA/AUNZ] Genesis EX-325 / EX- 325W",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "v5m53gfjcn8sffcctpn84h",
+      "asset_name": "[EMEA/AUNZ] Genesis EX-325 / EX- 325W",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4hxkn5wmr83q6zn3rfm36hv",
+      "asset_name": "[dut-NL] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "vnt9htk3n8t7bhbrk8p9qq7q",
+      "asset_name": "[en-GB] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "n7htkn7xvn7tgtb778m4gnh7",
+      "asset_name": "[fin] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "9hvcsw6sc8xf5hjs8h66cgn",
+      "asset_name": "[fre-FR] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "2wk4ns6bwcnjjhm9scnzjm",
+      "asset_name": "[ger-DE] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xg4w58bjjfk76t7vct569b2p",
+      "asset_name": "[hrv] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "khs84bqxvqbcn6r3rkxk578",
+      "asset_name": "[ita-IT] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "r4nmkt4bkbjw6rk5t9w8nb",
+      "asset_name": "[no] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3ffs44j9qstrfrnp69w8qx8",
+      "asset_name": "[pol] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "phkbnhps8g47bphshvtgt5fj",
+      "asset_name": "[sk] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "6p3wn64w4mpjvn9j5c3bmhj",
+      "asset_name": "[slv] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pw9wb3bkgmbw5hwwmmrhktnf",
+      "asset_name": "[spa-ES] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "fznt2j8gcwpvkjrjcmgf67",
+      "asset_name": "[swe-SE] Genesis EX-325W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8rq7snrcqtkggs3h8jvbw7w",
+      "asset_name": "EX325W EMEA Dimensions",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5z5w4wtqn645g86nrbcqb99",
+      "asset_name": "SPIRIT EX-325 LP BLK EMEA 26",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8qsb2cgs8nhvn84wqbxcnf5",
+      "asset_name": "[NL/DE/IT/FR] Genesis EX-325W / EX-425W-- Assembly Guide",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "k8xnfxp89t4r9r2pfqrvfx8",
+      "asset_name": "[HR/CS/SL/SK] Genesis EX-325W / EX-425W-- Assembly Guide",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "kzxp74gxhpf33c4wwsp39g9",
+      "filename": "1501890_GENESIS_EX325W_EMEA.343_B_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kzxp74gxhpf33c4wwsp39g9/1501890_GENESIS_EX325W_EMEA.343_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kzxp74gxhpf33c4wwsp39g9/v/1279955852/original/1501890_GENESIS_EX325W_EMEA.343_B_rgb.png?Expires=1784283899&KeyName=gcs-bfldr-prod&Signature=eaj5RWbn9KH1PG1nhpfJThGJ6F8=",
+      "url": "https://storage-us-gcs.bfldr.com/kzxp74gxhpf33c4wwsp39g9/v/1279955852/original/1501890_GENESIS_EX325W_EMEA.343_B_rgb.png?Expires=1784283899&KeyName=gcs-bfldr-prod&Signature=eaj5RWbn9KH1PG1nhpfJThGJ6F8="
+    },
+    {
+      "attachment_id": "r9j36n253mbhbcc793cmbht",
+      "filename": "1501890_GENESIS_EX325W_EMEA.344_C_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r9j36n253mbhbcc793cmbht/1501890_GENESIS_EX325W_EMEA.344_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/r9j36n253mbhbcc793cmbht/v/1279955853/original/1501890_GENESIS_EX325W_EMEA.344_C_rgb.png?Expires=1784283899&KeyName=gcs-bfldr-prod&Signature=tf8Ob9mXv7bs3dTsWL0ehM-QASY=",
+      "url": "https://storage-us-gcs.bfldr.com/r9j36n253mbhbcc793cmbht/v/1279955853/original/1501890_GENESIS_EX325W_EMEA.344_C_rgb.png?Expires=1784283899&KeyName=gcs-bfldr-prod&Signature=tf8Ob9mXv7bs3dTsWL0ehM-QASY="
+    },
+    {
+      "attachment_id": "4sh5qrx7qhc6mr7g4c2hsxqm",
+      "filename": "1501890_GENESIS_EX325W_EMEA.345_A_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4sh5qrx7qhc6mr7g4c2hsxqm/1501890_GENESIS_EX325W_EMEA.345_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4sh5qrx7qhc6mr7g4c2hsxqm/v/1279955854/original/1501890_GENESIS_EX325W_EMEA.345_A_rgb.png?Expires=1784283899&KeyName=gcs-bfldr-prod&Signature=DLJeJdnFaXv9RgmOUMlRrHuU94Q=",
+      "url": "https://storage-us-gcs.bfldr.com/4sh5qrx7qhc6mr7g4c2hsxqm/v/1279955854/original/1501890_GENESIS_EX325W_EMEA.345_A_rgb.png?Expires=1784283899&KeyName=gcs-bfldr-prod&Signature=DLJeJdnFaXv9RgmOUMlRrHuU94Q="
+    }
+  ]
+}

@@ -1,0 +1,1866 @@
+{
+  "meta": {
+    "unmatched_assets": 13,
+    "skipped_skus": 296,
+    "errors": 0
+  },
+  "unmatched_assets": [
+    {
+      "asset_id": "46pw9zbknvphxhw3qhsc8f",
+      "asset_name": "7859 Stainless Steel cooking Grates - Searwood XL 600 / SmokeFire EX6",
+      "sku": "7859",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "7t3p64x9r49zpkg879pj46k",
+      "asset_name": "6526 Q Patio Cart",
+      "sku": "6526",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "sht94xk4r37ptmj44f932bvc",
+      "asset_name": "3202D2 C REV",
+      "sku": "3202",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "7r4pvnxk5sk9mqv69prz5c2r",
+      "asset_name": "3202A-REV3",
+      "sku": "3202",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "vvchgtwktcssbjkkxs65mwh9",
+      "asset_name": "3202-Connect C PDP",
+      "sku": "3202",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "vxk96qs6k98gtvc7njcbbp59",
+      "asset_name": "3201-3202-3204-Screen-Device",
+      "sku": "3202",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "q478kt7c6q52bfg4zw77ctw",
+      "asset_name": "3201-3202-3204-Accessories",
+      "sku": "3202",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "6gqqrnc9pn45pr2tnjsc3xng",
+      "asset_name": "Kabab Set 6606",
+      "sku": "6606",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "qrsp5brtmtp77bnq8m9sf3km",
+      "asset_name": "Cutting Board 7005",
+      "sku": "7005",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "gn7qpcchhzccpbkb2wx953n",
+      "asset_name": "Weber Connect Storage and Travel Case",
+      "sku": "3251",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "8zjpq8fqvz5q5r8k3qc6mn3",
+      "asset_name": "Cookbox Scraper 6201",
+      "sku": "6201",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "ffqjmk5p58bx68r3pbqs9j",
+      "asset_name": "Raidfire Chimney Starter Set",
+      "sku": "17631",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1501001",
+      "reason": "Nav _rgb vai M* produktu attēlu."
+    }
+  ],
+  "skipped_skus": [
+    {
+      "asset_id": "khtmx3kbn48798gfgq9mvpp",
+      "asset_name": "Lumin Compact Black w/Stand [Black]",
+      "sku": "91010874",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fxhc3ck5nfsmxvrtk7t4xj8b",
+      "asset_name": "Lumin Compact [Black]",
+      "sku": "91010974",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "rggz2q4vmstvr3cs6k98qb8",
+      "asset_name": "Spirit EPX-435R Stealth w/ ROTISSERIE LP",
+      "sku": "1502138",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "3xbsbm53b99fbq8r2mkbqbqt",
+      "asset_name": "Genesis E-315W with Griddle",
+      "sku": "1501950",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "sht94xk4r37ptmj44f932bvc",
+      "asset_name": "3202D2 C REV",
+      "sku": "3205",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "sht94xk4r37ptmj44f932bvc",
+      "asset_name": "3202D2 C REV",
+      "sku": "3203",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "7r4pvnxk5sk9mqv69prz5c2r",
+      "asset_name": "3202A-REV3",
+      "sku": "3205",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "7r4pvnxk5sk9mqv69prz5c2r",
+      "asset_name": "3202A-REV3",
+      "sku": "3203",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "vvchgtwktcssbjkkxs65mwh9",
+      "asset_name": "3202-Connect C PDP",
+      "sku": "3205",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "vvchgtwktcssbjkkxs65mwh9",
+      "asset_name": "3202-Connect C PDP",
+      "sku": "3203",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "vxk96qs6k98gtvc7njcbbp59",
+      "asset_name": "3201-3202-3204-Screen-Device",
+      "sku": "3205",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "vxk96qs6k98gtvc7njcbbp59",
+      "asset_name": "3201-3202-3204-Screen-Device",
+      "sku": "3203",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "q478kt7c6q52bfg4zw77ctw",
+      "asset_name": "3201-3202-3204-Accessories",
+      "sku": "3205",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "q478kt7c6q52bfg4zw77ctw",
+      "asset_name": "3201-3202-3204-Accessories",
+      "sku": "3203",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "gn7qpcchhzccpbkb2wx953n",
+      "asset_name": "Weber Connect Storage and Travel Case",
+      "sku": "3250",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4n5wppmtn4jhscgb2j2p5tbg",
+      "asset_name": "[EMEA] Lumin",
+      "sku": "92010979",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4n5wppmtn4jhscgb2j2p5tbg",
+      "asset_name": "[EMEA] Lumin",
+      "sku": "92010994",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4n5wppmtn4jhscgb2j2p5tbg",
+      "asset_name": "[EMEA] Lumin",
+      "sku": "92010969",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "tk2n2f8mkj29rf6tscc5cc7v",
+      "asset_name": "Premium Grill Cover for Lumin w/ Stand",
+      "sku": "3401288",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "vxktjbr3gsxknvcw9svm83g",
+      "asset_name": "Master Touch [Stealth]",
+      "sku": "1502350",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "mws65c97wg8gbrrbgh4k45",
+      "asset_name": "[EMEA] Master Touch C-5755 [Racing Green]",
+      "sku": "1502319-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "snp849xrfc9t7rxvvwspr4j",
+      "asset_name": "Wireless Probe Plus with Booster",
+      "sku": "3400603",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "snp849xrfc9t7rxvvwspr4j",
+      "asset_name": "Wireless Probe Plus with Booster",
+      "sku": "3400604",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "snp849xrfc9t7rxvvwspr4j",
+      "asset_name": "Wireless Probe Plus with Booster",
+      "sku": "3400620",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "snp849xrfc9t7rxvvwspr4j",
+      "asset_name": "Wireless Probe Plus with Booster",
+      "sku": "3401789",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8pnqxxm9vpbq5hhq4z6rg47f",
+      "asset_name": "Weber Smoque / Searwoos Glow Plug",
+      "sku": "2400348",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nph9qqtp576p9pfsx7kgprpt",
+      "asset_name": "26IN /  67CM Master touch [Black]",
+      "sku": "1500064-AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nph9qqtp576p9pfsx7kgprpt",
+      "asset_name": "26IN /  67CM Master touch [Black]",
+      "sku": "1500230-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "xjkvncffgbmkc393ppjgwxb",
+      "asset_name": "22IN / 57CM Master Touch Premium",
+      "sku": "17301001-AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "xjkvncffgbmkc393ppjgwxb",
+      "asset_name": "22IN / 57CM Master Touch Premium",
+      "sku": "17301004-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "p4cwsvsm7h62kszsq875k4j",
+      "asset_name": "[UK] Charcoal Performer Premium Smart",
+      "sku": "1501623-UK",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "36tf5n5m9hjk9c4xjbsrk5",
+      "asset_name": "[EU/AUNZ/APAC] Charcoal Performer Premium Smart",
+      "sku": "1502185-APAC",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "36tf5n5m9hjk9c4xjbsrk5",
+      "asset_name": "[EU/AUNZ/APAC] Charcoal Performer Premium Smart",
+      "sku": "1502167-AUNZ",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "36tf5n5m9hjk9c4xjbsrk5",
+      "asset_name": "[EU/AUNZ/APAC] Charcoal Performer Premium Smart",
+      "sku": "1501631-EU",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nbmj954q345qz9z8vj68q39",
+      "asset_name": "[EU/AUNZ/APAC] Charcoal Performer Premium",
+      "sku": "1501966- EU",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nbmj954q345qz9z8vj68q39",
+      "asset_name": "[EU/AUNZ/APAC] Charcoal Performer Premium",
+      "sku": "1502166-AUNZ",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nbmj954q345qz9z8vj68q39",
+      "asset_name": "[EU/AUNZ/APAC] Charcoal Performer Premium",
+      "sku": "1502184- APAC",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "t4j8t3sh37qj997n5w7tps3",
+      "asset_name": "[EU] Charcoal Performer Smart",
+      "sku": "1501959- EU",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8wf5r4s66p35vwj2mqpnt33",
+      "asset_name": "[EMEA] Charcoal Performer",
+      "sku": "1501630- EU",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "c7w5742n98sbtm33w95jb8",
+      "asset_name": "57CM Original Kettle Premium",
+      "sku": "1502210-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "3q3mcw8qctz6rf3mvw4tq",
+      "asset_name": "57CM Master Touch SSGBS [Slate Blue]",
+      "sku": "1502204-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501943",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501897",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501890",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501894",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501893",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501891",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501895",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501900",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501896",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501898",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501899",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501944",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501945",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "wbrr2vcpb3s7jbt4f7pq5qcn",
+      "asset_name": "[EMEA] GENESIS EX-325W",
+      "sku": "1501892",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502173",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502174",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502175",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502176",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502177",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502178",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502179",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502182",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502180",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502183",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502248",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502269",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "87mtghthnxv83wp93b5fsvs",
+      "asset_name": "[EMEA] Spirit EPX-435 LP",
+      "sku": "1502249",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502140",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502141",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502142",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502143",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502146",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502144",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502145",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502148",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502147",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502149",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502150",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502267",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502246",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "sku": "1502247",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502138",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502139",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502161",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502162",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502160",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502163",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502164",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502129",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502170",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502171",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502172",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502268",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502252",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "czpvc3hzc9zr8s5hzkwkvm7",
+      "asset_name": "[EMEA] Spirit EPX-435R Stealth LP",
+      "sku": "1502253",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502122",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502123",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502125",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502126",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502124",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502127",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502128",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502075",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502076",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502077",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502078",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502245",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502266",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "sku": "1502244",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502110",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502111",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502112",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502113",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502114",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502116",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502115",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502119",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502118",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502250",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502251",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502265",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "nznz3v59m57zn8rxh5b9r9",
+      "asset_name": "[EMEA] Spirit E-435 LP",
+      "sku": "1502120",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502133",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502106",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502105",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502108",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502107",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502109",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502131",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502130",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502134",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502135",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502132",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502264",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502260",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "885h2qggqxh3cprxwqsgkg44",
+      "asset_name": "[EMEA] Spirit S-435 LP",
+      "sku": "1502261",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8jwx7vxqrw394v28cqgfjt3f",
+      "asset_name": "SPIRIT E-425C LP [STEALTH]",
+      "sku": "1502289- DE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8jwx7vxqrw394v28cqgfjt3f",
+      "asset_name": "SPIRIT E-425C LP [STEALTH]",
+      "sku": "AT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8jwx7vxqrw394v28cqgfjt3f",
+      "asset_name": "SPIRIT E-425C LP [STEALTH]",
+      "sku": "1502337-DNFLE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8jwx7vxqrw394v28cqgfjt3f",
+      "asset_name": "SPIRIT E-425C LP [STEALTH]",
+      "sku": "1502338-SE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8jwx7vxqrw394v28cqgfjt3f",
+      "asset_name": "SPIRIT E-425C LP [STEALTH]",
+      "sku": "IS",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8jwx7vxqrw394v28cqgfjt3f",
+      "asset_name": "SPIRIT E-425C LP [STEALTH]",
+      "sku": "1502320-CH",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "8jwx7vxqrw394v28cqgfjt3f",
+      "asset_name": "SPIRIT E-425C LP [STEALTH]",
+      "sku": "1502048-AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "pmqp9f33spwpx4nxmq87mg6h",
+      "asset_name": "SPIRIT E-325 LP [STEALTH]",
+      "sku": "1502321-DE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "pmqp9f33spwpx4nxmq87mg6h",
+      "asset_name": "SPIRIT E-325 LP [STEALTH]",
+      "sku": "AT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "pmqp9f33spwpx4nxmq87mg6h",
+      "asset_name": "SPIRIT E-325 LP [STEALTH]",
+      "sku": "1502298-DNFLE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "pmqp9f33spwpx4nxmq87mg6h",
+      "asset_name": "SPIRIT E-325 LP [STEALTH]",
+      "sku": "1502299- SE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "pmqp9f33spwpx4nxmq87mg6h",
+      "asset_name": "SPIRIT E-325 LP [STEALTH]",
+      "sku": "IS",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "pmqp9f33spwpx4nxmq87mg6h",
+      "asset_name": "SPIRIT E-325 LP [STEALTH]",
+      "sku": "1502322-CH",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "pmqp9f33spwpx4nxmq87mg6h",
+      "asset_name": "SPIRIT E-325 LP [STEALTH]",
+      "sku": "1502056-AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "xjcjqm4cvz5p9m8wv77tp3v7",
+      "asset_name": "[EMEA] Spirit EP-435 [STEALTH]",
+      "sku": "1501511",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "2wfvkfhvgbgjzjc739nwfk",
+      "asset_name": "[EMEA / FR] Spirit E-425 w/ Plancha",
+      "sku": "1501322-FR",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "cbqkc99gf6j8jr45t6kfp",
+      "asset_name": "[EMEA] Spirit EP-425 w/ Plancha FR",
+      "sku": "1501323-FR",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500834",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500835",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500833",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500836",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500837",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500838",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1501002",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500839",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500860",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1500861",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1501304",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1501357",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1501358",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1501359",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "37pmmm4n4rhch85qm3pnkm",
+      "asset_name": "[EMEA] Spirit E-210 LP",
+      "sku": "1501886",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617044",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617049",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617053",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617079",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617084",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617074",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617069",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617029",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617033",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617039",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617064",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "sku": "36617094",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "gb5wqqgcsbv7gpht38g3ff",
+      "asset_name": "Weber Crafted Genesis Frame Kit",
+      "sku": "7677",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "gn2q6qxb65jvgpc6scfc5ttp",
+      "asset_name": "Genesis Built-In E-460",
+      "sku": "38316024",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "gn2q6qxb65jvgpc6scfc5ttp",
+      "asset_name": "Genesis Built-In E-460",
+      "sku": "36316024",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "gn2q6qxb65jvgpc6scfc5ttp",
+      "asset_name": "Genesis Built-In E-460",
+      "sku": "36316044",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9hjb73f9gg2kxbfxwprnmf8",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis 4B & Searwood XL 36IN Rotisserie",
+      "sku": "3400246-AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9hjb73f9gg2kxbfxwprnmf8",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis 4B & Searwood XL 36IN Rotisserie",
+      "sku": "3400300-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9hjb73f9gg2kxbfxwprnmf8",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis 4B & Searwood XL 36IN Rotisserie",
+      "sku": "3400292-AUNZ",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "kvhntnttgh9hhwvr86vph8f",
+      "asset_name": "[AMER/EMEA/AUNZ] Spirit 3B/4B & Pellet 24IN Rotisserie",
+      "sku": "3400261-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "kvhntnttgh9hhwvr86vph8f",
+      "asset_name": "[AMER/EMEA/AUNZ] Spirit 3B/4B & Pellet 24IN Rotisserie",
+      "sku": "3400252- AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "kvhntnttgh9hhwvr86vph8f",
+      "asset_name": "[AMER/EMEA/AUNZ] Spirit 3B/4B & Pellet 24IN Rotisserie",
+      "sku": "3400268-AUNZ",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500466",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500678",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500435",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500432",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500431",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500612",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500465",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500434",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500436",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500408",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500409",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500681",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500461",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500430",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500467",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500433",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "w377h72rskkfcpvsxgqcs9z",
+      "asset_name": "[AMER/EMEA] Genesis E-415 LP",
+      "sku": "1500367-AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500010-AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500403",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500463",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500384",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500385",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500388",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500386",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500462",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500387",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500389",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500677",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500631",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500680",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500410",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500382",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500464",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500383",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "hzj3k4s9czcgf3wgq5cpgjc",
+      "asset_name": "[AMER/EMEA/AUNZ] Genesis E-315 LP",
+      "sku": "1500404",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "2qmmqvjg7v7tkx5jnhggj38q",
+      "asset_name": "[AUNZ/EMEA] Weber Baby Q Rotisserie",
+      "sku": "3400242-AUNZ",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "2qmmqvjg7v7tkx5jnhggj38q",
+      "asset_name": "[AUNZ/EMEA] Weber Baby Q Rotisserie",
+      "sku": "3400858-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "sr6kfgbhs7ktsg2fg369gv6b",
+      "asset_name": "Summit Premium Cover",
+      "sku": "3400173",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500134",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500135",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500136",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500137",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500138",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500139",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500160",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500651",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "9kfvphk6qtg99krqb8jwz",
+      "asset_name": "Spirit E-330 Classic",
+      "sku": "1500674",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500296",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500297",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500298",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500299",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500300",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500301",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500302",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500303",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500304",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500305",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500306",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500650",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "v6hq3r9x834k6sqvsc6c4g9",
+      "asset_name": "Spirit S-220 Classic LP",
+      "sku": "1500660",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500522 - APAC",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500527 - C EU",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500526 - DE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "AT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500554 - UK",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "IE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500557 - FR",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500523 - JP",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500553 - DNFLLE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500529 - ZA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "1500524 - CN",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "96bz6rs95vsp8hrs84vhcp5",
+      "asset_name": "[EMEA/APAC] Weber Traveler Compact",
+      "sku": "KR",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "1501747- C EU",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "1501748-DNFLLE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "1501749- UK",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "IE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "1501735- ZA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "1501750-FR",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "ES",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "PT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "IT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "1501751-DE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "AT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "1501736-IL",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "sku": "1501737- ME",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "1501742-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "1501732- ZA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "1501733-IL",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "1501734-ME",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "1501743- DNFLLE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "1501744-UK",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "IE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "1501745- FR",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "ES",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "PT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "IT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "1501746- DE",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "355wmh3pqb6653n7ghtbqmj",
+      "asset_name": "[EMEA] Weber Traveler WW LP",
+      "sku": "AT",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "5br49r2q5hmg4crkt6fmcb7h",
+      "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
+      "sku": "3400866-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "5br49r2q5hmg4crkt6fmcb7h",
+      "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
+      "sku": "3401864",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "5br49r2q5hmg4crkt6fmcb7h",
+      "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
+      "sku": "3400867-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "5br49r2q5hmg4crkt6fmcb7h",
+      "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
+      "sku": "3400139-AUNZ",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "5br49r2q5hmg4crkt6fmcb7h",
+      "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
+      "sku": "3400248-AMER",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "t8w8r6t644xbjpsx5nwh6mtt",
+      "asset_name": "[EMEA/AUNZ] Q3200N+ Full Griddle",
+      "sku": "3400868-EMEA",
+      "reason": "SKU nav WooCommerce."
+    },
+    {
+      "asset_id": "t8w8r6t644xbjpsx5nwh6mtt",
+      "asset_name": "[EMEA/AUNZ] Q3200N+ Full Griddle",
+      "sku": "3400150-AUNZ",
+      "reason": "SKU nav WooCommerce."
+    }
+  ],
+  "errors": []
+}

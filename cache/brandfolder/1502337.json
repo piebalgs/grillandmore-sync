@@ -1,0 +1,181 @@
+{
+  "cache_version": 2,
+  "sku": "1502337",
+  "assets": [
+    {
+      "asset_id": "v8q7t3kgwm8z6r2nf3p5sbvn",
+      "asset_name": "Spirit E-425C LP [Stealth]",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8jwx7vxqrw394v28cqgfjt3f",
+      "asset_name": "SPIRIT E-425C LP [STEALTH]",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mxp6233tmtmt3h4st92vc5pk",
+      "asset_name": "en-EMEA Spirit E-425C Stealth MasterCopyDoc FINAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "cmkv34mmc9378ft5ff9t44",
+      "asset_name": "[cze] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "43vzn7rx4g45phnb4wm3b6c",
+      "asset_name": "[dan] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "9ngrm6jt5cqbf4x9mjhhfw",
+      "asset_name": "[dut-NL] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xtmz6vbjtf5776tf44f29p5",
+      "asset_name": "[eng-GB] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "q5c39ffw7rxkhh2nh928qb",
+      "asset_name": "[fin] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gjpwx5xrmvxjggg59xhh4hk",
+      "asset_name": "[fre-FR] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8p4q3n6tbh7nk8jztghtjs",
+      "asset_name": "[ger-DE] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rhvpvftfbmnj9356z5rqgnf",
+      "asset_name": "[hrv] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kx8rw699fktc788mvx587c7v",
+      "asset_name": "[ita-IT] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "q69q394hmmvf7qq544xb3r",
+      "asset_name": "[no] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "t9vmp94msn85qjtmnp7tbcq",
+      "asset_name": "[pol] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "g62r76scgrr5b6hkxqw89w2p",
+      "asset_name": "[por-PT] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "x7p9p3gb8g7868svm99nvj",
+      "asset_name": "[sk] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "6pvn633g88fx3vrzv8njnbvv",
+      "asset_name": "[slv] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "28nmhccrhzsbs7897q8rh8z",
+      "asset_name": "[spa-ES] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4hwsnckspx8svhhwt32phx9h",
+      "asset_name": "[swe-SE] Spirit E-425C Stealth MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ms8n2947cn4wwj68rn5bxkb",
+      "asset_name": "E425C STEALTH EMEA Dimensions",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "g8v2pmskpfh65chbc8p8w9p",
+      "asset_name": "[NO-no] Spirit E/S/EX/EPX- 3B and 4B-- Owners Guide",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "qmnvhmmvj3p8kr9gb7s8thts",
+      "asset_name": "[DA-da] Spirit E/S/EX/EPX- 3B and 4B-- Owners Guide",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kcgt9ks3j99694shkf3ptxgh",
+      "asset_name": "[FI-fi] Spirit E/S/EX/EPX- 3B and 4B-- Owners Guide",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "54865fnsr8ssn72zhc3945sc",
+      "asset_name": "[SV-sv] Spirit E/S/EX/EPX- 3B and 4B-- Owners Guide",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mfbn5ktgxwkp7qncmnvr3vg",
+      "asset_name": "[NO/DA/FI/ET] Spirit E-425C -- Assembly Guide",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "96r645989wv7vr96w88v8bx",
+      "filename": "1502048- Spirit E-425C LP Stealth US_CA_MX_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/96r645989wv7vr96w88v8bx/1502048-%20Spirit%20E-425C%20LP%20Stealth%20US_CA_MX_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/96r645989wv7vr96w88v8bx/v/1278001532/original/1502048-%20Spirit%20E-425C%20LP%20Stealth%20US_CA_MX_rgb.jpg?Expires=1784282845&KeyName=gcs-bfldr-prod&Signature=i72UeRmCBJHrRVHEsVbbSpk1MXU=",
+      "url": "https://storage-us-gcs.bfldr.com/96r645989wv7vr96w88v8bx/v/1278001532/original/1502048-%20Spirit%20E-425C%20LP%20Stealth%20US_CA_MX_rgb.jpg?Expires=1784282845&KeyName=gcs-bfldr-prod&Signature=i72UeRmCBJHrRVHEsVbbSpk1MXU="
+    },
+    {
+      "attachment_id": "xhgrcwfqfws99snkrk5rwjz",
+      "filename": "1502048_SPIRIT E-425C LP STEALTH US_CA_MX_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xhgrcwfqfws99snkrk5rwjz/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xhgrcwfqfws99snkrk5rwjz/v/1279856265/original/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_A_rgb.png?Expires=1784282845&KeyName=gcs-bfldr-prod&Signature=11h1uz6bgU8QNd9Zzu37cWWDIO8=",
+      "url": "https://storage-us-gcs.bfldr.com/xhgrcwfqfws99snkrk5rwjz/v/1279856265/original/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_A_rgb.png?Expires=1784282845&KeyName=gcs-bfldr-prod&Signature=11h1uz6bgU8QNd9Zzu37cWWDIO8="
+    },
+    {
+      "attachment_id": "jccswpj8wb5p5nn4s2f2jmq",
+      "filename": "1502048_SPIRIT E-425C LP STEALTH US_CA_MX_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jccswpj8wb5p5nn4s2f2jmq/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jccswpj8wb5p5nn4s2f2jmq/v/1279856266/original/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_B_rgb.png?Expires=1784282845&KeyName=gcs-bfldr-prod&Signature=h3DZPsQJkMpf80f_raQHf9DI0Xw=",
+      "url": "https://storage-us-gcs.bfldr.com/jccswpj8wb5p5nn4s2f2jmq/v/1279856266/original/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_B_rgb.png?Expires=1784282845&KeyName=gcs-bfldr-prod&Signature=h3DZPsQJkMpf80f_raQHf9DI0Xw="
+    },
+    {
+      "attachment_id": "2p3hsvt52n2r6pp887ctgrks",
+      "filename": "1502048_SPIRIT E-425C LP STEALTH US_CA_MX_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2p3hsvt52n2r6pp887ctgrks/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2p3hsvt52n2r6pp887ctgrks/v/1279856267/original/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_C_rgb.png?Expires=1784282845&KeyName=gcs-bfldr-prod&Signature=PJAyUX7vODZFed2JatW6zbQI8zM=",
+      "url": "https://storage-us-gcs.bfldr.com/2p3hsvt52n2r6pp887ctgrks/v/1279856267/original/1502048_SPIRIT%20E-425C%20LP%20STEALTH%20US_CA_MX_C_rgb.png?Expires=1784282845&KeyName=gcs-bfldr-prod&Signature=PJAyUX7vODZFed2JatW6zbQI8zM="
+    }
+  ]
+}

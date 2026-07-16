@@ -1,0 +1,336 @@
+{
+  "cache_version": 2,
+  "sku": "1502046",
+  "assets": [
+    {
+      "asset_id": "c7vv6mxpkn696vrvcpssrfq",
+      "asset_name": "Lumin Smart Cook From Frozen GIF",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "28rft8wf635tj99vppx5frhm",
+      "asset_name": "Lumin Smart SMOKE GIF",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "h3rcxp8mf945skrskwwkt",
+      "asset_name": "Lumin Smart STEAM GIF",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "m86jkqt3g6chfvs4ntw76vsc",
+      "asset_name": "Lumin Smart YouTube Thumbnails",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "fgmh5n45858gttzwjj33h5",
+      "asset_name": "[EMEA] Lumin Smart/Compact- Setup Frozen",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pt5j946cm7mb86chj9ngp7x",
+      "asset_name": "[EMEA] Lumin Smart/Compact- Setup to Sear",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "cc8mggfhcfjvvvwn9gqh7w5",
+      "asset_name": "[EMEA] Lumin Smart/Compact- Setup Smoke",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ssbp5qsv8tsk4vbk46t7pkv7",
+      "asset_name": "[EMEA] Lumin Smart/Compact- Setup to Steam",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "hvtgc69pjph6vhfk96mcct8q",
+      "asset_name": "[EMEA] How to Pair Lumin Smart/Compact",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pvqk8x4vqtpnwwfpfm4gvjh",
+      "asset_name": "[EMEA] How to set a Lumin Smart/Compact food probe target temperature",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "frv7hk28j9srpgjbm3hntpm",
+      "asset_name": "[EMEA] How to set the Lumin Smart/Compact timer",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xxfntvbwvvtqh9wb49v6m9m",
+      "asset_name": "[EMEA] How to use the Lumin Smart/Compact Smart controller",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "hnf6z8tv5s5cm3zr773786j",
+      "asset_name": "[EMEA] How to set Lumin Smart/Compact Temp",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pv8t694gtsfkb2ms6pg3p",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "p6h97nm3bb3vh4xb3jjpmkw",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "77bs7b2v78fmxbrpcqpx6m29",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "2xn9b2rnkm33kx3rh25vnxb",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "t5pgrqbscpmqfxr6cp6556px",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "v84s6swrgj78393rm98cpk2p",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "f7jcrrp7qrwpm93hxfp8hf9",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3f8n4n8tvxtccg786v3pf97",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "vt4hrvtmqx44cx37fthrr4kt",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mfbzqgv9sgbc2tjrmwt9v4kh",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "6bv3f24rg95gj4xfvmxbkg8",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "457svb63w5vkhkvfsghccz",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bjr4v9kx5cn997rsr56bp74",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "2vf69h9f73nt2q684p2ccv",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "27hvqr636j38x2b3ctmnz6j",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bh4rbn974kgb5v3mbz8c79qv",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "9x9rgng88hfrvr86k9p4fqs",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5gmthx8q3hkrsrs4q83mn5w",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gkg8mwj4s79pcn3p7br8rx29",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "sccg58tp2mqgffh7kznb8ffh",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3jn5p325jw77sj7r9whcbxpr",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "g3287vq8ngxb6xfsmr3x5pc",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bxcn3qgx5m75kx3t4zs4tq89",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "njhbq9rmrfm8q82n9qrnvbjv",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "x3k35xf9p48xjj8fjfmnftm",
+      "asset_name": "[EMEA] Lumin Smart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bfrjk62fbgqbsc9s78zjkck",
+      "asset_name": "(en-US) Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "scrcggcbmx3ctw9qqw48rx",
+      "asset_name": "EMEA Lumin Smart Electric Grill MasterCopy",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3s7xhtftf7b357p7xfbkqq6r",
+      "asset_name": "[cze] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "jc2xpnq7bcqrpwggjt5rfkk",
+      "asset_name": "[dan] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4qjttm58rq7j7tpnhtwzqcx7",
+      "asset_name": "[dut-NL] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mqx58vtgrmqxsj2xfs86wkc",
+      "asset_name": "[en-GB] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "75kc3xq69gs5pj4qrsg75kkp",
+      "asset_name": "[fin] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "778wtbx37pwnhmk9frm3j8xx",
+      "asset_name": "[fre-FR] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "q9krwj6x7744nvgx6krqmxj",
+      "asset_name": "[ger-DE] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kjmrkzb7xtpbsf37j4trnhz",
+      "asset_name": "[hrv] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "c5w4fvh5fzmqwv6sfv6sxvcm",
+      "asset_name": "[ita-IT] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rnb5z43tqpwx5bkbf7x7kmn",
+      "asset_name": "[no] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "whwxqr2r6m28pxb9t364mmb5",
+      "asset_name": "[pol] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "788jpgfjmb8mrv6823txsr8",
+      "asset_name": "[por-PT] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5b87nb762f3r3mtjbr657bcg",
+      "asset_name": "[sk] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xs55r98j29m7tw6xhf9khx",
+      "asset_name": "[slv] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "thn46x9wnqtpwvvwwrh48bvw",
+      "asset_name": "[spa-ES] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gkcs4bftrxkmpvf8nb3t8jk",
+      "asset_name": "[swe-SV] Lumin Smart Electric Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "q3gb9t64c5twwvcxcj5nctvm",
+      "filename": "1500692_A_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 7812,
+      "height": 7812,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q3gb9t64c5twwvcxcj5nctvm/1500692_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q3gb9t64c5twwvcxcj5nctvm/v/1264931974/original/1500692_A_rgb.png?Expires=1784282977&KeyName=gcs-bfldr-prod&Signature=NUmyKOtFErYkD83cwctS5kCj6eU=",
+      "url": "https://storage-us-gcs.bfldr.com/q3gb9t64c5twwvcxcj5nctvm/v/1264931974/original/1500692_A_rgb.png?Expires=1784282977&KeyName=gcs-bfldr-prod&Signature=NUmyKOtFErYkD83cwctS5kCj6eU="
+    },
+    {
+      "attachment_id": "xqpgwtv4ps96f5wmsqv3sbs3",
+      "filename": "1500692_BA_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 7800,
+      "height": 7800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xqpgwtv4ps96f5wmsqv3sbs3/1500692_BA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xqpgwtv4ps96f5wmsqv3sbs3/v/1264931976/original/1500692_BA_rgb.png?Expires=1784282977&KeyName=gcs-bfldr-prod&Signature=q_KfsYmVBmk6raAYUlq54yhpfVI=",
+      "url": "https://storage-us-gcs.bfldr.com/xqpgwtv4ps96f5wmsqv3sbs3/v/1264931976/original/1500692_BA_rgb.png?Expires=1784282977&KeyName=gcs-bfldr-prod&Signature=q_KfsYmVBmk6raAYUlq54yhpfVI="
+    },
+    {
+      "attachment_id": "f7sbpjwvz6kpsxpptmhr4mb",
+      "filename": "1500692_B_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 7812,
+      "height": 7812,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f7sbpjwvz6kpsxpptmhr4mb/1500692_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/f7sbpjwvz6kpsxpptmhr4mb/v/1264931977/original/1500692_B_rgb.png?Expires=1784282977&KeyName=gcs-bfldr-prod&Signature=T7rr7jjXsHLjPnOyIkFL6JRP8iQ=",
+      "url": "https://storage-us-gcs.bfldr.com/f7sbpjwvz6kpsxpptmhr4mb/v/1264931977/original/1500692_B_rgb.png?Expires=1784282977&KeyName=gcs-bfldr-prod&Signature=T7rr7jjXsHLjPnOyIkFL6JRP8iQ="
+    },
+    {
+      "attachment_id": "rzb9wwsgr7zt6846k6g7xv",
+      "filename": "1500692_C_rgb_.png",
+      "extension": "png",
+      "position": 3,
+      "width": 7812,
+      "height": 7812,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rzb9wwsgr7zt6846k6g7xv/1500692_C_rgb_.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rzb9wwsgr7zt6846k6g7xv/v/1264931978/original/1500692_C_rgb_.png?Expires=1784282977&KeyName=gcs-bfldr-prod&Signature=fKWOgiZV-BupJsn17P3-d0NJpM0=",
+      "url": "https://storage-us-gcs.bfldr.com/rzb9wwsgr7zt6846k6g7xv/v/1264931978/original/1500692_C_rgb_.png?Expires=1784282977&KeyName=gcs-bfldr-prod&Signature=fKWOgiZV-BupJsn17P3-d0NJpM0="
+    }
+  ]
+}

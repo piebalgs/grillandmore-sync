@@ -96,14 +96,16 @@ def is_product_image(filename: str) -> bool:
     """
     Atļauj:
       7032A1_rgb.png
-      7032A2_rgb.png
       7032M1_rgb.jpg
-      7032M2.jpg
+      7434A.png
+      7434B.jpg
+      7434C1.png
 
     Neatļauj:
-      7032A_pkg.png
-      7032B_master.png
-      PDF, XLSX un citus tehniskos failus.
+      *_pkg
+      *_master
+      PACKAGE
+      tehniskos failus
     """
     normalized = filename.strip().upper()
 
@@ -114,6 +116,11 @@ def is_product_image(filename: str) -> bool:
         marker in normalized
         for marker in EXCLUDED_FILENAME_MARKERS
     ):
+        return False
+
+    extension = Path(normalized).suffix.lower().lstrip(".")
+
+    if extension not in IMAGE_EXTENSIONS:
         return False
 
     if "_RGB" in normalized:
@@ -129,6 +136,14 @@ def is_product_image(filename: str) -> bool:
         r"\dM\d+(?:[^A-Z0-9]|$)",
         normalized,
     ):
+        return True
+
+    # Atļauj vienkāršus produktu failus, piemēram:
+    # 7434A.png
+    # 7434B1.jpg
+    stem = Path(normalized).stem
+
+    if re.fullmatch(r"\d+[A-Z]\d*", stem):
         return True
 
     return False
@@ -173,7 +188,7 @@ def split_sku_values(value: Any) -> list[str]:
     if not text:
         return []
 
-    parts = re.split(r"[,;\n/]+", text)
+    parts = re.split(r"[,;\n]+", text)
     results: list[str] = []
 
     for part in parts:

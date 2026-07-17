@@ -1,0 +1,208 @@
+{
+  "cache_version": 5,
+  "sku": "17886",
+  "assets": [
+    {
+      "asset_id": "ptc684-f4fmf4-cz6a16",
+      "asset_name": "Grill Pan 17886 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17886"
+      ]
+    },
+    {
+      "asset_id": "ptc684-f4fmf4-dz3raa",
+      "asset_name": "Grill Pan 17886 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17886"
+      ]
+    },
+    {
+      "asset_id": "q5ux7y-cvlbl4-c31vez",
+      "asset_name": "Grill Pan 17886 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17886"
+      ]
+    },
+    {
+      "asset_id": "wvtvsjmsc2cqfm6j3t4cv4",
+      "asset_name": "51837 0325 RevB 17886 EMEA Ceramic Grill Pan LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17886"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ptd5al-1w2xso-agmsmm",
+      "filename": "17886A1.png",
+      "extension": "png",
+      "position": 4,
+      "width": 2500,
+      "height": 2500,
+      "size": 7618610,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptd5al-1w2xso-agmsmm/17886A1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptd5al-1w2xso-agmsmm/v/4225030/original/17886A1.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=ZEfPDqzXwbZ0WAMGuMxSOnIYsvI=",
+      "url": "https://storage-us-gcs.bfldr.com/ptd5al-1w2xso-agmsmm/v/4225030/original/17886A1.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=ZEfPDqzXwbZ0WAMGuMxSOnIYsvI="
+    },
+    {
+      "attachment_id": "ptc684-f4fmf4-ax19fr",
+      "filename": "17886A2.png",
+      "extension": "png",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 14649338,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptc684-f4fmf4-ax19fr/17886A2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-ax19fr/v/4225023/original/17886A2.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=RKvlfEG2hzAD25QqpBOl7gStQ-E=",
+      "url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-ax19fr/v/4225023/original/17886A2.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=RKvlfEG2hzAD25QqpBOl7gStQ-E="
+    },
+    {
+      "attachment_id": "ptd5al-1w2xso-9mk26o",
+      "filename": "17886B.png",
+      "extension": "png",
+      "position": 5,
+      "width": 2500,
+      "height": 2500,
+      "size": 7382267,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptd5al-1w2xso-9mk26o/17886B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptd5al-1w2xso-9mk26o/v/4225031/original/17886B.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=SEeFttzsQRaX6pTwmcrD4dVLGUQ=",
+      "url": "https://storage-us-gcs.bfldr.com/ptd5al-1w2xso-9mk26o/v/4225031/original/17886B.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=SEeFttzsQRaX6pTwmcrD4dVLGUQ="
+    },
+    {
+      "attachment_id": "ptd5al-1w2xso-50zyid",
+      "filename": "17886C.png",
+      "extension": "png",
+      "position": 6,
+      "width": 2500,
+      "height": 2500,
+      "size": 7165731,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptd5al-1w2xso-50zyid/17886C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptd5al-1w2xso-50zyid/v/4225032/original/17886C.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=tyxL5pTon_JvM_f9y5waGgKfr60=",
+      "url": "https://storage-us-gcs.bfldr.com/ptd5al-1w2xso-50zyid/v/4225032/original/17886C.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=tyxL5pTon_JvM_f9y5waGgKfr60="
+    },
+    {
+      "attachment_id": "ptc684-f4fmf4-cnl1lc",
+      "filename": "17886D.png",
+      "extension": "png",
+      "position": 2,
+      "width": 8688,
+      "height": 5792,
+      "size": 13168713,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptc684-f4fmf4-cnl1lc/17886D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-cnl1lc/v/4225025/original/17886D.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=SEJmaK4qg_Ztoiuc8Zx6vJilw9s=",
+      "url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-cnl1lc/v/4225025/original/17886D.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=SEJmaK4qg_Ztoiuc8Zx6vJilw9s="
+    },
+    {
+      "attachment_id": "ptc684-f4fmf4-doe7yr",
+      "filename": "17886E.png",
+      "extension": "png",
+      "position": 1,
+      "width": 8688,
+      "height": 5792,
+      "size": 14675812,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptc684-f4fmf4-doe7yr/17886E.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-doe7yr/v/4225024/original/17886E.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=FmT1jWXqY23XOhqBhd5bQHbME0U=",
+      "url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-doe7yr/v/4225024/original/17886E.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=FmT1jWXqY23XOhqBhd5bQHbME0U="
+    },
+    {
+      "attachment_id": "ptc684-f4fmf4-85a6zv",
+      "filename": "17886F.png",
+      "extension": "png",
+      "position": 3,
+      "width": 8688,
+      "height": 5792,
+      "size": 4509433,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptc684-f4fmf4-85a6zv/17886F.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-85a6zv/v/4225027/original/17886F.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=JgWsITB4yalAYi_1m98SHCRjZac=",
+      "url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-85a6zv/v/4225027/original/17886F.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=JgWsITB4yalAYi_1m98SHCRjZac="
+    },
+    {
+      "attachment_id": "ptd5cl-d2f6o0-9t7evb",
+      "filename": "17886W1.png",
+      "extension": "png",
+      "position": 7,
+      "width": 2500,
+      "height": 2500,
+      "size": 10288362,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptd5cl-d2f6o0-9t7evb/17886W1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptd5cl-d2f6o0-9t7evb/v/4225038/original/17886W1.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=-gktVxDF5K82nSwiRcKIZ5I6Ubw=",
+      "url": "https://storage-us-gcs.bfldr.com/ptd5cl-d2f6o0-9t7evb/v/4225038/original/17886W1.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=-gktVxDF5K82nSwiRcKIZ5I6Ubw="
+    },
+    {
+      "attachment_id": "ptd5cl-d2f6o0-4p19y4",
+      "filename": "17886W2.png",
+      "extension": "png",
+      "position": 8,
+      "width": 2500,
+      "height": 2500,
+      "size": 8890966,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptd5cl-d2f6o0-4p19y4/17886W2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptd5cl-d2f6o0-4p19y4/v/4225039/original/17886W2.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=DoMbwZZFe0YBSeYqKTSGg0vbv8Q=",
+      "url": "https://storage-us-gcs.bfldr.com/ptd5cl-d2f6o0-4p19y4/v/4225039/original/17886W2.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=DoMbwZZFe0YBSeYqKTSGg0vbv8Q="
+    },
+    {
+      "attachment_id": "ptd5cl-d2f6o0-fk20up",
+      "filename": "17886M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7406,
+      "height": 5254,
+      "size": 19319758,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptd5cl-d2f6o0-fk20up/17886M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptd5cl-d2f6o0-fk20up/v/4225036/original/17886M1.jpg?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=j7OeeDRgCWUtkOfXIerloNLYkBU=",
+      "url": "https://storage-us-gcs.bfldr.com/ptd5cl-d2f6o0-fk20up/v/4225036/original/17886M1.jpg?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=j7OeeDRgCWUtkOfXIerloNLYkBU="
+    },
+    {
+      "attachment_id": "ptd5cl-d2f6o0-fsxgva",
+      "filename": "17886M2.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 7406,
+      "height": 5168,
+      "size": 18778036,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptd5cl-d2f6o0-fsxgva/17886M2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptd5cl-d2f6o0-fsxgva/v/4225037/original/17886M2.jpg?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=L16pCSnzHhWst-gwHXBn69pl0R8=",
+      "url": "https://storage-us-gcs.bfldr.com/ptd5cl-d2f6o0-fsxgva/v/4225037/original/17886M2.jpg?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=L16pCSnzHhWst-gwHXBn69pl0R8="
+    },
+    {
+      "attachment_id": "ptc684-f4fmf4-4w666o",
+      "filename": "17886M3.png",
+      "extension": "png",
+      "position": 2,
+      "width": 8688,
+      "height": 5792,
+      "size": 30647963,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptc684-f4fmf4-4w666o/17886M3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-4w666o/v/4225042/original/17886M3.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=vIGL2fNqDm8oY-ZsXauQboYRdTU=",
+      "url": "https://storage-us-gcs.bfldr.com/ptc684-f4fmf4-4w666o/v/4225042/original/17886M3.png?Expires=1784328156&KeyName=gcs-bfldr-prod&Signature=vIGL2fNqDm8oY-ZsXauQboYRdTU="
+    }
+  ]
+}

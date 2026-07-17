@@ -1,0 +1,196 @@
+{
+  "cache_version": 5,
+  "sku": "6750",
+  "assets": [
+    {
+      "asset_id": "piuxrw-bc2ab4-ghd0q1",
+      "asset_name": "(Celsius) Instant Read Thermometer 6750 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6750"
+      ]
+    },
+    {
+      "asset_id": "piuxtc-4nmakg-4o0w6p",
+      "asset_name": "(Fahrenheit) Instant Read Thermometer 6750 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6750"
+      ]
+    },
+    {
+      "asset_id": "piuxuw-31xyvs-1khq0x",
+      "asset_name": "Instant Read Thermometer 6750 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6750"
+      ]
+    },
+    {
+      "asset_id": "puqoxq-4l1fz4-fkuimo",
+      "asset_name": "Instant Read Thermometer 6750 Premium Content",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6750"
+      ]
+    },
+    {
+      "asset_id": "q4vqh8-do6cc8-3he3sb",
+      "asset_name": "Instant Read Thermometer 6750 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6750"
+      ]
+    },
+    {
+      "asset_id": "scs6k5m5twrvhth723bgnb6",
+      "asset_name": "179474 0824 RevF CH LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6750"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "piuxrw-bc2ab4-5fxslu",
+      "filename": "6750A1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3776,
+      "height": 3793,
+      "size": 2940031,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piuxrw-bc2ab4-5fxslu/6750A1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/piuxrw-bc2ab4-5fxslu/v/2689647/original/6750A1.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=Gxc_OCYJXLt5SJvygqmWtQ-GyY0=",
+      "url": "https://storage-us-gcs.bfldr.com/piuxrw-bc2ab4-5fxslu/v/2689647/original/6750A1.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=Gxc_OCYJXLt5SJvygqmWtQ-GyY0="
+    },
+    {
+      "attachment_id": "piuxtc-4nmakg-4nuu1",
+      "filename": "6750A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3776,
+      "height": 3793,
+      "size": 5166788,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piuxtc-4nmakg-4nuu1/6750A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/piuxtc-4nmakg-4nuu1/v/2689651/original/6750A.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=wAea-sgkFeoxiSbngHcIfkDB43k=",
+      "url": "https://storage-us-gcs.bfldr.com/piuxtc-4nmakg-4nuu1/v/2689651/original/6750A.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=wAea-sgkFeoxiSbngHcIfkDB43k="
+    },
+    {
+      "attachment_id": "piuxrw-bc2ab4-dljt4a",
+      "filename": "6750B1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1324,
+      "height": 4399,
+      "size": 1318519,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piuxrw-bc2ab4-dljt4a/6750B1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/piuxrw-bc2ab4-dljt4a/v/2689648/original/6750B1.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=jHIQsEr4S3sQ_dcWdqcdAZdVvac=",
+      "url": "https://storage-us-gcs.bfldr.com/piuxrw-bc2ab4-dljt4a/v/2689648/original/6750B1.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=jHIQsEr4S3sQ_dcWdqcdAZdVvac="
+    },
+    {
+      "attachment_id": "piuxtc-4nmakg-2y80n5",
+      "filename": "6750B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1324,
+      "height": 4399,
+      "size": 2585064,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piuxtc-4nmakg-2y80n5/6750B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/piuxtc-4nmakg-2y80n5/v/2689654/original/6750B.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=-WL35vIjtoe6-bkuoV4a7YMsR2E=",
+      "url": "https://storage-us-gcs.bfldr.com/piuxtc-4nmakg-2y80n5/v/2689654/original/6750B.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=-WL35vIjtoe6-bkuoV4a7YMsR2E="
+    },
+    {
+      "attachment_id": "piuxrw-bc2ab4-4s2ub8",
+      "filename": "6750C1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3317,
+      "height": 3317,
+      "size": 3369004,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piuxrw-bc2ab4-4s2ub8/6750C1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/piuxrw-bc2ab4-4s2ub8/v/2689649/original/6750C1.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=TK78GMD9pA0N99C_VSsH3jQcZ4o=",
+      "url": "https://storage-us-gcs.bfldr.com/piuxrw-bc2ab4-4s2ub8/v/2689649/original/6750C1.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=TK78GMD9pA0N99C_VSsH3jQcZ4o="
+    },
+    {
+      "attachment_id": "piuxtc-4nmakg-e7xane",
+      "filename": "6750C.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3317,
+      "height": 3317,
+      "size": 7049274,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piuxtc-4nmakg-e7xane/6750C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/piuxtc-4nmakg-e7xane/v/2689655/original/6750C.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=fx3y4qKaTAY_jnEl-t5eUtw9hP8=",
+      "url": "https://storage-us-gcs.bfldr.com/piuxtc-4nmakg-e7xane/v/2689655/original/6750C.png?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=fx3y4qKaTAY_jnEl-t5eUtw9hP8="
+    },
+    {
+      "attachment_id": "piuxuw-31xyvs-axe53g",
+      "filename": "6750Y.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5792,
+      "height": 8688,
+      "size": 22782337,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piuxuw-31xyvs-axe53g/6750Y.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/piuxuw-31xyvs-axe53g/v/2689660/original/6750Y.jpg?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=YxPMZmPreA31s93eKrMC6mqakJ8=",
+      "url": "https://storage-us-gcs.bfldr.com/piuxuw-31xyvs-axe53g/v/2689660/original/6750Y.jpg?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=YxPMZmPreA31s93eKrMC6mqakJ8="
+    },
+    {
+      "attachment_id": "puqoxq-4l1fz4-al4ecr",
+      "filename": "6750_InstantReadThermometer_1000x1000_Hero.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 1000,
+      "height": 1000,
+      "size": 272064,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puqoxq-4l1fz4-al4ecr/6750_InstantReadThermometer_1000x1000_Hero.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puqoxq-4l1fz4-al4ecr/v/5290678/original/6750_InstantReadThermometer_1000x1000_Hero.jpg?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=vsmZl8Q9sjcEEcs8ODJGLlhavgM=",
+      "url": "https://storage-us-gcs.bfldr.com/puqoxq-4l1fz4-al4ecr/v/5290678/original/6750_InstantReadThermometer_1000x1000_Hero.jpg?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=vsmZl8Q9sjcEEcs8ODJGLlhavgM="
+    },
+    {
+      "attachment_id": "puqoxq-4l1fz4-cq30dm",
+      "filename": "6750_InstantReadThermometer_1000x1000_Specs.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "size": 376184,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puqoxq-4l1fz4-cq30dm/6750_InstantReadThermometer_1000x1000_Specs.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puqoxq-4l1fz4-cq30dm/v/5290679/original/6750_InstantReadThermometer_1000x1000_Specs.jpg?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=ELLRUrJq9IPZSGyp8J-R4HgzOdI=",
+      "url": "https://storage-us-gcs.bfldr.com/puqoxq-4l1fz4-cq30dm/v/5290679/original/6750_InstantReadThermometer_1000x1000_Specs.jpg?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=ELLRUrJq9IPZSGyp8J-R4HgzOdI="
+    },
+    {
+      "attachment_id": "puqoxq-4l1fz4-7h46no",
+      "filename": "6750_InstantReadThermometer_1000x1000_TempGuide.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "size": 382889,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puqoxq-4l1fz4-7h46no/6750_InstantReadThermometer_1000x1000_TempGuide.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puqoxq-4l1fz4-7h46no/v/5290680/original/6750_InstantReadThermometer_1000x1000_TempGuide.jpg?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=OjUfkxonqSzOc0mCzmRFWYqrTqM=",
+      "url": "https://storage-us-gcs.bfldr.com/puqoxq-4l1fz4-7h46no/v/5290680/original/6750_InstantReadThermometer_1000x1000_TempGuide.jpg?Expires=1784333831&KeyName=gcs-bfldr-prod&Signature=OjUfkxonqSzOc0mCzmRFWYqrTqM="
+    }
+  ]
+}

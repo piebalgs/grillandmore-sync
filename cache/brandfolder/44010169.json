@@ -1,0 +1,380 @@
+{
+  "cache_version": 5,
+  "sku": "44010169",
+  "assets": [
+    {
+      "asset_id": "pge7qo-23uer4-fkt2rx",
+      "asset_name": "E-210 Burners",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-alogge",
+      "asset_name": "E-210 Control Panel",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-8jxum5",
+      "asset_name": "E-210 Drip Pan",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-dyw9or",
+      "asset_name": "E-210 Flavorizer Bars ",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-36dwr9",
+      "asset_name": "E-210 Infinity Ignition",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-w7i7o",
+      "asset_name": "E-210 Lid",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-cg14lr",
+      "asset_name": "E-210 Side Table",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-c1adjt",
+      "asset_name": "E-210 Storage",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pokvp9-87x5w0-5av7s1",
+      "asset_name": "E-210 Thermometer",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-5vg1qu",
+      "asset_name": "E-210 Tool Hooks",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "pge7qo-23uer4-acefhy",
+      "asset_name": "E-210 Wheels",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "6gnfcf4bxk65tmrfw96hhj",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "5wnqnsjw4nqnwk2b87p6fcw4",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "j84kcvkvtk3pnr76pn55mp",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "qg6wbmqzpbbf9zp555sbf7",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "nt7sbcqsnp28nz2th85svvr",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "rwwv9fbnzxnv99stm5hk6qp",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "8g8n8zfgrhq4njbjgt5hs",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "245wsj6t5zqhxkpqmgtm2s3w",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "59vtmgzmnwc3kqvpvs3qcx",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "2mnp8sf46jt78568tpx8nk6",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    },
+    {
+      "asset_id": "7hvj29tpn6xhwzmpcnspprsp",
+      "asset_name": "Spirit II E-210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "44010169"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "mtrc5cmn8bg8krggbj548q9",
+      "filename": "44010001_F1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 4923470,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mtrc5cmn8bg8krggbj548q9/44010001_F1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/mtrc5cmn8bg8krggbj548q9/v/1118461423/original/44010001_F1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/mtrc5cmn8bg8krggbj548q9/v/1118461423/original/44010001_F1_rgb.jpg"
+    },
+    {
+      "attachment_id": "fjxv5q6j8999xnfc4gbmxf",
+      "filename": "44010001_F2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 5557475,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fjxv5q6j8999xnfc4gbmxf/44010001_F2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/fjxv5q6j8999xnfc4gbmxf/v/1118461424/original/44010001_F2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/fjxv5q6j8999xnfc4gbmxf/v/1118461424/original/44010001_F2_rgb.jpg"
+    },
+    {
+      "attachment_id": "s34hrkrvspj8v9px6734c3bf",
+      "filename": "44010001_J1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 3715758,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/s34hrkrvspj8v9px6734c3bf/44010001_J1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/s34hrkrvspj8v9px6734c3bf/v/1118461425/original/44010001_J1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/s34hrkrvspj8v9px6734c3bf/v/1118461425/original/44010001_J1_rgb.jpg"
+    },
+    {
+      "attachment_id": "8qfqqkn586ncrxj3s6jp9t",
+      "filename": "44010001_R1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 4008601,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8qfqqkn586ncrxj3s6jp9t/44010001_R1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/8qfqqkn586ncrxj3s6jp9t/v/1118461426/original/44010001_R1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/8qfqqkn586ncrxj3s6jp9t/v/1118461426/original/44010001_R1_rgb.jpg"
+    },
+    {
+      "attachment_id": "8s9rfvhjrnrsxj2bf5239jb",
+      "filename": "44010001_S1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 4093716,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8s9rfvhjrnrsxj2bf5239jb/44010001_S1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/8s9rfvhjrnrsxj2bf5239jb/v/1118461427/original/44010001_S1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/8s9rfvhjrnrsxj2bf5239jb/v/1118461427/original/44010001_S1_rgb.jpg"
+    },
+    {
+      "attachment_id": "2qst4bgrn8qt5npcq6r8p6s",
+      "filename": "44010001_V1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 4064052,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2qst4bgrn8qt5npcq6r8p6s/44010001_V1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/2qst4bgrn8qt5npcq6r8p6s/v/1118461429/original/44010001_V1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/2qst4bgrn8qt5npcq6r8p6s/v/1118461429/original/44010001_V1_rgb.jpg"
+    },
+    {
+      "attachment_id": "jknphvhhkhnpf4769j3kkg",
+      "filename": "44010001_W1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 4520895,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jknphvhhkhnpf4769j3kkg/44010001_W1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/jknphvhhkhnpf4769j3kkg/v/1118461430/original/44010001_W1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/jknphvhhkhnpf4769j3kkg/v/1118461430/original/44010001_W1_rgb.jpg"
+    },
+    {
+      "attachment_id": "2pcbgxpt37hjqg4ccv436qb",
+      "filename": "44010001_YM1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 4940471,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2pcbgxpt37hjqg4ccv436qb/44010001_YM1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/2pcbgxpt37hjqg4ccv436qb/v/1118461431/original/44010001_YM1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/2pcbgxpt37hjqg4ccv436qb/v/1118461431/original/44010001_YM1_rgb.jpg"
+    },
+    {
+      "attachment_id": "776zjvsxm69qppc6vvnfj4jb",
+      "filename": "44010001_YM2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 4927139,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/776zjvsxm69qppc6vvnfj4jb/44010001_YM2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/776zjvsxm69qppc6vvnfj4jb/v/1118461432/original/44010001_YM2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/776zjvsxm69qppc6vvnfj4jb/v/1118461432/original/44010001_YM2_rgb.jpg"
+    },
+    {
+      "attachment_id": "wm8xbjh7qhgr3wkfkhnb4c",
+      "filename": "44010001_YM3_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 2400,
+      "height": 3600,
+      "size": 5173408,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wm8xbjh7qhgr3wkfkhnb4c/44010001_YM3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/wm8xbjh7qhgr3wkfkhnb4c/v/1118461433/original/44010001_YM3_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/wm8xbjh7qhgr3wkfkhnb4c/v/1118461433/original/44010001_YM3_rgb.jpg"
+    },
+    {
+      "attachment_id": "pmczj73knv65gsn9ntfq7jh3",
+      "filename": "44010001_YM4_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 2400,
+      "height": 3600,
+      "size": 5191569,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pmczj73knv65gsn9ntfq7jh3/44010001_YM4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/pmczj73knv65gsn9ntfq7jh3/v/1118461434/original/44010001_YM4_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/pmczj73knv65gsn9ntfq7jh3/v/1118461434/original/44010001_YM4_rgb.jpg"
+    },
+    {
+      "attachment_id": "pge7qo-23uer4-1pthei",
+      "filename": "E210_RC_Cntrl_Pnl_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3873,
+      "height": 2811,
+      "size": 4077462,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pge7qo-23uer4-1pthei/E210_RC_Cntrl_Pnl_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pge7qo-23uer4-1pthei/v/1041111244/original/E210_RC_Cntrl_Pnl_rgb.jpg?Expires=1784334520&KeyName=gcs-bfldr-prod&Signature=-4gFYnt_CNT9L8FuijSwDt1mIMY=",
+      "url": "https://storage-us-gcs.bfldr.com/pge7qo-23uer4-1pthei/v/1041111244/original/E210_RC_Cntrl_Pnl_rgb.jpg?Expires=1784334520&KeyName=gcs-bfldr-prod&Signature=-4gFYnt_CNT9L8FuijSwDt1mIMY="
+    },
+    {
+      "attachment_id": "pge7qo-23uer4-9oh1pg",
+      "filename": "Side_Table_RC_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 2000,
+      "height": 3000,
+      "size": 2223053,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pge7qo-23uer4-9oh1pg/Side_Table_RC_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pge7qo-23uer4-9oh1pg/v/1041113523/original/Side_Table_RC_rgb.jpg?Expires=1784334520&KeyName=gcs-bfldr-prod&Signature=6mh1CoEZEVkQPJy7L6nr_ZRcQmI=",
+      "url": "https://storage-us-gcs.bfldr.com/pge7qo-23uer4-9oh1pg/v/1041113523/original/Side_Table_RC_rgb.jpg?Expires=1784334520&KeyName=gcs-bfldr-prod&Signature=6mh1CoEZEVkQPJy7L6nr_ZRcQmI="
+    },
+    {
+      "attachment_id": "pge7qo-23uer4-10x9ri",
+      "filename": "Spirit_II_RC_Ignitor_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3950,
+      "height": 3095,
+      "size": 4436718,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pge7qo-23uer4-10x9ri/Spirit_II_RC_Ignitor_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pge7qo-23uer4-10x9ri/v/1041112646/original/Spirit_II_RC_Ignitor_rgb.jpg?Expires=1784334520&KeyName=gcs-bfldr-prod&Signature=-saGaP7ts-L7XYnDLKvmafA0dIA=",
+      "url": "https://storage-us-gcs.bfldr.com/pge7qo-23uer4-10x9ri/v/1041112646/original/Spirit_II_RC_Ignitor_rgb.jpg?Expires=1784334520&KeyName=gcs-bfldr-prod&Signature=-saGaP7ts-L7XYnDLKvmafA0dIA="
+    }
+  ]
+}

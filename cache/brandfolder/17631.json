@@ -1,0 +1,82 @@
+{
+  "cache_version": 5,
+  "sku": "17631",
+  "assets": [
+    {
+      "asset_id": "ffqjmk5p58bx68r3pbqs9j",
+      "asset_name": "Raidfire Chimney Starter Set",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17631"
+      ]
+    },
+    {
+      "asset_id": "krvrjpvk9k24g89xf7cwbk7",
+      "asset_name": "Raidfire Chimney Starter Set",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17631"
+      ]
+    },
+    {
+      "asset_id": "wmwbwjg78np865j694tb282k",
+      "asset_name": "Raidfire Chimney Starter Set",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17631"
+      ]
+    },
+    {
+      "asset_id": "959vvcqv6w84kmpgfcnx3",
+      "asset_name": "8651331 9500914 0124 RevA lr",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17631"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "k3k63kjnxk8p9n7rxsb5z59",
+      "filename": "17631_3cubes_REV.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 532120,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k3k63kjnxk8p9n7rxsb5z59/17631_3cubes_REV.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k3k63kjnxk8p9n7rxsb5z59/v/1294609472/original/17631_3cubes_REV.png?Expires=1784333383&KeyName=gcs-bfldr-prod&Signature=U4hWcinKNd6fGN148LMsFVuzZWs=",
+      "url": "https://storage-us-gcs.bfldr.com/k3k63kjnxk8p9n7rxsb5z59/v/1294609472/original/17631_3cubes_REV.png?Expires=1784333383&KeyName=gcs-bfldr-prod&Signature=U4hWcinKNd6fGN148LMsFVuzZWs="
+    },
+    {
+      "attachment_id": "phqxq3xcrqnw4hm9b37mtv75",
+      "filename": "17631_Chimney-Starter-Set_Front_REV.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 861729,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phqxq3xcrqnw4hm9b37mtv75/17631_Chimney-Starter-Set_Front_REV.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phqxq3xcrqnw4hm9b37mtv75/v/1294609474/original/17631_Chimney-Starter-Set_Front_REV.png?Expires=1784333383&KeyName=gcs-bfldr-prod&Signature=2s4cGHk0awliizJ5yjARAMv9EEQ=",
+      "url": "https://storage-us-gcs.bfldr.com/phqxq3xcrqnw4hm9b37mtv75/v/1294609474/original/17631_Chimney-Starter-Set_Front_REV.png?Expires=1784333383&KeyName=gcs-bfldr-prod&Signature=2s4cGHk0awliizJ5yjARAMv9EEQ="
+    },
+    {
+      "attachment_id": "5qw3mwf7933vzkkwnxjmhb",
+      "filename": "17631_Chimney-Starter-Set_Side_REV.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 625687,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5qw3mwf7933vzkkwnxjmhb/17631_Chimney-Starter-Set_Side_REV.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5qw3mwf7933vzkkwnxjmhb/v/1294609477/original/17631_Chimney-Starter-Set_Side_REV.png?Expires=1784333383&KeyName=gcs-bfldr-prod&Signature=tjkH8NgewRXCKnFVaMN5TrvZ3wA=",
+      "url": "https://storage-us-gcs.bfldr.com/5qw3mwf7933vzkkwnxjmhb/v/1294609477/original/17631_Chimney-Starter-Set_Side_REV.png?Expires=1784333383&KeyName=gcs-bfldr-prod&Signature=tjkH8NgewRXCKnFVaMN5TrvZ3wA="
+    }
+  ]
+}

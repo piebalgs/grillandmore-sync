@@ -1,0 +1,719 @@
+{
+  "cache_version": 5,
+  "sku": "1500133",
+  "assets": [
+    {
+      "asset_id": "4jg48jbh776q84q6x9rhx6q",
+      "asset_name": "(fre-FR) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500130",
+        "1500189",
+        "1500201",
+        "1500133",
+        "1500161",
+        "1500144"
+      ]
+    },
+    {
+      "asset_id": "f4xvx3rgss3shr2wh4frhm7s",
+      "asset_name": "enGLOBAL Searwood600 FY2024 MasterCopy FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500133",
+        "1500130",
+        "1500161",
+        "1500189",
+        "1500144",
+        "1500201"
+      ]
+    },
+    {
+      "asset_id": "9qftsjmnwt28qhvxw7skgr64",
+      "asset_name": "8651492 Searwood Lid EN 092023 LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500161",
+        "1500133",
+        "1500189",
+        "1500121",
+        "1500130",
+        "1500144",
+        "1500120",
+        "1500142",
+        "1500201"
+      ]
+    },
+    {
+      "asset_id": "rqgvnbfjgnshhtcjssp7c58t",
+      "asset_name": "8651493 Searwood Hopper EN 092023 LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500120",
+        "1500130",
+        "1500121",
+        "1500142",
+        "1500201",
+        "1500144",
+        "1500189",
+        "1500133",
+        "1500161"
+      ]
+    },
+    {
+      "asset_id": "jrw6q5r7hqrc769p5c4sbhng",
+      "asset_name": "01 searwood how to pair to app yt v3 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500205",
+        "1500201",
+        "1500133",
+        "1500120",
+        "1500189",
+        "1500122",
+        "1500161",
+        "1500144",
+        "1500142",
+        "1500226",
+        "1500130"
+      ]
+    },
+    {
+      "asset_id": "k8gs498jnbjqtvzsq9c5gwb",
+      "asset_name": "02 searwood how to burn in for first cook yt v2 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500144",
+        "1500122",
+        "1500130",
+        "1500189",
+        "1500142",
+        "1500226",
+        "1500205",
+        "1500120",
+        "1500161",
+        "1500201",
+        "1500133"
+      ]
+    },
+    {
+      "asset_id": "qrvxs68ctzn3q7ft5bwvt39",
+      "asset_name": "03 searwood how to use the controller yt v2 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500130",
+        "1500120",
+        "1500122",
+        "1500226",
+        "1500144",
+        "1500201",
+        "1500133",
+        "1500205",
+        "1500161",
+        "1500189",
+        "1500142"
+      ]
+    },
+    {
+      "asset_id": "kp75wmhxb9qgvn64khp8wvp",
+      "asset_name": "04 searwood how to set temperature yt v3 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500201",
+        "1500142",
+        "1500189",
+        "1500130",
+        "1500120",
+        "1500144",
+        "1500226",
+        "1500161",
+        "1500122",
+        "1500133",
+        "1500205"
+      ]
+    },
+    {
+      "asset_id": "7hvpmxx7tbjwrfnsk4hzs8fc",
+      "asset_name": "05 searwood how to set manual mode yt v2 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500120",
+        "1500130",
+        "1500133",
+        "1500144",
+        "1500142",
+        "1500226",
+        "1500205",
+        "1500189",
+        "1500161",
+        "1500122",
+        "1500201"
+      ]
+    },
+    {
+      "asset_id": "t6m57r7kfq38qc6c4g675",
+      "asset_name": "06 searwood how to select smokeboost yt v3 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500142",
+        "1500122",
+        "1500189",
+        "1500205",
+        "1500120",
+        "1500144",
+        "1500201",
+        "1500161",
+        "1500130",
+        "1500226",
+        "1500133"
+      ]
+    },
+    {
+      "asset_id": "5m8vrthrktfzjrjbxkhbm7c",
+      "asset_name": "07 searwood how to set timer yt v2 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500201",
+        "1500120",
+        "1500161",
+        "1500122",
+        "1500142",
+        "1500133",
+        "1500144",
+        "1500189",
+        "1500205",
+        "1500130",
+        "1500226"
+      ]
+    },
+    {
+      "asset_id": "pm66734vbqtq876t6xvq793",
+      "asset_name": "08 searwood how to set probe target temp yt v2 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500133",
+        "1500144",
+        "1500120",
+        "1500122",
+        "1500201",
+        "1500142",
+        "1500205",
+        "1500226",
+        "1500189",
+        "1500161",
+        "1500130"
+      ]
+    },
+    {
+      "asset_id": "xtfwkpv9f8rnjffk666qccvx",
+      "asset_name": "09 searwood how to shut down yt v2 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500226",
+        "1500189",
+        "1500133",
+        "1500130",
+        "1500201",
+        "1500161",
+        "1500120",
+        "1500205",
+        "1500142",
+        "1500144",
+        "1500122"
+      ]
+    },
+    {
+      "asset_id": "trrw4xrt9snpbtcfwnmhsmnx",
+      "asset_name": "10 searwood how to cancel shut down yt v2 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500120",
+        "1500189",
+        "1500133",
+        "1500201",
+        "1500144",
+        "1500161",
+        "1500226",
+        "1500142",
+        "1500130",
+        "1500122",
+        "1500205"
+      ]
+    },
+    {
+      "asset_id": "mxhjrm7f8z9hw48bvtqb9w3m",
+      "asset_name": "11-13 searwood how to clean cookbox yt v3 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500201",
+        "1500189",
+        "1500130",
+        "1500122",
+        "1500144",
+        "1500161",
+        "1500142",
+        "1500226",
+        "1500120",
+        "1500133",
+        "1500205"
+      ]
+    },
+    {
+      "asset_id": "jnjp8jt3t7w2vgc68jhjw27",
+      "asset_name": "12 searwood how to clean grease and ash system yt v1 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500226",
+        "1500133",
+        "1500189",
+        "1500201",
+        "1500205",
+        "1500130",
+        "1500122",
+        "1500144",
+        "1500161",
+        "1500120",
+        "1500142"
+      ]
+    },
+    {
+      "asset_id": "kk8w3v9rcthvjq2qg4vgxfb7",
+      "asset_name": "14 searwood how to resolve error codes yt v3 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500144",
+        "1500189",
+        "1500142",
+        "1500120",
+        "1500130",
+        "1500205",
+        "1500133",
+        "1500226",
+        "1500201",
+        "1500122",
+        "1500161"
+      ]
+    },
+    {
+      "asset_id": "ws6j3f5ws7fh48g8s3hpbh",
+      "asset_name": "15 searwood how to update the grill yt v2 (1080p)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500133",
+        "1500161",
+        "1500226",
+        "1500189",
+        "1500144",
+        "1500120",
+        "1500201",
+        "1500205",
+        "1500130",
+        "1500142",
+        "1500122"
+      ]
+    },
+    {
+      "asset_id": "5845744cws9sh3853j953p9",
+      "asset_name": "23 11 09 Searwood Training v1",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500161",
+        "1500120",
+        "1500133",
+        "1500201",
+        "1500122",
+        "1500130",
+        "1500205",
+        "1500142",
+        "1500189",
+        "1500226",
+        "1500144"
+      ]
+    },
+    {
+      "asset_id": "3c6bjqx69x4hjq77nf3c5b",
+      "asset_name": "SEARWOOD 1920x1080 CLEAN",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500161",
+        "1500142",
+        "1500189",
+        "1500205",
+        "1500130",
+        "1500120",
+        "1500122",
+        "1500201",
+        "1500226",
+        "1500144",
+        "1500133"
+      ]
+    },
+    {
+      "asset_id": "x7cp4jzmrgvv2r7vb7ffkn",
+      "asset_name": "SEARWOOD Rev0213 1920x1080",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500205",
+        "1500130",
+        "1500142",
+        "1500144",
+        "1500122",
+        "1500161",
+        "1500133",
+        "1500189",
+        "1500120",
+        "1500201",
+        "1500226"
+      ]
+    },
+    {
+      "asset_id": "bvtst7pxvknwrh2f642z4w3q",
+      "asset_name": "Searwood V4",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500120",
+        "1500226",
+        "1500144",
+        "1500133",
+        "1500161",
+        "1500122",
+        "1500130",
+        "1500205",
+        "1500189",
+        "1500201",
+        "1500142"
+      ]
+    },
+    {
+      "asset_id": "vnb7fjn6bps5shkfmsf5q82z",
+      "asset_name": "Weber Searwood Training 022924 v6",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500122",
+        "1500161",
+        "1500133",
+        "1500144",
+        "1500226",
+        "1500120",
+        "1500130",
+        "1500142",
+        "1500201",
+        "1500189",
+        "1500205"
+      ]
+    },
+    {
+      "asset_id": "wcvgbcgf6c9n2t4cr2rfptk",
+      "asset_name": "NPD MasterCopyDoc Searwood 600",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500120",
+        "1500133",
+        "1500121",
+        "1500144",
+        "1500226",
+        "1500205",
+        "1500122",
+        "1500189",
+        "1500142",
+        "1500161",
+        "1500130",
+        "1500201"
+      ]
+    },
+    {
+      "asset_id": "5zjnh6x475wswkp6fnqqw84",
+      "asset_name": "(cze) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500144",
+        "1500161",
+        "1500189",
+        "1500130",
+        "1500201",
+        "1500133"
+      ]
+    },
+    {
+      "asset_id": "4xwwnjrbbqkjq37hhkxpsw",
+      "asset_name": "(dan) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500189",
+        "1500201",
+        "1500133",
+        "1500130",
+        "1500144",
+        "1500161"
+      ]
+    },
+    {
+      "asset_id": "kkqmwjqb9v3g9jfcwvvgjv5",
+      "asset_name": "(dut-NL) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500144",
+        "1500201",
+        "1500130",
+        "1500189",
+        "1500161",
+        "1500133"
+      ]
+    },
+    {
+      "asset_id": "6bjs5r4s68g3855gsrhtnp",
+      "asset_name": "(eng-GB) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500201",
+        "1500133",
+        "1500130",
+        "1500144",
+        "1500189",
+        "1500161"
+      ]
+    },
+    {
+      "asset_id": "tzwx8n7vxg6sgq7cp6x5c87",
+      "asset_name": "(ENUS) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500161",
+        "1500130",
+        "1500201",
+        "1500133",
+        "1500189",
+        "1500144"
+      ]
+    },
+    {
+      "asset_id": "7ppcvj2t9ztwgtjzx54hsvwv",
+      "asset_name": "(fin) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500201",
+        "1500189",
+        "1500161",
+        "1500144",
+        "1500133",
+        "1500130"
+      ]
+    },
+    {
+      "asset_id": "kk833n57nww5tjb98pxtfgtk",
+      "asset_name": "(ger-DE) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500161",
+        "1500133",
+        "1500201",
+        "1500189",
+        "1500130",
+        "1500144"
+      ]
+    },
+    {
+      "asset_id": "7qv69kvz4hp7q63t6bhvfsjg",
+      "asset_name": "(ita-IT) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500161",
+        "1500133",
+        "1500189",
+        "1500130",
+        "1500201",
+        "1500144"
+      ]
+    },
+    {
+      "asset_id": "cqbxfjc693rg48n8jssvp8v",
+      "asset_name": "(no) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500144",
+        "1500133",
+        "1500201",
+        "1500189",
+        "1500161",
+        "1500130"
+      ]
+    },
+    {
+      "asset_id": "pn8kwzxbv3hvp7g8rpg7b",
+      "asset_name": "(pol) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500130",
+        "1500201",
+        "1500189",
+        "1500133",
+        "1500144",
+        "1500161"
+      ]
+    },
+    {
+      "asset_id": "nm7g3n3rzqvgb8kjmpn7bn",
+      "asset_name": "(por-PT) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500144",
+        "1500201",
+        "1500161",
+        "1500133",
+        "1500189",
+        "1500130"
+      ]
+    },
+    {
+      "asset_id": "wvkxk59zn6s4sxm562x35hr",
+      "asset_name": "(sk) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500201",
+        "1500130",
+        "1500144",
+        "1500161",
+        "1500133",
+        "1500189"
+      ]
+    },
+    {
+      "asset_id": "4fj7htrvgvm8fn3tjqsnfsh",
+      "asset_name": "(spa-ES) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500133",
+        "1500189",
+        "1500201",
+        "1500144",
+        "1500130",
+        "1500161"
+      ]
+    },
+    {
+      "asset_id": "jbfrjttj5ckr6jrxvxjmfbwt",
+      "asset_name": "(swe-SE) Searwood Pellet Grill MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500133",
+        "1500201",
+        "1500144",
+        "1500130",
+        "1500161",
+        "1500189"
+      ]
+    },
+    {
+      "asset_id": "hvfmpxgtbjpnh9qhfvhssfw",
+      "asset_name": "Searwood 600",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500122",
+        "1500123",
+        "1500133",
+        "1500226",
+        "1500120",
+        "1500142",
+        "1500143",
+        "1500205",
+        "1500132",
+        "1500121"
+      ]
+    },
+    {
+      "asset_id": "c5r4sg3vqb7pb62bmvrfb83p",
+      "asset_name": "Searwood 600",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500120",
+        "1500226",
+        "1500143",
+        "1500123",
+        "1500142",
+        "1500205",
+        "1500132",
+        "1500122",
+        "1500121",
+        "1500133"
+      ]
+    },
+    {
+      "asset_id": "47fxr4xmrk89x96n93439bj",
+      "asset_name": "Searwood 600",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500142",
+        "1500123",
+        "1500143",
+        "1500133",
+        "1500205",
+        "1500121",
+        "1500226",
+        "1500120",
+        "1500132",
+        "1500122"
+      ]
+    },
+    {
+      "asset_id": "4g5cgq6njgf94wf53tpqx7v",
+      "asset_name": "Searwood 600/600XL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500122",
+        "1500143",
+        "1500133",
+        "1500123",
+        "1500121",
+        "1500132",
+        "1500120",
+        "1500142",
+        "1500226",
+        "1500205"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "3pvzbs54n8bvkwvf46b7hg8",
+      "filename": "1500120_P2_1x1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4532,
+      "height": 4532,
+      "size": 12551734,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3pvzbs54n8bvkwvf46b7hg8/1500120_P2_1x1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3pvzbs54n8bvkwvf46b7hg8/v/1281580002/original/1500120_P2_1x1.jpg?Expires=1784317605&KeyName=gcs-bfldr-prod&Signature=xGfB3v971RkZQiY1yRJT-gQdVzw=",
+      "url": "https://storage-us-gcs.bfldr.com/3pvzbs54n8bvkwvf46b7hg8/v/1281580002/original/1500120_P2_1x1.jpg?Expires=1784317605&KeyName=gcs-bfldr-prod&Signature=xGfB3v971RkZQiY1yRJT-gQdVzw="
+    },
+    {
+      "attachment_id": "qxgbv89qtg7fvrq7mp3pcb",
+      "filename": "1500120_P3_1x1 copy.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5464,
+      "height": 5464,
+      "size": 20846090,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qxgbv89qtg7fvrq7mp3pcb/1500120_P3_1x1%20copy.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qxgbv89qtg7fvrq7mp3pcb/v/1281580003/original/1500120_P3_1x1%20copy.jpg?Expires=1784317605&KeyName=gcs-bfldr-prod&Signature=n-G_oo1oQF_SKKccs54SmZFNmMY=",
+      "url": "https://storage-us-gcs.bfldr.com/qxgbv89qtg7fvrq7mp3pcb/v/1281580003/original/1500120_P3_1x1%20copy.jpg?Expires=1784317605&KeyName=gcs-bfldr-prod&Signature=n-G_oo1oQF_SKKccs54SmZFNmMY="
+    },
+    {
+      "attachment_id": "rc4f4xmpjjsh349h8kjcrp",
+      "filename": "1500120_Pellet_Dump_W1_1x1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 1770357,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rc4f4xmpjjsh349h8kjcrp/1500120_Pellet_Dump_W1_1x1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rc4f4xmpjjsh349h8kjcrp/v/1281580005/original/1500120_Pellet_Dump_W1_1x1.jpg?Expires=1784317605&KeyName=gcs-bfldr-prod&Signature=TBMsNB8PiJ224DgPSf0UE3wb7xY=",
+      "url": "https://storage-us-gcs.bfldr.com/rc4f4xmpjjsh349h8kjcrp/v/1281580005/original/1500120_Pellet_Dump_W1_1x1.jpg?Expires=1784317605&KeyName=gcs-bfldr-prod&Signature=TBMsNB8PiJ224DgPSf0UE3wb7xY="
+    }
+  ]
+}

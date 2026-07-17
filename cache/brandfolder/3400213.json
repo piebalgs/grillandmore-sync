@@ -1,0 +1,64 @@
+{
+  "cache_version": 2,
+  "sku": "3400213",
+  "assets": [
+    {
+      "asset_id": "58sj9h3h4x8qbfsccp9b5",
+      "asset_name": "Portable Grill Tools Set of 2",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "k487nfnknxhnbmx3xxk89wpk",
+      "asset_name": "enGLOBAL Portable Grill Tools S2 3400213 26NPDACCESSORIES MasterCopyDoc FINAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "wm83g42jf5wxjfrbs5xmmkx4",
+      "asset_name": "3400213 pkg A RevB",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "wfczc42m7qwq3m7k6g4nq4m",
+      "asset_name": "8658606 3400213PortableGrillToolsS2 GLOBAL KH 0925 RevB LR",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "kg7t6pqmvf6krqkv3xf793c5",
+      "filename": "3400213-PORTABLE TOOL SET OF_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kg7t6pqmvf6krqkv3xf793c5/3400213-PORTABLE%20TOOL%20SET%20OF_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kg7t6pqmvf6krqkv3xf793c5/v/1268255647/original/3400213-PORTABLE%20TOOL%20SET%20OF_A_rgb.png?Expires=1784296849&KeyName=gcs-bfldr-prod&Signature=2DgR7ac1v2NDwO0XCo2TzsE3IzY=",
+      "url": "https://storage-us-gcs.bfldr.com/kg7t6pqmvf6krqkv3xf793c5/v/1268255647/original/3400213-PORTABLE%20TOOL%20SET%20OF_A_rgb.png?Expires=1784296849&KeyName=gcs-bfldr-prod&Signature=2DgR7ac1v2NDwO0XCo2TzsE3IzY="
+    },
+    {
+      "attachment_id": "xwvpq74wkxjw5492kphkzjw",
+      "filename": "3400213-PORTABLE TOOL SET OF_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xwvpq74wkxjw5492kphkzjw/3400213-PORTABLE%20TOOL%20SET%20OF_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xwvpq74wkxjw5492kphkzjw/v/1268255648/original/3400213-PORTABLE%20TOOL%20SET%20OF_B_rgb.png?Expires=1784296849&KeyName=gcs-bfldr-prod&Signature=ZUVYTqFIhKBA0-uGSZJNLSKBXyU=",
+      "url": "https://storage-us-gcs.bfldr.com/xwvpq74wkxjw5492kphkzjw/v/1268255648/original/3400213-PORTABLE%20TOOL%20SET%20OF_B_rgb.png?Expires=1784296849&KeyName=gcs-bfldr-prod&Signature=ZUVYTqFIhKBA0-uGSZJNLSKBXyU="
+    },
+    {
+      "attachment_id": "84fn9nfttg754jtmrppnsns",
+      "filename": "3400213-PORTABLE TOOL SET OF_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/84fn9nfttg754jtmrppnsns/3400213-PORTABLE%20TOOL%20SET%20OF_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/84fn9nfttg754jtmrppnsns/v/1268255649/original/3400213-PORTABLE%20TOOL%20SET%20OF_C_rgb.png?Expires=1784296849&KeyName=gcs-bfldr-prod&Signature=KTVjAYvEswbTDDC4QmdiqUnd8y4=",
+      "url": "https://storage-us-gcs.bfldr.com/84fn9nfttg754jtmrppnsns/v/1268255649/original/3400213-PORTABLE%20TOOL%20SET%20OF_C_rgb.png?Expires=1784296849&KeyName=gcs-bfldr-prod&Signature=KTVjAYvEswbTDDC4QmdiqUnd8y4="
+    }
+  ]
+}

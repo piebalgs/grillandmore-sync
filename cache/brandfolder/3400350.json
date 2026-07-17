@@ -1,0 +1,286 @@
+{
+  "cache_version": 5,
+  "sku": "3400350",
+  "assets": [
+    {
+      "asset_id": "9rs7gpp687fpjjn5cw4wkhwt",
+      "asset_name": "[EMEA] 30IN Dual Warming Rack",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "qr66wq2mbktvqf5q3mj6v73",
+      "asset_name": "[EMEA] 30IN Dual Warming Rack",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "34q97x7nt4ht6vpwq7f9qk5j",
+      "asset_name": "en-EMEA Dual-Level Warming Rack for Slate Griddle 30 MasterCopyDoc",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "rsxq7hq8w7tf6kxg3mwc9gfk",
+      "asset_name": "(cze) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "pmzrqjgxfcnprrfbnnwmq",
+      "asset_name": "(dan) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "gft3jqb9q3ccbv47jt5trg5q",
+      "asset_name": "(dut-NL) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "nscbjrf9jsp6t6pcjbkrf",
+      "asset_name": "(eng-GB) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "5h3bn5g4g26n7fqfbt92qtw",
+      "asset_name": "(fin) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "vjtc5qxg96bq89zxczs7w",
+      "asset_name": "(fre-FR) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "h493sr38pv85b7fnwr45xvv",
+      "asset_name": "(ger-DE) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "6b5jvc2c6hjfh7s33jv77sjw",
+      "asset_name": "(ita-IT) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "prskhm4t29jzsb657ftgbcnc",
+      "asset_name": "(no) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "fx7m98353n6pbj47ng2v6p6",
+      "asset_name": "(pol) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "9zxxkfg4m744vjpb39xt5vqt",
+      "asset_name": "(por-PT) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "3zvxtk2h4knkv87zrskz385",
+      "asset_name": "(sk) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "5twc64v8ttn7csf6mgq9fm",
+      "asset_name": "(spa-ES) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "t36gr3sqxkpkb6btspnmrvmx",
+      "asset_name": "(swe-SE) Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "xkgb3skk93vpnbffhmwxc7x",
+      "asset_name": "00 (en-US) EMEA Dual-Level Warming Rack Slate 76 MasterCopy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    },
+    {
+      "asset_id": "mj6kgjw98m9wqbn8mjnm4b",
+      "asset_name": "8652273 9500764 0824 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400350"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "7377bpmg9b6pzmhpmcvwf7",
+      "filename": "3400350_A1_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 6000,
+      "height": 6000,
+      "size": 3398468,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7377bpmg9b6pzmhpmcvwf7/3400350_A1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7377bpmg9b6pzmhpmcvwf7/v/1272047622/original/3400350_A1_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=enwPbZBXkw9NioLflF7sqI4oJHo=",
+      "url": "https://storage-us-gcs.bfldr.com/7377bpmg9b6pzmhpmcvwf7/v/1272047622/original/3400350_A1_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=enwPbZBXkw9NioLflF7sqI4oJHo="
+    },
+    {
+      "attachment_id": "rcbfg84sc5qt6rhqjpv7kfv",
+      "filename": "3400350_A2_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 6000,
+      "height": 6000,
+      "size": 3413265,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rcbfg84sc5qt6rhqjpv7kfv/3400350_A2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rcbfg84sc5qt6rhqjpv7kfv/v/1272047625/original/3400350_A2_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=RuzSDdq9FWohUhFcpgpM2BWqP0Y=",
+      "url": "https://storage-us-gcs.bfldr.com/rcbfg84sc5qt6rhqjpv7kfv/v/1272047625/original/3400350_A2_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=RuzSDdq9FWohUhFcpgpM2BWqP0Y="
+    },
+    {
+      "attachment_id": "k9mjjb67s26k9skr4g3fs",
+      "filename": "3400350_B1_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 6000,
+      "height": 6000,
+      "size": 2932619,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k9mjjb67s26k9skr4g3fs/3400350_B1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k9mjjb67s26k9skr4g3fs/v/1272047627/original/3400350_B1_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=mwVn_ZzzxCYslPqADVMWOvQiMfA=",
+      "url": "https://storage-us-gcs.bfldr.com/k9mjjb67s26k9skr4g3fs/v/1272047627/original/3400350_B1_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=mwVn_ZzzxCYslPqADVMWOvQiMfA="
+    },
+    {
+      "attachment_id": "qfwtwcqn42jrpp59t5wsj5x",
+      "filename": "3400350_B2_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 6000,
+      "height": 6000,
+      "size": 2833357,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qfwtwcqn42jrpp59t5wsj5x/3400350_B2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qfwtwcqn42jrpp59t5wsj5x/v/1272047630/original/3400350_B2_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=JuWDVqvnM6J6L43HC_wTX1615y8=",
+      "url": "https://storage-us-gcs.bfldr.com/qfwtwcqn42jrpp59t5wsj5x/v/1272047630/original/3400350_B2_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=JuWDVqvnM6J6L43HC_wTX1615y8="
+    },
+    {
+      "attachment_id": "kn9t23s69fj3mgk9pmkgbxjh",
+      "filename": "3400350_C1_rgb.png",
+      "extension": "png",
+      "position": 4,
+      "width": 6000,
+      "height": 6000,
+      "size": 3098724,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kn9t23s69fj3mgk9pmkgbxjh/3400350_C1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kn9t23s69fj3mgk9pmkgbxjh/v/1272047632/original/3400350_C1_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=BQ2oxmsOmlz3mKIIJ3CqLB5DtUQ=",
+      "url": "https://storage-us-gcs.bfldr.com/kn9t23s69fj3mgk9pmkgbxjh/v/1272047632/original/3400350_C1_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=BQ2oxmsOmlz3mKIIJ3CqLB5DtUQ="
+    },
+    {
+      "attachment_id": "npkzn38fqqp55cfwrh355wn",
+      "filename": "3400350_C2_rgb.png",
+      "extension": "png",
+      "position": 5,
+      "width": 6000,
+      "height": 6000,
+      "size": 3068239,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/npkzn38fqqp55cfwrh355wn/3400350_C2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/npkzn38fqqp55cfwrh355wn/v/1272047634/original/3400350_C2_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=jYkxKQs7f3ybDtViUfe-QQHPGxk=",
+      "url": "https://storage-us-gcs.bfldr.com/npkzn38fqqp55cfwrh355wn/v/1272047634/original/3400350_C2_rgb.png?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=jYkxKQs7f3ybDtViUfe-QQHPGxk="
+    },
+    {
+      "attachment_id": "tf7j848pm7s3bjkmnw93jq4s",
+      "filename": "3400350_V1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 3179,
+      "size": 9418121,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tf7j848pm7s3bjkmnw93jq4s/3400350_V1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tf7j848pm7s3bjkmnw93jq4s/v/1272048185/original/3400350_V1_rgb.jpg?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=eGfT9PTU3U1UxcNCzkZ5h6pnUA0=",
+      "url": "https://storage-us-gcs.bfldr.com/tf7j848pm7s3bjkmnw93jq4s/v/1272048185/original/3400350_V1_rgb.jpg?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=eGfT9PTU3U1UxcNCzkZ5h6pnUA0="
+    },
+    {
+      "attachment_id": "s4gr3wp8p6pjgkm25jthzb9",
+      "filename": "3400350_V2_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 3452,
+      "size": 9245975,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/s4gr3wp8p6pjgkm25jthzb9/3400350_V2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/s4gr3wp8p6pjgkm25jthzb9/v/1272048186/original/3400350_V2_rgb.jpg?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=w4Ff8VS00jukqmPEzoB_VVAWRNE=",
+      "url": "https://storage-us-gcs.bfldr.com/s4gr3wp8p6pjgkm25jthzb9/v/1272048186/original/3400350_V2_rgb.jpg?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=w4Ff8VS00jukqmPEzoB_VVAWRNE="
+    },
+    {
+      "attachment_id": "hc6q2vngqb59wvszp3czgmkg",
+      "filename": "3400350_V3_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 3452,
+      "size": 9830091,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hc6q2vngqb59wvszp3czgmkg/3400350_V3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hc6q2vngqb59wvszp3czgmkg/v/1272048187/original/3400350_V3_rgb.jpg?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=MaVTXADOC6kuvEUaYk2VtNXYQhY=",
+      "url": "https://storage-us-gcs.bfldr.com/hc6q2vngqb59wvszp3czgmkg/v/1272048187/original/3400350_V3_rgb.jpg?Expires=1784304011&KeyName=gcs-bfldr-prod&Signature=MaVTXADOC6kuvEUaYk2VtNXYQhY="
+    }
+  ]
+}

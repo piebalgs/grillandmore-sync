@@ -1,0 +1,512 @@
+{
+  "cache_version": 5,
+  "sku": "3400518",
+  "assets": [
+    {
+      "asset_id": "ffgx7hbsq6ksfjtbxnbtnfb6",
+      "asset_name": "3400518 A pkg",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "wvwc5qx23mvf55kjrpm4ksc",
+      "asset_name": "(cze) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "3p3wvhsbqxjhxbsphtqk4nn",
+      "asset_name": "(dan) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "bbq6g99fr7cwjf956xk6gr",
+      "asset_name": "(dut-NL) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "czcfb5tpkcsfg8ctxnxrtm7",
+      "asset_name": "(eng-GB) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "4nsq7pskfqhvxqn3ghcgx9",
+      "asset_name": "(fin) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "7vwr7gp7s88v9xp3qkmtcp",
+      "asset_name": "(fre-FR) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "jqb964wrk6hft34k3pq3sksq",
+      "asset_name": "(ger-DE) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "5mj33h74wgf2tsrx3tjv8pp",
+      "asset_name": "(spa-ES) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "q8tk4j7rvr8ws3fm47p4v88t",
+      "asset_name": "00 (en-US) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "hws5qc3fxw4j3hkfb9mvmxqk",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518",
+        "1501537"
+      ]
+    },
+    {
+      "asset_id": "t82vzprpv4ft9489ssk6m",
+      "asset_name": "3400518 Genesis WW Flex Light EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501950",
+        "1501942",
+        "1501885",
+        "1501884",
+        "3400518",
+        "1501883"
+      ]
+    },
+    {
+      "asset_id": "wjfssx8crkrjxmk44n98bwx",
+      "asset_name": "3400518 Genesis WW Flex Light EMEA 16x9",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501884",
+        "1501950",
+        "1501942",
+        "1501885",
+        "3400518",
+        "1501883"
+      ]
+    },
+    {
+      "asset_id": "3b9ns7wgcf5z6q88nvnf482f",
+      "asset_name": "3400518 Genesis WW Flex Light EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501885",
+        "3400518",
+        "1501950",
+        "1501884",
+        "1501883",
+        "1501942"
+      ]
+    },
+    {
+      "asset_id": "c5rhf59t58b3qjmb9qfv5mrm",
+      "asset_name": "3400518 Genesis WW Flex Light EMEA 16x9",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501950",
+        "1501942",
+        "1501884",
+        "1501885",
+        "3400518",
+        "1501883"
+      ]
+    },
+    {
+      "asset_id": "sj6cnftnhbvs7q6pfkpx8sj5",
+      "asset_name": "Weber Works Caddy with Tray Lid",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400665",
+        "3400128",
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "8s8z8bqwp6kx83zhgrtvtj3",
+      "asset_name": "(ita-IT) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "2v9ctp2bxk2jzfxtc34v5w8",
+      "asset_name": "(no) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "7tks8k59x3wk92s7n5vxq7q",
+      "asset_name": "(pol) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "st36tb5fjzkmnvmpfc7nfps3",
+      "asset_name": "(por-PT) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "bm3svskhcwvxhxwjsthhwjs",
+      "asset_name": "(sk) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "wq8h96jbs44mznrtvtbst6t",
+      "asset_name": "(swe-SE) Weber Works Flexible Lighting MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "2b58sc997gxm536p3v6xh39g",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "ktr3pp5g66nnx54btwjjvw9",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "kq9nbmshnfb3rfgvnkgrf59",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "tqnrmmwhjhfkjqf3kqh5knkh",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "wxgwbqqttmq4hxjwwwb5qvs",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "kbrhcrqf4rgrv7q835z6x6",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "bnx8xvjpqqbpfhgm8t4n5mf",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "6rxwp8k4hm9q4kx5v6pzrfgj",
+      "asset_name": "Weber Works Flex Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "nz2jxcmvgrmx3hb6ks4vwwhz",
+      "asset_name": "Pellet WW Side Table w/ Flexible Light",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400665",
+        "3400518"
+      ]
+    },
+    {
+      "asset_id": "4n3mkgf237k74mg5v8hcvts",
+      "asset_name": "Weber Traveler WW",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501740",
+        "1501746",
+        "1501742",
+        "3400518",
+        "1501761",
+        "1501734",
+        "1501696",
+        "1501760",
+        "1501733",
+        "1501744",
+        "1501732",
+        "1501743",
+        "1501718",
+        "1501745",
+        "1501719"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ftrqvm8cpz28ttqv3c4wmb77",
+      "filename": "1501740_029_TravelerWW_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6582,
+      "height": 4388,
+      "size": 14256350,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ftrqvm8cpz28ttqv3c4wmb77/1501740_029_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ftrqvm8cpz28ttqv3c4wmb77/v/1289709007/original/1501740_029_TravelerWW_FY2026_AMER.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=Dgsof7pLeb8lJuGJv10OCQoe90s=",
+      "url": "https://storage-us-gcs.bfldr.com/ftrqvm8cpz28ttqv3c4wmb77/v/1289709007/original/1501740_029_TravelerWW_FY2026_AMER.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=Dgsof7pLeb8lJuGJv10OCQoe90s="
+    },
+    {
+      "attachment_id": "xc9kg3sn5jgngxt2vxz29",
+      "filename": "3400518_067_FLEXIBLELIGHT_FY25_AMER .jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8011,
+      "height": 5343,
+      "size": 29494161,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xc9kg3sn5jgngxt2vxz29/3400518_067_FLEXIBLELIGHT_FY25_AMER%20.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xc9kg3sn5jgngxt2vxz29/v/1279139094/original/3400518_067_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=XxOe1oM_-ohFqO9-IFlLzyZ8S28=",
+      "url": "https://storage-us-gcs.bfldr.com/xc9kg3sn5jgngxt2vxz29/v/1279139094/original/3400518_067_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=XxOe1oM_-ohFqO9-IFlLzyZ8S28="
+    },
+    {
+      "attachment_id": "pqwh4pn9pvxfqhpkg5ktn3nv",
+      "filename": "3400518_071_FLEXIBLELIGHT_FY25_AMER .jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 25672780,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pqwh4pn9pvxfqhpkg5ktn3nv/3400518_071_FLEXIBLELIGHT_FY25_AMER%20.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pqwh4pn9pvxfqhpkg5ktn3nv/v/1267602081/original/3400518_071_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=WL4LW7DkxLAkx9zq9BWdGfWXzhY=",
+      "url": "https://storage-us-gcs.bfldr.com/pqwh4pn9pvxfqhpkg5ktn3nv/v/1267602081/original/3400518_071_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=WL4LW7DkxLAkx9zq9BWdGfWXzhY="
+    },
+    {
+      "attachment_id": "27b59hvp4k3gqrrf9fxzxt",
+      "filename": "3400518_A1_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4800,
+      "height": 4800,
+      "size": 1588083,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/27b59hvp4k3gqrrf9fxzxt/3400518_A1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/27b59hvp4k3gqrrf9fxzxt/v/1267669657/original/3400518_A1_rgb.png?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=lOLDZWBPnrfRRVEiO47eR6pl8ZQ=",
+      "url": "https://storage-us-gcs.bfldr.com/27b59hvp4k3gqrrf9fxzxt/v/1267669657/original/3400518_A1_rgb.png?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=lOLDZWBPnrfRRVEiO47eR6pl8ZQ="
+    },
+    {
+      "attachment_id": "39qht8pz5h2gckqwnrrqm7b",
+      "filename": "3400518_A2_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4800,
+      "height": 4800,
+      "size": 1478216,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/39qht8pz5h2gckqwnrrqm7b/3400518_A2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/39qht8pz5h2gckqwnrrqm7b/v/1267669658/original/3400518_A2_rgb.png?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=1AiPCNqO0Shqc7wE8RQAjVqF3cE=",
+      "url": "https://storage-us-gcs.bfldr.com/39qht8pz5h2gckqwnrrqm7b/v/1267669658/original/3400518_A2_rgb.png?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=1AiPCNqO0Shqc7wE8RQAjVqF3cE="
+    },
+    {
+      "attachment_id": "27rshk773bfgh4fr65m65bhb",
+      "filename": "3400518_C1_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4800,
+      "height": 4800,
+      "size": 1678727,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/27rshk773bfgh4fr65m65bhb/3400518_C1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/27rshk773bfgh4fr65m65bhb/v/1267669659/original/3400518_C1_rgb.png?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=TKtMCvmj3GmVTIgJuFGgMZ8TUPg=",
+      "url": "https://storage-us-gcs.bfldr.com/27rshk773bfgh4fr65m65bhb/v/1267669659/original/3400518_C1_rgb.png?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=TKtMCvmj3GmVTIgJuFGgMZ8TUPg="
+    },
+    {
+      "attachment_id": "g52nc3ng3c8nfmcn3zb3h985",
+      "filename": "3400518_C2_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 4800,
+      "height": 4800,
+      "size": 1496954,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g52nc3ng3c8nfmcn3zb3h985/3400518_C2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/g52nc3ng3c8nfmcn3zb3h985/v/1267669660/original/3400518_C2_rgb.png?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=bNVVDfAs0NC6OrIfBtUcO3J8OOE=",
+      "url": "https://storage-us-gcs.bfldr.com/g52nc3ng3c8nfmcn3zb3h985/v/1267669660/original/3400518_C2_rgb.png?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=bNVVDfAs0NC6OrIfBtUcO3J8OOE="
+    },
+    {
+      "attachment_id": "vbpxgvq2tw6s5r7qhhwr97",
+      "filename": "3400518_WW FLEX LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W KITANA_0874.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8032,
+      "height": 5357,
+      "size": 21780949,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vbpxgvq2tw6s5r7qhhwr97/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vbpxgvq2tw6s5r7qhhwr97/v/1263925292/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874.jpg?Expires=1784306339&KeyName=gcs-bfldr-prod&Signature=CJba5hA8Cdle7mEjnAu2jYC-yqQ=",
+      "url": "https://storage-us-gcs.bfldr.com/vbpxgvq2tw6s5r7qhhwr97/v/1263925292/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874.jpg?Expires=1784306339&KeyName=gcs-bfldr-prod&Signature=CJba5hA8Cdle7mEjnAu2jYC-yqQ="
+    },
+    {
+      "attachment_id": "hz4xrmq5wfrgrbphvt3g2bw",
+      "filename": "3400518_WW FLEX LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W KITANA_0874_16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8032,
+      "height": 4518,
+      "size": 19120144,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hz4xrmq5wfrgrbphvt3g2bw/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874_16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hz4xrmq5wfrgrbphvt3g2bw/v/1263925293/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874_16x9.jpg?Expires=1784306339&KeyName=gcs-bfldr-prod&Signature=Qh-Gojx1uFfXDcLgGdbuTYbFSnw=",
+      "url": "https://storage-us-gcs.bfldr.com/hz4xrmq5wfrgrbphvt3g2bw/v/1263925293/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874_16x9.jpg?Expires=1784306339&KeyName=gcs-bfldr-prod&Signature=Qh-Gojx1uFfXDcLgGdbuTYbFSnw="
+    },
+    {
+      "attachment_id": "5k5njr6pnn7kmfbw4nt8kjv",
+      "filename": "3400518_WW FLEX LIGHT_YM_NIGHT_EMEA GENESIS_507_E-315W KITANA_5447.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8011,
+      "height": 5343,
+      "size": 21889397,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5k5njr6pnn7kmfbw4nt8kjv/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5k5njr6pnn7kmfbw4nt8kjv/v/1263925294/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=71i038qdbok40u-6QXIHYii-iIU=",
+      "url": "https://storage-us-gcs.bfldr.com/5k5njr6pnn7kmfbw4nt8kjv/v/1263925294/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=71i038qdbok40u-6QXIHYii-iIU="
+    },
+    {
+      "attachment_id": "pcjcv57z3h7hkgpcwcm69mr3",
+      "filename": "3400518_WW FLEX LIGHT_YM_NIGHT_EMEA GENESIS_507_E-315W KITANA_5447_16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8011,
+      "height": 4507,
+      "size": 19018083,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pcjcv57z3h7hkgpcwcm69mr3/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447_16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pcjcv57z3h7hkgpcwcm69mr3/v/1263925295/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447_16x9.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=XzI3TXrSPvEPUJuY4bOQgYRvYBI=",
+      "url": "https://storage-us-gcs.bfldr.com/pcjcv57z3h7hkgpcwcm69mr3/v/1263925295/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447_16x9.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=XzI3TXrSPvEPUJuY4bOQgYRvYBI="
+    },
+    {
+      "attachment_id": "tp6p3ffxrjnksw246h7qvft",
+      "filename": "3400518_WW_YM_Night_EMEA_6235.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 37397434,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tp6p3ffxrjnksw246h7qvft/3400518_WW_YM_Night_EMEA_6235.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tp6p3ffxrjnksw246h7qvft/v/1267669958/original/3400518_WW_YM_Night_EMEA_6235.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=5xj-wHg39JQ9H_XM8z-DWTy990U=",
+      "url": "https://storage-us-gcs.bfldr.com/tp6p3ffxrjnksw246h7qvft/v/1267669958/original/3400518_WW_YM_Night_EMEA_6235.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=5xj-wHg39JQ9H_XM8z-DWTy990U="
+    },
+    {
+      "attachment_id": "tbpz5f979wss89b8jt258j",
+      "filename": "3400518_WW_YM_Night_EMEA_6236.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 34754001,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tbpz5f979wss89b8jt258j/3400518_WW_YM_Night_EMEA_6236.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tbpz5f979wss89b8jt258j/v/1267669960/original/3400518_WW_YM_Night_EMEA_6236.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=n9_ymW86CV8gF13K_VJFPnfI6Bc=",
+      "url": "https://storage-us-gcs.bfldr.com/tbpz5f979wss89b8jt258j/v/1267669960/original/3400518_WW_YM_Night_EMEA_6236.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=n9_ymW86CV8gF13K_VJFPnfI6Bc="
+    },
+    {
+      "attachment_id": "hb2s3c6q5k39hnwwm87g6j",
+      "filename": "3400518_WW_YM_Night_EMEA_6256.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5464,
+      "height": 8192,
+      "size": 43178590,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hb2s3c6q5k39hnwwm87g6j/3400518_WW_YM_Night_EMEA_6256.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hb2s3c6q5k39hnwwm87g6j/v/1267669961/original/3400518_WW_YM_Night_EMEA_6256.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=p0rKeKF-ttKiljP13KVc6mhn6KQ=",
+      "url": "https://storage-us-gcs.bfldr.com/hb2s3c6q5k39hnwwm87g6j/v/1267669961/original/3400518_WW_YM_Night_EMEA_6256.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=p0rKeKF-ttKiljP13KVc6mhn6KQ="
+    },
+    {
+      "attachment_id": "6nwb7cmjwb4zqm9v6crvjks",
+      "filename": "3400518_WW_YM_Night_EMEA_6257.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5464,
+      "height": 8192,
+      "size": 39985480,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6nwb7cmjwb4zqm9v6crvjks/3400518_WW_YM_Night_EMEA_6257.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6nwb7cmjwb4zqm9v6crvjks/v/1267669962/original/3400518_WW_YM_Night_EMEA_6257.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=_i1wjlljQDCIN0B5sNmRjiwCov0=",
+      "url": "https://storage-us-gcs.bfldr.com/6nwb7cmjwb4zqm9v6crvjks/v/1267669962/original/3400518_WW_YM_Night_EMEA_6257.jpg?Expires=1784306340&KeyName=gcs-bfldr-prod&Signature=_i1wjlljQDCIN0B5sNmRjiwCov0="
+    }
+  ]
+}

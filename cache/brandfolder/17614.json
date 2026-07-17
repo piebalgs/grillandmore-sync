@@ -1,0 +1,46 @@
+{
+  "cache_version": 5,
+  "sku": "17614",
+  "assets": [
+    {
+      "asset_id": "pn4r6e-ft5bqo-exns0h",
+      "asset_name": "Beech Smoking Dust 17614 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17614"
+      ]
+    },
+    {
+      "asset_id": "qflbxv-aqjvg8-56tgfp",
+      "asset_name": "Cold Smoking Accessories Grilltipps Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17614"
+      ]
+    },
+    {
+      "asset_id": "37nb86r6gfsqg67n9r57c8z",
+      "asset_name": "OFS 14965 02 (17614) Smoking Dust 0,5 kg ver7",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17614"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pn4r6e-ft5bqo-g9hy6c",
+      "filename": "17614B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 758434,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pn4r6e-ft5bqo-g9hy6c/17614B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pn4r6e-ft5bqo-g9hy6c/v/3117652/original/17614B.png?Expires=1784327353&KeyName=gcs-bfldr-prod&Signature=5VNPiGK2HTfxKCSAVtxMzuorGfg=",
+      "url": "https://storage-us-gcs.bfldr.com/pn4r6e-ft5bqo-g9hy6c/v/3117652/original/17614B.png?Expires=1784327353&KeyName=gcs-bfldr-prod&Signature=5VNPiGK2HTfxKCSAVtxMzuorGfg="
+    }
+  ]
+}

@@ -18,7 +18,6 @@ from src.brandfolder import (
 )
 from src.brandfolder import get_product_images
 from src.image_processor import (
-    ImageProcessingError,
     describe_processed_image,
     process_remote_image,
 )
@@ -33,7 +32,6 @@ WC_CONSUMER_KEY = os.getenv("WC_CONSUMER_KEY")
 WC_CONSUMER_SECRET = os.getenv("WC_CONSUMER_SECRET")
 
 WP_USERNAME = os.getenv("WP_USERNAME", "").strip()
-
 WP_APP_PASSWORD = "".join(
     os.getenv("WP_APP_PASSWORD", "").split()
 )
@@ -53,6 +51,14 @@ RETRY_DELAYS = (
 )
 
 PRODUCT_UPDATE_PAUSE = 3
+
+# Vienam WooCommerce produktam kopā atļaujam maksimums 10 attēlus.
+# Vajadzības gadījumā .env failā vari norādīt citu vērtību:
+# MAX_IMAGES_PER_PRODUCT=10
+MAX_IMAGES_PER_PRODUCT = max(
+    1,
+    int(os.getenv("MAX_IMAGES_PER_PRODUCT", "10")),
+)
 
 
 class ImageSyncError(RuntimeError):
@@ -103,6 +109,70 @@ def image_key(image: dict[str, Any]) -> str:
     )
 
 
+def safe_position(image: dict[str, Any]) -> int:
+    try:
+        return int(image.get("position", 9999))
+    except (TypeError, ValueError):
+        return 9999
+
+
+def image_priority(image: dict[str, Any]) -> tuple[Any, ...]:
+    """
+    Sakārto Brandfolder attēlus produkta galerijai.
+
+    Prioritāte:
+      1. A / FRONT / galvenais produkta skats
+      2. OPEN skati
+      3. B / LEFT
+      4. C / RIGHT
+      5. D / BACK
+      6. DETAIL / tuvplāni
+      7. pārējie produkta skati
+      8. M1, M2... lifestyle attēli
+
+    Brandfolder position tiek izmantota kā papildu kārtošanas pazīme.
+    """
+    filename = str(
+        image.get("filename")
+        or image.get("name")
+        or filename_from_url(
+            image.get("src")
+            or image.get("url")
+        )
+        or ""
+    ).strip()
+
+    name = Path(filename).stem.upper()
+
+    is_lifestyle = bool(
+        re.search(r"(?:^|[^A-Z0-9])M\d+(?:[^A-Z0-9]|$)", name)
+        or re.search(r"\dM\d+(?:[^A-Z0-9]|$)", name)
+    )
+
+    if is_lifestyle:
+        group = 90
+    elif "FRONT" in name or re.search(r"(?:^|[_\s.-])A(?:\d+)?(?:[_\s.-]|$)", name):
+        group = 10
+    elif "OPEN" in name:
+        group = 20
+    elif "LEFT" in name or re.search(r"(?:^|[_\s.-])B(?:\d+)?(?:[_\s.-]|$)", name):
+        group = 30
+    elif "RIGHT" in name or re.search(r"(?:^|[_\s.-])C(?:\d+)?(?:[_\s.-]|$)", name):
+        group = 40
+    elif "BACK" in name or re.search(r"(?:^|[_\s.-])D(?:\d+)?(?:[_\s.-]|$)", name):
+        group = 50
+    elif any(marker in name for marker in ("DETAIL", "CLOSE", "CLOSEUP", "ZOOM")):
+        group = 60
+    else:
+        group = 70
+
+    return (
+        group,
+        safe_position(image),
+        name,
+    )
+
+
 def deduplicate_brandfolder_images(
     images: list[dict[str, Any]],
 ) -> list[dict[str, Any]]:
@@ -120,32 +190,11 @@ def deduplicate_brandfolder_images(
             unique[key] = image
             continue
 
-        try:
-            current_position = int(
-                current.get("position", 9999)
-            )
-        except (TypeError, ValueError):
-            current_position = 9999
-
-        try:
-            new_position = int(
-                image.get("position", 9999)
-            )
-        except (TypeError, ValueError):
-            new_position = 9999
-
-        if new_position < current_position:
+        if image_priority(image) < image_priority(current):
             unique[key] = image
 
     result = list(unique.values())
-
-    result.sort(
-        key=lambda item: (
-            int(item.get("position", 9999)),
-            str(item.get("filename") or "").upper(),
-        )
-    )
-
+    result.sort(key=image_priority)
     return result
 
 
@@ -190,6 +239,16 @@ def prepare_image_update(
     product: dict[str, Any],
     raw_brandfolder_images: list[dict[str, Any]],
 ) -> dict[str, Any]:
+    """
+    Sagatavo attēlu sinhronizācijas plānu.
+
+    Noteikumi:
+      - esošie WooCommerce attēli netiek dzēsti;
+      - esošā secība un galvenais attēls tiek saglabāti;
+      - Brandfolder attēli tiek prioritizēti;
+      - galerijā kopā nepievienojam vairāk par 10 attēliem;
+      - ja produktam jau ir 10 vai vairāk attēlu, jauni netiek pievienoti.
+    """
     existing_raw = product.get("images", [])
 
     existing_images = (
@@ -207,7 +266,7 @@ def prepare_image_update(
     )
 
     already_present: list[dict[str, Any]] = []
-    missing_images: list[dict[str, Any]] = []
+    all_missing_images: list[dict[str, Any]] = []
 
     for image in brandfolder_images:
         key = image_key(image)
@@ -218,10 +277,19 @@ def prepare_image_update(
         if key in woo_keys:
             already_present.append(image)
         else:
-            missing_images.append(image)
+            all_missing_images.append(image)
+
+    available_slots = max(
+        0,
+        MAX_IMAGES_PER_PRODUCT - len(existing_images),
+    )
+
+    missing_images = all_missing_images[:available_slots]
+    skipped_due_to_limit = all_missing_images[available_slots:]
 
     payload_images: list[dict[str, Any]] = []
 
+    # Esošos attēlus saglabājam tādā pašā secībā.
     for image in existing_images:
         if not isinstance(image, dict):
             continue
@@ -235,6 +303,8 @@ def prepare_image_update(
                 }
             )
 
+    # Jaunos attēlus pievienojam prioritārā secībā,
+    # bet tikai līdz kopējam galerijas limitam.
     for image in missing_images:
         filename = str(
             image.get("filename") or ""
@@ -260,10 +330,14 @@ def prepare_image_update(
         )
 
     return {
+        "max_images": MAX_IMAGES_PER_PRODUCT,
+        "available_slots": available_slots,
         "existing_images": existing_images,
         "brandfolder_images": brandfolder_images,
         "already_present": already_present,
+        "all_missing_images": all_missing_images,
         "missing_images": missing_images,
+        "skipped_due_to_limit": skipped_due_to_limit,
         "payload_images": payload_images,
     }
 
@@ -340,7 +414,6 @@ def request_with_retry(
             if response.status_code not in RETRY_STATUS_CODES:
                 print("\nServera atbilde:")
                 print(response.text[:2000])
-
                 response.raise_for_status()
 
             last_error = requests.HTTPError(
@@ -350,6 +423,20 @@ def request_with_retry(
                 ),
                 response=response,
             )
+
+        except requests.HTTPError as error:
+            status_code = (
+                error.response.status_code
+                if error.response is not None
+                else None
+            )
+
+            # 400, 401, 403, 404 u.c. pastāvīgas kļūdas
+            # netiek atkārtotas.
+            if status_code not in RETRY_STATUS_CODES:
+                raise
+
+            last_error = error
 
         except requests.RequestException as error:
             last_error = error
@@ -447,6 +534,43 @@ def upload_media_file(
     return media
 
 
+def verify_media_exists(
+    media_id: int,
+) -> dict[str, Any]:
+    endpoint = (
+        f"{WC_URL}/wp-json/wp/v2/media/"
+        f"{media_id}?context=edit"
+    )
+
+    response = requests.get(
+        endpoint,
+        auth=wordpress_auth(),
+        timeout=(30, 120),
+    )
+
+    if response.status_code == 404:
+        raise ImageSyncError(
+            f"WordPress Media ID {media_id} "
+            "pēc augšupielādes vairs neeksistē."
+        )
+
+    response.raise_for_status()
+    payload = response.json()
+
+    if not isinstance(payload, dict):
+        raise ImageSyncError(
+            f"Media ID {media_id} atgrieza "
+            "negaidītu datu formātu."
+        )
+
+    if payload.get("media_type") != "image":
+        raise ImageSyncError(
+            f"Media ID {media_id} nav attēls."
+        )
+
+    return payload
+
+
 def put_product_image_ids(
     *,
     product_id: int,
@@ -493,11 +617,12 @@ def update_product_images(
       1. lejupielādē Python pusē;
       2. pārveido uz 800×800;
       3. augšupielādē WordPress Media Library;
-      4. uzreiz piesaista WooCommerce produktam.
+      4. pārbauda Media ID;
+      5. uzreiz piesaista WooCommerce produktam.
 
-    Produkts tiek saglabāts pēc katra attēla, tādēļ,
-    ja process pārtrūkst, veiksmīgi pievienotie attēli
-    nepazūd un nākamajā palaišanā netiek dublēti.
+    Stingrais limits tiek pārbaudīts arī šajā līmenī,
+    tāpēc fiziski nevar augšupielādēt vairāk par brīvajām
+    vietām līdz MAX_IMAGES_PER_PRODUCT.
     """
     validate_configuration()
 
@@ -520,7 +645,39 @@ def update_product_images(
 
     current_ids = list(dict.fromkeys(existing_ids))
 
+    available_slots = max(
+        0,
+        MAX_IMAGES_PER_PRODUCT - len(current_ids),
+    )
+
+    skipped_count = max(
+        0,
+        len(remote_images) - available_slots,
+    )
+
+    remote_images = remote_images[:available_slots]
+
+    print(
+        f"  Esošie WooCommerce attēli: {len(current_ids)}"
+    )
+    print(
+        f"  Brīvās vietas līdz limitam: {available_slots}"
+    )
+
+    if skipped_count:
+        print(
+            f"  ⚠ Limita dēļ netiks augšupielādēti "
+            f"{skipped_count} attēli."
+        )
+
     if not remote_images:
+        print(
+            "  Attēlu limits sasniegts vai nav jaunu attēlu."
+        )
+
+        # Ja ir esoši attēli, atstājam tos nemainītus.
+        # Produktam ar vairāk nekā 10 esošiem attēliem
+        # neko automātiski nedzēšam.
         return put_product_image_ids(
             product_id=product_id,
             image_ids=current_ids,
@@ -530,7 +687,7 @@ def update_product_images(
     download_session.headers.update(
         {
             "User-Agent": (
-                "GrillAndMore-Sync/0.3 "
+                "GrillAndMore-Sync/0.4 "
                 "(image processor)"
             ),
             "Accept": "image/*,*/*;q=0.8",
@@ -584,9 +741,15 @@ def update_product_images(
             )
 
             media_id = int(media["id"])
+            verify_media_exists(media_id)
 
             if media_id not in current_ids:
                 current_ids.append(media_id)
+
+            # Papildu drošība: nekad nepārsniedzam limitu
+            # ar jaunajiem attēliem.
+            if len(existing_ids) < MAX_IMAGES_PER_PRODUCT:
+                current_ids = current_ids[:MAX_IMAGES_PER_PRODUCT]
 
             print(
                 f"    ✓ Media Library ID: {media_id}"
@@ -688,6 +851,14 @@ def sync_one_product(
         "Brandfolder unikālie attēli:     "
         f"{len(plan['brandfolder_images'])}"
     )
+    print(
+        "Maksimālais attēlu skaits:       "
+        f"{plan['max_images']}"
+    )
+    print(
+        "Brīvās vietas līdz limitam:      "
+        f"{plan['available_slots']}"
+    )
 
     print_image_list(
         "WooCommerce pašreizējie attēli",
@@ -704,6 +875,11 @@ def sync_one_product(
         plan["missing_images"],
     )
 
+    print_image_list(
+        "Attēli, kuri netiks pievienoti limita dēļ",
+        plan["skipped_due_to_limit"],
+    )
+
     if not plan["brandfolder_images"]:
         print(
             "\nBrandfolder produktu attēli netika atrasti."
@@ -711,14 +887,26 @@ def sync_one_product(
         return False
 
     if not plan["missing_images"]:
-        print(
-            "\n✅ Visi Brandfolder attēli jau ir WooCommerce."
-        )
+        if plan["skipped_due_to_limit"]:
+            print(
+                "\n✅ Attēlu limits ir sasniegts — "
+                "jauni attēli netiks pievienoti."
+            )
+        else:
+            print(
+                "\n✅ Visi Brandfolder attēli jau ir WooCommerce."
+            )
         return False
+
+    planned_total = min(
+        MAX_IMAGES_PER_PRODUCT,
+        len(plan["existing_images"])
+        + len(plan["missing_images"]),
+    )
 
     print(
         "\nPēc sinhronizācijas kopējais attēlu skaits būs: "
-        f"{len(plan['payload_images'])}"
+        f"{planned_total}"
     )
 
     if plan["existing_images"]:
@@ -729,7 +917,8 @@ def sync_one_product(
     else:
         print(
             "Produktam nav esoša galvenā attēla. "
-            "Pirmais Brandfolder attēls kļūs par galveno."
+            "Pirmais prioritārais Brandfolder attēls "
+            "kļūs par galveno."
         )
 
     if not apply:
@@ -772,8 +961,9 @@ def sync_one_product(
 def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
-            "Samazina Brandfolder attēlus līdz 800×800 "
-            "un augšupielādē WordPress Media Library."
+            "Samazina Brandfolder attēlus līdz 800×800, "
+            "sakārto prioritārā secībā un augšupielādē "
+            "ne vairāk par 10 attēliem vienam produktam."
         )
     )
 

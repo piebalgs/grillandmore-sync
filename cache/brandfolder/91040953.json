@@ -1,0 +1,80 @@
+{
+  "cache_version": 5,
+  "sku": "91040953",
+  "assets": [
+    {
+      "asset_id": "qwkzsbvzptq8nvt7kv866gnq",
+      "asset_name": "[EMEA] Lumin Compact [Crimson]",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "91040953"
+      ]
+    },
+    {
+      "asset_id": "bwqv3n778k8rr69ns6qtnmh",
+      "asset_name": "91040904A pkg",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "91040953"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "gqhk3kqc7wk59zp5v52tjq3c",
+      "filename": "91040904A_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 3648508,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gqhk3kqc7wk59zp5v52tjq3c/91040904A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gqhk3kqc7wk59zp5v52tjq3c/v/1311053556/original/91040904A_rgb.png?Expires=1784318786&KeyName=gcs-bfldr-prod&Signature=gjOg6f70VYKLJ04qIevBej2oUq0=",
+      "url": "https://storage-us-gcs.bfldr.com/gqhk3kqc7wk59zp5v52tjq3c/v/1311053556/original/91040904A_rgb.png?Expires=1784318786&KeyName=gcs-bfldr-prod&Signature=gjOg6f70VYKLJ04qIevBej2oUq0="
+    },
+    {
+      "attachment_id": "mgbs3sk4ggcnb3x976v8qm5z",
+      "filename": "91040904B_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 4000,
+      "height": 4000,
+      "size": 3565769,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mgbs3sk4ggcnb3x976v8qm5z/91040904B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mgbs3sk4ggcnb3x976v8qm5z/v/1311053558/original/91040904B_rgb.png?Expires=1784318786&KeyName=gcs-bfldr-prod&Signature=6YLtXHoK6nXPlErS6-W4wmBJKg0=",
+      "url": "https://storage-us-gcs.bfldr.com/mgbs3sk4ggcnb3x976v8qm5z/v/1311053558/original/91040904B_rgb.png?Expires=1784318786&KeyName=gcs-bfldr-prod&Signature=6YLtXHoK6nXPlErS6-W4wmBJKg0="
+    },
+    {
+      "attachment_id": "8n47hkxvjkw54p7vfnwvm53",
+      "filename": "91040904C_rgb.png",
+      "extension": "png",
+      "position": 5,
+      "width": 4000,
+      "height": 4000,
+      "size": 3080309,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8n47hkxvjkw54p7vfnwvm53/91040904C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8n47hkxvjkw54p7vfnwvm53/v/1311053563/original/91040904C_rgb.png?Expires=1784318786&KeyName=gcs-bfldr-prod&Signature=FsjvY6gn0dRXPSVz1yWvNvqj734=",
+      "url": "https://storage-us-gcs.bfldr.com/8n47hkxvjkw54p7vfnwvm53/v/1311053563/original/91040904C_rgb.png?Expires=1784318786&KeyName=gcs-bfldr-prod&Signature=FsjvY6gn0dRXPSVz1yWvNvqj734="
+    },
+    {
+      "attachment_id": "kpg3s4s7z5j4sp538n4xxxz",
+      "filename": "91040904D_rgb.jpg",
+      "extension": "jpg",
+      "position": 8,
+      "width": 3600,
+      "height": 2909,
+      "size": 5125238,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kpg3s4s7z5j4sp538n4xxxz/91040904D_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kpg3s4s7z5j4sp538n4xxxz/v/1311055510/original/91040904D_rgb.jpg?Expires=1784318786&KeyName=gcs-bfldr-prod&Signature=RWG2YBdWqNwlZJXE8pFIMhbF0oQ=",
+      "url": "https://storage-us-gcs.bfldr.com/kpg3s4s7z5j4sp538n4xxxz/v/1311055510/original/91040904D_rgb.jpg?Expires=1784318786&KeyName=gcs-bfldr-prod&Signature=RWG2YBdWqNwlZJXE8pFIMhbF0oQ="
+    }
+  ]
+}

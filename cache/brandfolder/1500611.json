@@ -1,0 +1,262 @@
+{
+  "cache_version": 5,
+  "sku": "1500611",
+  "assets": [
+    {
+      "asset_id": "kn6p35rj8v2pn8j3h64x2hmx",
+      "asset_name": "1500611 BBQ Kitchen Gas 221 Spirit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "rg7f24ts7n6s7hrk63cjxh8g",
+      "asset_name": "(cze) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "b8x7m37bfcshjsvs5thn7vtg",
+      "asset_name": "(dan) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "jtpq9wbcwgn3psf39mqthj",
+      "asset_name": "(dut-NL) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "x5zkwt45zst7xqcvj85gxn3",
+      "asset_name": "(eng-GB) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "r7zxm97jjhjtxjksmmfj",
+      "asset_name": "(enus) Weber BBQ Kitchen 221 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "cjb46pbkmjnt299r5k8p7hjq",
+      "asset_name": "(fin) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "35wm4sch5m7h74g6pcv6mmr",
+      "asset_name": "(fre-FR) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "xn473jc525wcq7pn5n7b8m",
+      "asset_name": "(ger-DE) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "2s6gbv9h9q7fx8xrqsjn97vr",
+      "asset_name": "(ita-IT) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "nn3rcgs8849mm72kmj3mmmm4",
+      "asset_name": "(no) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "ns9tw34hvsq9fvvvz43474s",
+      "asset_name": "(pol) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "kwt4fjt4t58h28xgq57cxkkw",
+      "asset_name": "(por-PT) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "98kckq7nfrprj7g8sk9nq695",
+      "asset_name": "(spa-ES) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "4r2b5txc9w9f3r6f38rgcsm",
+      "asset_name": "(swe-SE) BBQK 221 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    },
+    {
+      "asset_id": "x64czcs2p9t8mwqq8k3w9",
+      "asset_name": "1500611 Weber BBQ Kitchen Gas 221 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500611"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "k5jwnvwh9gs7gjp27n8sr37",
+      "filename": "1500611 Weber BBQ Kitchen Gas 221_Lifestyle.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6000,
+      "height": 4000,
+      "size": 4937352,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k5jwnvwh9gs7gjp27n8sr37/1500611%20Weber%20BBQ%20Kitchen%20Gas%20221_Lifestyle.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k5jwnvwh9gs7gjp27n8sr37/v/1275231799/original/1500611%20Weber%20BBQ%20Kitchen%20Gas%20221_Lifestyle.jpg?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=GvU3Kh8rMtef3-6LqLEJfw2xPNw=",
+      "url": "https://storage-us-gcs.bfldr.com/k5jwnvwh9gs7gjp27n8sr37/v/1275231799/original/1500611%20Weber%20BBQ%20Kitchen%20Gas%20221_Lifestyle.jpg?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=GvU3Kh8rMtef3-6LqLEJfw2xPNw="
+    },
+    {
+      "attachment_id": "gttv3c6cpp3f7smp3phf6r2c",
+      "filename": "1500611_BBQK Gas 221_Spirit300 Connect_1800-1800_1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 501485,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gttv3c6cpp3f7smp3phf6r2c/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gttv3c6cpp3f7smp3phf6r2c/v/1263107503/original/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_1.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=ZaQmhsFGiTbla4c3crALKOMVovk=",
+      "url": "https://storage-us-gcs.bfldr.com/gttv3c6cpp3f7smp3phf6r2c/v/1263107503/original/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_1.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=ZaQmhsFGiTbla4c3crALKOMVovk="
+    },
+    {
+      "attachment_id": "qbj6pfj5kb4pkqrrtj8hghf7",
+      "filename": "1500611_BBQK Gas 221_Spirit300 Connect_1800-1800_2.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 629428,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qbj6pfj5kb4pkqrrtj8hghf7/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qbj6pfj5kb4pkqrrtj8hghf7/v/1263107504/original/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_2.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=IoecyhERLvzKKzuVUYJtpIDcfps=",
+      "url": "https://storage-us-gcs.bfldr.com/qbj6pfj5kb4pkqrrtj8hghf7/v/1263107504/original/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_2.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=IoecyhERLvzKKzuVUYJtpIDcfps="
+    },
+    {
+      "attachment_id": "qmnj695v7jchxwqqgs4g77t",
+      "filename": "1500611_BBQK Gas 221_Spirit300 Connect_1800-1800_3.png",
+      "extension": "png",
+      "position": 2,
+      "width": 1800,
+      "height": 1800,
+      "size": 494996,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qmnj695v7jchxwqqgs4g77t/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qmnj695v7jchxwqqgs4g77t/v/1263107505/original/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_3.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=jg_JLzSVULONAsOx-4UGcFYlWoc=",
+      "url": "https://storage-us-gcs.bfldr.com/qmnj695v7jchxwqqgs4g77t/v/1263107505/original/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_3.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=jg_JLzSVULONAsOx-4UGcFYlWoc="
+    },
+    {
+      "attachment_id": "f44sw7sr8n7hhqw86jmr9hg",
+      "filename": "1500611_BBQK Gas 221_Spirit300 Connect_1800-1800_4.png",
+      "extension": "png",
+      "position": 3,
+      "width": 1800,
+      "height": 1800,
+      "size": 588468,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f44sw7sr8n7hhqw86jmr9hg/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_4.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/f44sw7sr8n7hhqw86jmr9hg/v/1263107506/original/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_4.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=pE2vtO5yJtGvwPEAFdNO55aRmgs=",
+      "url": "https://storage-us-gcs.bfldr.com/f44sw7sr8n7hhqw86jmr9hg/v/1263107506/original/1500611_BBQK%20Gas%20221_Spirit300%20Connect_1800-1800_4.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=pE2vtO5yJtGvwPEAFdNO55aRmgs="
+    },
+    {
+      "attachment_id": "3zxhq8h6pmrhh8m96tgftbt7",
+      "filename": "1500611_BBQK Gas 221_Spirit300_1800-1800_1.png",
+      "extension": "png",
+      "position": 4,
+      "width": 1800,
+      "height": 1800,
+      "size": 506860,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3zxhq8h6pmrhh8m96tgftbt7/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3zxhq8h6pmrhh8m96tgftbt7/v/1263107507/original/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_1.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=sgoFuQ2cegul9q6rubZHV3NlnPQ=",
+      "url": "https://storage-us-gcs.bfldr.com/3zxhq8h6pmrhh8m96tgftbt7/v/1263107507/original/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_1.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=sgoFuQ2cegul9q6rubZHV3NlnPQ="
+    },
+    {
+      "attachment_id": "m4snbkmzst3m9vppsrn3r",
+      "filename": "1500611_BBQK Gas 221_Spirit300_1800-1800_2.png",
+      "extension": "png",
+      "position": 5,
+      "width": 1800,
+      "height": 1800,
+      "size": 633432,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/m4snbkmzst3m9vppsrn3r/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/m4snbkmzst3m9vppsrn3r/v/1263107508/original/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_2.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=08NxSIL3fVsCCzJEh0YRyGTmP00=",
+      "url": "https://storage-us-gcs.bfldr.com/m4snbkmzst3m9vppsrn3r/v/1263107508/original/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_2.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=08NxSIL3fVsCCzJEh0YRyGTmP00="
+    },
+    {
+      "attachment_id": "48rm8c5n48wgjjjxvst7wvk",
+      "filename": "1500611_BBQK Gas 221_Spirit300_1800-1800_3.png",
+      "extension": "png",
+      "position": 6,
+      "width": 1800,
+      "height": 1800,
+      "size": 494956,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/48rm8c5n48wgjjjxvst7wvk/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/48rm8c5n48wgjjjxvst7wvk/v/1263107510/original/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_3.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=rvEwZo7nlLguRfLoI3NjQcZN8vk=",
+      "url": "https://storage-us-gcs.bfldr.com/48rm8c5n48wgjjjxvst7wvk/v/1263107510/original/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_3.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=rvEwZo7nlLguRfLoI3NjQcZN8vk="
+    },
+    {
+      "attachment_id": "brfpckbcwp9tv3k8kfwm7f9",
+      "filename": "1500611_BBQK Gas 221_Spirit300_1800-1800_4.png",
+      "extension": "png",
+      "position": 7,
+      "width": 1800,
+      "height": 1800,
+      "size": 838294,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/brfpckbcwp9tv3k8kfwm7f9/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_4.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/brfpckbcwp9tv3k8kfwm7f9/v/1263107511/original/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_4.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=BTyCTxGiCZ5W82ifRB_wXo4MNKs=",
+      "url": "https://storage-us-gcs.bfldr.com/brfpckbcwp9tv3k8kfwm7f9/v/1263107511/original/1500611_BBQK%20Gas%20221_Spirit300_1800-1800_4.png?Expires=1784318494&KeyName=gcs-bfldr-prod&Signature=BTyCTxGiCZ5W82ifRB_wXo4MNKs="
+    }
+  ]
+}

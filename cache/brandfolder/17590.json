@@ -1,0 +1,47 @@
+{
+  "cache_version": 5,
+  "sku": "17590",
+  "assets": [
+    {
+      "asset_id": "pn4q5s-28an9s-g1rwqo",
+      "asset_name": "4 kg Charcoal Briquettes 17590 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17590"
+      ]
+    },
+    {
+      "asset_id": "ptlgua-g24e54-4dwaes",
+      "asset_name": "17590/17824 Brand Endorser",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17590",
+        "17824"
+      ]
+    },
+    {
+      "asset_id": "3qqhh9bp659wwfv77z4xh64m",
+      "asset_name": "OFS 02230 03 17590 INT Briquettes Multi-Language 4kg FILM ver2",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17590"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pn4q5s-28an9s-3je38d",
+      "filename": "17590_Briquettes-4kg_Front_REV.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 532744,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pn4q5s-28an9s-3je38d/17590_Briquettes-4kg_Front_REV.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pn4q5s-28an9s-3je38d/v/3117291/original/17590_Briquettes-4kg_Front_REV.png?Expires=1784327790&KeyName=gcs-bfldr-prod&Signature=2-LjeqTG90mevgMbDlQmhrv__Rc=",
+      "url": "https://storage-us-gcs.bfldr.com/pn4q5s-28an9s-3je38d/v/3117291/original/17590_Briquettes-4kg_Front_REV.png?Expires=1784327790&KeyName=gcs-bfldr-prod&Signature=2-LjeqTG90mevgMbDlQmhrv__Rc="
+    }
+  ]
+}

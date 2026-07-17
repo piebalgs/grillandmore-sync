@@ -1,0 +1,124 @@
+{
+  "cache_version": 5,
+  "sku": "17844",
+  "assets": [
+    {
+      "asset_id": "puby6i-5wek8g-fgy9fb",
+      "asset_name": "Steak Knife Set 17844 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17844"
+      ]
+    },
+    {
+      "asset_id": "q0twzj-bgw740-867hjp",
+      "asset_name": "Steak Knife Set 17844 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17844"
+      ]
+    },
+    {
+      "asset_id": "q0twze-8ls1rk-a6vwnk",
+      "asset_name": "Steak Knife Set 17844 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17844"
+      ]
+    },
+    {
+      "asset_id": "puby7q-7qa2go-2uf2hi",
+      "asset_name": "Steak Knife Set 17844 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17844"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "puby6i-5wek8g-3ckbi9",
+      "filename": "17844A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2500,
+      "height": 2500,
+      "size": 5269444,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puby6i-5wek8g-3ckbi9/17844A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puby6i-5wek8g-3ckbi9/v/51722369/original/17844A.png?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=B24OWxJ9278lXDubZfw8ipbMRvQ=",
+      "url": "https://storage-us-gcs.bfldr.com/puby6i-5wek8g-3ckbi9/v/51722369/original/17844A.png?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=B24OWxJ9278lXDubZfw8ipbMRvQ="
+    },
+    {
+      "attachment_id": "puby6i-5wek8g-bppryw",
+      "filename": "17844C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2500,
+      "height": 2500,
+      "size": 6166461,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puby6i-5wek8g-bppryw/17844C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puby6i-5wek8g-bppryw/v/51722371/original/17844C.png?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=Ip9NPswHxpJlDt5N5Vjhany8ga8=",
+      "url": "https://storage-us-gcs.bfldr.com/puby6i-5wek8g-bppryw/v/51722371/original/17844C.png?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=Ip9NPswHxpJlDt5N5Vjhany8ga8="
+    },
+    {
+      "attachment_id": "puby6i-5wek8g-8zusft",
+      "filename": "17844D.png",
+      "extension": "png",
+      "position": 2,
+      "width": 2500,
+      "height": 2500,
+      "size": 4968066,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puby6i-5wek8g-8zusft/17844D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puby6i-5wek8g-8zusft/v/51722372/original/17844D.png?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=l57XSAEiLrjPK4WI0MQuzzM5W_U=",
+      "url": "https://storage-us-gcs.bfldr.com/puby6i-5wek8g-8zusft/v/51722372/original/17844D.png?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=l57XSAEiLrjPK4WI0MQuzzM5W_U="
+    },
+    {
+      "attachment_id": "q0twzj-bgw740-35zkyz",
+      "filename": "17844Y1.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3933,
+      "height": 2622,
+      "size": 4601021,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0twzj-bgw740-35zkyz/17844Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q0twzj-bgw740-35zkyz/v/51722381/original/17844Y1.jpg?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=0Ohv7t03YdLOd7sNugqM1F3tvfQ=",
+      "url": "https://storage-us-gcs.bfldr.com/q0twzj-bgw740-35zkyz/v/51722381/original/17844Y1.jpg?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=0Ohv7t03YdLOd7sNugqM1F3tvfQ="
+    },
+    {
+      "attachment_id": "q0twzj-bgw740-7wkvoz",
+      "filename": "17844Y2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3541,
+      "height": 2360,
+      "size": 5596804,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0twzj-bgw740-7wkvoz/17844Y2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q0twzj-bgw740-7wkvoz/v/51722380/original/17844Y2.jpg?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=CiXm2WcmNs5yWxucAsdODp34tpQ=",
+      "url": "https://storage-us-gcs.bfldr.com/q0twzj-bgw740-7wkvoz/v/51722380/original/17844Y2.jpg?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=CiXm2WcmNs5yWxucAsdODp34tpQ="
+    },
+    {
+      "attachment_id": "q0twze-8ls1rk-gckhg2",
+      "filename": "17844M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3680,
+      "height": 2453,
+      "size": 4412610,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0twze-8ls1rk-gckhg2/17844M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q0twze-8ls1rk-gckhg2/v/51722396/original/17844M1.jpg?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=TQvWzBlf-FUqWEIUbM_nWdHIW9A=",
+      "url": "https://storage-us-gcs.bfldr.com/q0twze-8ls1rk-gckhg2/v/51722396/original/17844M1.jpg?Expires=1784325513&KeyName=gcs-bfldr-prod&Signature=TQvWzBlf-FUqWEIUbM_nWdHIW9A="
+    }
+  ]
+}

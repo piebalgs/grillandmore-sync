@@ -1,0 +1,139 @@
+{
+  "cache_version": 5,
+  "sku": "17067",
+  "assets": [
+    {
+      "asset_id": "pubvym-9p6g9k-eyqfzk",
+      "asset_name": "Fillet Knife 17067 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17067"
+      ]
+    },
+    {
+      "asset_id": "q0tvnq-9m062g-4xcssm",
+      "asset_name": "Fillet Knife 17067 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17067"
+      ]
+    },
+    {
+      "asset_id": "q0tuzq-carvnc-dbzpuf",
+      "asset_name": "Fillet Knife 17067 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17067"
+      ]
+    },
+    {
+      "asset_id": "puc0au-1gbqtc-23um1m",
+      "asset_name": "Fillet Knife 17067 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17067"
+      ]
+    },
+    {
+      "asset_id": "q0txsz-b7mv4-3bc57",
+      "asset_name": "Cutlery Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17067",
+        "17070",
+        "17071",
+        "17072",
+        "17073",
+        "17074",
+        "17077",
+        "17079"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pubvym-9p6g9k-8r6t3m",
+      "filename": "17067A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2500,
+      "height": 2500,
+      "size": 2238033,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pubvym-9p6g9k-8r6t3m/17067A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pubvym-9p6g9k-8r6t3m/v/5225308/original/17067A.png?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=vzNyS6nZkiqZXUEFrYIPBqHQgKk=",
+      "url": "https://storage-us-gcs.bfldr.com/pubvym-9p6g9k-8r6t3m/v/5225308/original/17067A.png?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=vzNyS6nZkiqZXUEFrYIPBqHQgKk="
+    },
+    {
+      "attachment_id": "pubvym-9p6g9k-dny275",
+      "filename": "17067C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2500,
+      "height": 2500,
+      "size": 2767257,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pubvym-9p6g9k-dny275/17067C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pubvym-9p6g9k-dny275/v/5225309/original/17067C.png?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=3e0DNu6O7NSqjX8PlxyijIqRsIU=",
+      "url": "https://storage-us-gcs.bfldr.com/pubvym-9p6g9k-dny275/v/5225309/original/17067C.png?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=3e0DNu6O7NSqjX8PlxyijIqRsIU="
+    },
+    {
+      "attachment_id": "pubvym-9p6g9k-bnde6",
+      "filename": "17067D.png",
+      "extension": "png",
+      "position": 2,
+      "width": 2500,
+      "height": 2500,
+      "size": 568392,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pubvym-9p6g9k-bnde6/17067D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pubvym-9p6g9k-bnde6/v/5225310/original/17067D.png?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=TK_AW-q66nKucdzEWl4jbqL_ews=",
+      "url": "https://storage-us-gcs.bfldr.com/pubvym-9p6g9k-bnde6/v/5225310/original/17067D.png?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=TK_AW-q66nKucdzEWl4jbqL_ews="
+    },
+    {
+      "attachment_id": "q0tvnq-9m062g-bg0o9x",
+      "filename": "17067Y1.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3802,
+      "height": 2535,
+      "size": 4172431,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0tvnq-9m062g-bg0o9x/17067Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q0tvnq-9m062g-bg0o9x/v/6990360/original/17067Y1.jpg?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=dR5vo00ICoW4NulIAwmfFg7If24=",
+      "url": "https://storage-us-gcs.bfldr.com/q0tvnq-9m062g-bg0o9x/v/6990360/original/17067Y1.jpg?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=dR5vo00ICoW4NulIAwmfFg7If24="
+    },
+    {
+      "attachment_id": "q0tvnq-9m062g-4ck85b",
+      "filename": "17067Y2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3745,
+      "height": 2496,
+      "size": 6927165,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0tvnq-9m062g-4ck85b/17067Y2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q0tvnq-9m062g-4ck85b/v/6990361/original/17067Y2.jpg?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=Wsvyqo_iBi9wCusQUzkeVCsET6w=",
+      "url": "https://storage-us-gcs.bfldr.com/q0tvnq-9m062g-4ck85b/v/6990361/original/17067Y2.jpg?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=Wsvyqo_iBi9wCusQUzkeVCsET6w="
+    },
+    {
+      "attachment_id": "q0tuzq-carvnc-2aicpv",
+      "filename": "17067M1.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3321,
+      "height": 2214,
+      "size": 4753371,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0tuzq-carvnc-2aicpv/17067M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q0tuzq-carvnc-2aicpv/v/6990260/original/17067M1.jpg?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=1u4wAj9EWnczmvedM6_NS_xIWm0=",
+      "url": "https://storage-us-gcs.bfldr.com/q0tuzq-carvnc-2aicpv/v/6990260/original/17067M1.jpg?Expires=1784321531&KeyName=gcs-bfldr-prod&Signature=1u4wAj9EWnczmvedM6_NS_xIWm0="
+    }
+  ]
+}

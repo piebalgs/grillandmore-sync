@@ -1,0 +1,82 @@
+{
+  "cache_version": 5,
+  "sku": "7181",
+  "assets": [
+    {
+      "asset_id": "pi56qz-7762ps-d49c26",
+      "asset_name": "Premium Grill Cover 7181 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7181"
+      ]
+    },
+    {
+      "asset_id": "pi56qz-7762ps-1ali2u",
+      "asset_name": "Premium Grill Cover 7181 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7181"
+      ]
+    },
+    {
+      "asset_id": "q5nvko-cblwo-8e3b2v",
+      "asset_name": "Premium Grill Cover 7181 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7181"
+      ]
+    },
+    {
+      "asset_id": "9v7mf68pprs3c8kcc6q5pj9",
+      "asset_name": "180416 0617 RevA lr",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7181"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pi56qz-7762ps-ezs77s",
+      "filename": "7181B1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3698,
+      "height": 3698,
+      "size": 9060152,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi56qz-7762ps-ezs77s/7181B1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi56qz-7762ps-ezs77s/v/2647193/original/7181B1.png?Expires=1784327363&KeyName=gcs-bfldr-prod&Signature=cMns2MvUqXbfnyF-6ODs3uKJJL8=",
+      "url": "https://storage-us-gcs.bfldr.com/pi56qz-7762ps-ezs77s/v/2647193/original/7181B1.png?Expires=1784327363&KeyName=gcs-bfldr-prod&Signature=cMns2MvUqXbfnyF-6ODs3uKJJL8="
+    },
+    {
+      "attachment_id": "pi56qz-7762ps-bpgv3a",
+      "filename": "7181Y1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7068,
+      "height": 5792,
+      "size": 19326801,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi56qz-7762ps-bpgv3a/7181Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi56qz-7762ps-bpgv3a/v/2647194/original/7181Y1.jpg?Expires=1784327363&KeyName=gcs-bfldr-prod&Signature=iRYOwV2Jto7F-RuHEdgPH9uNL64=",
+      "url": "https://storage-us-gcs.bfldr.com/pi56qz-7762ps-bpgv3a/v/2647194/original/7181Y1.jpg?Expires=1784327363&KeyName=gcs-bfldr-prod&Signature=iRYOwV2Jto7F-RuHEdgPH9uNL64="
+    },
+    {
+      "attachment_id": "pi56qz-7762ps-5stnww",
+      "filename": "7181Y2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7068,
+      "height": 5792,
+      "size": 21666915,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi56qz-7762ps-5stnww/7181Y2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi56qz-7762ps-5stnww/v/2647195/original/7181Y2.jpg?Expires=1784327363&KeyName=gcs-bfldr-prod&Signature=Pv0wEdRAH6CgVm2a0E3nmeBIZWQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pi56qz-7762ps-5stnww/v/2647195/original/7181Y2.jpg?Expires=1784327363&KeyName=gcs-bfldr-prod&Signature=Pv0wEdRAH6CgVm2a0E3nmeBIZWQ="
+    }
+  ]
+}

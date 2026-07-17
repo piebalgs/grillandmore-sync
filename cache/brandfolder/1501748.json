@@ -1,0 +1,181 @@
+{
+  "cache_version": 2,
+  "sku": "1501748",
+  "assets": [
+    {
+      "asset_id": "4q4kcg9b89nmbqbthgsfhf",
+      "asset_name": "[EMEA] Weber Traveler Compact WW LP",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mb7mvqnfcc3q3qw7xm5nm7kh",
+      "asset_name": "EMEA WEBER TRAVELER COMPACT GRILL MASTER COPY",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nbs7sbpqg8jhjprwt3638mf",
+      "asset_name": "Weber Traveler Compact WW [PLATE]",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3fxxp4mqws5fzbwtfmq5g39",
+      "asset_name": "Weber Traveler Compact WW",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8t5brz6jbsqhk8jm9rhh63n",
+      "asset_name": "Weber Traveler Compact WW",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "2jh3f8vcx9n464v3sk9tgss",
+      "asset_name": "Weber Traveler Compact WW",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "r6hnxqmwgmqh9s93sgz5gfm",
+      "asset_name": "Weber Traveler Compact WW",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nshqp45bg2spqqmq3wzkwb8",
+      "asset_name": "[EMEA] Weber Traveler Compact WW",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "34wjvzv99s3k7vpfxhqcfc7r",
+      "asset_name": "[cze] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pvc3qp2bpmvr4n5m6gp543v4",
+      "asset_name": "[dan] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "938825pxxf2hht882vrgz6w",
+      "asset_name": "[dut-NL] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "vnk28qqt47v9qb35w53jr9",
+      "asset_name": "[eng-GB] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "j9cnpwrhv2zs8b3p9vwc47",
+      "asset_name": "[fin] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nq5gbckmmrsh78tnr9tnkk",
+      "asset_name": "[fre-FR] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5h26fz3nrt6k33w8872j7s2",
+      "asset_name": "[ger-DE] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mtqtx48b6x3jmb7nmjfqmvx",
+      "asset_name": "[hrv] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "qxbkjhv4wcjfrbx986fn5rn9",
+      "asset_name": "[ita-IT] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rqgq335bpxsg9f9hbkmmwjbg",
+      "asset_name": "[no] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "g9sxnc6hr8jxqkq5gkvssrb",
+      "asset_name": "[pol] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ch6cbqfcgs54vw9ccw6b5",
+      "asset_name": "[por-PT] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "q596t8m6j889rpvkmng3g66t",
+      "asset_name": "[sk] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "sxxwhjb5cchzm54p4hncwq",
+      "asset_name": "[slv] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mb3cwxbvwbj9xrk3vn7csh5",
+      "asset_name": "[spa-ES] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "btwpgm836k7p9kfk4b7nh3hn",
+      "asset_name": "[swe-SE] WEBER TRAVELER COMPACT GRILL MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4hksfpgkbhgf8jr893m9965",
+      "asset_name": "TravelerCompact EMEA Dimensions",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "382kw3bqx3kcqrwmnrvxgw",
+      "filename": "1501741_Gas_TRAVELER_COMP WW LP BLK US_CA_Mrgb_BC_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 4000,
+      "height": 4001,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/382kw3bqx3kcqrwmnrvxgw/1501741_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20US_CA_Mrgb_BC_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/382kw3bqx3kcqrwmnrvxgw/v/1276154233/original/1501741_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20US_CA_Mrgb_BC_rgb.png?Expires=1784297923&KeyName=gcs-bfldr-prod&Signature=Ar18C374RlWc4AVz75QTdBI01KQ=",
+      "url": "https://storage-us-gcs.bfldr.com/382kw3bqx3kcqrwmnrvxgw/v/1276154233/original/1501741_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20US_CA_Mrgb_BC_rgb.png?Expires=1784297923&KeyName=gcs-bfldr-prod&Signature=Ar18C374RlWc4AVz75QTdBI01KQ="
+    },
+    {
+      "attachment_id": "vcjkjgbc6kfkmxnsckjvc5gr",
+      "filename": "1501747_Gas_TRAVELER_COMP WW LP BLK EMEA_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3990,
+      "height": 3990,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vcjkjgbc6kfkmxnsckjvc5gr/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vcjkjgbc6kfkmxnsckjvc5gr/v/1269721745/original/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_A_rgb.png?Expires=1784297923&KeyName=gcs-bfldr-prod&Signature=TcLgbNm7U5voJc7-FGCwdihYEMk=",
+      "url": "https://storage-us-gcs.bfldr.com/vcjkjgbc6kfkmxnsckjvc5gr/v/1269721745/original/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_A_rgb.png?Expires=1784297923&KeyName=gcs-bfldr-prod&Signature=TcLgbNm7U5voJc7-FGCwdihYEMk="
+    },
+    {
+      "attachment_id": "9nq7m8gvmsj9966b3b734b6s",
+      "filename": "1501747_Gas_TRAVELER_COMP WW LP BLK EMEA_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3999,
+      "height": 3999,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9nq7m8gvmsj9966b3b734b6s/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9nq7m8gvmsj9966b3b734b6s/v/1269721747/original/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_B_rgb.png?Expires=1784297923&KeyName=gcs-bfldr-prod&Signature=vTP9GaKb2XpklqQBRFgR0KbSsYM=",
+      "url": "https://storage-us-gcs.bfldr.com/9nq7m8gvmsj9966b3b734b6s/v/1269721747/original/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_B_rgb.png?Expires=1784297923&KeyName=gcs-bfldr-prod&Signature=vTP9GaKb2XpklqQBRFgR0KbSsYM="
+    },
+    {
+      "attachment_id": "ghn7v4bm7jvp8w84xg94jzbm",
+      "filename": "1501747_Gas_TRAVELER_COMP WW LP BLK EMEA_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3990,
+      "height": 3990,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ghn7v4bm7jvp8w84xg94jzbm/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ghn7v4bm7jvp8w84xg94jzbm/v/1269721749/original/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_C_rgb.png?Expires=1784297923&KeyName=gcs-bfldr-prod&Signature=zmzFJRLlaYZ3waumtXxvaOJwnLg=",
+      "url": "https://storage-us-gcs.bfldr.com/ghn7v4bm7jvp8w84xg94jzbm/v/1269721749/original/1501747_Gas_TRAVELER_COMP%20WW%20LP%20BLK%20EMEA_C_rgb.png?Expires=1784297923&KeyName=gcs-bfldr-prod&Signature=zmzFJRLlaYZ3waumtXxvaOJwnLg="
+    }
+  ]
+}

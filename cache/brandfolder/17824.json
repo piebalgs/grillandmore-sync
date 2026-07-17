@@ -1,0 +1,61 @@
+{
+  "cache_version": 5,
+  "sku": "17824",
+  "assets": [
+    {
+      "asset_id": "ptam3r-b2l01k-emfdf9",
+      "asset_name": "3 kg Lumpwood Charcoal 17824 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17824"
+      ]
+    },
+    {
+      "asset_id": "ptlgua-g24e54-4dwaes",
+      "asset_name": "17590/17824 Brand Endorser",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17590",
+        "17824"
+      ]
+    },
+    {
+      "asset_id": "mrrq35hmxtkks83n55xf727",
+      "asset_name": "17824 Premium Lumpwood Charcoal 3kg 1025 RevB OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17824"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ptam3r-b2l01k-f2tumt",
+      "filename": "17824B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3744,
+      "height": 5616,
+      "size": 15683775,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptam3r-b2l01k-f2tumt/17824B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptam3r-b2l01k-f2tumt/v/4215810/original/17824B.png?Expires=1784327750&KeyName=gcs-bfldr-prod&Signature=GrIYai8Mj40OZG1jX6IF5HS1aos=",
+      "url": "https://storage-us-gcs.bfldr.com/ptam3r-b2l01k-f2tumt/v/4215810/original/17824B.png?Expires=1784327750&KeyName=gcs-bfldr-prod&Signature=GrIYai8Mj40OZG1jX6IF5HS1aos="
+    },
+    {
+      "attachment_id": "ptam3r-b2l01k-chded8",
+      "filename": "17824C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3744,
+      "height": 5616,
+      "size": 14177861,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptam3r-b2l01k-chded8/17824C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptam3r-b2l01k-chded8/v/4215809/original/17824C.png?Expires=1784327750&KeyName=gcs-bfldr-prod&Signature=R6TmlEqt9Raoxt8bsD_NjxxLcBg=",
+      "url": "https://storage-us-gcs.bfldr.com/ptam3r-b2l01k-chded8/v/4215809/original/17824C.png?Expires=1784327750&KeyName=gcs-bfldr-prod&Signature=R6TmlEqt9Raoxt8bsD_NjxxLcBg="
+    }
+  ]
+}

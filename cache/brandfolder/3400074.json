@@ -1,0 +1,361 @@
+{
+  "cache_version": 5,
+  "sku": "3400074",
+  "assets": [
+    {
+      "asset_id": "jprwcgv34phssrq2zqwjn6g",
+      "asset_name": "(cze) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "nxk5266msq24pv8mvs49hv",
+      "asset_name": "(dan) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "hqb9swqhmc2hw7j953v6cx9",
+      "asset_name": "(dut-NL) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "rr3gscqfjw3g4skgpt7jx7",
+      "asset_name": "(eng-GB) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "s3m9vx9kh47zxq354pngb4x",
+      "asset_name": "(fin) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "nc5445fns5b7htjwhq3t6c7",
+      "asset_name": "(fre-FR) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "fh9hhn5fhm2zh6wzvkskgms8",
+      "asset_name": "(ger-DE) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "44tz569tr7rv6ch4rgt6gm",
+      "asset_name": "(ita-IT) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "9qgrbxpp8c8kjwwmtknkts9b",
+      "asset_name": "(no) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "7jb6vcm9xcpsk665r365c",
+      "asset_name": "(pol) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "9599v2mw66g78q6rjptj6",
+      "asset_name": "(por-PT) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "7grfkhj9b2sw5m8f9ffnm85",
+      "asset_name": "(sk) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "5nsfnnw8j8gpcs6c35b6n33",
+      "asset_name": "(spa-ES) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "8tnnm62n7rr4ssb3jr33rn3k",
+      "asset_name": "(swe-SE) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "29sn8b5kh649qxkqk8km55cf",
+      "asset_name": "00 (en-US) Portable Griddle Tool Set MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "wjnzw4mq6s46wbrhjphshxgx",
+      "asset_name": "3400074 Portable Griddle Tool Set Packaging 3400074 A rgb",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "fscm7nrcw6f2wv8749m5fwx",
+      "asset_name": "Griddle Portable Tool Set",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    },
+    {
+      "asset_id": "2tf65ktmn4f96jct77jf6bw",
+      "asset_name": "Weber Traveler WW",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501732",
+        "1501740",
+        "1501744",
+        "3400074",
+        "1501718",
+        "1501733",
+        "1501696",
+        "1501761",
+        "1501734",
+        "1501760",
+        "1501719",
+        "1501742",
+        "1501743",
+        "1501745",
+        "7034",
+        "1501746"
+      ]
+    },
+    {
+      "asset_id": "cp583xztmtjr6mn43k3376",
+      "asset_name": "Weber Traveler WW",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501733",
+        "1501742",
+        "1501740",
+        "7034",
+        "1501718",
+        "1501744",
+        "1501745",
+        "1501743",
+        "1501732",
+        "1501746",
+        "1501734",
+        "1501696",
+        "1501761",
+        "3400074",
+        "1501760",
+        "1501719"
+      ]
+    },
+    {
+      "asset_id": "nw8jmp2fxc3h7xqvxs48tgmt",
+      "asset_name": "Weber Traveler WW",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074",
+        "1501744",
+        "1501734",
+        "1501696",
+        "1501742",
+        "1501743",
+        "1501745",
+        "1501732",
+        "1501719",
+        "7034",
+        "1501746",
+        "1501733",
+        "1501740",
+        "1501761",
+        "1501760",
+        "1501718"
+      ]
+    },
+    {
+      "asset_id": "bt5qxmvsh3n49c6w3hxh7rz",
+      "asset_name": "8650359 9500331 1125 RevC CH LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400074"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "cxwk5zcqkqwgfxqbqz3899cm",
+      "filename": "1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8228,
+      "height": 5485,
+      "size": 27156471,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cxwk5zcqkqwgfxqbqz3899cm/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=PlS0oYSMrv_btUVzEB6yrBltyr8=",
+      "url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=PlS0oYSMrv_btUVzEB6yrBltyr8="
+    },
+    {
+      "attachment_id": "pw3t9jsvr58hk9qjqftpcc8c",
+      "filename": "1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8228,
+      "height": 5485,
+      "size": 23982352,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pw3t9jsvr58hk9qjqftpcc8c/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=DzcNwSgOu3omKX2knICH1GqrHVg=",
+      "url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=DzcNwSgOu3omKX2knICH1GqrHVg="
+    },
+    {
+      "attachment_id": "cwsrng968n5hv5m6cw89vjk",
+      "filename": "1501740_044_TravelerWW_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8400,
+      "height": 5600,
+      "size": 24714566,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cwsrng968n5hv5m6cw89vjk/1501740_044_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=-gZc5TMeciJlBvvJpfP5uUcHPW0=",
+      "url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=-gZc5TMeciJlBvvJpfP5uUcHPW0="
+    },
+    {
+      "attachment_id": "rsg3pqcb93q5nvpr4v2b8r2g",
+      "filename": "3400074 Portable Griddle Tool Set Packaging 3400074_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4800,
+      "height": 4800,
+      "size": 7680332,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rsg3pqcb93q5nvpr4v2b8r2g/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rsg3pqcb93q5nvpr4v2b8r2g/v/1279414771/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_A_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=moEwE8UL0lSf9hxEZYf3W533h88=",
+      "url": "https://storage-us-gcs.bfldr.com/rsg3pqcb93q5nvpr4v2b8r2g/v/1279414771/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_A_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=moEwE8UL0lSf9hxEZYf3W533h88="
+    },
+    {
+      "attachment_id": "r379vt978xtvnxhbsw55j7b",
+      "filename": "3400074 Portable Griddle Tool Set Packaging 3400074_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4800,
+      "height": 4800,
+      "size": 6557440,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r379vt978xtvnxhbsw55j7b/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/r379vt978xtvnxhbsw55j7b/v/1279414773/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_B_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=2XxS4m6LPolBjk9AkhCHqbOpc9c=",
+      "url": "https://storage-us-gcs.bfldr.com/r379vt978xtvnxhbsw55j7b/v/1279414773/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_B_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=2XxS4m6LPolBjk9AkhCHqbOpc9c="
+    },
+    {
+      "attachment_id": "gqz894bq47gmx3ggfbkm79",
+      "filename": "3400074 Portable Griddle Tool Set Packaging 3400074_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4800,
+      "height": 4800,
+      "size": 7721597,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gqz894bq47gmx3ggfbkm79/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gqz894bq47gmx3ggfbkm79/v/1279414774/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_C_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=iC9htmM_iNIbN4u3kfjwhyPRY28=",
+      "url": "https://storage-us-gcs.bfldr.com/gqz894bq47gmx3ggfbkm79/v/1279414774/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_C_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=iC9htmM_iNIbN4u3kfjwhyPRY28="
+    },
+    {
+      "attachment_id": "hkkn8n3zrgt5ng4xqfmg4cbh",
+      "filename": "Griddle Portable Tool Set 3400074 3400074A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 2804697,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hkkn8n3zrgt5ng4xqfmg4cbh/Griddle%20Portable%20Tool%20Set%203400074%203400074A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hkkn8n3zrgt5ng4xqfmg4cbh/v/1279416437/original/Griddle%20Portable%20Tool%20Set%203400074%203400074A_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=i-oHsIM8wXUWiBlEfXMtZ2Fob94=",
+      "url": "https://storage-us-gcs.bfldr.com/hkkn8n3zrgt5ng4xqfmg4cbh/v/1279416437/original/Griddle%20Portable%20Tool%20Set%203400074%203400074A_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=i-oHsIM8wXUWiBlEfXMtZ2Fob94="
+    },
+    {
+      "attachment_id": "8s2f9qqxsx93fhh95xhfwtc7",
+      "filename": "Griddle Portable Tool Set 3400074 3400074B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 2289482,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8s2f9qqxsx93fhh95xhfwtc7/Griddle%20Portable%20Tool%20Set%203400074%203400074B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8s2f9qqxsx93fhh95xhfwtc7/v/1279416440/original/Griddle%20Portable%20Tool%20Set%203400074%203400074B_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=MRvkwwyRHzc6bb1BQwM1R0zEcXM=",
+      "url": "https://storage-us-gcs.bfldr.com/8s2f9qqxsx93fhh95xhfwtc7/v/1279416440/original/Griddle%20Portable%20Tool%20Set%203400074%203400074B_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=MRvkwwyRHzc6bb1BQwM1R0zEcXM="
+    },
+    {
+      "attachment_id": "q54xq7gvgt69qm5nn6cphmn6",
+      "filename": "Griddle Portable Tool Set 3400074 3400074C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 2164818,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q54xq7gvgt69qm5nn6cphmn6/Griddle%20Portable%20Tool%20Set%203400074%203400074C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q54xq7gvgt69qm5nn6cphmn6/v/1279416443/original/Griddle%20Portable%20Tool%20Set%203400074%203400074C_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=7hM2h3cYpE55fCxPE-X3ie5AOOE=",
+      "url": "https://storage-us-gcs.bfldr.com/q54xq7gvgt69qm5nn6cphmn6/v/1279416443/original/Griddle%20Portable%20Tool%20Set%203400074%203400074C_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=7hM2h3cYpE55fCxPE-X3ie5AOOE="
+    },
+    {
+      "attachment_id": "2tgv6nwxc9f7n35tr96bckj",
+      "filename": "Griddle Portable Tool Set 3400074 3400074D_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3600,
+      "height": 3600,
+      "size": 2085320,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2tgv6nwxc9f7n35tr96bckj/Griddle%20Portable%20Tool%20Set%203400074%203400074D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2tgv6nwxc9f7n35tr96bckj/v/1279416445/original/Griddle%20Portable%20Tool%20Set%203400074%203400074D_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=U-8NzsXACMzbnkoc-ndXdpLWcmU=",
+      "url": "https://storage-us-gcs.bfldr.com/2tgv6nwxc9f7n35tr96bckj/v/1279416445/original/Griddle%20Portable%20Tool%20Set%203400074%203400074D_rgb.png?Expires=1784301948&KeyName=gcs-bfldr-prod&Signature=U-8NzsXACMzbnkoc-ndXdpLWcmU="
+    }
+  ]
+}

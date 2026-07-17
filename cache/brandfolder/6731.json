@@ -1,0 +1,82 @@
+{
+  "cache_version": 5,
+  "sku": "6731",
+  "assets": [
+    {
+      "asset_id": "pjxvz6-dic24g-7zbh3i",
+      "asset_name": "Deluxe Poultry Roaster 6731 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6731"
+      ]
+    },
+    {
+      "asset_id": "pjxvz6-dic24g-cxk0me",
+      "asset_name": "Deluxe Poultry Roaster 6731 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6731"
+      ]
+    },
+    {
+      "asset_id": "q60e5d-dyvsvs-1n7wk8",
+      "asset_name": "Deluxe Poultry Roaster 6731 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6731"
+      ]
+    },
+    {
+      "asset_id": "vq43fhks493hvg5m4j74bq6",
+      "asset_name": "174324 0716 RevB",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6731"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pjxvz6-dic24g-dj1los",
+      "filename": "6731B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2320,
+      "height": 1476,
+      "size": 1616916,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjxvz6-dic24g-dj1los/6731B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjxvz6-dic24g-dj1los/v/2802830/original/6731B.png?Expires=1784331231&KeyName=gcs-bfldr-prod&Signature=rk-bTNt3v6TEXPrn6Fuf1ZaOngs=",
+      "url": "https://storage-us-gcs.bfldr.com/pjxvz6-dic24g-dj1los/v/2802830/original/6731B.png?Expires=1784331231&KeyName=gcs-bfldr-prod&Signature=rk-bTNt3v6TEXPrn6Fuf1ZaOngs="
+    },
+    {
+      "attachment_id": "pjxvz6-dic24g-6mg3b2",
+      "filename": "6731C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1960,
+      "height": 1444,
+      "size": 1191679,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjxvz6-dic24g-6mg3b2/6731C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjxvz6-dic24g-6mg3b2/v/2802831/original/6731C.png?Expires=1784331231&KeyName=gcs-bfldr-prod&Signature=ouO0CQRx858e4jOEBViIw5W6Flc=",
+      "url": "https://storage-us-gcs.bfldr.com/pjxvz6-dic24g-6mg3b2/v/2802831/original/6731C.png?Expires=1784331231&KeyName=gcs-bfldr-prod&Signature=ouO0CQRx858e4jOEBViIw5W6Flc="
+    },
+    {
+      "attachment_id": "pjxvz6-dic24g-1pii77",
+      "filename": "6731M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5760,
+      "height": 3840,
+      "size": 11261852,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjxvz6-dic24g-1pii77/6731M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjxvz6-dic24g-1pii77/v/2802832/original/6731M1.jpg?Expires=1784331231&KeyName=gcs-bfldr-prod&Signature=ydcc0M2zkFukF_pATTYPTX3BsXg=",
+      "url": "https://storage-us-gcs.bfldr.com/pjxvz6-dic24g-1pii77/v/2802832/original/6731M1.jpg?Expires=1784331231&KeyName=gcs-bfldr-prod&Signature=ydcc0M2zkFukF_pATTYPTX3BsXg="
+    }
+  ]
+}

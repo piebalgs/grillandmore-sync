@@ -1,0 +1,59 @@
+{
+  "cache_version": 2,
+  "sku": "3401232",
+  "assets": [
+    {
+      "asset_id": "vzbbm99bg67bvr77wfsmthkq",
+      "asset_name": "[EMEA] Lumin Premium Cart",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kw7mvgt3286j69qhp7jqm4r",
+      "asset_name": "enEMEA Lumin Premium Cart 3401232 MasterCopyDoc FY26 FINAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5xgsxjvnqbmmh59bmg7vhrg3",
+      "asset_name": "9501932 0825 RevA",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "qkkc98knfmkzmfp8m3j69hwr",
+      "filename": "3401232_LuminPremiumStand_A_EMEA_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qkkc98knfmkzmfp8m3j69hwr/3401232_LuminPremiumStand_A_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qkkc98knfmkzmfp8m3j69hwr/v/1276012619/original/3401232_LuminPremiumStand_A_EMEA_rgb.png?Expires=1784296364&KeyName=gcs-bfldr-prod&Signature=3y0PcpyepyDgahNuOvWwUFt4gus=",
+      "url": "https://storage-us-gcs.bfldr.com/qkkc98knfmkzmfp8m3j69hwr/v/1276012619/original/3401232_LuminPremiumStand_A_EMEA_rgb.png?Expires=1784296364&KeyName=gcs-bfldr-prod&Signature=3y0PcpyepyDgahNuOvWwUFt4gus="
+    },
+    {
+      "attachment_id": "kkvphnzgcbwn42f8f2xmz69",
+      "filename": "3401232_LuminPremiumStand_B_EMEA_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kkvphnzgcbwn42f8f2xmz69/3401232_LuminPremiumStand_B_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kkvphnzgcbwn42f8f2xmz69/v/1276012622/original/3401232_LuminPremiumStand_B_EMEA_rgb.png?Expires=1784296364&KeyName=gcs-bfldr-prod&Signature=1cpvzEzEeD67ob4IwNSfFjyZ_DU=",
+      "url": "https://storage-us-gcs.bfldr.com/kkvphnzgcbwn42f8f2xmz69/v/1276012622/original/3401232_LuminPremiumStand_B_EMEA_rgb.png?Expires=1784296364&KeyName=gcs-bfldr-prod&Signature=1cpvzEzEeD67ob4IwNSfFjyZ_DU="
+    },
+    {
+      "attachment_id": "7zqbngncfhn99n7zpkmbqk8m",
+      "filename": "3401232_LuminPremiumStand_C_EMEA_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7zqbngncfhn99n7zpkmbqk8m/3401232_LuminPremiumStand_C_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7zqbngncfhn99n7zpkmbqk8m/v/1276012624/original/3401232_LuminPremiumStand_C_EMEA_rgb.png?Expires=1784296364&KeyName=gcs-bfldr-prod&Signature=Ntm7X3k5wlQsIbJ8CkfxVExuHYE=",
+      "url": "https://storage-us-gcs.bfldr.com/7zqbngncfhn99n7zpkmbqk8m/v/1276012624/original/3401232_LuminPremiumStand_C_EMEA_rgb.png?Expires=1784296364&KeyName=gcs-bfldr-prod&Signature=Ntm7X3k5wlQsIbJ8CkfxVExuHYE="
+    }
+  ]
+}

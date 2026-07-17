@@ -1,0 +1,150 @@
+{
+  "cache_version": 5,
+  "sku": "6761",
+  "assets": [
+    {
+      "asset_id": "v63w7ggfq5wm83kjmj8hqf",
+      "asset_name": "Precision Grill Spatula 6761/6769 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6761",
+        "6769"
+      ]
+    },
+    {
+      "asset_id": "jbj8v8fh77c37k8775b8kcg",
+      "asset_name": "Precision Grill Spatula 6761/6769 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6761",
+        "6769"
+      ]
+    },
+    {
+      "asset_id": "svs6mzmbkh6bgjc4q959k29",
+      "asset_name": "Precision Grill Spatula 6761 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6761",
+        "6769"
+      ]
+    },
+    {
+      "asset_id": "xjscpffnpm8nbcn8f3rjtf",
+      "asset_name": "Precision Grill Spatula 6769 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6769",
+        "6761"
+      ]
+    },
+    {
+      "asset_id": "88wqfr8mmzn9k4xzqrpttwcc",
+      "asset_name": "53472 1220 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6761"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "km65p7fkqjvphqj7jk69b9rb",
+      "filename": "6761_6769A_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 2505023,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/km65p7fkqjvphqj7jk69b9rb/6761_6769A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/km65p7fkqjvphqj7jk69b9rb/v/51803151/original/6761_6769A_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/km65p7fkqjvphqj7jk69b9rb/v/51803151/original/6761_6769A_rgb.png"
+    },
+    {
+      "attachment_id": "4vmc48pprvprgs2hnxh7kx68",
+      "filename": "6761_6769B_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "size": 1782766,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4vmc48pprvprgs2hnxh7kx68/6761_6769B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/4vmc48pprvprgs2hnxh7kx68/v/51803152/original/6761_6769B_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/4vmc48pprvprgs2hnxh7kx68/v/51803152/original/6761_6769B_rgb.png"
+    },
+    {
+      "attachment_id": "vrwg7njrtkjmrmn3k7pn5b",
+      "filename": "6761_6769C_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3000,
+      "height": 3000,
+      "size": 2610922,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vrwg7njrtkjmrmn3k7pn5b/6761_6769C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/vrwg7njrtkjmrmn3k7pn5b/v/51803153/original/6761_6769C_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/vrwg7njrtkjmrmn3k7pn5b/v/51803153/original/6761_6769C_rgb.png"
+    },
+    {
+      "attachment_id": "cqqkskz7349j5bbgv85ww9t",
+      "filename": "6761_6769D_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3089,
+      "height": 3089,
+      "size": 1206329,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cqqkskz7349j5bbgv85ww9t/6761_6769D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/cqqkskz7349j5bbgv85ww9t/v/52429555/original/6761_6769D_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/cqqkskz7349j5bbgv85ww9t/v/52429555/original/6761_6769D_rgb.png"
+    },
+    {
+      "attachment_id": "tcfrvz4pbz9zvk6qc7qbnmn",
+      "filename": "6761_6769Y1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2571,
+      "size": 8717990,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tcfrvz4pbz9zvk6qc7qbnmn/6761_6769Y1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/tcfrvz4pbz9zvk6qc7qbnmn/v/52564008/original/6761_6769Y1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/tcfrvz4pbz9zvk6qc7qbnmn/v/52564008/original/6761_6769Y1_rgb.jpg"
+    },
+    {
+      "attachment_id": "9c7rv6xcqcfrgrnf4kxr6t",
+      "filename": "6761_6769Y2_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 2571,
+      "size": 5531748,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9c7rv6xcqcfrgrnf4kxr6t/6761_6769Y2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/9c7rv6xcqcfrgrnf4kxr6t/v/52522788/original/6761_6769Y2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/9c7rv6xcqcfrgrnf4kxr6t/v/52522788/original/6761_6769Y2_rgb.jpg"
+    },
+    {
+      "attachment_id": "29jbhv2rjv7sgrfksqx6ff5",
+      "filename": "6761_6769Y3_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 2880,
+      "size": 4464770,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/29jbhv2rjv7sgrfksqx6ff5/6761_6769Y3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/29jbhv2rjv7sgrfksqx6ff5/v/52522790/original/6761_6769Y3_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/29jbhv2rjv7sgrfksqx6ff5/v/52522790/original/6761_6769Y3_rgb.jpg"
+    }
+  ]
+}

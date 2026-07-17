@@ -1,0 +1,52 @@
+{
+  "cache_version": 5,
+  "sku": "3401050",
+  "assets": [
+    {
+      "asset_id": "vw3nm8xvx43bbrqg2t65gw6s",
+      "asset_name": "3401050 Pellet Fuel Cherry Back 1800x1800",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401050"
+      ]
+    },
+    {
+      "asset_id": "fk939mbvng45tjh8v33v4wm",
+      "asset_name": "3401050 CHERRY 0125 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401050"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "tgqx5jqg8cwstrpm754wz9w",
+      "filename": "3401050_PelletFuel_Cherry_Back_1800x1800.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 2215832,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tgqx5jqg8cwstrpm754wz9w/3401050_PelletFuel_Cherry_Back_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tgqx5jqg8cwstrpm754wz9w/v/1263105726/original/3401050_PelletFuel_Cherry_Back_1800x1800.png?Expires=1784301350&KeyName=gcs-bfldr-prod&Signature=uu0_xtmjTJH9ElZOyHQSnwPFFRk=",
+      "url": "https://storage-us-gcs.bfldr.com/tgqx5jqg8cwstrpm754wz9w/v/1263105726/original/3401050_PelletFuel_Cherry_Back_1800x1800.png?Expires=1784301350&KeyName=gcs-bfldr-prod&Signature=uu0_xtmjTJH9ElZOyHQSnwPFFRk="
+    },
+    {
+      "attachment_id": "mkwmfgtnffj8hs7cx37fknz",
+      "filename": "3401050_PelletFuel_Cherry_Front_1800x1800.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 2160467,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mkwmfgtnffj8hs7cx37fknz/3401050_PelletFuel_Cherry_Front_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mkwmfgtnffj8hs7cx37fknz/v/1263106603/original/3401050_PelletFuel_Cherry_Front_1800x1800.png?Expires=1784301350&KeyName=gcs-bfldr-prod&Signature=_5IcjRR53Iv_pyb1YR1O9TfbS1A=",
+      "url": "https://storage-us-gcs.bfldr.com/mkwmfgtnffj8hs7cx37fknz/v/1263106603/original/3401050_PelletFuel_Cherry_Front_1800x1800.png?Expires=1784301350&KeyName=gcs-bfldr-prod&Signature=_5IcjRR53Iv_pyb1YR1O9TfbS1A="
+    }
+  ]
+}

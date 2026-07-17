@@ -1,0 +1,695 @@
+{
+  "cache_version": 5,
+  "sku": "14701004",
+  "assets": [
+    {
+      "asset_id": "pf0cpl-5gnmig-58la9k",
+      "asset_name": "57CM Master Touch Charcoal Kettle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502482",
+        "14701004",
+        "1502483"
+      ]
+    },
+    {
+      "asset_id": "pfbm13-cinefs-ezjkxq",
+      "asset_name": "14701004 iGrill Bracket",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502482",
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "pf0csi-avqkwg-f7qxsw",
+      "asset_name": "14701004 Thermometer",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "pf0csi-avqkwg-9p41ew",
+      "asset_name": "14701004 Tool Hooks ",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "pf0csi-avqkwg-avlnr8",
+      "asset_name": "14701004 Wheels",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "g7p6pf856jhnw9ncp436mn",
+      "asset_name": "2407 Weber MasterTouch 5195 BST 1.1 Kopie",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "8pt78zkq79k3vb9msmts7m8",
+      "asset_name": "2407 Weber MasterTouch 5368 BST 1 Final",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502482",
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "ncb43j72w3zjsgtbjpp38vr",
+      "asset_name": "2407 Weber MasterTouch 5407 BST 1 Kopie",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502482",
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "w943jcbbqfgpnsr3hq39",
+      "asset_name": "2407 Weber MasterTouch 5475 BST 1 Kopie",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "qc2b3x93ts9pvnr42prxwnv6",
+      "asset_name": "enUS KETTLE MASTER-TOUCH 57CM BLK 14701004 EU NEXUS2026 MasterCopy FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "1502483",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "vpr9q94wmfjvkx486hnqc8n",
+      "asset_name": "[Celsius] Charcoal Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653",
+        "3400324",
+        "3401200",
+        "14701004",
+        "3401210",
+        "1502483",
+        "1502482",
+        "14501001"
+      ]
+    },
+    {
+      "asset_id": "9km4sng7gcxp4555swzpkj8",
+      "asset_name": "22IN / 57CM Master Touch",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "14501001",
+        "1502482",
+        "1502483"
+      ]
+    },
+    {
+      "asset_id": "s73scwqw56st3bmm6gf6k8v",
+      "asset_name": "22IN / 57CM Master Touch [Plate]",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502483",
+        "14701004",
+        "14501001",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "rvjnqmm6pkqgk75wrssqk8",
+      "asset_name": "22IN / 57CM Master Touch",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "14501001",
+        "1502483",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "5z35nh5jtjm7c5qfq49cmpj",
+      "asset_name": "22IN / 57CM Master Touch",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502483",
+        "14701004",
+        "14501001",
+        "1502482"
+      ]
+    },
+    {
+      "asset_id": "39hjbnkqmjwvrm85cxhhkgwb",
+      "asset_name": "22IN / 57CM Master Touch",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502482",
+        "14501001",
+        "14701004",
+        "1502483"
+      ]
+    },
+    {
+      "asset_id": "4wpb8wn733hzc5q4bkfm4jqx",
+      "asset_name": "22IN / 57CM Master Touch [PLATE]",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "1502205",
+        "1502203",
+        "14513601",
+        "1502204",
+        "1500230",
+        "14516001",
+        "1502482",
+        "1502483",
+        "14505601",
+        "14511601",
+        "14510601",
+        "14501001"
+      ]
+    },
+    {
+      "asset_id": "nqrvgf5k2w6wsh4wh8psp6nz",
+      "asset_name": "22IN / 57CM Master Touch",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14501001",
+        "1502482",
+        "1502483",
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "8x7sh59j3j4hws3srkf8t4",
+      "asset_name": "22IN / 57CM Master Touch",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "1502483",
+        "1502482",
+        "14501001"
+      ]
+    },
+    {
+      "asset_id": "rmcb3p2ts4mh6hbqq6bn35cw",
+      "asset_name": "22IN / 57CM Master Touch",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502482",
+        "14501001",
+        "14701004",
+        "1502483"
+      ]
+    },
+    {
+      "asset_id": "6brtx2mfhvfrb6xc6w22j",
+      "asset_name": "22IN / 57CM Master Touch",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004",
+        "14501001",
+        "1502482",
+        "1502483"
+      ]
+    },
+    {
+      "asset_id": "6zbwx99hwvkm74nmgftb6s45",
+      "asset_name": "[CS] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "27tjbr7jqj6x47q86p477f6z",
+      "asset_name": "[DA] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "5463j4k6nsj86mj9n7qwtwr",
+      "asset_name": "[DE] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "8t9x9j6gwv4k7cj7wbjgcbg9",
+      "asset_name": "[EN-GB] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "77fp88k5bh7mkjvjtx79pr8",
+      "asset_name": "[ES] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "mf4xthxgwt96kjpm9pbs865h",
+      "asset_name": "[FI] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "mgwkkgxx3vhkskg6mqjg2m48",
+      "asset_name": "[FR] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "xbff5smg4gcqszvk4fqzqchx",
+      "asset_name": "[HR] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "m8jst9khjsrb2hs5fgf3tsk7",
+      "asset_name": "[IT] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "pm55jwnfk76c3bk7m6prrf3",
+      "asset_name": "[NL] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "9ckxbw8c8hf2svqn9f7tk85",
+      "asset_name": "[NO] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "q49gg6jhjshqxk2msxb6kj",
+      "asset_name": "[PL] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "g9hqxxmwf2tj878cj753pvs",
+      "asset_name": "[PT-PT] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "85v2r8gxhx86k5763bt7g",
+      "asset_name": "[SK] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "vcppj26t8gchjm3hj5vqnp",
+      "asset_name": "[SL] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "g6j3386hs833jh6mgmfwk56v",
+      "asset_name": "[SV] MASTER-TOUCH 57CM BLK 14701004 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14701004"
+      ]
+    },
+    {
+      "asset_id": "jhn87gnk3xrxrck624txgm5q",
+      "asset_name": "[EMEA/AUNZ] Dimensions",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502482",
+        "14701004",
+        "1502483"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "rrjvgbkpx6nmjm7r4b6n9mx",
+      "filename": "3400653_111_KettleSmartRing_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 8192,
+      "height": 5464,
+      "size": 19164552,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rrjvgbkpx6nmjm7r4b6n9mx/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rrjvgbkpx6nmjm7r4b6n9mx/v/1290298939/original/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=s8hgKJkHWg0cszxOTS2oltIM2HY=",
+      "url": "https://storage-us-gcs.bfldr.com/rrjvgbkpx6nmjm7r4b6n9mx/v/1290298939/original/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=s8hgKJkHWg0cszxOTS2oltIM2HY="
+    },
+    {
+      "attachment_id": "5t2zrwtz2tpmbb6q8jp3rwb",
+      "filename": "3400660_048_KettleSmartRing_FY2026_Celsius.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 24915317,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5t2zrwtz2tpmbb6q8jp3rwb/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5t2zrwtz2tpmbb6q8jp3rwb/v/1288169591/original/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=0SAKNy6cjof-Ev-ZpVsayGoi-Ro=",
+      "url": "https://storage-us-gcs.bfldr.com/5t2zrwtz2tpmbb6q8jp3rwb/v/1288169591/original/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=0SAKNy6cjof-Ev-ZpVsayGoi-Ro="
+    },
+    {
+      "attachment_id": "39wpx8fk2wjntvb5jr3jnrqv",
+      "filename": "14501001_046_22MasterTouch_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8021,
+      "height": 5350,
+      "size": 27155569,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/39wpx8fk2wjntvb5jr3jnrqv/14501001_046_22MasterTouch_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/39wpx8fk2wjntvb5jr3jnrqv/v/1288185752/original/14501001_046_22MasterTouch_FY2026_AMER.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=DkrkWrkNuD43x9o2f6g6n2i9nVI=",
+      "url": "https://storage-us-gcs.bfldr.com/39wpx8fk2wjntvb5jr3jnrqv/v/1288185752/original/14501001_046_22MasterTouch_FY2026_AMER.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=DkrkWrkNuD43x9o2f6g6n2i9nVI="
+    },
+    {
+      "attachment_id": "ntp42w6fbsnb3w78x6nw8n",
+      "filename": "14501001_046_22MasterTouch_FY2026_AMER_PLATE.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8021,
+      "height": 5350,
+      "size": 24504165,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ntp42w6fbsnb3w78x6nw8n/14501001_046_22MasterTouch_FY2026_AMER_PLATE.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ntp42w6fbsnb3w78x6nw8n/v/1288185753/original/14501001_046_22MasterTouch_FY2026_AMER_PLATE.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=4A6ze9fmpWrGi2A319S-87_ZaN0=",
+      "url": "https://storage-us-gcs.bfldr.com/ntp42w6fbsnb3w78x6nw8n/v/1288185753/original/14501001_046_22MasterTouch_FY2026_AMER_PLATE.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=4A6ze9fmpWrGi2A319S-87_ZaN0="
+    },
+    {
+      "attachment_id": "vznrp376pt6ns5cn43spmxz",
+      "filename": "14501001_074_22MasterTouch_FY2026_AMER_V1_2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8021,
+      "height": 5350,
+      "size": 20020503,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vznrp376pt6ns5cn43spmxz/14501001_074_22MasterTouch_FY2026_AMER_V1_2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vznrp376pt6ns5cn43spmxz/v/1288186463/original/14501001_074_22MasterTouch_FY2026_AMER_V1_2.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=XOCTbyj50GiU5z_3NrUbcFq-UgQ=",
+      "url": "https://storage-us-gcs.bfldr.com/vznrp376pt6ns5cn43spmxz/v/1288186463/original/14501001_074_22MasterTouch_FY2026_AMER_V1_2.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=XOCTbyj50GiU5z_3NrUbcFq-UgQ="
+    },
+    {
+      "attachment_id": "cqj4q69n643bvwvknc6xxmf",
+      "filename": "14501001_075_22MasterTouch_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 19657745,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cqj4q69n643bvwvknc6xxmf/14501001_075_22MasterTouch_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cqj4q69n643bvwvknc6xxmf/v/1288186464/original/14501001_075_22MasterTouch_FY2026_AMER.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=-D9wmvFMhYt2CuYbEGdXyv-hUpo=",
+      "url": "https://storage-us-gcs.bfldr.com/cqj4q69n643bvwvknc6xxmf/v/1288186464/original/14501001_075_22MasterTouch_FY2026_AMER.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=-D9wmvFMhYt2CuYbEGdXyv-hUpo="
+    },
+    {
+      "attachment_id": "mggwmrxpqhrnhh5j8x6cb9f",
+      "filename": "14501001_081_22MasterTouch_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 33240779,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mggwmrxpqhrnhh5j8x6cb9f/14501001_081_22MasterTouch_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mggwmrxpqhrnhh5j8x6cb9f/v/1288187987/original/14501001_081_22MasterTouch_FY2026_AMER.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=LisWbzEPis4L-MN85VBjpwFdFz4=",
+      "url": "https://storage-us-gcs.bfldr.com/mggwmrxpqhrnhh5j8x6cb9f/v/1288187987/original/14501001_081_22MasterTouch_FY2026_AMER.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=LisWbzEPis4L-MN85VBjpwFdFz4="
+    },
+    {
+      "attachment_id": "kzpgs64h26tx97bg4qbh7pwf",
+      "filename": "14501001_096_22MasterTouch_FY2026_AMER_V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7955,
+      "height": 5306,
+      "size": 20604591,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kzpgs64h26tx97bg4qbh7pwf/14501001_096_22MasterTouch_FY2026_AMER_V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kzpgs64h26tx97bg4qbh7pwf/v/1291151164/original/14501001_096_22MasterTouch_FY2026_AMER_V1.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=kbR0J3N6ZOSHIpZWDnHLMd7i11c=",
+      "url": "https://storage-us-gcs.bfldr.com/kzpgs64h26tx97bg4qbh7pwf/v/1291151164/original/14501001_096_22MasterTouch_FY2026_AMER_V1.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=kbR0J3N6ZOSHIpZWDnHLMd7i11c="
+    },
+    {
+      "attachment_id": "p8772667p63qqrktstvx4k4j",
+      "filename": "14501001_097_22MasterTouch_FY2026_AMER_V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7982,
+      "height": 5324,
+      "size": 18783834,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p8772667p63qqrktstvx4k4j/14501001_097_22MasterTouch_FY2026_AMER_V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/p8772667p63qqrktstvx4k4j/v/1291151165/original/14501001_097_22MasterTouch_FY2026_AMER_V1.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=-02anLhRbJ0X5kzEM3NDdCU9bOo=",
+      "url": "https://storage-us-gcs.bfldr.com/p8772667p63qqrktstvx4k4j/v/1291151165/original/14501001_097_22MasterTouch_FY2026_AMER_V1.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=-02anLhRbJ0X5kzEM3NDdCU9bOo="
+    },
+    {
+      "attachment_id": "8nr48jggfwrt3zb4ck3kcz",
+      "filename": "14501001_097_22MasterTouch_FY2026_AMER_V7.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 22722515,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8nr48jggfwrt3zb4ck3kcz/14501001_097_22MasterTouch_FY2026_AMER_V7.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8nr48jggfwrt3zb4ck3kcz/v/1291151166/original/14501001_097_22MasterTouch_FY2026_AMER_V7.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=cvUuUHHXXTnnKiuQi1tU2q7tv48=",
+      "url": "https://storage-us-gcs.bfldr.com/8nr48jggfwrt3zb4ck3kcz/v/1291151166/original/14501001_097_22MasterTouch_FY2026_AMER_V7.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=cvUuUHHXXTnnKiuQi1tU2q7tv48="
+    },
+    {
+      "attachment_id": "84hq2pp3z6c6z8v8k7ckhrj",
+      "filename": "14501001_098_22MasterTouch_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 21386855,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/84hq2pp3z6c6z8v8k7ckhrj/14501001_098_22MasterTouch_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/84hq2pp3z6c6z8v8k7ckhrj/v/1291151168/original/14501001_098_22MasterTouch_FY2026_AMER.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=B_piUmR0kmh6FQaKdIA7I0xQ6u4=",
+      "url": "https://storage-us-gcs.bfldr.com/84hq2pp3z6c6z8v8k7ckhrj/v/1291151168/original/14501001_098_22MasterTouch_FY2026_AMER.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=B_piUmR0kmh6FQaKdIA7I0xQ6u4="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-4n7ik6",
+      "filename": "14701004E.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6720,
+      "height": 4480,
+      "size": 12673089,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-4n7ik6/14701004E.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-4n7ik6/v/2328241/original/14701004E.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=AjX1D99Xnr2STeg-SVchWLpBV1Y=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-4n7ik6/v/2328241/original/14701004E.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=AjX1D99Xnr2STeg-SVchWLpBV1Y="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-39vpzc",
+      "filename": "14701004F.jpg",
+      "extension": "jpg",
+      "position": 4,
+      "width": 6720,
+      "height": 4480,
+      "size": 12467507,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-39vpzc/14701004F.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-39vpzc/v/2328242/original/14701004F.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=KMnpD-P4LnP1_yeG-miHBNxUf-Q=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-39vpzc/v/2328242/original/14701004F.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=KMnpD-P4LnP1_yeG-miHBNxUf-Q="
+    },
+    {
+      "attachment_id": "ph4btt-exp940-4y79q6",
+      "filename": "14701004G.png",
+      "extension": "png",
+      "position": 7,
+      "width": 4480,
+      "height": 4480,
+      "size": 15450920,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph4btt-exp940-4y79q6/14701004G.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph4btt-exp940-4y79q6/v/2547219/original/14701004G.png?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=BViJf0D7V2FUhKgZa_zBBNr_cSU=",
+      "url": "https://storage-us-gcs.bfldr.com/ph4btt-exp940-4y79q6/v/2547219/original/14701004G.png?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=BViJf0D7V2FUhKgZa_zBBNr_cSU="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-9ygvwz",
+      "filename": "14701004L.jpg",
+      "extension": "jpg",
+      "position": 5,
+      "width": 6720,
+      "height": 4480,
+      "size": 9914540,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-9ygvwz/14701004L.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-9ygvwz/v/2328245/original/14701004L.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=w3MtGxIFHcbgCf0dIQOhTxwmrqQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-9ygvwz/v/2328245/original/14701004L.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=w3MtGxIFHcbgCf0dIQOhTxwmrqQ="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-3fdab0",
+      "filename": "14701004P.jpg",
+      "extension": "jpg",
+      "position": 6,
+      "width": 5269,
+      "height": 4480,
+      "size": 7670142,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-3fdab0/14701004P.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-3fdab0/v/2364604/original/14701004P.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=LjltpcmcLYhPRPZ1kYo7CEqHWlU=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-3fdab0/v/2364604/original/14701004P.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=LjltpcmcLYhPRPZ1kYo7CEqHWlU="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-drhhgv",
+      "filename": "14701004S1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5792,
+      "height": 8688,
+      "size": 23999555,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-drhhgv/14701004S1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-drhhgv/v/2328246/original/14701004S1.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=IrCCfPZlwncXcFhbRusKTk2ZN8o=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-drhhgv/v/2328246/original/14701004S1.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=IrCCfPZlwncXcFhbRusKTk2ZN8o="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-e6u8cv",
+      "filename": "14701004S2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5792,
+      "height": 8688,
+      "size": 22149745,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-e6u8cv/14701004S2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-e6u8cv/v/2328247/original/14701004S2.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=lhRTupoFyi3g07f7zXH6OT53b7I=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-e6u8cv/v/2328247/original/14701004S2.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=lhRTupoFyi3g07f7zXH6OT53b7I="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-fkzwio",
+      "filename": "14701004U.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7910,
+      "height": 5650,
+      "size": 17947727,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-fkzwio/14701004U.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-fkzwio/v/2328248/original/14701004U.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=tsCs_oPY16QU6VGbB_CLYzG5uNI=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-fkzwio/v/2328248/original/14701004U.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=tsCs_oPY16QU6VGbB_CLYzG5uNI="
+    },
+    {
+      "attachment_id": "pfbm13-cinefs-bozqxy",
+      "filename": "14701004W1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 22449748,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfbm13-cinefs-bozqxy/14701004W1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfbm13-cinefs-bozqxy/v/2364608/original/14701004W1.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=tc2hjEJq7GDT-DhMs6McAqF4KHI=",
+      "url": "https://storage-us-gcs.bfldr.com/pfbm13-cinefs-bozqxy/v/2364608/original/14701004W1.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=tc2hjEJq7GDT-DhMs6McAqF4KHI="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-b7mzbw",
+      "filename": "14701004W2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 21120094,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-b7mzbw/14701004W2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-b7mzbw/v/2328250/original/14701004W2.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=CvZ3slwwwWhDgVNCYQO5xeVRLGE=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-b7mzbw/v/2328250/original/14701004W2.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=CvZ3slwwwWhDgVNCYQO5xeVRLGE="
+    },
+    {
+      "attachment_id": "pf0csi-avqkwg-bh07bj",
+      "filename": "14701004W3.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 8688,
+      "height": 5792,
+      "size": 29848986,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf0csi-avqkwg-bh07bj/14701004W3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-bh07bj/v/2328251/original/14701004W3.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=4_OQTra8uFC7SKoIbiiU-r0eDWs=",
+      "url": "https://storage-us-gcs.bfldr.com/pf0csi-avqkwg-bh07bj/v/2328251/original/14701004W3.jpg?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=4_OQTra8uFC7SKoIbiiU-r0eDWs="
+    },
+    {
+      "attachment_id": "rw8s5v57gnm69xf6qzmph97t",
+      "filename": "14701004_Dimensions_EMEA.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2126,
+      "height": 1001,
+      "size": 364930,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rw8s5v57gnm69xf6qzmph97t/14701004_Dimensions_EMEA.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rw8s5v57gnm69xf6qzmph97t/v/1305855983/original/14701004_Dimensions_EMEA.png?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=tEvt2ohqY7NWO5O9oNUeX9XEfvw=",
+      "url": "https://storage-us-gcs.bfldr.com/rw8s5v57gnm69xf6qzmph97t/v/1305855983/original/14701004_Dimensions_EMEA.png?Expires=1784335133&KeyName=gcs-bfldr-prod&Signature=tEvt2ohqY7NWO5O9oNUeX9XEfvw="
+    }
+  ]
+}

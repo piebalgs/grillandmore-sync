@@ -1,0 +1,303 @@
+{
+  "cache_version": 5,
+  "sku": "3400104",
+  "assets": [
+    {
+      "asset_id": "p4sh6w3rg7rs8bp2n8pbq4v",
+      "asset_name": "3400104 3400519 WW EMEA GENESIS STEALTH",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501537",
+        "3400519",
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "9b3fbv9gtkws36r7qnhz7bqb",
+      "asset_name": "3400104 WW EMEA GENESIS STEALTH",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104",
+        "1501537"
+      ]
+    },
+    {
+      "asset_id": "sc48xpm8hgbkjhp636sx9hg",
+      "asset_name": "(cze) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "h3qmksbmhfg5kf3p37br4fg",
+      "asset_name": "(dan) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "49h3s6w73xvzkrcqqmsqsqbt",
+      "asset_name": "(dut-NL) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "9csqbbsfn7vb8wrspqqm8swp",
+      "asset_name": "(eng-GB) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "5xwjkm7j3sq24mqggcggxf",
+      "asset_name": "(fin) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "qvcjpmsvjnmjzc85knfcbjp",
+      "asset_name": "(fre-FR) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "ksjhf8t6wtcvfz53599g4xns",
+      "asset_name": "(ger-DE) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "9f3bck7bxtjk2r4rjcwtfhc",
+      "asset_name": "(ita-IT) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "5pxrcph8crjkg2q954g6wmt",
+      "asset_name": "(no) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "7wvqkcf89fvwjw4xvc9z6rvv",
+      "asset_name": "(pol) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "cwvwtfhhbgc9xb8xtg8zsxtv",
+      "asset_name": "(por-PT) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "mm8vkf6j6rpfbhcqsmf9kv9",
+      "asset_name": "(sk) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "tpwzxgtmk2vgtk4tfssqtcq",
+      "asset_name": "(spa-ES) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "49pn76b45jm42s7rwmmvtcsz",
+      "asset_name": "(swe-SE) Weber Works Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "njrrqcsmrm89chpmqzhv",
+      "asset_name": "00 (en-US) WW Bottle Holder MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "3rfkhzcp7bnqjzt7hcrw9hmq",
+      "asset_name": "Weber Works Bottle Holder",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "rs9vn33bf6xn2vj6z84mhk",
+      "asset_name": "Weber Works Bottle Holder",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "s45f95c6pp38xh5r8sk8njj",
+      "asset_name": "Weber Works Caddy with Tray Lid",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104",
+        "1501537",
+        "3400128"
+      ]
+    },
+    {
+      "asset_id": "pwpc8cbh994fr6bkpnggxx8",
+      "asset_name": "Weber Works Bottle Holder",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "s6whm83kr7fmjtzmx4qq6w8",
+      "asset_name": "Weber Works Bottle Holder",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "98w7jzn5sjcgcjj4xrjx2z5j",
+      "asset_name": "3400104 pkg A RevC",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "mm3sqrnn2rjx36j5zrcpmn6",
+      "asset_name": "8660122 9502037 0825 RevA KH LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400104"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "nsxzkhbzx3nqzvbjtnn8wbj",
+      "filename": "3400104_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 4788189,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nsxzkhbzx3nqzvbjtnn8wbj/3400104_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nsxzkhbzx3nqzvbjtnn8wbj/v/1267599552/original/3400104_A_rgb.png?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=UanQ3thnNYTrk4TjgevwdVKnyzc=",
+      "url": "https://storage-us-gcs.bfldr.com/nsxzkhbzx3nqzvbjtnn8wbj/v/1267599552/original/3400104_A_rgb.png?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=UanQ3thnNYTrk4TjgevwdVKnyzc="
+    },
+    {
+      "attachment_id": "4w8vbf89qtv32pjv3mhv2pgv",
+      "filename": "3400104_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 2762841,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4w8vbf89qtv32pjv3mhv2pgv/3400104_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4w8vbf89qtv32pjv3mhv2pgv/v/1267599553/original/3400104_B_rgb.png?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=TgVsnpuiduAm4YKbUhOhUQ0E2xY=",
+      "url": "https://storage-us-gcs.bfldr.com/4w8vbf89qtv32pjv3mhv2pgv/v/1267599553/original/3400104_B_rgb.png?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=TgVsnpuiduAm4YKbUhOhUQ0E2xY="
+    },
+    {
+      "attachment_id": "gbf88mkpck6xvt6rhgfwn66",
+      "filename": "3400104_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 2592267,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gbf88mkpck6xvt6rhgfwn66/3400104_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gbf88mkpck6xvt6rhgfwn66/v/1267599554/original/3400104_C_rgb.png?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=bWy_rFvocT_SzumTUzBz_sSr8Vo=",
+      "url": "https://storage-us-gcs.bfldr.com/gbf88mkpck6xvt6rhgfwn66/v/1267599554/original/3400104_C_rgb.png?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=bWy_rFvocT_SzumTUzBz_sSr8Vo="
+    },
+    {
+      "attachment_id": "mvfrw3jx8ck7m88mvnsc7gf",
+      "filename": "3400104_D_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3600,
+      "height": 3600,
+      "size": 2425561,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mvfrw3jx8ck7m88mvnsc7gf/3400104_D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mvfrw3jx8ck7m88mvnsc7gf/v/1267599556/original/3400104_D_rgb.png?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=_BNXePiydakmMdq7QbIrX_RYjUU=",
+      "url": "https://storage-us-gcs.bfldr.com/mvfrw3jx8ck7m88mvnsc7gf/v/1267599556/original/3400104_D_rgb.png?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=_BNXePiydakmMdq7QbIrX_RYjUU="
+    },
+    {
+      "attachment_id": "vrvqmkbp7g7692c572mvnt5",
+      "filename": "3400104_WW_YA EMEA GENESIS_201_E-315W KITANA_0862_16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8032,
+      "height": 4518,
+      "size": 19239315,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vrvqmkbp7g7692c572mvnt5/3400104_WW_YA%20EMEA%20GENESIS_201_E-315W%20KITANA_0862_16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vrvqmkbp7g7692c572mvnt5/v/1267599706/original/3400104_WW_YA%20EMEA%20GENESIS_201_E-315W%20KITANA_0862_16x9.jpg?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=nKXrjL30BkofCMDEReWzAFY9e6E=",
+      "url": "https://storage-us-gcs.bfldr.com/vrvqmkbp7g7692c572mvnt5/v/1267599706/original/3400104_WW_YA%20EMEA%20GENESIS_201_E-315W%20KITANA_0862_16x9.jpg?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=nKXrjL30BkofCMDEReWzAFY9e6E="
+    },
+    {
+      "attachment_id": "cg56865t5pjjgjp48sf6n4t",
+      "filename": "3400104_YM1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 2880,
+      "height": 1920,
+      "size": 2945826,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cg56865t5pjjgjp48sf6n4t/3400104_YM1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cg56865t5pjjgjp48sf6n4t/v/1271736948/original/3400104_YM1_rgb.jpg?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=MPbiRrLKUvfEJJbbn6zTRpsO5XQ=",
+      "url": "https://storage-us-gcs.bfldr.com/cg56865t5pjjgjp48sf6n4t/v/1271736948/original/3400104_YM1_rgb.jpg?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=MPbiRrLKUvfEJJbbn6zTRpsO5XQ="
+    },
+    {
+      "attachment_id": "pckr6gxwp96qnjckxgkvg4bf",
+      "filename": "3400128_WW1_YM1_AMER_6825.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 21611529,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pckr6gxwp96qnjckxgkvg4bf/3400128_WW1_YM1_AMER_6825.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pckr6gxwp96qnjckxgkvg4bf/v/1267602080/original/3400128_WW1_YM1_AMER_6825.jpg?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=ioTML6PX9DkbEfiTzrhe_x2_CH8=",
+      "url": "https://storage-us-gcs.bfldr.com/pckr6gxwp96qnjckxgkvg4bf/v/1267602080/original/3400128_WW1_YM1_AMER_6825.jpg?Expires=1784306176&KeyName=gcs-bfldr-prod&Signature=ioTML6PX9DkbEfiTzrhe_x2_CH8="
+    }
+  ]
+}

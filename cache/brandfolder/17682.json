@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "17682",
+  "assets": [
+    {
+      "asset_id": "pf7zqa-ff8if4-5b32au",
+      "asset_name": "Stainless Steel Cleaner 17682 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17682"
+      ]
+    },
+    {
+      "asset_id": "wgb4kcbjxjsm73m7k67skxb",
+      "asset_name": "17682 Stainless Steel Cleaner 27-06-2019",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17682"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pf7zqa-ff8if4-395ym5",
+      "filename": "17682 Weber_Stainless Steel Cleaner.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 1451017,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf7zqa-ff8if4-395ym5/17682%20Weber_Stainless%20Steel%20Cleaner.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pf7zqa-ff8if4-395ym5/v/1266822391/original/17682%20Weber_Stainless%20Steel%20Cleaner.png?Expires=1784333571&KeyName=gcs-bfldr-prod&Signature=x228KovBiHbLMz2IZb5T79_b4-Q=",
+      "url": "https://storage-us-gcs.bfldr.com/pf7zqa-ff8if4-395ym5/v/1266822391/original/17682%20Weber_Stainless%20Steel%20Cleaner.png?Expires=1784333571&KeyName=gcs-bfldr-prod&Signature=x228KovBiHbLMz2IZb5T79_b4-Q="
+    }
+  ]
+}

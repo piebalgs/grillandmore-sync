@@ -1,0 +1,206 @@
+{
+  "cache_version": 5,
+  "sku": "6764",
+  "assets": [
+    {
+      "asset_id": "rfv8jmfb8mj7hbhzhp9ftr",
+      "asset_name": "Precision Tool Set 6764/6772 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6764",
+        "6772"
+      ]
+    },
+    {
+      "asset_id": "29x4rk6mbmjs4vtqsgfb8mwx",
+      "asset_name": "Precision Tool Set 6764/6772 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6772",
+        "6764"
+      ]
+    },
+    {
+      "asset_id": "sj4vh5973q867j5kxg6cwxt",
+      "asset_name": "Precision Tool Set 6772 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6772",
+        "6764"
+      ]
+    },
+    {
+      "asset_id": "5bvf7zkkcmph9jxvxzxrs7tm",
+      "asset_name": "2021 Grilling Tools Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6772",
+        "6764"
+      ]
+    },
+    {
+      "asset_id": "3bwx3sj59ck7csfgn9fqqn7",
+      "asset_name": "53285 1120 RevB",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6764"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "w7hh7wmtg38hchsb6bnq6n",
+      "filename": "2021_Grilling_Tools_Slate_1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 9290326,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w7hh7wmtg38hchsb6bnq6n/2021_Grilling_Tools_Slate_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/w7hh7wmtg38hchsb6bnq6n/v/53130191/original/2021_Grilling_Tools_Slate_1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/w7hh7wmtg38hchsb6bnq6n/v/53130191/original/2021_Grilling_Tools_Slate_1_rgb.jpg"
+    },
+    {
+      "attachment_id": "bxrc665943hp2s7gpm66hgbr",
+      "filename": "2021_Grilling_Tools_Wood_2_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 10482451,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bxrc665943hp2s7gpm66hgbr/2021_Grilling_Tools_Wood_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/bxrc665943hp2s7gpm66hgbr/v/53130193/original/2021_Grilling_Tools_Wood_2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/bxrc665943hp2s7gpm66hgbr/v/53130193/original/2021_Grilling_Tools_Wood_2_rgb.jpg"
+    },
+    {
+      "attachment_id": "bqg8f3wmvk5phvjs69j6vc7",
+      "filename": "2021_Grilling_Tools_Wood_3_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 11338161,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bqg8f3wmvk5phvjs69j6vc7/2021_Grilling_Tools_Wood_3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/bqg8f3wmvk5phvjs69j6vc7/v/53130194/original/2021_Grilling_Tools_Wood_3_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/bqg8f3wmvk5phvjs69j6vc7/v/53130194/original/2021_Grilling_Tools_Wood_3_rgb.jpg"
+    },
+    {
+      "attachment_id": "qtf87prz4zsktmrjp785h7",
+      "filename": "6764_6772A_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 3926372,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qtf87prz4zsktmrjp785h7/6764_6772A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qtf87prz4zsktmrjp785h7/v/51803356/original/6764_6772A_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qtf87prz4zsktmrjp785h7/v/51803356/original/6764_6772A_rgb.png"
+    },
+    {
+      "attachment_id": "kp4b473s2cgqm353vgmbqrh",
+      "filename": "6764_6772B_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "size": 3641352,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kp4b473s2cgqm353vgmbqrh/6764_6772B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/kp4b473s2cgqm353vgmbqrh/v/51803357/original/6764_6772B_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/kp4b473s2cgqm353vgmbqrh/v/51803357/original/6764_6772B_rgb.png"
+    },
+    {
+      "attachment_id": "q7kbr684b4vg9zm83pptsfkh",
+      "filename": "6764_6772C_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3000,
+      "height": 3000,
+      "size": 4009422,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q7kbr684b4vg9zm83pptsfkh/6764_6772C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/q7kbr684b4vg9zm83pptsfkh/v/51803359/original/6764_6772C_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/q7kbr684b4vg9zm83pptsfkh/v/51803359/original/6764_6772C_rgb.png"
+    },
+    {
+      "attachment_id": "qv7sb8kqw34rhcj8j66xr3b",
+      "filename": "6764_6772D_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 1869254,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qv7sb8kqw34rhcj8j66xr3b/6764_6772D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qv7sb8kqw34rhcj8j66xr3b/v/52427463/original/6764_6772D_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qv7sb8kqw34rhcj8j66xr3b/v/52427463/original/6764_6772D_rgb.png"
+    },
+    {
+      "attachment_id": "qf4bwr7tkk4njvgkptrjpk",
+      "filename": "6764_6772Y1_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 2887,
+      "size": 5491645,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qf4bwr7tkk4njvgkptrjpk/6764_6772Y1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qf4bwr7tkk4njvgkptrjpk/v/52523086/original/6764_6772Y1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qf4bwr7tkk4njvgkptrjpk/v/52523086/original/6764_6772Y1_rgb.jpg"
+    },
+    {
+      "attachment_id": "stgwjb5grwqntj5rxr8kqq5",
+      "filename": "6764_6772Y2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2571,
+      "size": 4885962,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/stgwjb5grwqntj5rxr8kqq5/6764_6772Y2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/stgwjb5grwqntj5rxr8kqq5/v/52523087/original/6764_6772Y2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/stgwjb5grwqntj5rxr8kqq5/v/52523087/original/6764_6772Y2_rgb.jpg"
+    },
+    {
+      "attachment_id": "vzb84cmh3xv73vhx3wmchr59",
+      "filename": "6764_6772Y3_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 2572,
+      "size": 3700726,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vzb84cmh3xv73vhx3wmchr59/6764_6772Y3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/vzb84cmh3xv73vhx3wmchr59/v/52523088/original/6764_6772Y3_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/vzb84cmh3xv73vhx3wmchr59/v/52523088/original/6764_6772Y3_rgb.jpg"
+    },
+    {
+      "attachment_id": "7j6346mqgjfpztpt4k9nf7m",
+      "filename": "6764_6772Y4_rgb.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 3600,
+      "height": 2571,
+      "size": 4568166,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7j6346mqgjfpztpt4k9nf7m/6764_6772Y4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/7j6346mqgjfpztpt4k9nf7m/v/52523089/original/6764_6772Y4_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/7j6346mqgjfpztpt4k9nf7m/v/52523089/original/6764_6772Y4_rgb.jpg"
+    }
+  ]
+}

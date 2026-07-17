@@ -1,0 +1,92 @@
+{
+  "cache_version": 5,
+  "sku": "18294",
+  "assets": [
+    {
+      "asset_id": "cx7wpw5h6mcbrqw26bf5pt9",
+      "asset_name": "Grill 18294 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18294"
+      ]
+    },
+    {
+      "asset_id": "gnnc6bm6j6hxghp9frgsgwb5",
+      "asset_name": "Grill 18294 Logos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18294"
+      ]
+    },
+    {
+      "asset_id": "swbj387h2zgtf6c9tcqjfrbt",
+      "asset_name": "Wood Pellets Lifestyle- SmokeFire",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18293",
+        "18290",
+        "18295",
+        "18294",
+        "18291",
+        "18292"
+      ]
+    },
+    {
+      "asset_id": "tmv5274fb9pkqxnvjqhn28wb",
+      "asset_name": "EMEA FUEL Pellets Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18294",
+        "18290",
+        "18293",
+        "18291",
+        "18295",
+        "18292"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "8c8zk8ntw75h3p668jbghf9",
+      "filename": "18294_1_300.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4753,
+      "height": 3501,
+      "size": 13622835,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8c8zk8ntw75h3p668jbghf9/18294_1_300.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/8c8zk8ntw75h3p668jbghf9/v/1078294772/original/18294_1_300.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/8c8zk8ntw75h3p668jbghf9/v/1078294772/original/18294_1_300.png"
+    },
+    {
+      "attachment_id": "8fpprgq386fzb73s7fhmtp4",
+      "filename": "18294_GAB_render_300.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2811,
+      "height": 2021,
+      "size": 4160388,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8fpprgq386fzb73s7fhmtp4/18294_GAB_render_300.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/8fpprgq386fzb73s7fhmtp4/v/1078294771/original/18294_GAB_render_300.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/8fpprgq386fzb73s7fhmtp4/v/1078294771/original/18294_GAB_render_300.png"
+    },
+    {
+      "attachment_id": "7xsq5vsxrqhpsgxq7h68r5",
+      "filename": "WBR_RGB_Pellets_Stapel (1)67247fed1d8d5218ff4654481b31d9bc1f5795eb57eed45bef14d45f122b707d.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4580,
+      "height": 3054,
+      "size": 3041158,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7xsq5vsxrqhpsgxq7h68r5/WBR_RGB_Pellets_Stapel%20%281%2967247fed1d8d5218ff4654481b31d9bc1f5795eb57eed45bef14d45f122b707d.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/7xsq5vsxrqhpsgxq7h68r5/v/1019499865/original/WBR_RGB_Pellets_Stapel%20(1)67247fed1d8d5218ff4654481b31d9bc1f5795eb57eed45bef14d45f122b707d.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/7xsq5vsxrqhpsgxq7h68r5/v/1019499865/original/WBR_RGB_Pellets_Stapel%20(1)67247fed1d8d5218ff4654481b31d9bc1f5795eb57eed45bef14d45f122b707d.jpg"
+    }
+  ]
+}

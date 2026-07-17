@@ -1,0 +1,46 @@
+{
+  "cache_version": 5,
+  "sku": "55020853",
+  "assets": [
+    {
+      "asset_id": "pfkig3-10pztk-b8styb",
+      "asset_name": "55020804 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "55020894",
+        "55020804",
+        "55020853"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pfkig3-10pztk-alc981",
+      "filename": "55020804B1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4992,
+      "height": 6668,
+      "size": 6185177,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfkig3-10pztk-alc981/55020804B1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfkig3-10pztk-alc981/v/2379330/original/55020804B1.png?Expires=1784334634&KeyName=gcs-bfldr-prod&Signature=DFcZ5-UXXUd_azjYAExabn55hHw=",
+      "url": "https://storage-us-gcs.bfldr.com/pfkig3-10pztk-alc981/v/2379330/original/55020804B1.png?Expires=1784334634&KeyName=gcs-bfldr-prod&Signature=DFcZ5-UXXUd_azjYAExabn55hHw="
+    },
+    {
+      "attachment_id": "pfkig3-10pztk-2nf0v5",
+      "filename": "55020804B2.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4992,
+      "height": 6668,
+      "size": 8514165,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfkig3-10pztk-2nf0v5/55020804B2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfkig3-10pztk-2nf0v5/v/2379331/original/55020804B2.png?Expires=1784334634&KeyName=gcs-bfldr-prod&Signature=UE979agPXZ6p4i0sXNnt7d65SbI=",
+      "url": "https://storage-us-gcs.bfldr.com/pfkig3-10pztk-2nf0v5/v/2379331/original/55020804B2.png?Expires=1784334634&KeyName=gcs-bfldr-prod&Signature=UE979agPXZ6p4i0sXNnt7d65SbI="
+    }
+  ]
+}

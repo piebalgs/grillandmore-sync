@@ -1,0 +1,174 @@
+{
+  "cache_version": 2,
+  "sku": "3401219",
+  "assets": [
+    {
+      "asset_id": "hqkktq4ssxbxsn3rb92ggj",
+      "asset_name": "Wireless Probe with Charger [Black]",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bn89g89b77cm54vpjmf59",
+      "asset_name": "[Global] Smart Wireless Probe",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xz9k4smw4f9ktjhjbtp584",
+      "asset_name": "[Global]  Smart Wireless Probe w/ Charger",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bghs65rbv83j6zm52fcqz98",
+      "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7z6q262mtf5w837pswb5xmnz",
+      "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xzvnzpxhgqnpc9q293c4g9r",
+      "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4wwjpj5s7hh6t8xf8qkb95",
+      "asset_name": "Charcoal Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "k8qhrg6twb3xmc3cmscz7h48",
+      "asset_name": "[EMEA] SMART WIRELESS PROBE  MASTER COPY",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "77r79vns6h5nstr4vkxht5x3",
+      "asset_name": "[cze] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "877hqr44rk8wbhn67zjn3x3g",
+      "asset_name": "[dan] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "9b8vx7fg35twvfpx5gshqsc",
+      "asset_name": "[dut-NL] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "67t75bs5xjsjxrvptc5vnc",
+      "asset_name": "[en-GB] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kvs73n6z5v5wnjsqbfbqv6jg",
+      "asset_name": "[fin] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "598pqctgb3n3c2nw4vzxm4n",
+      "asset_name": "[fre-FR] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "x6fmr989pqcjpf932kbjm9fv",
+      "asset_name": "[ger-DE] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mxwqpsbq5z6kshj3jkmbc",
+      "asset_name": "[hrv] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "55khmrh5cq4tkcsw5q3z3gw9",
+      "asset_name": "[ita-IT] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "6q2cf55k98h8xpvsx28hc3",
+      "asset_name": "[no] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "whvnbkcrbsjkqgs8csp48wx",
+      "asset_name": "[pol] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nbtb8m8brv7mg5wj62pqj9",
+      "asset_name": "[por-PT] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "wkqw7656b9jjs9pjw3969cf",
+      "asset_name": "[sk] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xbgb6mgbqmmh2kwbwtg5fxsm",
+      "asset_name": "[slv] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "sbkxpsrfcp7jgz2ctn9wxfhj",
+      "asset_name": "[spa-ES] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nq79h9g8ct6t6s8xmp23",
+      "asset_name": "[swe-SE] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8qhhrvtxb6msb7qnmz2vnf86",
+      "asset_name": "3401219 WirelessProbe Sleeve EMEA Black 0126 RevA OL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ns5895gw73r2g69bmvkx6rm",
+      "asset_name": "How To: Turn on and off",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "xjjqscw7rcmcv4qrvghx78f",
+      "filename": "3401191_batcycle_A_AMER_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xjjqscw7rcmcv4qrvghx78f/3401191_batcycle_A_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xjjqscw7rcmcv4qrvghx78f/v/1275993476/original/3401191_batcycle_A_AMER_rgb.png?Expires=1784296707&KeyName=gcs-bfldr-prod&Signature=lSY5jgc4t4s6VB7Bl68PrXwHhJg=",
+      "url": "https://storage-us-gcs.bfldr.com/xjjqscw7rcmcv4qrvghx78f/v/1275993476/original/3401191_batcycle_A_AMER_rgb.png?Expires=1784296707&KeyName=gcs-bfldr-prod&Signature=lSY5jgc4t4s6VB7Bl68PrXwHhJg="
+    },
+    {
+      "attachment_id": "64m93v8crk624c84n4cshx",
+      "filename": "3401191_batcycle_B_AMER_rgb.png",
+      "extension": "png",
+      "position": 4,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/64m93v8crk624c84n4cshx/3401191_batcycle_B_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/64m93v8crk624c84n4cshx/v/1275993478/original/3401191_batcycle_B_AMER_rgb.png?Expires=1784296707&KeyName=gcs-bfldr-prod&Signature=nH8x-4wtFPWjUBKgcWDMgcBBAMU=",
+      "url": "https://storage-us-gcs.bfldr.com/64m93v8crk624c84n4cshx/v/1275993478/original/3401191_batcycle_B_AMER_rgb.png?Expires=1784296707&KeyName=gcs-bfldr-prod&Signature=nH8x-4wtFPWjUBKgcWDMgcBBAMU="
+    },
+    {
+      "attachment_id": "g2wkq9bmkqqqjwn3h3bpt",
+      "filename": "3401191_batcycle_C_AMER_rgb.png",
+      "extension": "png",
+      "position": 5,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g2wkq9bmkqqqjwn3h3bpt/3401191_batcycle_C_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/g2wkq9bmkqqqjwn3h3bpt/v/1275993479/original/3401191_batcycle_C_AMER_rgb.png?Expires=1784296707&KeyName=gcs-bfldr-prod&Signature=FqnZtMrVdRwSehoDKVXmxDWvGB4=",
+      "url": "https://storage-us-gcs.bfldr.com/g2wkq9bmkqqqjwn3h3bpt/v/1275993479/original/3401191_batcycle_C_AMER_rgb.png?Expires=1784296707&KeyName=gcs-bfldr-prod&Signature=FqnZtMrVdRwSehoDKVXmxDWvGB4="
+    }
+  ]
+}

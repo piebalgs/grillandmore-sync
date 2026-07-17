@@ -1,0 +1,613 @@
+{
+  "cache_version": 5,
+  "sku": "3400653",
+  "assets": [
+    {
+      "asset_id": "wzfbxf8f6hgntv78pb35x6",
+      "asset_name": "[enEMEA,UK] Kettle Smart Ring with LCD Wi-Fi® Enabled Controller Master Copy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "mn8n6jb447h5rv5m6g9kb",
+      "asset_name": "[EMEA/UK/APAC/AUNZ] Charcoal Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3401210",
+        "3401200",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "vpr9q94wmfjvkx486hnqc8n",
+      "asset_name": "[Celsius] Charcoal Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14501001",
+        "14701004",
+        "1502482",
+        "1502483",
+        "3400324",
+        "3400653",
+        "3400880",
+        "3401200",
+        "3401210"
+      ]
+    },
+    {
+      "asset_id": "tjv9ghjjc4bzgjmxp4p7skvn",
+      "asset_name": "Charcoal Kettle Smart Ring [Plate]",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400660",
+        "3400880",
+        "3401210",
+        "3401200"
+      ]
+    },
+    {
+      "asset_id": "4wwjpj5s7hh6t8xf8qkb95",
+      "asset_name": "Charcoal Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3401191",
+        "3400880",
+        "2290",
+        "3401210",
+        "3401488",
+        "3401219",
+        "3401200",
+        "3400660",
+        "3401307",
+        "3401201"
+      ]
+    },
+    {
+      "asset_id": "hxfck56f4xkxcn2m6p28qkvw",
+      "asset_name": "Charcoal Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401200",
+        "3401210",
+        "3400653",
+        "3400880",
+        "3400660",
+        "3400324"
+      ]
+    },
+    {
+      "asset_id": "56cb3c8v9svrf8b9whgbfq53",
+      "asset_name": "Charcoal Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401210",
+        "3400653",
+        "3400880",
+        "3400660",
+        "3400324",
+        "3401200"
+      ]
+    },
+    {
+      "asset_id": "2xs35vfrcfk9bf9bswpzm6r8",
+      "asset_name": "[Celsius] Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3401210",
+        "3400653",
+        "3401200"
+      ]
+    },
+    {
+      "asset_id": "tqqb462sfsnckx6sg4tsf496",
+      "asset_name": "[cze] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "8sbxjp4j8zhtpccsbkcvf2p",
+      "asset_name": "[dan] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "b5wxz75cghgc69f5nfkwxbs",
+      "asset_name": "[dut-NL] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "pc778pj3h7nxf9575pv3wqq",
+      "asset_name": "[eng-GB] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "8w3jwnq454hwmcnmbpwcr7vp",
+      "asset_name": "[fin] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "4n57ppqvhsxb66xrnqqwz",
+      "asset_name": "[fre-FR] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "7hn36v6q67cwgmsrhgnm4s6",
+      "asset_name": "[ger-DE] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "6z9kn4pc69hnnkv3jxpt45",
+      "asset_name": "[hrv] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "hn23pgbwrm9sknmp59vttf25",
+      "asset_name": "[ita-IT] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "mqvr5v4pxfb4fvrvjcm8fv6",
+      "asset_name": "[no] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "574jpz6mxg2m84h6gnb3vmh",
+      "asset_name": "[pol] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "bvr7c49h38gbc6chvw9t3q4",
+      "asset_name": "[por-PT] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "8z58gcsngtsppj9qbjqn5j4",
+      "asset_name": "[sk] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "rk5wxhxhmswz7t26vh4fxm8m",
+      "asset_name": "[slv] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "sp9g876kpffknnkj54m88zgf",
+      "asset_name": "[spa-ES] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "mvvgsbj49j4nx53w5vnrp3t",
+      "asset_name": "[swe-SE] Kettle Smart Ring 3400653, 3400880 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "mhzct8p2tph8mnpfr8kkrp",
+      "asset_name": "[EMEA/ GIF]  Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "nsc9bmnbvzbq4bq9wggcm9ph",
+      "asset_name": "[EMEA /GIF] Kettle Smart Ring",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "8gttgfc7q99f438qxznffjjz",
+      "asset_name": "9501899 RevA 0825",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "cxr6j3rfppbjxqjqptmmr3m",
+      "asset_name": "[CELSIUS] How To: Use the Digital Controller",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401210",
+        "3401200",
+        "3400653",
+        "3400660",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "cxfw4ch9wnw662fvq9f49sp",
+      "asset_name": "[CELSIUS] How To: Pair with the Weber Connect App",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400653",
+        "3400880",
+        "3401200",
+        "3400660",
+        "3401210"
+      ]
+    },
+    {
+      "asset_id": "q59hpg9shj5mhntnpxwxqtj",
+      "asset_name": "[CELSIUS] How To: Set a Target Tempurature",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401200",
+        "3401210",
+        "3400660",
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "pgr4w3btrxf3mmp8nm9v3",
+      "asset_name": "[CELSIUS] How To: Turn on Manual Mode",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401200",
+        "3401210",
+        "3400660",
+        "3400653",
+        "3400880"
+      ]
+    },
+    {
+      "asset_id": "2s7hnfgr9fq3tf6rh5mz",
+      "asset_name": "[CELSIUS] How To: Set a Cook Timer",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400880",
+        "3401210",
+        "3400660",
+        "3401200",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "kkp8k94wm9jj9vpsm2nrt47",
+      "asset_name": "[CELSIUS] How To: Set a Food Probe Target Tempurature",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400660",
+        "3401200",
+        "3401210",
+        "3400880",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "5j5fbpn4jjcvc4ktvkssm6",
+      "asset_name": "[CELSIUS] How To: Stop the Fan and Turn off Controller",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401200",
+        "3400660",
+        "3400880",
+        "3401210",
+        "3400653"
+      ]
+    },
+    {
+      "asset_id": "4mxcp76qc5mmhw6nqx4vkc89",
+      "asset_name": "[Celsius] Kettle Ring How To's Combo Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401200",
+        "3400653",
+        "3400880"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "2x8n6jsq9jxmcc6p9wnp3jh",
+      "filename": "3400653_102_KettleSmartRing_FY2026_EMEA.gif",
+      "extension": "gif",
+      "position": 0,
+      "width": 4500,
+      "height": 3002,
+      "size": 92342064,
+      "mimetype": "image/gif",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2x8n6jsq9jxmcc6p9wnp3jh/3400653_102_KettleSmartRing_FY2026_EMEA.gif?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2x8n6jsq9jxmcc6p9wnp3jh/v/1301979397/original/3400653_102_KettleSmartRing_FY2026_EMEA.gif?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=uI5GrGaF8WpG0ZjjClSy1AjILwU=",
+      "url": "https://storage-us-gcs.bfldr.com/2x8n6jsq9jxmcc6p9wnp3jh/v/1301979397/original/3400653_102_KettleSmartRing_FY2026_EMEA.gif?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=uI5GrGaF8WpG0ZjjClSy1AjILwU="
+    },
+    {
+      "attachment_id": "jmb7qpqk8cq8f5hh3777xhb3",
+      "filename": "3400653_104_KettleSmartRing_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7937,
+      "height": 5294,
+      "size": 19415379,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jmb7qpqk8cq8f5hh3777xhb3/3400653_104_KettleSmartRing_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jmb7qpqk8cq8f5hh3777xhb3/v/1291333353/original/3400653_104_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=i4Sj-IqqLObUraFHyfPaTSnPcLI=",
+      "url": "https://storage-us-gcs.bfldr.com/jmb7qpqk8cq8f5hh3777xhb3/v/1291333353/original/3400653_104_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=i4Sj-IqqLObUraFHyfPaTSnPcLI="
+    },
+    {
+      "attachment_id": "rrjvgbkpx6nmjm7r4b6n9mx",
+      "filename": "3400653_111_KettleSmartRing_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 8192,
+      "height": 5464,
+      "size": 19164552,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rrjvgbkpx6nmjm7r4b6n9mx/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rrjvgbkpx6nmjm7r4b6n9mx/v/1290298939/original/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=buednMCEkGtqZ_JgLhwH7zmop9U=",
+      "url": "https://storage-us-gcs.bfldr.com/rrjvgbkpx6nmjm7r4b6n9mx/v/1290298939/original/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=buednMCEkGtqZ_JgLhwH7zmop9U="
+    },
+    {
+      "attachment_id": "88nrx3mffg6xqc2rsscj9f9q",
+      "filename": "3400653_112_KettleSmartRing_ FY2026_EMEA.gif",
+      "extension": "gif",
+      "position": 0,
+      "width": 4500,
+      "height": 3002,
+      "size": 30018369,
+      "mimetype": "image/gif",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/88nrx3mffg6xqc2rsscj9f9q/3400653_112_KettleSmartRing_%20FY2026_EMEA.gif?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/88nrx3mffg6xqc2rsscj9f9q/v/1301979398/original/3400653_112_KettleSmartRing_%20FY2026_EMEA.gif?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=vyd9LaztglFCdvdKz9aVNWPXCxc=",
+      "url": "https://storage-us-gcs.bfldr.com/88nrx3mffg6xqc2rsscj9f9q/v/1301979398/original/3400653_112_KettleSmartRing_%20FY2026_EMEA.gif?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=vyd9LaztglFCdvdKz9aVNWPXCxc="
+    },
+    {
+      "attachment_id": "rspcq4nf9b9v3tx3n4g8q5jp",
+      "filename": "3400653_CHARCOAL ACCESSORIES_CHAR KETTLE SMART RING ACCY EMEA_ PACKAGING_rgb.png",
+      "extension": "png",
+      "position": 6,
+      "width": 6600,
+      "height": 6600,
+      "size": 6382707,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rspcq4nf9b9v3tx3n4g8q5jp/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_%20PACKAGING_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rspcq4nf9b9v3tx3n4g8q5jp/v/1295739469/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_%20PACKAGING_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=tdctu2Aui808qmN7x_ElvTlFxVg=",
+      "url": "https://storage-us-gcs.bfldr.com/rspcq4nf9b9v3tx3n4g8q5jp/v/1295739469/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_%20PACKAGING_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=tdctu2Aui808qmN7x_ElvTlFxVg="
+    },
+    {
+      "attachment_id": "359whwqnvpbhctswm6bhng",
+      "filename": "3400653_CHARCOAL ACCESSORIES_CHAR KETTLE SMART RING ACCY EMEA_AB_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 6600,
+      "height": 6600,
+      "size": 5346448,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/359whwqnvpbhctswm6bhng/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_AB_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/359whwqnvpbhctswm6bhng/v/1286009085/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_AB_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=81I86QZhBW2oNi4_O8NevWjGxl4=",
+      "url": "https://storage-us-gcs.bfldr.com/359whwqnvpbhctswm6bhng/v/1286009085/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_AB_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=81I86QZhBW2oNi4_O8NevWjGxl4="
+    },
+    {
+      "attachment_id": "pchhtq4jkffv8fcbj36qbw",
+      "filename": "3400653_CHARCOAL ACCESSORIES_CHAR KETTLE SMART RING ACCY EMEA_A_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 6600,
+      "height": 6600,
+      "size": 5075033,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pchhtq4jkffv8fcbj36qbw/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pchhtq4jkffv8fcbj36qbw/v/1286009086/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_A_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=qMOxKq6_atfPfvLMGe4utHru-rM=",
+      "url": "https://storage-us-gcs.bfldr.com/pchhtq4jkffv8fcbj36qbw/v/1286009086/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_A_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=qMOxKq6_atfPfvLMGe4utHru-rM="
+    },
+    {
+      "attachment_id": "8hr9fzxqsk4rbwx984g9wkjb",
+      "filename": "3400653_CHARCOAL ACCESSORIES_CHAR KETTLE SMART RING ACCY EMEA_BA_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 6600,
+      "height": 6600,
+      "size": 5920161,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8hr9fzxqsk4rbwx984g9wkjb/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_BA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8hr9fzxqsk4rbwx984g9wkjb/v/1286009087/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_BA_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=StpFe7jCODNrJQDn1hzoMKl53vA=",
+      "url": "https://storage-us-gcs.bfldr.com/8hr9fzxqsk4rbwx984g9wkjb/v/1286009087/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_BA_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=StpFe7jCODNrJQDn1hzoMKl53vA="
+    },
+    {
+      "attachment_id": "pj4ms7gr2v2swg9n8z6fpqg6",
+      "filename": "3400653_CHARCOAL ACCESSORIES_CHAR KETTLE SMART RING ACCY EMEA_B_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 6600,
+      "height": 6600,
+      "size": 4301178,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pj4ms7gr2v2swg9n8z6fpqg6/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pj4ms7gr2v2swg9n8z6fpqg6/v/1286009088/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_B_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=Q5JCAqf6yEKaEnaJTH5KlJEjjOU=",
+      "url": "https://storage-us-gcs.bfldr.com/pj4ms7gr2v2swg9n8z6fpqg6/v/1286009088/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_B_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=Q5JCAqf6yEKaEnaJTH5KlJEjjOU="
+    },
+    {
+      "attachment_id": "3k4hgp7h3jrjpfjzf3n6pgmz",
+      "filename": "3400653_CHARCOAL ACCESSORIES_CHAR KETTLE SMART RING ACCY EMEA_CA_rgb.png",
+      "extension": "png",
+      "position": 4,
+      "width": 6600,
+      "height": 6600,
+      "size": 5246461,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3k4hgp7h3jrjpfjzf3n6pgmz/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_CA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3k4hgp7h3jrjpfjzf3n6pgmz/v/1286009089/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_CA_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=Rcb9I47SY88HQu2gz9PYVLEen60=",
+      "url": "https://storage-us-gcs.bfldr.com/3k4hgp7h3jrjpfjzf3n6pgmz/v/1286009089/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_CA_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=Rcb9I47SY88HQu2gz9PYVLEen60="
+    },
+    {
+      "attachment_id": "ntkrpt8fqh8mqvnq7nq2j8c",
+      "filename": "3400653_CHARCOAL ACCESSORIES_CHAR KETTLE SMART RING ACCY EMEA_C_rgb.png",
+      "extension": "png",
+      "position": 5,
+      "width": 6600,
+      "height": 6600,
+      "size": 5234003,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ntkrpt8fqh8mqvnq7nq2j8c/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ntkrpt8fqh8mqvnq7nq2j8c/v/1286009090/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_C_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=eLAlnGq9Nr9CnwOEsh_RdgpSQuk=",
+      "url": "https://storage-us-gcs.bfldr.com/ntkrpt8fqh8mqvnq7nq2j8c/v/1286009090/original/3400653_CHARCOAL%20ACCESSORIES_CHAR%20KETTLE%20SMART%20RING%20ACCY%20EMEA_C_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=eLAlnGq9Nr9CnwOEsh_RdgpSQuk="
+    },
+    {
+      "attachment_id": "k998tpn873hqrxp3cbn2crv",
+      "filename": "3400660_048_KettleSmartRing_FY2026_AMER_plate.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 30748562,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k998tpn873hqrxp3cbn2crv/3400660_048_KettleSmartRing_FY2026_AMER_plate.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k998tpn873hqrxp3cbn2crv/v/1288170992/original/3400660_048_KettleSmartRing_FY2026_AMER_plate.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=9LY-SinQd4QGOn_pi7zbwKnP3N0=",
+      "url": "https://storage-us-gcs.bfldr.com/k998tpn873hqrxp3cbn2crv/v/1288170992/original/3400660_048_KettleSmartRing_FY2026_AMER_plate.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=9LY-SinQd4QGOn_pi7zbwKnP3N0="
+    },
+    {
+      "attachment_id": "5t2zrwtz2tpmbb6q8jp3rwb",
+      "filename": "3400660_048_KettleSmartRing_FY2026_Celsius.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 24915317,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5t2zrwtz2tpmbb6q8jp3rwb/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5t2zrwtz2tpmbb6q8jp3rwb/v/1288169591/original/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=44747nHWuKcrJTDjTc0LFVwvZDI=",
+      "url": "https://storage-us-gcs.bfldr.com/5t2zrwtz2tpmbb6q8jp3rwb/v/1288169591/original/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=44747nHWuKcrJTDjTc0LFVwvZDI="
+    },
+    {
+      "attachment_id": "8bj7jvntxs4fjmkbwk7z8zkp",
+      "filename": "3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7937,
+      "height": 5294,
+      "size": 24873496,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8bj7jvntxs4fjmkbwk7z8zkp/3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8bj7jvntxs4fjmkbwk7z8zkp/v/1288181457/original/3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=tedcyxQ3R3OvEpBV2Dezc-01ZVA=",
+      "url": "https://storage-us-gcs.bfldr.com/8bj7jvntxs4fjmkbwk7z8zkp/v/1288181457/original/3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=tedcyxQ3R3OvEpBV2Dezc-01ZVA="
+    },
+    {
+      "attachment_id": "npq42n2f4rx72677573hmq5t",
+      "filename": "3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7937,
+      "height": 5294,
+      "size": 25686196,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/npq42n2f4rx72677573hmq5t/3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/npq42n2f4rx72677573hmq5t/v/1288181458/original/3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=bVoklkZi374lvrMQdfzrYUQMkKo=",
+      "url": "https://storage-us-gcs.bfldr.com/npq42n2f4rx72677573hmq5t/v/1288181458/original/3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=bVoklkZi374lvrMQdfzrYUQMkKo="
+    },
+    {
+      "attachment_id": "mnqgfjhx3kfvbm6qqmjwh6",
+      "filename": "3400660_105_KettleSmartRing_ FY2026_AMER_V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7937,
+      "height": 5294,
+      "size": 23855541,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mnqgfjhx3kfvbm6qqmjwh6/3400660_105_KettleSmartRing_%20FY2026_AMER_V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mnqgfjhx3kfvbm6qqmjwh6/v/1288181459/original/3400660_105_KettleSmartRing_%20FY2026_AMER_V1.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=L2L2ezCJh-M9vEu19Hlg2CFlAzY=",
+      "url": "https://storage-us-gcs.bfldr.com/mnqgfjhx3kfvbm6qqmjwh6/v/1288181459/original/3400660_105_KettleSmartRing_%20FY2026_AMER_V1.jpg?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=L2L2ezCJh-M9vEu19Hlg2CFlAzY="
+    },
+    {
+      "attachment_id": "kt4j4tc5hftjh3fv6n79m3j",
+      "filename": "3400880_CHARCOAL ACCESSORIES_ CHAR KETTLE SMART RING ACCY UK PACKAGING.723_rgb.png",
+      "extension": "png",
+      "position": 7,
+      "width": 6600,
+      "height": 6600,
+      "size": 6382707,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kt4j4tc5hftjh3fv6n79m3j/3400880_CHARCOAL%20ACCESSORIES_%20CHAR%20KETTLE%20SMART%20RING%20ACCY%20UK%20PACKAGING.723_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kt4j4tc5hftjh3fv6n79m3j/v/1295739550/original/3400880_CHARCOAL%20ACCESSORIES_%20CHAR%20KETTLE%20SMART%20RING%20ACCY%20UK%20PACKAGING.723_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=KpUVJlLV9kKF6Sgz9GgH2HQe1ts=",
+      "url": "https://storage-us-gcs.bfldr.com/kt4j4tc5hftjh3fv6n79m3j/v/1295739550/original/3400880_CHARCOAL%20ACCESSORIES_%20CHAR%20KETTLE%20SMART%20RING%20ACCY%20UK%20PACKAGING.723_rgb.png?Expires=1784307181&KeyName=gcs-bfldr-prod&Signature=KpUVJlLV9kKF6Sgz9GgH2HQe1ts="
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "cache_version": 5,
+  "sku": "6206",
+  "assets": [
+    {
+      "asset_id": "ppap4y-2hpbeg-emmv44",
+      "asset_name": "Plancha Spatula 6206 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6206"
+      ]
+    },
+    {
+      "asset_id": "q5uxj7-f3t48g-73nt7v",
+      "asset_name": "Plancha Spatula 6206 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6206"
+      ]
+    },
+    {
+      "asset_id": "29phg5kvxvhhkfsw2fvv6whp",
+      "asset_name": "51565 0419 RevA lr",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6206"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ppap4y-2hpbeg-5fbx21",
+      "filename": "6206A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4800,
+      "height": 4800,
+      "size": 5703553,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppap4y-2hpbeg-5fbx21/6206A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppap4y-2hpbeg-5fbx21/v/3471354/original/6206A.png?Expires=1784330838&KeyName=gcs-bfldr-prod&Signature=3jroNB4OtDQhrbnlSJm8Pl4Ao2U=",
+      "url": "https://storage-us-gcs.bfldr.com/ppap4y-2hpbeg-5fbx21/v/3471354/original/6206A.png?Expires=1784330838&KeyName=gcs-bfldr-prod&Signature=3jroNB4OtDQhrbnlSJm8Pl4Ao2U="
+    },
+    {
+      "attachment_id": "ppap4y-2hpbeg-72qryy",
+      "filename": "6206C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4800,
+      "height": 4800,
+      "size": 5867034,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppap4y-2hpbeg-72qryy/6206C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppap4y-2hpbeg-72qryy/v/3471355/original/6206C.png?Expires=1784330838&KeyName=gcs-bfldr-prod&Signature=1fY5RZKCLslWs35AW-D7ddkK0CE=",
+      "url": "https://storage-us-gcs.bfldr.com/ppap4y-2hpbeg-72qryy/v/3471355/original/6206C.png?Expires=1784330838&KeyName=gcs-bfldr-prod&Signature=1fY5RZKCLslWs35AW-D7ddkK0CE="
+    },
+    {
+      "attachment_id": "ppap4y-2hpbeg-27654w",
+      "filename": "6206D.png",
+      "extension": "png",
+      "position": 2,
+      "width": 6453,
+      "height": 6453,
+      "size": 5032428,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppap4y-2hpbeg-27654w/6206D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppap4y-2hpbeg-27654w/v/3471356/original/6206D.png?Expires=1784330838&KeyName=gcs-bfldr-prod&Signature=fSn0E1Ui3EkvbWFN3o17VOkLSoI=",
+      "url": "https://storage-us-gcs.bfldr.com/ppap4y-2hpbeg-27654w/v/3471356/original/6206D.png?Expires=1784330838&KeyName=gcs-bfldr-prod&Signature=fSn0E1Ui3EkvbWFN3o17VOkLSoI="
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "cache_version": 2,
+  "sku": "1501949",
+  "assets": [
+    {
+      "asset_id": "866n4hqx9qfw6m95n5nq8khx",
+      "asset_name": "[EMEA] GENESIS EPX435W",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "chwnbmh6xpg4h5fn4j4gz5p",
+      "asset_name": "[cze] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7h63s9mk7v2fqcptmbpx7mmc",
+      "asset_name": "[dan] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "9vqh932jxv9n4v8sgm26kt8s",
+      "asset_name": "[dut-NL] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "m9mcqtnk9fjtnq36r99kpwt",
+      "asset_name": "[en-GB] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "93n6g3xnbfstvwbnvfrxbt",
+      "asset_name": "[fin] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "njw46q6r6j9kkg2sh4t6kk",
+      "asset_name": "[fra-FR] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5qhkfzvt7fzj47q9978pt9h",
+      "asset_name": "[ger-DE] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4ms3btw2vs5hm5wf6szwrs7",
+      "asset_name": "[hrv] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pmgppqgg7fvpwmrp8zwqvtqq",
+      "asset_name": "[ita-IT] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "29r4qc6sx6gp7pjzsgbt8fc",
+      "asset_name": "[no] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rb9gkrsvqg9t9p6qfbmwsk8x",
+      "asset_name": "[pol] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "jrkqs74pz76t55gfcv97cz",
+      "asset_name": "[sk] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rw59nqsqtvw4ppcbg6gbgbm5",
+      "asset_name": "[slv] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "w75nqf5gqth76fx6vkbntsjr",
+      "asset_name": "[spa-ES] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "f7x5s3bw8c9vvr4fbwkf7x5",
+      "asset_name": "[swe-SE] Genesis EPX-435W MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "h978cr8w5sxbmwfs4rqs7sr8",
+      "asset_name": "[EMEA] Genesis EPX-435W",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "9hs52bjjmnkh7bc9qjkrwwkk",
+      "asset_name": "EPX435W EMEA Dimensions",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rjhgfx8k5524wkrs8xhg9n",
+      "asset_name": "[NL/DE/FR/IT] EPX-325W / EPX-425W-- Assembly Guide",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "96ws6rp75xm3n9n9b3btjrhp",
+      "asset_name": "[CZ/SK/SL/HR] EPX-325W / EPX-425W-- Assembly Guide",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rrm8m98jtj2jh4kkmmn5sbwp",
+      "asset_name": "[RU/HU/TR/EL] EPX-325W / EPX-425W-- Assembly Guide",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "4j68sf9ss568st5nm95hqv5",
+      "filename": "1501931_GENESIS_EPX435W_EMEA.335_B_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4j68sf9ss568st5nm95hqv5/1501931_GENESIS_EPX435W_EMEA.335_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4j68sf9ss568st5nm95hqv5/v/1279957382/original/1501931_GENESIS_EPX435W_EMEA.335_B_rgb.png?Expires=1784296904&KeyName=gcs-bfldr-prod&Signature=j7pQH4hIKZCqCa2YiROXlfEm10w=",
+      "url": "https://storage-us-gcs.bfldr.com/4j68sf9ss568st5nm95hqv5/v/1279957382/original/1501931_GENESIS_EPX435W_EMEA.335_B_rgb.png?Expires=1784296904&KeyName=gcs-bfldr-prod&Signature=j7pQH4hIKZCqCa2YiROXlfEm10w="
+    },
+    {
+      "attachment_id": "7f55kkxfsxmr99xm3s5562",
+      "filename": "1501931_GENESIS_EPX435W_EMEA.338_A_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7f55kkxfsxmr99xm3s5562/1501931_GENESIS_EPX435W_EMEA.338_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7f55kkxfsxmr99xm3s5562/v/1279957383/original/1501931_GENESIS_EPX435W_EMEA.338_A_rgb.png?Expires=1784296904&KeyName=gcs-bfldr-prod&Signature=x_xDpfV7ndasFfZKL6e6U8QZEwI=",
+      "url": "https://storage-us-gcs.bfldr.com/7f55kkxfsxmr99xm3s5562/v/1279957383/original/1501931_GENESIS_EPX435W_EMEA.338_A_rgb.png?Expires=1784296904&KeyName=gcs-bfldr-prod&Signature=x_xDpfV7ndasFfZKL6e6U8QZEwI="
+    },
+    {
+      "attachment_id": "m8gq39rcjrfp7j9tntqpwxk3",
+      "filename": "1501931_GENESIS_EPX435W_EMEA.339_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/m8gq39rcjrfp7j9tntqpwxk3/1501931_GENESIS_EPX435W_EMEA.339_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/m8gq39rcjrfp7j9tntqpwxk3/v/1279957384/original/1501931_GENESIS_EPX435W_EMEA.339_C_rgb.png?Expires=1784296904&KeyName=gcs-bfldr-prod&Signature=GAIWgTpZLsTBEwEkGti2M9CTnZ4=",
+      "url": "https://storage-us-gcs.bfldr.com/m8gq39rcjrfp7j9tntqpwxk3/v/1279957384/original/1501931_GENESIS_EPX435W_EMEA.339_C_rgb.png?Expires=1784296904&KeyName=gcs-bfldr-prod&Signature=GAIWgTpZLsTBEwEkGti2M9CTnZ4="
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "cache_version": 5,
+  "sku": "7856",
+  "assets": [
+    {
+      "asset_id": "jmbp6qv6rh9hspgxj4mgcsw",
+      "asset_name": "Spirit/SmokeFire PECI Cooking Grates 7856 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7856"
+      ]
+    },
+    {
+      "asset_id": "3bnrhhb3mqhsxhh8qw4sk539",
+      "asset_name": "Spirit/SmokeFire 3B PECI Grates 7856 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7856"
+      ]
+    },
+    {
+      "asset_id": "7w5kcmqckqjgj3scqn7xkf",
+      "asset_name": "Weber Crafted Overview Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7684",
+        "7678",
+        "7686",
+        "7688",
+        "7673",
+        "7675",
+        "7670",
+        "7853",
+        "7606",
+        "7854",
+        "7856",
+        "7672",
+        "7680",
+        "7674",
+        "7685",
+        "7860",
+        "3400843",
+        "7682",
+        "7681",
+        "7849",
+        "7607",
+        "7852",
+        "7683",
+        "7687",
+        "7677",
+        "7671"
+      ]
+    },
+    {
+      "asset_id": "krqbhjh8qhrk23r7c7c5kj",
+      "asset_name": "30189404 78301 0724 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7856"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "rfkb25vvf4fst53t9wg3f9xm",
+      "filename": "7856A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 5584877,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rfkb25vvf4fst53t9wg3f9xm/7856A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/rfkb25vvf4fst53t9wg3f9xm/v/1038409987/original/7856A_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/rfkb25vvf4fst53t9wg3f9xm/v/1038409987/original/7856A_rgb.png"
+    },
+    {
+      "attachment_id": "rf6knvs98wwj999q5vc8qbcq",
+      "filename": "7856B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 6091737,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rf6knvs98wwj999q5vc8qbcq/7856B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/rf6knvs98wwj999q5vc8qbcq/v/1038409988/original/7856B_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/rf6knvs98wwj999q5vc8qbcq/v/1038409988/original/7856B_rgb.png"
+    },
+    {
+      "attachment_id": "vhx3jk96fh7ccsfxnj4776tg",
+      "filename": "7856C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4000,
+      "height": 4000,
+      "size": 5647537,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vhx3jk96fh7ccsfxnj4776tg/7856C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/vhx3jk96fh7ccsfxnj4776tg/v/1038409989/original/7856C_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/vhx3jk96fh7ccsfxnj4776tg/v/1038409989/original/7856C_rgb.png"
+    }
+  ]
+}

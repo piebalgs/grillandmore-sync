@@ -1,0 +1,78 @@
+{
+  "cache_version": 5,
+  "sku": "3400852",
+  "assets": [
+    {
+      "asset_id": "n36cmpw54tmkgfxbw5pwgf8",
+      "asset_name": "Q2100N/Q2200N/Q2800N+ Bonnet Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400232",
+        "3400143",
+        "3400852"
+      ]
+    },
+    {
+      "asset_id": "vf9hvnxj3cvcrvnwthc6szk9",
+      "asset_name": "[EMEA/AUNZ/AMER] Q2100N/Q2200N/Q2800N+ Bonnet Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400852",
+        "3400232",
+        "3400143"
+      ]
+    },
+    {
+      "asset_id": "tgpm7hvtx5nf6ws688fj9vjn",
+      "asset_name": "8656009 9501374 0824 RevA CN LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400852"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "qcxj6bgz8q44v266g3pvxrf",
+      "filename": "3400852A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 8219900,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qcxj6bgz8q44v266g3pvxrf/3400852A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qcxj6bgz8q44v266g3pvxrf/v/1263106593/original/3400852A_rgb.png?Expires=1784305578&KeyName=gcs-bfldr-prod&Signature=N01krr4pI_u4oVTWurlbXKqI73k=",
+      "url": "https://storage-us-gcs.bfldr.com/qcxj6bgz8q44v266g3pvxrf/v/1263106593/original/3400852A_rgb.png?Expires=1784305578&KeyName=gcs-bfldr-prod&Signature=N01krr4pI_u4oVTWurlbXKqI73k="
+    },
+    {
+      "attachment_id": "rmpr27rwjmhb6qc8t9k34",
+      "filename": "3400852B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 8458953,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rmpr27rwjmhb6qc8t9k34/3400852B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rmpr27rwjmhb6qc8t9k34/v/1263106594/original/3400852B_rgb.png?Expires=1784305578&KeyName=gcs-bfldr-prod&Signature=karTd2gouFDBwtG0WfONshMQoKs=",
+      "url": "https://storage-us-gcs.bfldr.com/rmpr27rwjmhb6qc8t9k34/v/1263106594/original/3400852B_rgb.png?Expires=1784305578&KeyName=gcs-bfldr-prod&Signature=karTd2gouFDBwtG0WfONshMQoKs="
+    },
+    {
+      "attachment_id": "nwghqfvcqjs3h57vscqh6wv",
+      "filename": "3400852C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 7966796,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nwghqfvcqjs3h57vscqh6wv/3400852C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nwghqfvcqjs3h57vscqh6wv/v/1263106595/original/3400852C_rgb.png?Expires=1784305578&KeyName=gcs-bfldr-prod&Signature=ex3RvZH6Bb5JXD0Hi2mh7K2WItI=",
+      "url": "https://storage-us-gcs.bfldr.com/nwghqfvcqjs3h57vscqh6wv/v/1263106595/original/3400852C_rgb.png?Expires=1784305578&KeyName=gcs-bfldr-prod&Signature=ex3RvZH6Bb5JXD0Hi2mh7K2WItI="
+    }
+  ]
+}

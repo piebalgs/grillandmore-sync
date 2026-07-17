@@ -1,11 +1,14 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "17832",
   "assets": [
     {
       "asset_id": "q6drxo-endhmg-bmvu71",
       "asset_name": "Western Red Cedar Portion Planks 17832 Product",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17832"
+      ]
     }
   ],
   "images": [
@@ -16,10 +19,12 @@
       "position": 0,
       "width": 3000,
       "height": 3000,
+      "size": 6708388,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q6drxo-endhmg-45m0iy/17832B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q6drxo-endhmg-45m0iy/v/11238512/original/17832B.png?Expires=1784282614&KeyName=gcs-bfldr-prod&Signature=eGHYlCY_wuRUjFlzpwUWnjKU6mw=",
-      "url": "https://storage-us-gcs.bfldr.com/q6drxo-endhmg-45m0iy/v/11238512/original/17832B.png?Expires=1784282614&KeyName=gcs-bfldr-prod&Signature=eGHYlCY_wuRUjFlzpwUWnjKU6mw="
+      "original_url": "https://storage-us-gcs.bfldr.com/q6drxo-endhmg-45m0iy/v/11238512/original/17832B.png?Expires=1784343687&KeyName=gcs-bfldr-prod&Signature=ipnHL3jSzLG94Rf-6VBrVHZVVI0=",
+      "url": "https://storage-us-gcs.bfldr.com/q6drxo-endhmg-45m0iy/v/11238512/original/17832B.png?Expires=1784343687&KeyName=gcs-bfldr-prod&Signature=ipnHL3jSzLG94Rf-6VBrVHZVVI0="
     },
     {
       "attachment_id": "q6drxo-endhmg-3zc0p1",
@@ -28,10 +33,12 @@
       "position": 1,
       "width": 3000,
       "height": 3000,
+      "size": 6598974,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q6drxo-endhmg-3zc0p1/17832C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q6drxo-endhmg-3zc0p1/v/11238513/original/17832C.png?Expires=1784282614&KeyName=gcs-bfldr-prod&Signature=OoAr0ySzwkZgbyLxA20IB9u1vbo=",
-      "url": "https://storage-us-gcs.bfldr.com/q6drxo-endhmg-3zc0p1/v/11238513/original/17832C.png?Expires=1784282614&KeyName=gcs-bfldr-prod&Signature=OoAr0ySzwkZgbyLxA20IB9u1vbo="
+      "original_url": "https://storage-us-gcs.bfldr.com/q6drxo-endhmg-3zc0p1/v/11238513/original/17832C.png?Expires=1784343687&KeyName=gcs-bfldr-prod&Signature=iiO2-LTB9lvN4d71kvCkOi6mdHo=",
+      "url": "https://storage-us-gcs.bfldr.com/q6drxo-endhmg-3zc0p1/v/11238513/original/17832C.png?Expires=1784343687&KeyName=gcs-bfldr-prod&Signature=iiO2-LTB9lvN4d71kvCkOi6mdHo="
     }
   ]
 }

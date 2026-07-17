@@ -1,0 +1,149 @@
+{
+  "cache_version": 2,
+  "sku": "1502137",
+  "assets": [
+    {
+      "asset_id": "jh8jm8wsq9j82wq6cjp67t85",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "f43gwmmzv5pxksxcks2wwh5c",
+      "asset_name": "en-EMEA Spirit EX-425 MasterCopyDoc FINAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7fgthch3sxrpb42grpcc98r5",
+      "asset_name": "[cze] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "s6v6wf299vwm4srp2zc9nfnn",
+      "asset_name": "[dan] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4j7w2zpf847k6f3w2kvhf68",
+      "asset_name": "[dut-NL] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "6jw874wrgfw64btzp7jchtpm",
+      "asset_name": "[eng-GB] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kssjpvt7x38hqjqms47jqp98",
+      "asset_name": "[fin] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7b6z2mx6993pxghzwmbq7hv",
+      "asset_name": "[fre-FR] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nqmfxkr5tx4sjt32wft7ck6",
+      "asset_name": "[ger-DE] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "grc5rhwptcc2jtsvbkbm93k",
+      "asset_name": "[hrv] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "tqfwhhc5hvw8hmg8hjwpkprn",
+      "asset_name": "[ita-IT] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "9hcqp8jv66p3h3jfh3mp64gz",
+      "asset_name": "[no] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "tzrmmbrt4mfbbnwqsrfb6jpt",
+      "asset_name": "[pol] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bc45nr5m63r8kjc4wkwhqwg",
+      "asset_name": "[por-PT] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "c596r3xghfnkq6jq7fscjqb",
+      "asset_name": "[sk] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "h58np4snswx7g6sxg38c4gwt",
+      "asset_name": "[slv] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "jrhrrnnkqxs8vp7xffj6szgp",
+      "asset_name": "[spa-ES] Spirit EX-425 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rrnk6cwkjqxz4vngvqj9bt",
+      "asset_name": "[swe-SE] Spirit EX-425 MasterCopy EMEA (2)",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "j8mr9r7kh7rgk978fghxv3m",
+      "asset_name": "[EMEA] Spirit EX-425 LP",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3hgjf4kp2fpzft565rbpjj3",
+      "asset_name": "EX425 EMEA Dimensions",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "twsftcms8rpz4866m4jw9pvr",
+      "asset_name": "[RU/HU/TR/EL] Spirit EX-325/425--Assembly Guide",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "hfjq2ptrx5c6cpchswhvg4s",
+      "filename": "1502140 Spirit EX-425_LP_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hfjq2ptrx5c6cpchswhvg4s/1502140%20Spirit%20EX-425_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hfjq2ptrx5c6cpchswhvg4s/v/1279863014/original/1502140%20Spirit%20EX-425_LP_A_rgb.png?Expires=1784297114&KeyName=gcs-bfldr-prod&Signature=x5e_VTz2YgXUhosQ76SnydC2hIY=",
+      "url": "https://storage-us-gcs.bfldr.com/hfjq2ptrx5c6cpchswhvg4s/v/1279863014/original/1502140%20Spirit%20EX-425_LP_A_rgb.png?Expires=1784297114&KeyName=gcs-bfldr-prod&Signature=x5e_VTz2YgXUhosQ76SnydC2hIY="
+    },
+    {
+      "attachment_id": "gvhgwsrrgrkp7f7v9tb74n",
+      "filename": "1502140 Spirit EX-425_LP_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gvhgwsrrgrkp7f7v9tb74n/1502140%20Spirit%20EX-425_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gvhgwsrrgrkp7f7v9tb74n/v/1279863015/original/1502140%20Spirit%20EX-425_LP_B_rgb.png?Expires=1784297113&KeyName=gcs-bfldr-prod&Signature=AKZzKLP90nKg4rtfBUFC008Hf-U=",
+      "url": "https://storage-us-gcs.bfldr.com/gvhgwsrrgrkp7f7v9tb74n/v/1279863015/original/1502140%20Spirit%20EX-425_LP_B_rgb.png?Expires=1784297113&KeyName=gcs-bfldr-prod&Signature=AKZzKLP90nKg4rtfBUFC008Hf-U="
+    },
+    {
+      "attachment_id": "cf2f33mxg3wmh3tgs8rkkm",
+      "filename": "1502140 Spirit EX-425_LP_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cf2f33mxg3wmh3tgs8rkkm/1502140%20Spirit%20EX-425_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cf2f33mxg3wmh3tgs8rkkm/v/1279863016/original/1502140%20Spirit%20EX-425_LP_C_rgb.png?Expires=1784297114&KeyName=gcs-bfldr-prod&Signature=_HzCUXjh2vKrmRaLRLJ6LVWLfjA=",
+      "url": "https://storage-us-gcs.bfldr.com/cf2f33mxg3wmh3tgs8rkkm/v/1279863016/original/1502140%20Spirit%20EX-425_LP_C_rgb.png?Expires=1784297114&KeyName=gcs-bfldr-prod&Signature=_HzCUXjh2vKrmRaLRLJ6LVWLfjA="
+    }
+  ]
+}

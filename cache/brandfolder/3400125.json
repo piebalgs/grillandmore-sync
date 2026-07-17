@@ -1,0 +1,338 @@
+{
+  "cache_version": 5,
+  "sku": "3400125",
+  "assets": [
+    {
+      "asset_id": "bf2qqb275fb9sxrnps43mt5c",
+      "asset_name": "(cze) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "mnh93hw9f9p84kgjj92wj",
+      "asset_name": "(dan) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "2bs7qvfv7777gg2tq379wn8",
+      "asset_name": "(dut-NL) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "tt2csx5p6923jfwgpmvj58hf",
+      "asset_name": "(eng-GB) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "f3487n3whr36brqshwgzbzj",
+      "asset_name": "(fin) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "79pc3mmv68jqjzwrmqj6rrn7",
+      "asset_name": "(fre-FR) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "4m3pwxk3554j7983rmpsjshw",
+      "asset_name": "(ger-DE) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "b3xrsphq3hrmwxp9kzhwv9pc",
+      "asset_name": "(ita-IT) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "2b9zmpprvkns956xc5mmnp7z",
+      "asset_name": "(no) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "bss7tv3gn3tph4gpk8nzmqfx",
+      "asset_name": "(pol) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "64mzqrchnwcp6h4twh7rzkx",
+      "asset_name": "(por-PT) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "bn8txfw3w85rz6qnkt528vs",
+      "asset_name": "(sk) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "2qvgsgrzxxwn8pbgg8zr79",
+      "asset_name": "(spa-ES) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "pghb6vm9gz7496bfbms54vj",
+      "asset_name": "(swe-SE) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "kc2pw628bw873wbgr724m7cx",
+      "asset_name": "00 (en-US) Portable Tools Backpack MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "3jfmjffwz5jwj8b9x7wxkkj",
+      "asset_name": "Portable Tools Travel Backpack",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "wx5bfbn99cfp9pjjfgmktq6r",
+      "asset_name": "Portable Tools Travel Backpack",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "wgjsfg87nn858c5bvtk3mqx",
+      "asset_name": "Portable Tools Travel Backpack",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "53j9fg5j95j4tbt6jps3spww",
+      "asset_name": "Portable Tools Travel Backpack",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "9wcq94cg4f8q9gmxkrh9rrn6",
+      "asset_name": "Portable Tools Backpack PDP - Packaging Copy FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "5n8tffw3m84gnn3ws7frxk",
+      "asset_name": "Portable Tools Travel Backpack",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    },
+    {
+      "asset_id": "3kftrf9cgmpvn7h5gg2cg3f9",
+      "asset_name": "9500806 0124 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400125"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "xn5q3mjhgjvrrw5qwgwjg",
+      "filename": "1500213_TRAVELER_22_GRIDDLE_FOOD_2426_1x1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5343,
+      "height": 5343,
+      "size": 15747924,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xn5q3mjhgjvrrw5qwgwjg/1500213_TRAVELER_22_GRIDDLE_FOOD_2426_1x1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xn5q3mjhgjvrrw5qwgwjg/v/1279480532/original/1500213_TRAVELER_22_GRIDDLE_FOOD_2426_1x1.jpg?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=Cyxusc0rwdbsqndPE2zKvzFcLJ0=",
+      "url": "https://storage-us-gcs.bfldr.com/xn5q3mjhgjvrrw5qwgwjg/v/1279480532/original/1500213_TRAVELER_22_GRIDDLE_FOOD_2426_1x1.jpg?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=Cyxusc0rwdbsqndPE2zKvzFcLJ0="
+    },
+    {
+      "attachment_id": "xvpzv9tgrwq38f3v3p5r9",
+      "filename": "1500213_TRAVELER_22_GRIDDLE_FOOD_2433_1x1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5464,
+      "height": 5464,
+      "size": 16439682,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xvpzv9tgrwq38f3v3p5r9/1500213_TRAVELER_22_GRIDDLE_FOOD_2433_1x1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xvpzv9tgrwq38f3v3p5r9/v/1279480533/original/1500213_TRAVELER_22_GRIDDLE_FOOD_2433_1x1.jpg?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=HWAIrFMxpHYgE5tspBCUWXC9DY8=",
+      "url": "https://storage-us-gcs.bfldr.com/xvpzv9tgrwq38f3v3p5r9/v/1279480533/original/1500213_TRAVELER_22_GRIDDLE_FOOD_2433_1x1.jpg?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=HWAIrFMxpHYgE5tspBCUWXC9DY8="
+    },
+    {
+      "attachment_id": "9hh89nfvh5mhghhjwfrkrh",
+      "filename": "3400125 YM1 rgb 3400125_YM1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6664,
+      "height": 4234,
+      "size": 23275584,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9hh89nfvh5mhghhjwfrkrh/3400125%20YM1%20rgb%203400125_YM1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9hh89nfvh5mhghhjwfrkrh/v/1279480535/original/3400125%20YM1%20rgb%203400125_YM1_rgb.jpg?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=-N70yOptohtvf9vuqa_xWqcqEgI=",
+      "url": "https://storage-us-gcs.bfldr.com/9hh89nfvh5mhghhjwfrkrh/v/1279480535/original/3400125%20YM1%20rgb%203400125_YM1_rgb.jpg?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=-N70yOptohtvf9vuqa_xWqcqEgI="
+    },
+    {
+      "attachment_id": "jv6f3zxvmwcm7xg9vkkbgjgz",
+      "filename": "3400125 YM1 rgb 3400125_YM2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6664,
+      "height": 4234,
+      "size": 23412517,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jv6f3zxvmwcm7xg9vkkbgjgz/3400125%20YM1%20rgb%203400125_YM2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jv6f3zxvmwcm7xg9vkkbgjgz/v/1279480537/original/3400125%20YM1%20rgb%203400125_YM2_rgb.jpg?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=ZroCr69JIigjP4PayN7VRom7DWk=",
+      "url": "https://storage-us-gcs.bfldr.com/jv6f3zxvmwcm7xg9vkkbgjgz/v/1279480537/original/3400125%20YM1%20rgb%203400125_YM2_rgb.jpg?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=ZroCr69JIigjP4PayN7VRom7DWk="
+    },
+    {
+      "attachment_id": "n96q4smznm399mj4tpzxkx",
+      "filename": "Portable Tools Travel Backpack 3400125 3400125_Q1_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5400,
+      "height": 5400,
+      "size": 14583986,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n96q4smznm399mj4tpzxkx/Portable%20Tools%20Travel%20Backpack%203400125%203400125_Q1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/n96q4smznm399mj4tpzxkx/v/1279480546/original/Portable%20Tools%20Travel%20Backpack%203400125%203400125_Q1_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=ikcKTh5fULV1hs2FdrqI9t5JQ90=",
+      "url": "https://storage-us-gcs.bfldr.com/n96q4smznm399mj4tpzxkx/v/1279480546/original/Portable%20Tools%20Travel%20Backpack%203400125%203400125_Q1_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=ikcKTh5fULV1hs2FdrqI9t5JQ90="
+    },
+    {
+      "attachment_id": "cwxgc8qc5tv97ksztn5h83m8",
+      "filename": "Portable Tools Travel Backpack 3400125 3400125_Q2_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 5400,
+      "height": 5400,
+      "size": 14933817,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cwxgc8qc5tv97ksztn5h83m8/Portable%20Tools%20Travel%20Backpack%203400125%203400125_Q2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cwxgc8qc5tv97ksztn5h83m8/v/1279480547/original/Portable%20Tools%20Travel%20Backpack%203400125%203400125_Q2_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=WYxlwUGbtMRfGaC6EIPqCmvmq9g=",
+      "url": "https://storage-us-gcs.bfldr.com/cwxgc8qc5tv97ksztn5h83m8/v/1279480547/original/Portable%20Tools%20Travel%20Backpack%203400125%203400125_Q2_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=WYxlwUGbtMRfGaC6EIPqCmvmq9g="
+    },
+    {
+      "attachment_id": "f8jfvp7gbt65gkvn3b9z93jm",
+      "filename": "Portable Tools Travel Backpack 3400125 3400135_A_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 5400,
+      "height": 5400,
+      "size": 10962266,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f8jfvp7gbt65gkvn3b9z93jm/Portable%20Tools%20Travel%20Backpack%203400125%203400135_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/f8jfvp7gbt65gkvn3b9z93jm/v/1279480548/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_A_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=d_kLXQcToUEqyeGPQjKeF-cQQGE=",
+      "url": "https://storage-us-gcs.bfldr.com/f8jfvp7gbt65gkvn3b9z93jm/v/1279480548/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_A_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=d_kLXQcToUEqyeGPQjKeF-cQQGE="
+    },
+    {
+      "attachment_id": "cvknnx2t8sb7hmjmfqss6p9k",
+      "filename": "Portable Tools Travel Backpack 3400125 3400135_B_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 5400,
+      "height": 5400,
+      "size": 9161249,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cvknnx2t8sb7hmjmfqss6p9k/Portable%20Tools%20Travel%20Backpack%203400125%203400135_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cvknnx2t8sb7hmjmfqss6p9k/v/1279480550/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_B_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=xcoIlaUD8wKD2AeNtmnjsNS4s-c=",
+      "url": "https://storage-us-gcs.bfldr.com/cvknnx2t8sb7hmjmfqss6p9k/v/1279480550/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_B_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=xcoIlaUD8wKD2AeNtmnjsNS4s-c="
+    },
+    {
+      "attachment_id": "w4kx44tx87bk9stqbk5qj9p",
+      "filename": "Portable Tools Travel Backpack 3400125 3400135_C_rgb.png",
+      "extension": "png",
+      "position": 4,
+      "width": 5400,
+      "height": 5400,
+      "size": 8613099,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w4kx44tx87bk9stqbk5qj9p/Portable%20Tools%20Travel%20Backpack%203400125%203400135_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/w4kx44tx87bk9stqbk5qj9p/v/1279480551/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_C_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=RcOQKOgZR8i63RhRA5k3xf2vFbY=",
+      "url": "https://storage-us-gcs.bfldr.com/w4kx44tx87bk9stqbk5qj9p/v/1279480551/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_C_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=RcOQKOgZR8i63RhRA5k3xf2vFbY="
+    },
+    {
+      "attachment_id": "jfr6cm7h3sm42p65n2kjvvq",
+      "filename": "Portable Tools Travel Backpack 3400125 3400135_T1_rgb.png",
+      "extension": "png",
+      "position": 5,
+      "width": 5400,
+      "height": 5400,
+      "size": 8877499,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jfr6cm7h3sm42p65n2kjvvq/Portable%20Tools%20Travel%20Backpack%203400125%203400135_T1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jfr6cm7h3sm42p65n2kjvvq/v/1279480552/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_T1_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=Qu6kBRZ8amf7peIEhnsz9PNKri4=",
+      "url": "https://storage-us-gcs.bfldr.com/jfr6cm7h3sm42p65n2kjvvq/v/1279480552/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_T1_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=Qu6kBRZ8amf7peIEhnsz9PNKri4="
+    },
+    {
+      "attachment_id": "spvzcb2j3vhcq6b68hqvk",
+      "filename": "Portable Tools Travel Backpack 3400125 3400135_T2_rgb.png",
+      "extension": "png",
+      "position": 6,
+      "width": 6372,
+      "height": 6373,
+      "size": 34236415,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/spvzcb2j3vhcq6b68hqvk/Portable%20Tools%20Travel%20Backpack%203400125%203400135_T2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/spvzcb2j3vhcq6b68hqvk/v/1279480553/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_T2_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=Lvfc8tySCVbsJPrewt5zoV6OWbo=",
+      "url": "https://storage-us-gcs.bfldr.com/spvzcb2j3vhcq6b68hqvk/v/1279480553/original/Portable%20Tools%20Travel%20Backpack%203400125%203400135_T2_rgb.png?Expires=1784305661&KeyName=gcs-bfldr-prod&Signature=Lvfc8tySCVbsJPrewt5zoV6OWbo="
+    }
+  ]
+}

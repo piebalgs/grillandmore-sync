@@ -1,0 +1,102 @@
+{
+  "cache_version": 5,
+  "sku": "7646",
+  "assets": [
+    {
+      "asset_id": "pjdk5y-5thga8-ekvghr",
+      "asset_name": "Q Cooking Grates 7646 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7646"
+      ]
+    },
+    {
+      "asset_id": "cjz4cnvjwxkbvhvnhzh7s6",
+      "asset_name": "Weber Q 3000 Cooking Grates 7646",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7646"
+      ]
+    },
+    {
+      "asset_id": "47v88hxckzmtg47kq4kn5n",
+      "asset_name": "53386 0321 RevC ol",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7646"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pjdk5y-5thga8-5jela8",
+      "filename": "7646A.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4605,
+      "height": 1921,
+      "size": 3569417,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjdk5y-5thga8-5jela8/7646A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-5jela8/v/2726828/original/7646A.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=iD81SDicndziP0var2Y9KVFrMIE=",
+      "url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-5jela8/v/2726828/original/7646A.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=iD81SDicndziP0var2Y9KVFrMIE="
+    },
+    {
+      "attachment_id": "pjdk5y-5thga8-1sb75r",
+      "filename": "7646B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4390,
+      "height": 2913,
+      "size": 11173563,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjdk5y-5thga8-1sb75r/7646B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-1sb75r/v/2726829/original/7646B.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=MMGStx5t-Vz07wTRSLrTFOJn5ak=",
+      "url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-1sb75r/v/2726829/original/7646B.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=MMGStx5t-Vz07wTRSLrTFOJn5ak="
+    },
+    {
+      "attachment_id": "pjdk5y-5thga8-37hcy4",
+      "filename": "7646C.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4522,
+      "height": 2968,
+      "size": 11743759,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjdk5y-5thga8-37hcy4/7646C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-37hcy4/v/2726830/original/7646C.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=84LcikPm0NrObRRD9h8LluFBHDM=",
+      "url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-37hcy4/v/2726830/original/7646C.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=84LcikPm0NrObRRD9h8LluFBHDM="
+    },
+    {
+      "attachment_id": "pjdk5y-5thga8-5dzdns",
+      "filename": "7646D.png",
+      "extension": "png",
+      "position": 3,
+      "width": 5486,
+      "height": 2498,
+      "size": 12290948,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjdk5y-5thga8-5dzdns/7646D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-5dzdns/v/2726831/original/7646D.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=V7FO6L2DGS1wbLwv8iWBmGbA1Kk=",
+      "url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-5dzdns/v/2726831/original/7646D.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=V7FO6L2DGS1wbLwv8iWBmGbA1Kk="
+    },
+    {
+      "attachment_id": "pjdk5y-5thga8-cefo89",
+      "filename": "7646E.png",
+      "extension": "png",
+      "position": 4,
+      "width": 5634,
+      "height": 2533,
+      "size": 12373453,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjdk5y-5thga8-cefo89/7646E.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-cefo89/v/2726832/original/7646E.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=NwZz36GkKYCYDLYKOlK3nWGvgGg=",
+      "url": "https://storage-us-gcs.bfldr.com/pjdk5y-5thga8-cefo89/v/2726832/original/7646E.png?Expires=1784332709&KeyName=gcs-bfldr-prod&Signature=NwZz36GkKYCYDLYKOlK3nWGvgGg="
+    }
+  ]
+}

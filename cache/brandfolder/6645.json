@@ -1,0 +1,60 @@
+{
+  "cache_version": 5,
+  "sku": "6645",
+  "assets": [
+    {
+      "asset_id": "pjy28n-eny680-8b7bwk",
+      "asset_name": "Premium Tool Set 6645 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6645"
+      ]
+    },
+    {
+      "asset_id": "q4vmak-3d0ug8-be6im1",
+      "asset_name": "Premium Tool Set 6645 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6645"
+      ]
+    },
+    {
+      "asset_id": "kfrc4b8wx7q73qf4tvxnxw8k",
+      "asset_name": "32014602 53444 0924 RevB KH 6645 LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6645"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pjy28n-eny680-5gr874",
+      "filename": "6645A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3654,
+      "height": 3098,
+      "size": 4551510,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjy28n-eny680-5gr874/6645A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjy28n-eny680-5gr874/v/2803681/original/6645A.png?Expires=1784334379&KeyName=gcs-bfldr-prod&Signature=GgDoZUK7EGvYhihvd5IaJ2Jn9-k=",
+      "url": "https://storage-us-gcs.bfldr.com/pjy28n-eny680-5gr874/v/2803681/original/6645A.png?Expires=1784334379&KeyName=gcs-bfldr-prod&Signature=GgDoZUK7EGvYhihvd5IaJ2Jn9-k="
+    },
+    {
+      "attachment_id": "pjy28n-eny680-cox1wq",
+      "filename": "6645D.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1900,
+      "height": 3443,
+      "size": 2055662,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjy28n-eny680-cox1wq/6645D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjy28n-eny680-cox1wq/v/2803690/original/6645D.png?Expires=1784334379&KeyName=gcs-bfldr-prod&Signature=-QQY-HwQ5rYDG1M-mpiAQGAIh88=",
+      "url": "https://storage-us-gcs.bfldr.com/pjy28n-eny680-cox1wq/v/2803690/original/6645D.png?Expires=1784334379&KeyName=gcs-bfldr-prod&Signature=-QQY-HwQ5rYDG1M-mpiAQGAIh88="
+    }
+  ]
+}

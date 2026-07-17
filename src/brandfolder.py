@@ -22,17 +22,17 @@ load_dotenv(PROJECT_ROOT / ".env")
 
 API_BASE_URL = "https://brandfolder.com/api/v4"
 
-BRANDFOLDER_API_KEY = os.getenv("BRANDFOLDER_API_KEY")
+BRANDFOLDER_API_KEY = os.getenv("BRANDFOLDER_API_KEY", "").strip()
 
 BRANDFOLDER_COLLECTION_ID = os.getenv(
     "BRANDFOLDER_COLLECTION_ID",
     "gss8kc28x4vhgwxk9s3cj3",
-)
+).strip()
 
 DEFAULT_CDN_KEY = os.getenv(
     "BRANDFOLDER_CDN_KEY",
     "XBRZ2A26",
-)
+).strip()
 
 SKU_CUSTOM_FIELD = "Country - SKU Number"
 
@@ -41,17 +41,21 @@ IMAGE_EXTENSIONS = {
     "jpeg",
     "png",
     "webp",
+    "gif",
 }
 
 EXCLUDED_FILENAME_MARKERS = {
     "_PKG",
     "-PKG",
+    " PKG",
     "PACKAGE",
     "_MASTER",
     "-MASTER",
+    " MASTER",
 }
 
-CACHE_VERSION = 2
+# Palielināta versija, lai netiktu izmantota vecā kešatmiņa.
+CACHE_VERSION = 5
 
 
 class BrandfolderError(RuntimeError):
@@ -59,19 +63,35 @@ class BrandfolderError(RuntimeError):
 
 
 def normalize_sku(value: Any) -> str:
+    """
+    Normalizē Brandfolder SKU vērtību.
+
+    Piemēri:
+      7032                    -> 7032
+      3400061-AMER            -> 3400061
+      3400134 - Global        -> 3400134
+      1501779-CMP             -> 1501779
+      1502203-EMEA            -> 1502203
+      EU - 1501620            -> 1501620
+      1501789- DE/AT          -> 1501789
+
+    Par pamata SKU uzskatām pirmo atsevišķo ciparu kodu,
+    kurā ir vismaz četri cipari.
+    """
     text = str(value or "").strip().upper()
 
     if not text:
         return ""
 
-    # Brandfolder dažreiz pievieno reģiona sufiksu:
-    # 3400061-AMER
-    # 3400134 - Global
-    #
-    # WooCommerce SKU paliek tikai pamata daļa.
-    base_sku = text.split("-", 1)[0].strip()
+    match = re.search(
+        r"(?<!\d)\d{4,}(?!\d)",
+        text,
+    )
 
-    return base_sku
+    if match:
+        return match.group(0)
+
+    return text
 
 
 def api_headers() -> dict[str, str]:
@@ -83,6 +103,7 @@ def api_headers() -> dict[str, str]:
     return {
         "Authorization": f"Bearer {BRANDFOLDER_API_KEY}",
         "Accept": "application/json",
+        "User-Agent": "GrillAndMore-Sync/0.3",
     }
 
 
@@ -94,22 +115,36 @@ def create_session() -> requests.Session:
 
 def is_product_image(filename: str) -> bool:
     """
-    Atļauj:
+    Atlasa produktu attēlus.
+
+    Atļauj, piemēram:
       7032A1_rgb.png
       7032M1_rgb.jpg
       7434A.png
-      7434B.jpg
-      7434C1.png
+      7434B1.jpg
+      6414_Lenkrollen Performer.png
+      1502062_charcoal_57CM BAR-B_A.5256.png
+      1501910_GENESIS_EX425W_EMEA.340_B_rgb.png
 
     Neatļauj:
       *_pkg
       *_master
-      PACKAGE
-      tehniskos failus
+      package
+      Excel, PDF un citus ne-attēlu failus.
     """
-    normalized = filename.strip().upper()
+    normalized = str(filename or "").strip().upper()
 
     if not normalized:
+        return False
+
+    extension = (
+        Path(normalized)
+        .suffix
+        .lower()
+        .lstrip(".")
+    )
+
+    if extension not in IMAGE_EXTENSIONS:
         return False
 
     if any(
@@ -118,39 +153,57 @@ def is_product_image(filename: str) -> bool:
     ):
         return False
 
-    extension = Path(normalized).suffix.lower().lstrip(".")
+    stem = Path(normalized).stem
 
-    if extension not in IMAGE_EXTENSIONS:
-        return False
-
-    if "_RGB" in normalized:
+    # Standarta RGB produktu attēli.
+    if "_RGB" in stem:
         return True
 
+    # Lifestyle attēli:
+    # 7032M1
+    # 7032_M1
+    # SKU-M1
     if re.search(
         r"(?:^|[^A-Z0-9])M\d+(?:[^A-Z0-9]|$)",
-        normalized,
+        stem,
     ):
         return True
 
     if re.search(
         r"\dM\d+(?:[^A-Z0-9]|$)",
-        normalized,
+        stem,
     ):
         return True
 
-    # Atļauj vienkāršus produktu failus, piemēram:
-    # 7434A.png
-    # 7434B1.jpg
-    stem = Path(normalized).stem
+    # Vienkāršs faila formāts:
+    # 7434A
+    # 7434B1
+    if re.fullmatch(
+        r"\d+[A-Z]\d*",
+        stem,
+    ):
+        return True
 
-    if re.fullmatch(r"\d+[A-Z]\d*", stem):
+    # Produkta SKU faila sākumā, kam seko:
+    # zemsvītra, atstarpe vai domuzīme.
+    #
+    # 6414_Lenkrollen Performer...
+    # 1502062_charcoal_57CM...
+    # 12345-product-image
+    if re.match(
+        r"^\d{4,}[\s_-].+",
+        stem,
+    ):
         return True
 
     return False
 
 
 def natural_sort_key(value: str) -> list[Any]:
-    parts = re.split(r"(\d+)", value.upper())
+    parts = re.split(
+        r"(\d+)",
+        str(value or "").upper(),
+    )
 
     return [
         int(part) if part.isdigit() else part
@@ -158,8 +211,13 @@ def natural_sort_key(value: str) -> list[Any]:
     ]
 
 
-def image_sort_key(image: dict[str, Any]) -> tuple[Any, ...]:
-    filename = str(image.get("filename") or "")
+def image_sort_key(
+    image: dict[str, Any],
+) -> tuple[Any, ...]:
+    filename = str(
+        image.get("filename") or ""
+    )
+
     normalized = filename.upper()
 
     is_lifestyle = bool(
@@ -171,7 +229,9 @@ def image_sort_key(image: dict[str, Any]) -> tuple[Any, ...]:
     )
 
     try:
-        position = int(image.get("position", 9999))
+        position = int(
+            image.get("position", 9999)
+        )
     except (TypeError, ValueError):
         position = 9999
 
@@ -183,12 +243,28 @@ def image_sort_key(image: dict[str, Any]) -> tuple[Any, ...]:
 
 
 def split_sku_values(value: Any) -> list[str]:
+    """
+    Sadala vairākus SKU vienā Brandfolder laukā.
+
+    Sadala pēc:
+      komata,
+      semikola,
+      jaunas rindas.
+
+    Nedala pēc "/", jo:
+      1501789-DE/AT
+    ir viens SKU ieraksts.
+    """
     text = str(value or "").strip()
 
     if not text:
         return []
 
-    parts = re.split(r"[,;\n]+", text)
+    parts = re.split(
+        r"[,;\n]+",
+        text,
+    )
+
     results: list[str] = []
 
     for part in parts:
@@ -204,7 +280,10 @@ def relationship_ids(
     resource: dict[str, Any],
     possible_names: tuple[str, ...],
 ) -> set[str]:
-    relationships = resource.get("relationships", {})
+    relationships = resource.get(
+        "relationships",
+        {},
+    )
 
     if not isinstance(relationships, dict):
         return set()
@@ -212,7 +291,10 @@ def relationship_ids(
     result: set[str] = set()
 
     for name in possible_names:
-        relationship = relationships.get(name, {})
+        relationship = relationships.get(
+            name,
+            {},
+        )
 
         if not isinstance(relationship, dict):
             continue
@@ -229,7 +311,9 @@ def relationship_ids(
             if not isinstance(item, dict):
                 continue
 
-            item_id = str(item.get("id") or "").strip()
+            item_id = str(
+                item.get("id") or ""
+            ).strip()
 
             if item_id:
                 result.add(item_id)
@@ -246,7 +330,9 @@ def index_included_items(
         if not isinstance(item, dict):
             continue
 
-        item_id = str(item.get("id") or "").strip()
+        item_id = str(
+            item.get("id") or ""
+        ).strip()
 
         if item_id:
             result[item_id] = item
@@ -258,16 +344,13 @@ def get_asset_cdn_key(
     asset_attributes: dict[str, Any],
 ) -> str:
     """
-    CDN atslēgu vispirms nolasa no aktīva faktiskā cdn_url.
+    CDN atslēgu vispirms mēģina nolasīt no aktīva cdn_url.
 
     Piemērs:
       https://cdn.brandfolder.io/6KL7USS2/as/...
 
-    Tad CDN atslēga ir:
+    Rezultāts:
       6KL7USS2
-
-    Ja cdn_url nav pieejams, izmanto brandfolder_cdn_key
-    vai .env noklusējuma vērtību.
     """
     asset_cdn_url = str(
         asset_attributes.get("cdn_url") or ""
@@ -286,7 +369,9 @@ def get_asset_cdn_key(
             return path_parts[0]
 
     cdn_key = str(
-        asset_attributes.get("brandfolder_cdn_key")
+        asset_attributes.get(
+            "brandfolder_cdn_key"
+        )
         or DEFAULT_CDN_KEY
         or ""
     ).strip()
@@ -305,10 +390,19 @@ def build_cdn_url(
     attachment_id: str,
     filename: str,
 ) -> str:
-    encoded_filename = quote(filename, safe="")
+    """
+    Izveido Smart CDN URL diagnostikai.
+
+    Faktiskajam WooCommerce importam priekšroka tiek
+    dota attachment API oriģinālajam URL.
+    """
+    encoded_filename = quote(
+        filename,
+        safe="",
+    )
 
     return (
-        f"https://cdn.brandfolder.io/"
+        "https://cdn.brandfolder.io/"
         f"{cdn_key}/at/"
         f"{attachment_id}/"
         f"{encoded_filename}"
@@ -343,14 +437,22 @@ def get_asset_skus(
         if item.get("type") != "custom_field_values":
             continue
 
-        attributes = item.get("attributes", {})
+        attributes = item.get(
+            "attributes",
+            {},
+        )
 
         if not isinstance(attributes, dict):
             continue
 
-        key = str(attributes.get("key") or "").strip()
+        key = str(
+            attributes.get("key") or ""
+        ).strip()
 
-        if key.casefold() != SKU_CUSTOM_FIELD.casefold():
+        if (
+            key.casefold()
+            != SKU_CUSTOM_FIELD.casefold()
+        ):
             continue
 
         for sku in split_sku_values(
@@ -372,7 +474,10 @@ def get_asset_images(
         ("attachments",),
     )
 
-    asset_attributes = asset.get("attributes", {})
+    asset_attributes = asset.get(
+        "attributes",
+        {},
+    )
 
     if not isinstance(asset_attributes, dict):
         asset_attributes = {}
@@ -384,7 +489,9 @@ def get_asset_images(
     images: list[dict[str, Any]] = []
 
     for attachment_id in attachment_ids:
-        attachment = included_by_id.get(attachment_id)
+        attachment = included_by_id.get(
+            attachment_id
+        )
 
         if not attachment:
             continue
@@ -392,7 +499,10 @@ def get_asset_images(
         if attachment.get("type") != "attachments":
             continue
 
-        attributes = attachment.get("attributes", {})
+        attributes = attachment.get(
+            "attributes",
+            {},
+        )
 
         if not isinstance(attributes, dict):
             continue
@@ -405,6 +515,7 @@ def get_asset_images(
 
         extension = str(
             attributes.get("extension")
+            or Path(filename).suffix.lstrip(".")
             or ""
         ).strip().lower()
 
@@ -442,9 +553,16 @@ def get_asset_images(
                 "position": position,
                 "width": attributes.get("width"),
                 "height": attributes.get("height"),
+                "size": attributes.get("size"),
+                "mimetype": attributes.get("mimetype"),
                 "cdn_key": cdn_key,
                 "cdn_url": smart_cdn_url,
                 "original_url": original_url,
+
+                # WooCommerce importam izmantojam attachment
+                # API oriģinālo URL, ja tas ir pieejams.
+                # Python to nekavējoties lejupielādē, tāpēc
+                # parakstītās saites termiņš nav problēma.
                 "url": original_url or smart_cdn_url,
             }
         )
@@ -462,7 +580,9 @@ def search_collection(
     normalized_sku = normalize_sku(sku)
 
     if not normalized_sku:
-        raise ValueError("SKU nedrīkst būt tukšs.")
+        raise ValueError(
+            "SKU nedrīkst būt tukšs."
+        )
 
     if not BRANDFOLDER_COLLECTION_ID:
         raise BrandfolderError(
@@ -488,12 +608,13 @@ def search_collection(
                 ),
                 "per": 100,
             },
-            timeout=90,
+            timeout=(30, 120),
         )
 
         if not response.ok:
             raise BrandfolderError(
-                f"Brandfolder HTTP {response.status_code}: "
+                f"Brandfolder HTTP "
+                f"{response.status_code}: "
                 f"{response.text[:1000]}"
             )
 
@@ -501,7 +622,8 @@ def search_collection(
 
         if not isinstance(payload, dict):
             raise BrandfolderError(
-                "Brandfolder atgrieza negaidītu datu formātu."
+                "Brandfolder atgrieza negaidītu "
+                "datu formātu."
             )
 
         return payload
@@ -515,7 +637,9 @@ def parse_search_response(
     payload: dict[str, Any],
     requested_sku: str,
 ) -> list[dict[str, Any]]:
-    normalized_sku = normalize_sku(requested_sku)
+    normalized_requested_sku = normalize_sku(
+        requested_sku
+    )
 
     data = payload.get("data", [])
     included = payload.get("included", [])
@@ -526,7 +650,9 @@ def parse_search_response(
     if not isinstance(included, list):
         included = []
 
-    included_by_id = index_included_items(included)
+    included_by_id = index_included_items(
+        included
+    )
 
     matches: list[dict[str, Any]] = []
 
@@ -548,12 +674,19 @@ def parse_search_response(
         normalized_asset_skus = {
             normalize_sku(value)
             for value in asset_skus
+            if normalize_sku(value)
         }
 
-        if normalized_sku not in normalized_asset_skus:
+        if (
+            normalized_requested_sku
+            not in normalized_asset_skus
+        ):
             continue
 
-        asset_attributes = asset.get("attributes", {})
+        asset_attributes = asset.get(
+            "attributes",
+            {},
+        )
 
         if not isinstance(asset_attributes, dict):
             asset_attributes = {}
@@ -583,12 +716,30 @@ def parse_search_response(
     return matches
 
 
-def normalized_image_filename(filename: str) -> str:
-    stem = Path(filename).stem.upper()
+def normalized_image_filename(
+    filename: str,
+) -> str:
+    stem = Path(
+        str(filename or "")
+    ).stem.upper()
 
-    stem = re.sub(r"-SCALED$", "", stem)
-    stem = re.sub(r"-\d+$", "", stem)
-    stem = re.sub(r"[\s_-]+", "", stem)
+    stem = re.sub(
+        r"-SCALED$",
+        "",
+        stem,
+    )
+
+    stem = re.sub(
+        r"-\d+$",
+        "",
+        stem,
+    )
+
+    stem = re.sub(
+        r"[\s_-]+",
+        "",
+        stem,
+    )
 
     return stem
 
@@ -609,7 +760,15 @@ def merge_asset_images(
     ] = {}
 
     for asset in assets:
-        for image in asset.get("images", []):
+        raw_images = asset.get("images", [])
+
+        if not isinstance(raw_images, list):
+            continue
+
+        for image in raw_images:
+            if not isinstance(image, dict):
+                continue
+
             filename = str(
                 image.get("filename") or ""
             ).strip()
@@ -617,7 +776,12 @@ def merge_asset_images(
             if not filename:
                 continue
 
-            key = normalized_image_filename(filename)
+            key = normalized_image_filename(
+                filename
+            )
+
+            if not key:
+                continue
 
             current = images_by_filename.get(key)
 
@@ -639,16 +803,32 @@ def merge_asset_images(
             except (TypeError, ValueError):
                 new_position = 9999
 
+            # Priekšroka mazākai Brandfolder pozīcijai.
             if new_position < current_position:
                 images_by_filename[key] = image
+                continue
 
-    images = list(images_by_filename.values())
+            # Ja pozīcijas vienādas, priekšroka ierakstam,
+            # kuram ir oriģinālais attachment URL.
+            if (
+                new_position == current_position
+                and not current.get("original_url")
+                and image.get("original_url")
+            ):
+                images_by_filename[key] = image
+
+    images = list(
+        images_by_filename.values()
+    )
+
     images.sort(key=image_sort_key)
 
     return images
 
 
-def cache_file_for_sku(sku: str) -> Path:
+def cache_file_for_sku(
+    sku: str,
+) -> Path:
     safe_sku = re.sub(
         r"[^A-Z0-9._-]+",
         "_",
@@ -672,15 +852,29 @@ def load_cached_images(
             encoding="utf-8",
         ) as file:
             payload = json.load(file)
-    except (OSError, json.JSONDecodeError):
+
+    except (
+        OSError,
+        json.JSONDecodeError,
+        TypeError,
+    ):
         return None
 
-    if payload.get("cache_version") != CACHE_VERSION:
+    if not isinstance(payload, dict):
+        return None
+
+    if (
+        payload.get("cache_version")
+        != CACHE_VERSION
+    ):
         return None
 
     images = payload.get("images")
 
-    return images if isinstance(images, list) else None
+    if not isinstance(images, list):
+        return None
+
+    return images
 
 
 def save_cached_images(
@@ -701,6 +895,7 @@ def save_cached_images(
                 "asset_id": asset.get("asset_id"),
                 "asset_name": asset.get("asset_name"),
                 "cdn_key": asset.get("cdn_key"),
+                "skus": asset.get("skus", []),
             }
             for asset in assets
         ],
@@ -731,7 +926,9 @@ def get_product_images(
         return []
 
     if use_cache:
-        cached = load_cached_images(normalized_sku)
+        cached = load_cached_images(
+            normalized_sku
+        )
 
         if cached is not None:
             return cached
@@ -762,7 +959,9 @@ def get_product_images(
 def diagnose_sku(sku: str) -> None:
     normalized_sku = normalize_sku(sku)
 
-    payload = search_collection(normalized_sku)
+    payload = search_collection(
+        normalized_sku
+    )
 
     matches = parse_search_response(
         payload,
@@ -780,35 +979,64 @@ def diagnose_sku(sku: str) -> None:
         start=1,
     ):
         print("\n" + "-" * 70)
+
         print(
             f"Aktīvs {asset_number}: "
             f"{asset.get('asset_name', '')}"
         )
+
         print(
             f"Asset ID: "
             f"{asset.get('asset_id', '')}"
         )
+
         print(
             f"CDN key:  "
             f"{asset.get('cdn_key', '')}"
         )
+
         print(
-            f"Attēli:    "
-            f"{len(asset.get('images', []))}"
+            "Country - SKU Number: "
+            + ", ".join(
+                str(value)
+                for value in asset.get("skus", [])
+            )
         )
 
-        for image in asset.get("images", []):
+        asset_images = asset.get(
+            "images",
+            [],
+        )
+
+        print(
+            f"Attēli:    "
+            f"{len(asset_images)}"
+        )
+
+        for image in asset_images:
             print(
                 f"  {image.get('filename', '')}"
             )
+
             print(
-                f"    {image.get('url', '')}"
+                "    Izmērs: "
+                f"{image.get('width')}×"
+                f"{image.get('height')}"
+            )
+
+            print(
+                f"    URL: {image.get('url', '')}"
             )
 
     images = merge_asset_images(matches)
 
     print("\n" + "=" * 70)
-    print(f"Unikālo produktu attēlu skaits: {len(images)}")
+
+    print(
+        "Unikālo produktu attēlu skaits: "
+        f"{len(images)}"
+    )
+
     print("=" * 70)
 
     for number, image in enumerate(
@@ -819,9 +1047,18 @@ def diagnose_sku(sku: str) -> None:
             f"{number}. "
             f"{image.get('filename', '')}"
         )
+
         print(
-            f"   CDN key: {image.get('cdn_key', '')}"
+            f"   CDN key: "
+            f"{image.get('cdn_key', '')}"
         )
+
+        print(
+            "   Izmērs: "
+            f"{image.get('width')}×"
+            f"{image.get('height')}"
+        )
+
         print(
             f"   {image.get('url', '')}"
         )
@@ -837,19 +1074,26 @@ def main() -> None:
 
     parser.add_argument(
         "sku",
-        help="WooCommerce SKU, piemēram, 7032.",
+        help=(
+            "WooCommerce SKU, piemēram, "
+            "7032 vai 1501620."
+        ),
     )
 
     parser.add_argument(
         "--json",
         action="store_true",
-        help="Izvadīt rezultātu JSON formātā.",
+        help=(
+            "Izvadīt atrastos attēlus JSON formātā."
+        ),
     )
 
     parser.add_argument(
         "--cache",
         action="store_true",
-        help="Atļaut izmantot saglabātu kešatmiņu.",
+        help=(
+            "Atļaut izmantot saglabāto kešatmiņu."
+        ),
     )
 
     args = parser.parse_args()
@@ -867,6 +1111,7 @@ def main() -> None:
                 indent=2,
             )
         )
+
         return
 
     diagnose_sku(args.sku)

@@ -1,0 +1,31 @@
+{
+  "cache_version": 5,
+  "sku": "8519",
+  "assets": [
+    {
+      "asset_id": "pmtg8n-28s6g0-816lwz",
+      "asset_name": "Spirit Rotisserie 8519 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8519"
+      ]
+    },
+    {
+      "asset_id": "q5m1hn-7mst7c-978drh",
+      "asset_name": "Spirit Rotisserie 8519 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8519"
+      ]
+    },
+    {
+      "asset_id": "b6pgx6r5q4mk8sbgxm556bw",
+      "asset_name": "180427 0922 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8519"
+      ]
+    }
+  ],
+  "images": []
+}

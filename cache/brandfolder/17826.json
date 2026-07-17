@@ -1,0 +1,52 @@
+{
+  "cache_version": 5,
+  "sku": "17826",
+  "assets": [
+    {
+      "asset_id": "ptam3r-b2l01k-5o2veo",
+      "asset_name": "10 kg Lumpwood Charcoal 17826 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17826"
+      ]
+    },
+    {
+      "asset_id": "b785xc864xt4q3mxnr354h5p",
+      "asset_name": "17826 Premium Lumpwood Charcoal 10kg 1025 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17826"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ptam3r-b2l01k-an28wa",
+      "filename": "17826B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5792,
+      "height": 8688,
+      "size": 28844465,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptam3r-b2l01k-an28wa/17826B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptam3r-b2l01k-an28wa/v/4215815/original/17826B.png?Expires=1784327688&KeyName=gcs-bfldr-prod&Signature=mDE50RadMZCuQEOWGBRjkN6mLFc=",
+      "url": "https://storage-us-gcs.bfldr.com/ptam3r-b2l01k-an28wa/v/4215815/original/17826B.png?Expires=1784327688&KeyName=gcs-bfldr-prod&Signature=mDE50RadMZCuQEOWGBRjkN6mLFc="
+    },
+    {
+      "attachment_id": "ptam3r-b2l01k-8q8a8e",
+      "filename": "17826C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 5792,
+      "height": 8688,
+      "size": 22634243,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ptam3r-b2l01k-8q8a8e/17826C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ptam3r-b2l01k-8q8a8e/v/4215816/original/17826C.png?Expires=1784327688&KeyName=gcs-bfldr-prod&Signature=BB07HXCE7vqyrTdDaF_RALVtbuM=",
+      "url": "https://storage-us-gcs.bfldr.com/ptam3r-b2l01k-8q8a8e/v/4215816/original/17826C.png?Expires=1784327688&KeyName=gcs-bfldr-prod&Signature=BB07HXCE7vqyrTdDaF_RALVtbuM="
+    }
+  ]
+}

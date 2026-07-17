@@ -1,0 +1,138 @@
+{
+  "cache_version": 5,
+  "sku": "6482",
+  "assets": [
+    {
+      "asset_id": "pjwlxr-erxe34-24athv",
+      "asset_name": "Poultry Roaster 6482 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6482"
+      ]
+    },
+    {
+      "asset_id": "pjwlxr-erxe34-374ptn",
+      "asset_name": "Poultry Roaster 6482 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6482"
+      ]
+    },
+    {
+      "asset_id": "q4zle5-83yp14-36y2vr",
+      "asset_name": "Poultry Roaster 6482 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6482"
+      ]
+    },
+    {
+      "asset_id": "8ws665p3v4v4kb7h7hwn3km",
+      "asset_name": "175288 0922 RevA FrontBack TW LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6482"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pjwlxr-erxe34-4rqat6",
+      "filename": "6482A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 1216821,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjwlxr-erxe34-4rqat6/6482A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-4rqat6/v/2798266/original/6482A.png?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=c5Dpxg2ugSgqIQ0fufcskAghdXg=",
+      "url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-4rqat6/v/2798266/original/6482A.png?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=c5Dpxg2ugSgqIQ0fufcskAghdXg="
+    },
+    {
+      "attachment_id": "pjwlxr-erxe34-f97tfs",
+      "filename": "6482C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1930,
+      "height": 1504,
+      "size": 1131079,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjwlxr-erxe34-f97tfs/6482C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-f97tfs/v/2798267/original/6482C.png?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=GI8Tl1IGT8qjoryKlcPd4X965Ig=",
+      "url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-f97tfs/v/2798267/original/6482C.png?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=GI8Tl1IGT8qjoryKlcPd4X965Ig="
+    },
+    {
+      "attachment_id": "pjwlxr-erxe34-a2o8nu",
+      "filename": "6482D.png",
+      "extension": "png",
+      "position": 2,
+      "width": 2620,
+      "height": 2040,
+      "size": 2382839,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjwlxr-erxe34-a2o8nu/6482D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-a2o8nu/v/2798268/original/6482D.png?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=A-ZkaBGtdUzkGPkL6RtCCl0t7Uw=",
+      "url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-a2o8nu/v/2798268/original/6482D.png?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=A-ZkaBGtdUzkGPkL6RtCCl0t7Uw="
+    },
+    {
+      "attachment_id": "pjwlxr-erxe34-3n2dnn",
+      "filename": "6482M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 23080548,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjwlxr-erxe34-3n2dnn/6482M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-3n2dnn/v/2798269/original/6482M1.jpg?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=dM1BhQXQ7WWnFysBg84260RPLRI=",
+      "url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-3n2dnn/v/2798269/original/6482M1.jpg?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=dM1BhQXQ7WWnFysBg84260RPLRI="
+    },
+    {
+      "attachment_id": "pjwlxr-erxe34-7jhc3o",
+      "filename": "6482M2.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3132,
+      "height": 3897,
+      "size": 7363874,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjwlxr-erxe34-7jhc3o/6482M2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-7jhc3o/v/2798270/original/6482M2.jpg?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=6XbWOxUJHqRjd03TOfPcZ0MjiYM=",
+      "url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-7jhc3o/v/2798270/original/6482M2.jpg?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=6XbWOxUJHqRjd03TOfPcZ0MjiYM="
+    },
+    {
+      "attachment_id": "pjwlxr-erxe34-944tds",
+      "filename": "6482M3.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 2832,
+      "height": 4256,
+      "size": 6808060,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjwlxr-erxe34-944tds/6482M3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-944tds/v/2798271/original/6482M3.jpg?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=ykfZZGbpKVjaA56ecY2rs7Ud1rY=",
+      "url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-944tds/v/2798271/original/6482M3.jpg?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=ykfZZGbpKVjaA56ecY2rs7Ud1rY="
+    },
+    {
+      "attachment_id": "pjwlxr-erxe34-9mfr0s",
+      "filename": "6482M4.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 2832,
+      "height": 4256,
+      "size": 7010122,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjwlxr-erxe34-9mfr0s/6482M4.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-9mfr0s/v/2798272/original/6482M4.jpg?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=xPjsImhlGGzpEirql-fcMzwwQcw=",
+      "url": "https://storage-us-gcs.bfldr.com/pjwlxr-erxe34-9mfr0s/v/2798272/original/6482M4.jpg?Expires=1784331269&KeyName=gcs-bfldr-prod&Signature=xPjsImhlGGzpEirql-fcMzwwQcw="
+    }
+  ]
+}

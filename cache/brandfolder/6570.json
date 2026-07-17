@@ -1,0 +1,102 @@
+{
+  "cache_version": 5,
+  "sku": "6570",
+  "assets": [
+    {
+      "asset_id": "pi70ne-bkagcg-fek264",
+      "asset_name": "Q Warming Rack 6570 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6570"
+      ]
+    },
+    {
+      "asset_id": "pi70ne-bkagcg-demxeg",
+      "asset_name": "Q Warming Rack 6570 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6570"
+      ]
+    },
+    {
+      "asset_id": "kh7bx6g59gb74mk2kkf7f83",
+      "asset_name": "58188 1120 RevE LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6570"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pi70ne-bkagcg-6k87eq",
+      "filename": "6570A1.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4977,
+      "height": 2564,
+      "size": 5620837,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi70ne-bkagcg-6k87eq/6570A1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-6k87eq/v/2653763/original/6570A1.png?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=RnDT8COMpTBUgFzMQtTcP2LHnVo=",
+      "url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-6k87eq/v/2653763/original/6570A1.png?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=RnDT8COMpTBUgFzMQtTcP2LHnVo="
+    },
+    {
+      "attachment_id": "pi70ne-bkagcg-33broc",
+      "filename": "6570A2.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5494,
+      "height": 2568,
+      "size": 5407240,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi70ne-bkagcg-33broc/6570A2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-33broc/v/2653764/original/6570A2.png?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=jCpF8Fqz5I5Pv7eZZFhVegx2siA=",
+      "url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-33broc/v/2653764/original/6570A2.png?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=jCpF8Fqz5I5Pv7eZZFhVegx2siA="
+    },
+    {
+      "attachment_id": "pi70ne-bkagcg-fakg6y",
+      "filename": "6570M1.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 5792,
+      "height": 8688,
+      "size": 29687306,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi70ne-bkagcg-fakg6y/6570M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-fakg6y/v/2653765/original/6570M1.jpg?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=XyiJEc-vriEuIQAD-OAnatogxL0=",
+      "url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-fakg6y/v/2653765/original/6570M1.jpg?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=XyiJEc-vriEuIQAD-OAnatogxL0="
+    },
+    {
+      "attachment_id": "pi70ne-bkagcg-394o5d",
+      "filename": "6570M2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3840,
+      "height": 4532,
+      "size": 8926062,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi70ne-bkagcg-394o5d/6570M2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-394o5d/v/2653766/original/6570M2.jpg?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=zztlP_wy3As13w0kdnyIVDEHcJU=",
+      "url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-394o5d/v/2653766/original/6570M2.jpg?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=zztlP_wy3As13w0kdnyIVDEHcJU="
+    },
+    {
+      "attachment_id": "pi70ne-bkagcg-4cl4mc",
+      "filename": "6570M3.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 4080,
+      "height": 5440,
+      "size": 12056645,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi70ne-bkagcg-4cl4mc/6570M3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-4cl4mc/v/2653767/original/6570M3.jpg?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=3dhSNUdxywVvzAgD7r4mHop8mbY=",
+      "url": "https://storage-us-gcs.bfldr.com/pi70ne-bkagcg-4cl4mc/v/2653767/original/6570M3.jpg?Expires=1784332633&KeyName=gcs-bfldr-prod&Signature=3dhSNUdxywVvzAgD7r4mHop8mbY="
+    }
+  ]
+}

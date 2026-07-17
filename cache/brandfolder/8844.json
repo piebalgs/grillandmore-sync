@@ -1,0 +1,68 @@
+{
+  "cache_version": 5,
+  "sku": "8844",
+  "assets": [
+    {
+      "asset_id": "plwmz2-918ocg-84g7yp",
+      "asset_name": "Grate Insert Lifter 8844 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8844"
+      ]
+    },
+    {
+      "asset_id": "plwmz2-918ocg-5ijalb",
+      "asset_name": "Grate Insert Lifter 8844 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8844"
+      ]
+    },
+    {
+      "asset_id": "q5ntme-cjers0-7eceov",
+      "asset_name": "Grate Insert Lifter 8844 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8844"
+      ]
+    },
+    {
+      "asset_id": "vwrhnn532wj9nrkq54pmnr64",
+      "asset_name": "53377 0816 RevB",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8844"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "plwmz2-918ocg-a3vykw",
+      "filename": "8844A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2361,
+      "height": 2703,
+      "size": 1486225,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwmz2-918ocg-a3vykw/8844A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-a3vykw/v/3024700/original/8844A.png?Expires=1784333239&KeyName=gcs-bfldr-prod&Signature=p5fLJpaohk64j0cKwho8QLH6RHo=",
+      "url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-a3vykw/v/3024700/original/8844A.png?Expires=1784333239&KeyName=gcs-bfldr-prod&Signature=p5fLJpaohk64j0cKwho8QLH6RHo="
+    },
+    {
+      "attachment_id": "plwmz2-918ocg-4l2ewz",
+      "filename": "8844Y.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5792,
+      "height": 8688,
+      "size": 28140052,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwmz2-918ocg-4l2ewz/8844Y.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-4l2ewz/v/3024702/original/8844Y.jpg?Expires=1784333239&KeyName=gcs-bfldr-prod&Signature=oRk2NAZ-oVk-vCVvqUMv8Q4kGXM=",
+      "url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-4l2ewz/v/3024702/original/8844Y.jpg?Expires=1784333239&KeyName=gcs-bfldr-prod&Signature=oRk2NAZ-oVk-vCVvqUMv8Q4kGXM="
+    }
+  ]
+}

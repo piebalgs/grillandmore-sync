@@ -1,0 +1,210 @@
+{
+  "cache_version": 5,
+  "sku": "3400609",
+  "assets": [
+    {
+      "asset_id": "f5m94q5gxhwn57kqq43n2w6k",
+      "asset_name": "3400607B Cover Plate rgb",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609",
+        "3400607"
+      ]
+    },
+    {
+      "asset_id": "fbr83z83cvvwtvpkmsgpw",
+      "asset_name": "PELLET 22 PLT CVR 3400607 A Cover rgb",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400607",
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "9gskmt76nsrgmjn6xt4m4",
+      "asset_name": "(cze) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "tqnxjg9wfsfw9g7wjgjb8",
+      "asset_name": "(dan) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "j945cw9ttm2qn59p9jpbkzrw",
+      "asset_name": "(dut-NL) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "tm73nthfq93nkn6nwzqs5k",
+      "asset_name": "(eng-GB) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "8h8krw7wscxrbtkqpfhf76",
+      "asset_name": "(fin) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "9qmnv8mpjqq2f4f28rhkb7r",
+      "asset_name": "(fre-FR) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "tcqngjcjnvv38cfskf943jp7",
+      "asset_name": "(ger-DE) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "q5vtn76vgn3fgsbbh85qvmp",
+      "asset_name": "(ita-IT) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "rzcbsfpn9gfm9ckqc7577wz",
+      "asset_name": "(no) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "cmfqx6shbh77sv5hvwx64m",
+      "asset_name": "(pol) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "586c3f4btxbkxkpjt7zv783",
+      "asset_name": "(por-PT) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "vf9mv7jntbs37fsqt6w6nx",
+      "asset_name": "(sk) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "wzf3jrbjxzgzfn5qv7mqkbnp",
+      "asset_name": "(spa-ES) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "83s97cb9wsh7g83fpsswrxf",
+      "asset_name": "(swe-SE) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "tk8wqcb32z66m8nm33rmpbs6",
+      "asset_name": "00 (en-US) Premium Grill Cover Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    },
+    {
+      "asset_id": "8g5schmm9m6pmnghjfvhj6j",
+      "asset_name": "8654958 9501242 0724 RevA CN LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400609"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "8kxfwcz2cr3pv6gh7sct6cx",
+      "filename": "3400607B_Cover_Plate_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2025,
+      "size": 2734868,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8kxfwcz2cr3pv6gh7sct6cx/3400607B_Cover_Plate_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8kxfwcz2cr3pv6gh7sct6cx/v/1279136391/original/3400607B_Cover_Plate_rgb.jpg?Expires=1784307658&KeyName=gcs-bfldr-prod&Signature=wYVCtmMpv6GvkxEXQzoBFS4lvTI=",
+      "url": "https://storage-us-gcs.bfldr.com/8kxfwcz2cr3pv6gh7sct6cx/v/1279136391/original/3400607B_Cover_Plate_rgb.jpg?Expires=1784307658&KeyName=gcs-bfldr-prod&Signature=wYVCtmMpv6GvkxEXQzoBFS4lvTI="
+    },
+    {
+      "attachment_id": "jrsvv2cjgvpjpmq9gckqgqk",
+      "filename": "PELLET 22 PLT CVR 3400607_A_Cover_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 5707854,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jrsvv2cjgvpjpmq9gckqgqk/PELLET%2022%20PLT%20CVR%203400607_A_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jrsvv2cjgvpjpmq9gckqgqk/v/1279136394/original/PELLET%2022%20PLT%20CVR%203400607_A_Cover_rgb.png?Expires=1784307658&KeyName=gcs-bfldr-prod&Signature=fel4VvSESxbw-2UrhynWCu6Vuzo=",
+      "url": "https://storage-us-gcs.bfldr.com/jrsvv2cjgvpjpmq9gckqgqk/v/1279136394/original/PELLET%2022%20PLT%20CVR%203400607_A_Cover_rgb.png?Expires=1784307658&KeyName=gcs-bfldr-prod&Signature=fel4VvSESxbw-2UrhynWCu6Vuzo="
+    },
+    {
+      "attachment_id": "75ht4nhrnvkrz7b7gxxzhm",
+      "filename": "PELLET 22 PLT CVR 3400607_B_Cover_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 5070540,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/75ht4nhrnvkrz7b7gxxzhm/PELLET%2022%20PLT%20CVR%203400607_B_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/75ht4nhrnvkrz7b7gxxzhm/v/1279136395/original/PELLET%2022%20PLT%20CVR%203400607_B_Cover_rgb.png?Expires=1784307658&KeyName=gcs-bfldr-prod&Signature=aTULtGGHmI458QtviaG7WPwsui8=",
+      "url": "https://storage-us-gcs.bfldr.com/75ht4nhrnvkrz7b7gxxzhm/v/1279136395/original/PELLET%2022%20PLT%20CVR%203400607_B_Cover_rgb.png?Expires=1784307658&KeyName=gcs-bfldr-prod&Signature=aTULtGGHmI458QtviaG7WPwsui8="
+    },
+    {
+      "attachment_id": "j8tnbbnjr958mkx6bmxx3q6",
+      "filename": "PELLET 22 PLT CVR 3400607_C_Cover_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 4974452,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j8tnbbnjr958mkx6bmxx3q6/PELLET%2022%20PLT%20CVR%203400607_C_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/j8tnbbnjr958mkx6bmxx3q6/v/1279136396/original/PELLET%2022%20PLT%20CVR%203400607_C_Cover_rgb.png?Expires=1784307658&KeyName=gcs-bfldr-prod&Signature=IlmqcWsb0lpAWDCY9HmDeAgiCN4=",
+      "url": "https://storage-us-gcs.bfldr.com/j8tnbbnjr958mkx6bmxx3q6/v/1279136396/original/PELLET%2022%20PLT%20CVR%203400607_C_Cover_rgb.png?Expires=1784307658&KeyName=gcs-bfldr-prod&Signature=IlmqcWsb0lpAWDCY9HmDeAgiCN4="
+    }
+  ]
+}

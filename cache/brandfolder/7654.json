@@ -1,0 +1,46 @@
+{
+  "cache_version": 5,
+  "sku": "7654",
+  "assets": [
+    {
+      "asset_id": "pi53mu-8t0ib4-bznui2",
+      "asset_name": "Genesis II Rotisserie 7654 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7654"
+      ]
+    },
+    {
+      "asset_id": "q5m1io-g8b7qw-32ywjg",
+      "asset_name": "Genesis II Rotisserie 7654 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7654"
+      ]
+    },
+    {
+      "asset_id": "hc2rqvh7nfkm7xkbz9tmpcr",
+      "asset_name": "9500446 0523 RevA lr",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7654"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pi53mu-8t0ib4-1m9i6k",
+      "filename": "7654A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5700,
+      "height": 4275,
+      "size": 1739797,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi53mu-8t0ib4-1m9i6k/7654A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi53mu-8t0ib4-1m9i6k/v/2646385/original/7654A.png?Expires=1784331807&KeyName=gcs-bfldr-prod&Signature=AnBxk6KAuL9_phSSppvOHPNgd-Q=",
+      "url": "https://storage-us-gcs.bfldr.com/pi53mu-8t0ib4-1m9i6k/v/2646385/original/7654A.png?Expires=1784331807&KeyName=gcs-bfldr-prod&Signature=AnBxk6KAuL9_phSSppvOHPNgd-Q="
+    }
+  ]
+}

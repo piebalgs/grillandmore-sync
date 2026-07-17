@@ -1,0 +1,52 @@
+{
+  "cache_version": 5,
+  "sku": "3401053",
+  "assets": [
+    {
+      "asset_id": "r8h3xmr69jm4rzjbsxvfwt5",
+      "asset_name": "[EMEA/APAC] Oak Pellets",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401053"
+      ]
+    },
+    {
+      "asset_id": "mkhhx88nsb25cj2vg6hhgc",
+      "asset_name": "3401053 OAK 0125 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401053"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "bxqr948hm6fnk2qjjbt8h2f",
+      "filename": "3401053_PelletFuel_Oak_Back_1800x1800.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 2187545,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bxqr948hm6fnk2qjjbt8h2f/3401053_PelletFuel_Oak_Back_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/bxqr948hm6fnk2qjjbt8h2f/v/1266873314/original/3401053_PelletFuel_Oak_Back_1800x1800.png?Expires=1784301392&KeyName=gcs-bfldr-prod&Signature=tBTxVxgepKKCkFEhX0vcpryfjb8=",
+      "url": "https://storage-us-gcs.bfldr.com/bxqr948hm6fnk2qjjbt8h2f/v/1266873314/original/3401053_PelletFuel_Oak_Back_1800x1800.png?Expires=1784301392&KeyName=gcs-bfldr-prod&Signature=tBTxVxgepKKCkFEhX0vcpryfjb8="
+    },
+    {
+      "attachment_id": "374p8f7x7vz9v7qft8h2ssj",
+      "filename": "3401053_PelletFuel_Oak_Front_1800x1800.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 2113172,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/374p8f7x7vz9v7qft8h2ssj/3401053_PelletFuel_Oak_Front_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/374p8f7x7vz9v7qft8h2ssj/v/1266873317/original/3401053_PelletFuel_Oak_Front_1800x1800.png?Expires=1784301392&KeyName=gcs-bfldr-prod&Signature=OKVIHt6T25Iog8eLgt-VTIACDZo=",
+      "url": "https://storage-us-gcs.bfldr.com/374p8f7x7vz9v7qft8h2ssj/v/1266873317/original/3401053_PelletFuel_Oak_Front_1800x1800.png?Expires=1784301392&KeyName=gcs-bfldr-prod&Signature=OKVIHt6T25Iog8eLgt-VTIACDZo="
+    }
+  ]
+}

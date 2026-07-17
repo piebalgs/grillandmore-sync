@@ -1,0 +1,94 @@
+{
+  "cache_version": 5,
+  "sku": "6276",
+  "assets": [
+    {
+      "asset_id": "fpjcp8j48fqs2b34w9292h",
+      "asset_name": "Bamboo Grill Brush 6276 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6276"
+      ]
+    },
+    {
+      "asset_id": "qxf6jkbf8rk5bngnqqvs3x4",
+      "asset_name": "174830 0322 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6276"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "hkpppshvb97k3bj7428fpfh",
+      "filename": "6276A1_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 5911867,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hkpppshvb97k3bj7428fpfh/6276A1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/hkpppshvb97k3bj7428fpfh/v/52519968/original/6276A1_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/hkpppshvb97k3bj7428fpfh/v/52519968/original/6276A1_rgb.png"
+    },
+    {
+      "attachment_id": "5637w82pctmk639bkxmrf3v6",
+      "filename": "6276A2_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3000,
+      "height": 3000,
+      "size": 5719453,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5637w82pctmk639bkxmrf3v6/6276A2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/5637w82pctmk639bkxmrf3v6/v/52519970/original/6276A2_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/5637w82pctmk639bkxmrf3v6/v/52519970/original/6276A2_rgb.png"
+    },
+    {
+      "attachment_id": "kgm6hn3jnzbv4fswqv239pqp",
+      "filename": "6276B_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "size": 2333846,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kgm6hn3jnzbv4fswqv239pqp/6276B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/kgm6hn3jnzbv4fswqv239pqp/v/52519969/original/6276B_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/kgm6hn3jnzbv4fswqv239pqp/v/52519969/original/6276B_rgb.png"
+    },
+    {
+      "attachment_id": "hkrjwxqhsk9rpcc7kpkvpp3g",
+      "filename": "6276C_rgb.png",
+      "extension": "png",
+      "position": 4,
+      "width": 3000,
+      "height": 3000,
+      "size": 6832977,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hkrjwxqhsk9rpcc7kpkvpp3g/6276C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/hkrjwxqhsk9rpcc7kpkvpp3g/v/52519971/original/6276C_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/hkrjwxqhsk9rpcc7kpkvpp3g/v/52519971/original/6276C_rgb.png"
+    },
+    {
+      "attachment_id": "ksx5974xfw2cnkr42hfxxh2z",
+      "filename": "6276D_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3038,
+      "height": 3038,
+      "size": 1622013,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ksx5974xfw2cnkr42hfxxh2z/6276D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/ksx5974xfw2cnkr42hfxxh2z/v/52433607/original/6276D_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/ksx5974xfw2cnkr42hfxxh2z/v/52433607/original/6276D_rgb.png"
+    }
+  ]
+}

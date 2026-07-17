@@ -1,0 +1,46 @@
+{
+  "cache_version": 5,
+  "sku": "7136",
+  "assets": [
+    {
+      "asset_id": "pmtj09-8obyeo-67vi7f",
+      "asset_name": "7136 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7136"
+      ]
+    },
+    {
+      "asset_id": "q5vaf6-7f59g8-c8cyy5",
+      "asset_name": "7136 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7136"
+      ]
+    },
+    {
+      "asset_id": "6thzhpkmbgfh2gvc9skhn6k3",
+      "asset_name": "179309 0616 RevA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7136"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pmtj09-8obyeo-87001j",
+      "filename": "7136B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 417546,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pmtj09-8obyeo-87001j/7136B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pmtj09-8obyeo-87001j/v/3082382/original/7136B.png?Expires=1784329103&KeyName=gcs-bfldr-prod&Signature=ydzQIGy5wSNV6p_DvfNSiPe0CTM=",
+      "url": "https://storage-us-gcs.bfldr.com/pmtj09-8obyeo-87001j/v/3082382/original/7136B.png?Expires=1784329103&KeyName=gcs-bfldr-prod&Signature=ydzQIGy5wSNV6p_DvfNSiPe0CTM="
+    }
+  ]
+}

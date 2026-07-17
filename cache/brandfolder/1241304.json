@@ -1,0 +1,30 @@
+{
+  "cache_version": 5,
+  "sku": "1241304",
+  "assets": [
+    {
+      "asset_id": "pfo4s3-b4rlio-bk7569",
+      "asset_name": "1241304 47CM Classic Kettle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1241304"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pfo4s3-b4rlio-g2ph4o",
+      "filename": "1241304A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3760,
+      "height": 5340,
+      "size": 3640166,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfo4s3-b4rlio-g2ph4o/1241304A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfo4s3-b4rlio-g2ph4o/v/2394679/original/1241304A.png?Expires=1784335618&KeyName=gcs-bfldr-prod&Signature=EJyrQhdYG_irL5-Pm5gSLXa0OcE=",
+      "url": "https://storage-us-gcs.bfldr.com/pfo4s3-b4rlio-g2ph4o/v/2394679/original/1241304A.png?Expires=1784335618&KeyName=gcs-bfldr-prod&Signature=EJyrQhdYG_irL5-Pm5gSLXa0OcE="
+    }
+  ]
+}

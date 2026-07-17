@@ -1,0 +1,74 @@
+{
+  "cache_version": 5,
+  "sku": "7160",
+  "assets": [
+    {
+      "asset_id": "pkf000-cmm63k-do5lbw",
+      "asset_name": "Go-Anywhere Carry Bag 7160 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7160"
+      ]
+    },
+    {
+      "asset_id": "pkf000-cmm63k-gbr2ue",
+      "asset_name": "Go-Anywhere Carry Bag 7160 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7160"
+      ]
+    },
+    {
+      "asset_id": "fr39gpfk95ntv7m3cm8s8nh3",
+      "asset_name": "33001802 58480 0125 RevD OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7160"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pkf000-cmm63k-6nbpw3",
+      "filename": "7160A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2400,
+      "height": 2400,
+      "size": 2796117,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkf000-cmm63k-6nbpw3/7160A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkf000-cmm63k-6nbpw3/v/2839077/original/7160A.png?Expires=1784330402&KeyName=gcs-bfldr-prod&Signature=KMrUZCH4z7AmSdmTiZvbx_fbsdY=",
+      "url": "https://storage-us-gcs.bfldr.com/pkf000-cmm63k-6nbpw3/v/2839077/original/7160A.png?Expires=1784330402&KeyName=gcs-bfldr-prod&Signature=KMrUZCH4z7AmSdmTiZvbx_fbsdY="
+    },
+    {
+      "attachment_id": "pkf000-cmm63k-atlsve",
+      "filename": "7160C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2400,
+      "height": 2400,
+      "size": 2699289,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkf000-cmm63k-atlsve/7160C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkf000-cmm63k-atlsve/v/2839078/original/7160C.png?Expires=1784330402&KeyName=gcs-bfldr-prod&Signature=pjXVmg13aehzup1BOmzrB9bjbdM=",
+      "url": "https://storage-us-gcs.bfldr.com/pkf000-cmm63k-atlsve/v/2839078/original/7160C.png?Expires=1784330402&KeyName=gcs-bfldr-prod&Signature=pjXVmg13aehzup1BOmzrB9bjbdM="
+    },
+    {
+      "attachment_id": "pkf000-cmm63k-78x1rd",
+      "filename": "7160Y.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5792,
+      "height": 8688,
+      "size": 23369061,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkf000-cmm63k-78x1rd/7160Y.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkf000-cmm63k-78x1rd/v/2839079/original/7160Y.jpg?Expires=1784330402&KeyName=gcs-bfldr-prod&Signature=yQCPN_rDv2lS6S-vkAPpvUMu_og=",
+      "url": "https://storage-us-gcs.bfldr.com/pkf000-cmm63k-78x1rd/v/2839079/original/7160Y.jpg?Expires=1784330402&KeyName=gcs-bfldr-prod&Signature=yQCPN_rDv2lS6S-vkAPpvUMu_og="
+    }
+  ]
+}

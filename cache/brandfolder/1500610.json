@@ -1,0 +1,318 @@
+{
+  "cache_version": 5,
+  "sku": "1500610",
+  "assets": [
+    {
+      "asset_id": "8pmbsgq7wrtgpvgpc4mtq5b7",
+      "asset_name": "1500610 BBQ Kitchen Gas 210 Spirit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "rs3b4qntgqrjtpmc8cxm37t",
+      "asset_name": "(cze) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "ms39g4xscg2hqvktrgjjp3rx",
+      "asset_name": "(dan) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "8jmmbftt2cqp8rmc6tbw8q",
+      "asset_name": "(dut-NL) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "rw9mfbm2fbw4vfn9ngnwwb",
+      "asset_name": "(eng-GB) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "9qj5h455rtpq4xpmfj9g6xk",
+      "asset_name": "(enus) Weber BBQ Kitchen 210 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "spsz9whj9w693x598ngk8p33",
+      "asset_name": "(fin) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "2t3954thqhngh8vr3kc4cgqh",
+      "asset_name": "(fre-FR) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "85jkx5jxcmg67n6shz9tfsc9",
+      "asset_name": "(ger-DE) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "sk27hkv4fmqjw35gnv963nv",
+      "asset_name": "(ita-IT) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "x75bjmq57ppms7jzp7mmrn9k",
+      "asset_name": "(no) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "4qm56mqq3znrq3px8rt32smz",
+      "asset_name": "(pol) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "wcmjrrr69rz3ptqqqwnvhk",
+      "asset_name": "(por-PT) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "j9px8ncp5s5q74s8c4f72q",
+      "asset_name": "(spa-ES) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "j7gmpwgfw39k3g8q944gj",
+      "asset_name": "(swe-SE) BBQK 210 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    },
+    {
+      "asset_id": "xncfsc4zg7fhcjcjh7p5x4k7",
+      "asset_name": "1500610 Weber BBQ Kitchen Gas 210 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500610"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "hrx9c8f72fw7qghs6rff9vr",
+      "filename": "1500610 Weber BBQ Kitchen Gas 210_Lifestyle.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5472,
+      "height": 3648,
+      "size": 13939972,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hrx9c8f72fw7qghs6rff9vr/1500610%20Weber%20BBQ%20Kitchen%20Gas%20210_Lifestyle.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hrx9c8f72fw7qghs6rff9vr/v/1275231708/original/1500610%20Weber%20BBQ%20Kitchen%20Gas%20210_Lifestyle.jpg?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=6dFrrlBCZuckldh3MQO2yoHmVbM=",
+      "url": "https://storage-us-gcs.bfldr.com/hrx9c8f72fw7qghs6rff9vr/v/1275231708/original/1500610%20Weber%20BBQ%20Kitchen%20Gas%20210_Lifestyle.jpg?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=6dFrrlBCZuckldh3MQO2yoHmVbM="
+    },
+    {
+      "attachment_id": "g9bxgswtbgghnkthctfqw6q",
+      "filename": "1500610_BBQK Gas 210_Genesis300_1800-1800_1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 570532,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g9bxgswtbgghnkthctfqw6q/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/g9bxgswtbgghnkthctfqw6q/v/1263107491/original/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_1.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=V9if3hMBJTYcoNb5E8EIG5Bwkzg=",
+      "url": "https://storage-us-gcs.bfldr.com/g9bxgswtbgghnkthctfqw6q/v/1263107491/original/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_1.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=V9if3hMBJTYcoNb5E8EIG5Bwkzg="
+    },
+    {
+      "attachment_id": "w775hqzrjbwqtqjjkwtxxkv",
+      "filename": "1500610_BBQK Gas 210_Genesis300_1800-1800_2.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 553231,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w775hqzrjbwqtqjjkwtxxkv/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/w775hqzrjbwqtqjjkwtxxkv/v/1263107492/original/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_2.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=TIbOD8XLkjfqcFJMjVUKKAQ3N5k=",
+      "url": "https://storage-us-gcs.bfldr.com/w775hqzrjbwqtqjjkwtxxkv/v/1263107492/original/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_2.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=TIbOD8XLkjfqcFJMjVUKKAQ3N5k="
+    },
+    {
+      "attachment_id": "cj5bf8f4fbn3rns8g99rbgh",
+      "filename": "1500610_BBQK Gas 210_Genesis300_1800-1800_3.png",
+      "extension": "png",
+      "position": 2,
+      "width": 1800,
+      "height": 1800,
+      "size": 696484,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cj5bf8f4fbn3rns8g99rbgh/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cj5bf8f4fbn3rns8g99rbgh/v/1263107493/original/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_3.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=gbsvTFQn2Uuziu_esDenQKrjZAc=",
+      "url": "https://storage-us-gcs.bfldr.com/cj5bf8f4fbn3rns8g99rbgh/v/1263107493/original/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_3.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=gbsvTFQn2Uuziu_esDenQKrjZAc="
+    },
+    {
+      "attachment_id": "vs3xs3sb94fvj8f99tqqpb37",
+      "filename": "1500610_BBQK Gas 210_Genesis300_1800-1800_4.png",
+      "extension": "png",
+      "position": 3,
+      "width": 1800,
+      "height": 1800,
+      "size": 768564,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vs3xs3sb94fvj8f99tqqpb37/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_4.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vs3xs3sb94fvj8f99tqqpb37/v/1263107494/original/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_4.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=kgJWleApCk_NDXUCpGzLVb8TwHU=",
+      "url": "https://storage-us-gcs.bfldr.com/vs3xs3sb94fvj8f99tqqpb37/v/1263107494/original/1500610_BBQK%20Gas%20210_Genesis300_1800-1800_4.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=kgJWleApCk_NDXUCpGzLVb8TwHU="
+    },
+    {
+      "attachment_id": "km777mg346cwxfnxncs5rt5",
+      "filename": "1500610_BBQK Gas 210_Genesis400_1800-1800_1.png",
+      "extension": "png",
+      "position": 4,
+      "width": 1800,
+      "height": 1800,
+      "size": 542413,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/km777mg346cwxfnxncs5rt5/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/km777mg346cwxfnxncs5rt5/v/1263107495/original/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_1.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=zpdMyoQQ72LRn1OPQff68ejicsY=",
+      "url": "https://storage-us-gcs.bfldr.com/km777mg346cwxfnxncs5rt5/v/1263107495/original/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_1.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=zpdMyoQQ72LRn1OPQff68ejicsY="
+    },
+    {
+      "attachment_id": "6g5nhfmzsw89mnj3kttbcknq",
+      "filename": "1500610_BBQK Gas 210_Genesis400_1800-1800_2.png",
+      "extension": "png",
+      "position": 5,
+      "width": 1800,
+      "height": 1800,
+      "size": 662398,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6g5nhfmzsw89mnj3kttbcknq/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6g5nhfmzsw89mnj3kttbcknq/v/1263107496/original/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_2.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=IIC68-oCE1WSeaHAqrODOTUUIAI=",
+      "url": "https://storage-us-gcs.bfldr.com/6g5nhfmzsw89mnj3kttbcknq/v/1263107496/original/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_2.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=IIC68-oCE1WSeaHAqrODOTUUIAI="
+    },
+    {
+      "attachment_id": "jgm3q9r8v4z477tbnxq96s",
+      "filename": "1500610_BBQK Gas 210_Genesis400_1800-1800_3.png",
+      "extension": "png",
+      "position": 6,
+      "width": 1800,
+      "height": 1800,
+      "size": 526229,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jgm3q9r8v4z477tbnxq96s/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jgm3q9r8v4z477tbnxq96s/v/1263107497/original/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_3.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=QcZ5eOz5Oq_fGud0NHGim2MWbtg=",
+      "url": "https://storage-us-gcs.bfldr.com/jgm3q9r8v4z477tbnxq96s/v/1263107497/original/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_3.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=QcZ5eOz5Oq_fGud0NHGim2MWbtg="
+    },
+    {
+      "attachment_id": "qg7q8rnn92vgtjtxrp6pc54",
+      "filename": "1500610_BBQK Gas 210_Genesis400_1800-1800_4.png",
+      "extension": "png",
+      "position": 7,
+      "width": 1800,
+      "height": 1800,
+      "size": 678145,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qg7q8rnn92vgtjtxrp6pc54/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_4.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qg7q8rnn92vgtjtxrp6pc54/v/1263107498/original/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_4.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=Qy1hvRiqRh8vUrk7Cwcg1sV1Ibo=",
+      "url": "https://storage-us-gcs.bfldr.com/qg7q8rnn92vgtjtxrp6pc54/v/1263107498/original/1500610_BBQK%20Gas%20210_Genesis400_1800-1800_4.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=Qy1hvRiqRh8vUrk7Cwcg1sV1Ibo="
+    },
+    {
+      "attachment_id": "2nn7bqfhb4xwtqszt558gqp",
+      "filename": "1500610_BBQK Gas 210_Spirit300_1800-1800_1.png",
+      "extension": "png",
+      "position": 8,
+      "width": 1800,
+      "height": 1800,
+      "size": 500267,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2nn7bqfhb4xwtqszt558gqp/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2nn7bqfhb4xwtqszt558gqp/v/1263107499/original/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_1.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=gOAVRu-eKnoiw-PpAGhmZXDruSE=",
+      "url": "https://storage-us-gcs.bfldr.com/2nn7bqfhb4xwtqszt558gqp/v/1263107499/original/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_1.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=gOAVRu-eKnoiw-PpAGhmZXDruSE="
+    },
+    {
+      "attachment_id": "gbncmhhbgv3rvpps3v5n4x3j",
+      "filename": "1500610_BBQK Gas 210_Spirit300_1800-1800_2.png",
+      "extension": "png",
+      "position": 9,
+      "width": 1800,
+      "height": 1800,
+      "size": 627720,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gbncmhhbgv3rvpps3v5n4x3j/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gbncmhhbgv3rvpps3v5n4x3j/v/1263107500/original/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_2.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=LGF-kpEdMkf3XypfA0KyfVlnouQ=",
+      "url": "https://storage-us-gcs.bfldr.com/gbncmhhbgv3rvpps3v5n4x3j/v/1263107500/original/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_2.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=LGF-kpEdMkf3XypfA0KyfVlnouQ="
+    },
+    {
+      "attachment_id": "7kx4qz6tqhcmfcqn92m4cgb",
+      "filename": "1500610_BBQK Gas 210_Spirit300_1800-1800_3.png",
+      "extension": "png",
+      "position": 10,
+      "width": 1800,
+      "height": 1800,
+      "size": 489244,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7kx4qz6tqhcmfcqn92m4cgb/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7kx4qz6tqhcmfcqn92m4cgb/v/1263107501/original/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_3.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=9rePrtFTLKnQTXJmBorkns4W5pQ=",
+      "url": "https://storage-us-gcs.bfldr.com/7kx4qz6tqhcmfcqn92m4cgb/v/1263107501/original/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_3.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=9rePrtFTLKnQTXJmBorkns4W5pQ="
+    },
+    {
+      "attachment_id": "psc7qn3wghqjx5r6vphgkx",
+      "filename": "1500610_BBQK Gas 210_Spirit300_1800-1800_4.png",
+      "extension": "png",
+      "position": 11,
+      "width": 1800,
+      "height": 1800,
+      "size": 709310,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/psc7qn3wghqjx5r6vphgkx/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_4.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/psc7qn3wghqjx5r6vphgkx/v/1263107502/original/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_4.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=yqtD2I-BI1x6WBkky711nadDswc=",
+      "url": "https://storage-us-gcs.bfldr.com/psc7qn3wghqjx5r6vphgkx/v/1263107502/original/1500610_BBQK%20Gas%20210_Spirit300_1800-1800_4.png?Expires=1784318589&KeyName=gcs-bfldr-prod&Signature=yqtD2I-BI1x6WBkky711nadDswc="
+    }
+  ]
+}

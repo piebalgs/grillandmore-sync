@@ -1,0 +1,118 @@
+{
+  "cache_version": 5,
+  "sku": "7011",
+  "assets": [
+    {
+      "asset_id": "qeppa8-bv0feo-fkqhc2",
+      "asset_name": "Porcelain-Enameled Cast Iron Grates 7011 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7011"
+      ]
+    },
+    {
+      "asset_id": "qeppi2-d5jch4-2todis",
+      "asset_name": "Porcelain-Enameled Cast Iron Grates 7011 Feature",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7011"
+      ]
+    },
+    {
+      "asset_id": "trfh5pfm7zfnbmh69mj3636h",
+      "asset_name": "Porcelain-Enameled Cast Iron Grates 7011 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7011"
+      ]
+    },
+    {
+      "asset_id": "hfq4fppz68ccnk3xhzgc2p4n",
+      "asset_name": "Porcelain-Enameled Cast Iron Grates 7011 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7011"
+      ]
+    },
+    {
+      "asset_id": "w9swj66ppm897ksxk76kb4f8",
+      "asset_name": "Porcelain-Enameled Cast Iron Grates 7011 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7011"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "qeppa8-bv0feo-77bsy",
+      "filename": "7011A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 7436895,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qeppa8-bv0feo-77bsy/7011A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qeppa8-bv0feo-77bsy/v/25886663/original/7011A_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qeppa8-bv0feo-77bsy/v/25886663/original/7011A_rgb.png"
+    },
+    {
+      "attachment_id": "qeppa8-bv0feo-bh7cf8",
+      "filename": "7011C_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 7437015,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qeppa8-bv0feo-bh7cf8/7011C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qeppa8-bv0feo-bh7cf8/v/25886664/original/7011C_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qeppa8-bv0feo-bh7cf8/v/25886664/original/7011C_rgb.png"
+    },
+    {
+      "attachment_id": "qeppi2-d5jch4-84ob9n",
+      "filename": "7011W_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3957,
+      "height": 3000,
+      "size": 4273289,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qeppi2-d5jch4-84ob9n/7011W_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qeppi2-d5jch4-84ob9n/v/25886910/original/7011W_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qeppi2-d5jch4-84ob9n/v/25886910/original/7011W_rgb.jpg"
+    },
+    {
+      "attachment_id": "6npz6pqwjvrhnjwq653p66p",
+      "filename": "7011YM1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3000,
+      "height": 2999,
+      "size": 2810627,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6npz6pqwjvrhnjwq653p66p/7011YM1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/6npz6pqwjvrhnjwq653p66p/v/47194348/original/7011YM1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/6npz6pqwjvrhnjwq653p66p/v/47194348/original/7011YM1_rgb.jpg"
+    },
+    {
+      "attachment_id": "qfmx8hrt96s3377ttnvrxnxj",
+      "filename": "7011M1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3000,
+      "height": 2992,
+      "size": 3390814,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qfmx8hrt96s3377ttnvrxnxj/7011M1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qfmx8hrt96s3377ttnvrxnxj/v/47194347/original/7011M1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qfmx8hrt96s3377ttnvrxnxj/v/47194347/original/7011M1_rgb.jpg"
+    }
+  ]
+}

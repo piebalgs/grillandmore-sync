@@ -1,0 +1,72 @@
+{
+  "cache_version": 5,
+  "sku": "18280",
+  "assets": [
+    {
+      "asset_id": "ktht46bf7cjxgwgjtfqc6tx6",
+      "asset_name": "Floor Mat 18280 Genesis II",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18280"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "5mhb2sc8r3gmtjmz6k3njrp5",
+      "filename": "18280A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 16159056,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5mhb2sc8r3gmtjmz6k3njrp5/18280A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/5mhb2sc8r3gmtjmz6k3njrp5/v/1024228611/original/18280A.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/5mhb2sc8r3gmtjmz6k3njrp5/v/1024228611/original/18280A.png"
+    },
+    {
+      "attachment_id": "zm364wjphp59b2f3hr33n3k",
+      "filename": "18280G.png",
+      "extension": "png",
+      "position": 1,
+      "width": 8688,
+      "height": 5792,
+      "size": 7483773,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/zm364wjphp59b2f3hr33n3k/18280G.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/zm364wjphp59b2f3hr33n3k/v/1024228617/original/18280G.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/zm364wjphp59b2f3hr33n3k/v/1024228617/original/18280G.png"
+    },
+    {
+      "attachment_id": "mk3qtnjwqcjmbhpm4nmtmc6",
+      "filename": "18280N1.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 7458,
+      "height": 5052,
+      "size": 2073007,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mk3qtnjwqcjmbhpm4nmtmc6/18280N1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/mk3qtnjwqcjmbhpm4nmtmc6/v/1024228618/original/18280N1.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/mk3qtnjwqcjmbhpm4nmtmc6/v/1024228618/original/18280N1.jpg"
+    },
+    {
+      "attachment_id": "kv4cbp2cbbmg67r9nv7nmctc",
+      "filename": "18280_Floormat_large_inuse.png",
+      "extension": "png",
+      "position": 3,
+      "width": 5184,
+      "height": 3456,
+      "size": 8925338,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kv4cbp2cbbmg67r9nv7nmctc/18280_Floormat_large_inuse.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/kv4cbp2cbbmg67r9nv7nmctc/v/1038152932/original/18280_Floormat_large_inuse.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/kv4cbp2cbbmg67r9nv7nmctc/v/1038152932/original/18280_Floormat_large_inuse.png"
+    }
+  ]
+}

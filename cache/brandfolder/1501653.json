@@ -1,0 +1,71 @@
+{
+  "cache_version": 2,
+  "sku": "1501653",
+  "assets": [
+    {
+      "asset_id": "jcxfjth78xk8brfc4394kxv",
+      "asset_name": "[EMEA]  Lumin Compact + Fixed Stand",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pr4p7tbxfnmbcb2rp7srfqnt",
+      "asset_name": "enEMEA Lumin Compact Electric Grill with Stand Master Copy Doc FY26 FINAL[59]",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "2txsh3htb5b4bvtpjt9rgkrb",
+      "asset_name": "[EMEA] Lumin Compact with Stand",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "546k893hv8tck5b8r96cz4b",
+      "filename": "1501653 Lumin compact fixed stand _A_EMEA_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/546k893hv8tck5b8r96cz4b/1501653%20Lumin%20compact%20fixed%20stand%20_A_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/546k893hv8tck5b8r96cz4b/v/1276010237/original/1501653%20Lumin%20compact%20fixed%20stand%20_A_EMEA_rgb.png?Expires=1784297661&KeyName=gcs-bfldr-prod&Signature=-p5m5M92OsiNF_UaBxfrEIDjLoE=",
+      "url": "https://storage-us-gcs.bfldr.com/546k893hv8tck5b8r96cz4b/v/1276010237/original/1501653%20Lumin%20compact%20fixed%20stand%20_A_EMEA_rgb.png?Expires=1784297661&KeyName=gcs-bfldr-prod&Signature=-p5m5M92OsiNF_UaBxfrEIDjLoE="
+    },
+    {
+      "attachment_id": "ng578n54p55c49xt3x45xk2t",
+      "filename": "1501653 Lumin compact fixed stand _B_EMEA_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ng578n54p55c49xt3x45xk2t/1501653%20Lumin%20compact%20fixed%20stand%20_B_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ng578n54p55c49xt3x45xk2t/v/1276010238/original/1501653%20Lumin%20compact%20fixed%20stand%20_B_EMEA_rgb.png?Expires=1784297661&KeyName=gcs-bfldr-prod&Signature=kCef5h33YonyKJ4d8PpFiG29Cjo=",
+      "url": "https://storage-us-gcs.bfldr.com/ng578n54p55c49xt3x45xk2t/v/1276010238/original/1501653%20Lumin%20compact%20fixed%20stand%20_B_EMEA_rgb.png?Expires=1784297661&KeyName=gcs-bfldr-prod&Signature=kCef5h33YonyKJ4d8PpFiG29Cjo="
+    },
+    {
+      "attachment_id": "x7vw5gbgf6cmcqkwjshk4n9m",
+      "filename": "1501653 Lumin compact fixed stand _C_EMEA_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/x7vw5gbgf6cmcqkwjshk4n9m/1501653%20Lumin%20compact%20fixed%20stand%20_C_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/x7vw5gbgf6cmcqkwjshk4n9m/v/1276010239/original/1501653%20Lumin%20compact%20fixed%20stand%20_C_EMEA_rgb.png?Expires=1784297661&KeyName=gcs-bfldr-prod&Signature=IdUajn-1MXtTNmGfw0TgOrEwCRY=",
+      "url": "https://storage-us-gcs.bfldr.com/x7vw5gbgf6cmcqkwjshk4n9m/v/1276010239/original/1501653%20Lumin%20compact%20fixed%20stand%20_C_EMEA_rgb.png?Expires=1784297661&KeyName=gcs-bfldr-prod&Signature=IdUajn-1MXtTNmGfw0TgOrEwCRY="
+    },
+    {
+      "attachment_id": "g5jvjz6p8fb8hcqp2fq6bwg8",
+      "filename": "1501653_LUMIN COMPACT_EMEA_ON STAND_LID OPEN_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 5000,
+      "height": 5000,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g5jvjz6p8fb8hcqp2fq6bwg8/1501653_LUMIN%20COMPACT_EMEA_ON%20STAND_LID%20OPEN_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/g5jvjz6p8fb8hcqp2fq6bwg8/v/1278527487/original/1501653_LUMIN%20COMPACT_EMEA_ON%20STAND_LID%20OPEN_rgb.png?Expires=1784297661&KeyName=gcs-bfldr-prod&Signature=uxa4JSJlxt--sBe2j8-z3qaQAuM=",
+      "url": "https://storage-us-gcs.bfldr.com/g5jvjz6p8fb8hcqp2fq6bwg8/v/1278527487/original/1501653_LUMIN%20COMPACT_EMEA_ON%20STAND_LID%20OPEN_rgb.png?Expires=1784297661&KeyName=gcs-bfldr-prod&Signature=uxa4JSJlxt--sBe2j8-z3qaQAuM="
+    }
+  ]
+}

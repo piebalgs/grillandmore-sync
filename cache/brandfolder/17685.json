@@ -1,0 +1,30 @@
+{
+  "cache_version": 5,
+  "sku": "17685",
+  "assets": [
+    {
+      "asset_id": "pgagj5-g7x2hk-73tu33",
+      "asset_name": "Non-Stick Spray 17685 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17685"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pgagj5-g7x2hk-ha2rg",
+      "filename": "17685 Weber_Non Stick Spray.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 1445218,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgagj5-g7x2hk-ha2rg/17685%20Weber_Non%20Stick%20Spray.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pgagj5-g7x2hk-ha2rg/v/1266822792/original/17685%20Weber_Non%20Stick%20Spray.png?Expires=1784331575&KeyName=gcs-bfldr-prod&Signature=zkWAS7Un9QDsyd0WNhnkmO2hO8A=",
+      "url": "https://storage-us-gcs.bfldr.com/pgagj5-g7x2hk-ha2rg/v/1266822792/original/17685%20Weber_Non%20Stick%20Spray.png?Expires=1784331575&KeyName=gcs-bfldr-prod&Signature=zkWAS7Un9QDsyd0WNhnkmO2hO8A="
+    }
+  ]
+}

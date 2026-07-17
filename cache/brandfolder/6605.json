@@ -1,0 +1,97 @@
+{
+  "cache_version": 5,
+  "sku": "6605",
+  "assets": [
+    {
+      "asset_id": "pi35oo-7ycnvs-8yfo3r",
+      "asset_name": "Rib Rack 6605 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6605"
+      ]
+    },
+    {
+      "asset_id": "pi35oo-7ycnvs-89dzjl",
+      "asset_name": "Rib Rack 6605 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "441001",
+        "6605"
+      ]
+    },
+    {
+      "asset_id": "q4zlg6-7aqpw0-1fmbc8",
+      "asset_name": "Rib Rack 6605 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6605"
+      ]
+    },
+    {
+      "asset_id": "vjjtc4j8pghcc69nq4q9b7w",
+      "asset_name": "58161 0922 RevF CH LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6605"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pi35oo-7ycnvs-3e1bny",
+      "filename": "6605A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3222,
+      "height": 2126,
+      "size": 6754141,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi35oo-7ycnvs-3e1bny/6605A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi35oo-7ycnvs-3e1bny/v/2640661/original/6605A.png?Expires=1784322296&KeyName=gcs-bfldr-prod&Signature=7EcVAixuSY7gt8rpx9ZAXXTcM2E=",
+      "url": "https://storage-us-gcs.bfldr.com/pi35oo-7ycnvs-3e1bny/v/2640661/original/6605A.png?Expires=1784322296&KeyName=gcs-bfldr-prod&Signature=7EcVAixuSY7gt8rpx9ZAXXTcM2E="
+    },
+    {
+      "attachment_id": "pi35oo-7ycnvs-owca6",
+      "filename": "6605C.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3210,
+      "height": 2499,
+      "size": 6856968,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi35oo-7ycnvs-owca6/6605C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi35oo-7ycnvs-owca6/v/2640662/original/6605C.png?Expires=1784322296&KeyName=gcs-bfldr-prod&Signature=e7iu2RxP6dL6btYgrciAU5NA4s0=",
+      "url": "https://storage-us-gcs.bfldr.com/pi35oo-7ycnvs-owca6/v/2640662/original/6605C.png?Expires=1784322296&KeyName=gcs-bfldr-prod&Signature=e7iu2RxP6dL6btYgrciAU5NA4s0="
+    },
+    {
+      "attachment_id": "pi35oo-7ycnvs-eaajor",
+      "filename": "6605D.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3900,
+      "height": 2700,
+      "size": 4430137,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi35oo-7ycnvs-eaajor/6605D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi35oo-7ycnvs-eaajor/v/2640663/original/6605D.png?Expires=1784322296&KeyName=gcs-bfldr-prod&Signature=VgaK4mV3X5qvMNlQBVJ2zTM6XbA=",
+      "url": "https://storage-us-gcs.bfldr.com/pi35oo-7ycnvs-eaajor/v/2640663/original/6605D.png?Expires=1784322296&KeyName=gcs-bfldr-prod&Signature=VgaK4mV3X5qvMNlQBVJ2zTM6XbA="
+    },
+    {
+      "attachment_id": "pi35oo-7ycnvs-35s8cv",
+      "filename": "6605M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4256,
+      "height": 2832,
+      "size": 7460917,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi35oo-7ycnvs-35s8cv/6605M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi35oo-7ycnvs-35s8cv/v/2640664/original/6605M1.jpg?Expires=1784322296&KeyName=gcs-bfldr-prod&Signature=AnFvmp7g3wO7ufptjH2K640TmUI=",
+      "url": "https://storage-us-gcs.bfldr.com/pi35oo-7ycnvs-35s8cv/v/2640664/original/6605M1.jpg?Expires=1784322296&KeyName=gcs-bfldr-prod&Signature=AnFvmp7g3wO7ufptjH2K640TmUI="
+    }
+  ]
+}

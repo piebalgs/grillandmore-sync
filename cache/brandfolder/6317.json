@@ -1,0 +1,215 @@
+{
+  "cache_version": 5,
+  "sku": "6317",
+  "assets": [
+    {
+      "asset_id": "s8pj73hqq7wvxpbz7nqss7jr",
+      "asset_name": "Grill Tongs 6317 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6317"
+      ]
+    },
+    {
+      "asset_id": "bcq79cf5kw57crntcn5gnjh6",
+      "asset_name": "Grill Tongs 6317 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6317"
+      ]
+    },
+    {
+      "asset_id": "vcjjpcc8whntk8b3ws9wb8g",
+      "asset_name": "Grill Tongs 6317 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6317"
+      ]
+    },
+    {
+      "asset_id": "r4sppfgmnb4qcwxkxbtp4w8",
+      "asset_name": "Value Tools Spatula Tongs Set of 2",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6318",
+        "3401326",
+        "6317"
+      ]
+    },
+    {
+      "asset_id": "ss7js5pbpph3csv3twkthc5s",
+      "asset_name": "Value Tools Set of 3",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6318",
+        "3400713",
+        "6317",
+        "3401327"
+      ]
+    },
+    {
+      "asset_id": "4t7s6mchsmbvsgqc2cs58tpv",
+      "asset_name": "53484 1220 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6317"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "vb77ph398tnf2rkpj9ffsjqn",
+      "filename": "6317A_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 3402117,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vb77ph398tnf2rkpj9ffsjqn/6317A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/vb77ph398tnf2rkpj9ffsjqn/v/51802718/original/6317A_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/vb77ph398tnf2rkpj9ffsjqn/v/51802718/original/6317A_rgb.png"
+    },
+    {
+      "attachment_id": "w6ng9rmpqct6kmh6j3vhmk",
+      "filename": "6317B_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "size": 965719,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w6ng9rmpqct6kmh6j3vhmk/6317B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/w6ng9rmpqct6kmh6j3vhmk/v/51802719/original/6317B_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/w6ng9rmpqct6kmh6j3vhmk/v/51802719/original/6317B_rgb.png"
+    },
+    {
+      "attachment_id": "tnc6x4jgmmh9qpscm2pwg7q",
+      "filename": "6317C_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3000,
+      "height": 3000,
+      "size": 3020932,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tnc6x4jgmmh9qpscm2pwg7q/6317C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/tnc6x4jgmmh9qpscm2pwg7q/v/51802720/original/6317C_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/tnc6x4jgmmh9qpscm2pwg7q/v/51802720/original/6317C_rgb.png"
+    },
+    {
+      "attachment_id": "bt4psgtgp7xkw84bt483t3c",
+      "filename": "6317D_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3038,
+      "height": 3038,
+      "size": 828482,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bt4psgtgp7xkw84bt483t3c/6317D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/bt4psgtgp7xkw84bt483t3c/v/52426468/original/6317D_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/bt4psgtgp7xkw84bt483t3c/v/52426468/original/6317D_rgb.png"
+    },
+    {
+      "attachment_id": "hj6nfmffvprfvz4gcwt9hfcq",
+      "filename": "6317Y1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2529,
+      "size": 4382627,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hj6nfmffvprfvz4gcwt9hfcq/6317Y1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/hj6nfmffvprfvz4gcwt9hfcq/v/52522341/original/6317Y1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/hj6nfmffvprfvz4gcwt9hfcq/v/52522341/original/6317Y1_rgb.jpg"
+    },
+    {
+      "attachment_id": "szmmkc29392kv9tn4npcw8t",
+      "filename": "3401326-VALUE TOOLS SPATULA TONGS SET OF 2_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 2132414,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/szmmkc29392kv9tn4npcw8t/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/szmmkc29392kv9tn4npcw8t/v/1268255335/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_A_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=jdaOds9ktQ5V00B60WtviHfzbZc=",
+      "url": "https://storage-us-gcs.bfldr.com/szmmkc29392kv9tn4npcw8t/v/1268255335/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_A_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=jdaOds9ktQ5V00B60WtviHfzbZc="
+    },
+    {
+      "attachment_id": "c9kwjqxrh9xh8gw4sg45vvb",
+      "filename": "3401326-VALUE TOOLS SPATULA TONGS SET OF 2_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 1483326,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/c9kwjqxrh9xh8gw4sg45vvb/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/c9kwjqxrh9xh8gw4sg45vvb/v/1268255336/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_B_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=5AdWtJE4ijQd7wPnJtFlI4OKjLM=",
+      "url": "https://storage-us-gcs.bfldr.com/c9kwjqxrh9xh8gw4sg45vvb/v/1268255336/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_B_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=5AdWtJE4ijQd7wPnJtFlI4OKjLM="
+    },
+    {
+      "attachment_id": "cw4t98z9v4mvhpz6v47zn4",
+      "filename": "3401326-VALUE TOOLS SPATULA TONGS SET OF 2_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 2420724,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cw4t98z9v4mvhpz6v47zn4/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cw4t98z9v4mvhpz6v47zn4/v/1268255337/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_C_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=uIk02bY-hPD9WqX4AO0xYEWUZfU=",
+      "url": "https://storage-us-gcs.bfldr.com/cw4t98z9v4mvhpz6v47zn4/v/1268255337/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_C_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=uIk02bY-hPD9WqX4AO0xYEWUZfU="
+    },
+    {
+      "attachment_id": "pt7jr9n6pt988b6wsb8zkkj8",
+      "filename": "3401327-VALUE TOOLS SET OF 3 SPTLA TNG 12IN BRSH_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 3400774,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pt7jr9n6pt988b6wsb8zkkj8/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pt7jr9n6pt988b6wsb8zkkj8/v/1268258161/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_A_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=XS0xLaLS-AYUW6gRdzwIQuieFNw=",
+      "url": "https://storage-us-gcs.bfldr.com/pt7jr9n6pt988b6wsb8zkkj8/v/1268258161/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_A_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=XS0xLaLS-AYUW6gRdzwIQuieFNw="
+    },
+    {
+      "attachment_id": "sj6f8zptch5cvhh7bq5qsbs",
+      "filename": "3401327-VALUE TOOLS SET OF 3 SPTLA TNG 12IN BRSH_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 2252339,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sj6f8zptch5cvhh7bq5qsbs/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/sj6f8zptch5cvhh7bq5qsbs/v/1268258162/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_B_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=8GWXXJBXbujdHJmRulvbLjGoqts=",
+      "url": "https://storage-us-gcs.bfldr.com/sj6f8zptch5cvhh7bq5qsbs/v/1268258162/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_B_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=8GWXXJBXbujdHJmRulvbLjGoqts="
+    },
+    {
+      "attachment_id": "2pxh9shwgt65cnxjz27tmm",
+      "filename": "3401327-VALUE TOOLS SET OF 3 SPTLA TNG 12IN BRSH_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 3525929,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2pxh9shwgt65cnxjz27tmm/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2pxh9shwgt65cnxjz27tmm/v/1268258163/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_C_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=2vv_eK0UqqN89TUF5lLvpAshEO0=",
+      "url": "https://storage-us-gcs.bfldr.com/2pxh9shwgt65cnxjz27tmm/v/1268258163/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_C_rgb.png?Expires=1784325031&KeyName=gcs-bfldr-prod&Signature=2vv_eK0UqqN89TUF5lLvpAshEO0="
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "cache_version": 5,
+  "sku": "6434",
+  "assets": [
+    {
+      "asset_id": "pfd21a-2xt088-9q7i7r",
+      "asset_name": "Deluxe Grilling Basket 6434 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pfd21a-2xt088-fm9q9x",
+      "asset_name": "Deluxe Grilling Basket 6434 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pz2kek-edeucw-5o096p",
+      "asset_name": "Deluxe Grilling Basket 6434 Food (2019 Lifestyle)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "puoute-96b0e0-fvf6np",
+      "asset_name": "Grilling Basket 6434 Premium Content",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "q4zmj6-3tafgw-dom5uf",
+      "asset_name": "Deluxe Grilling Basket 6434 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pkeu53-5ua0u0-dfytyk",
+      "asset_name": "Deluxe Grilling Pan 6435 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxxqof-2d7a2g-3223og",
+      "asset_name": "BP 17 JM Weber 03810",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxxqof-2d7a2g-31ek61",
+      "asset_name": "BP 17 JM Weber 03888",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxxqof-2d7a2g-bs7a3a",
+      "asset_name": "BP 17 JM Weber 03850",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxzpgu-6kemps-elnx93",
+      "asset_name": "BP 17 JM Weber 03812",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxzpgu-6kemps-f2tka1",
+      "asset_name": "BP 17 JM Weber 03814",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxzpgu-6kemps-agbht4",
+      "asset_name": "BP 17 JM Weber 03839",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxzpgu-6kemps-bti5ps",
+      "asset_name": "BP 17 JM Weber 03842",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxzpgu-6kemps-f9z1qm",
+      "asset_name": "BP 17 JM Weber 03854",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxzpgu-6kemps-1f0c72",
+      "asset_name": "BP 17 JM Weber 03836",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "pxztgh-e0xymw-lftq1",
+      "asset_name": "BP 23 JM Weber 04507",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "qe830o-7klofs-321724",
+      "asset_name": "Potatoes",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    },
+    {
+      "asset_id": "285bbcnwhn6sn6fsnjx3b6",
+      "asset_name": "58195 0917 RevE ol",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6434"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pfd21a-2xt088-93hvbh",
+      "filename": "6434B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3214,
+      "height": 3214,
+      "size": 3843400,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfd21a-2xt088-93hvbh/6434B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfd21a-2xt088-93hvbh/v/2366879/original/6434B.png?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=RkkSKzIcGT5hh6k1Im6jT5oTOqI=",
+      "url": "https://storage-us-gcs.bfldr.com/pfd21a-2xt088-93hvbh/v/2366879/original/6434B.png?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=RkkSKzIcGT5hh6k1Im6jT5oTOqI="
+    },
+    {
+      "attachment_id": "puoute-96b0e0-dou3m6",
+      "filename": "6434_Grilling Basket_1000x1000_Hero.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 1000,
+      "height": 1000,
+      "size": 841903,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puoute-96b0e0-dou3m6/6434_Grilling%20Basket_1000x1000_Hero.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puoute-96b0e0-dou3m6/v/5283839/original/6434_Grilling%20Basket_1000x1000_Hero.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=UCPREh-DeFgEhQ47fyG9JhA6Uuc=",
+      "url": "https://storage-us-gcs.bfldr.com/puoute-96b0e0-dou3m6/v/5283839/original/6434_Grilling%20Basket_1000x1000_Hero.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=UCPREh-DeFgEhQ47fyG9JhA6Uuc="
+    },
+    {
+      "attachment_id": "puoute-96b0e0-d43bba",
+      "filename": "6434_Grilling Basket_1000x1000_Specs.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "size": 792730,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puoute-96b0e0-d43bba/6434_Grilling%20Basket_1000x1000_Specs.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puoute-96b0e0-d43bba/v/5283840/original/6434_Grilling%20Basket_1000x1000_Specs.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=4yDinfQtnrWzFvoUuBJiiLoa99s=",
+      "url": "https://storage-us-gcs.bfldr.com/puoute-96b0e0-d43bba/v/5283840/original/6434_Grilling%20Basket_1000x1000_Specs.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=4yDinfQtnrWzFvoUuBJiiLoa99s="
+    },
+    {
+      "attachment_id": "pfd21a-2xt088-f85i50",
+      "filename": "6434M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5184,
+      "height": 3456,
+      "size": 14383327,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfd21a-2xt088-f85i50/6434M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfd21a-2xt088-f85i50/v/2366880/original/6434M1.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=MyuSg9E7TkGzZzu8GGNUX5A97xM=",
+      "url": "https://storage-us-gcs.bfldr.com/pfd21a-2xt088-f85i50/v/2366880/original/6434M1.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=MyuSg9E7TkGzZzu8GGNUX5A97xM="
+    },
+    {
+      "attachment_id": "pfd21a-2xt088-8m1lr5",
+      "filename": "6434M2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5184,
+      "height": 3456,
+      "size": 16299227,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfd21a-2xt088-8m1lr5/6434M2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfd21a-2xt088-8m1lr5/v/2366881/original/6434M2.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=wMHq6nmE9Z-jMpg6U5RAhaxU6ck=",
+      "url": "https://storage-us-gcs.bfldr.com/pfd21a-2xt088-8m1lr5/v/2366881/original/6434M2.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=wMHq6nmE9Z-jMpg6U5RAhaxU6ck="
+    },
+    {
+      "attachment_id": "pfd21a-2xt088-cflvbw",
+      "filename": "6434M3.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 2832,
+      "height": 2822,
+      "size": 6240133,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfd21a-2xt088-cflvbw/6434M3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfd21a-2xt088-cflvbw/v/2366882/original/6434M3.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=dRAnG5qntLx2nvHNd2EyDt93PrA=",
+      "url": "https://storage-us-gcs.bfldr.com/pfd21a-2xt088-cflvbw/v/2366882/original/6434M3.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=dRAnG5qntLx2nvHNd2EyDt93PrA="
+    },
+    {
+      "attachment_id": "pz2kek-edeucw-75i4on",
+      "filename": "6434M4.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 6362,
+      "height": 4250,
+      "size": 19504383,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pz2kek-edeucw-75i4on/6434M4.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pz2kek-edeucw-75i4on/v/6467474/original/6434M4.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=W-7fIBYN0eNsauSF7hhBtu8VNN8=",
+      "url": "https://storage-us-gcs.bfldr.com/pz2kek-edeucw-75i4on/v/6467474/original/6434M4.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=W-7fIBYN0eNsauSF7hhBtu8VNN8="
+    },
+    {
+      "attachment_id": "pz2kek-edeucw-4dvnzo",
+      "filename": "6434M5.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 6720,
+      "height": 4480,
+      "size": 21787697,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pz2kek-edeucw-4dvnzo/6434M5.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pz2kek-edeucw-4dvnzo/v/6467475/original/6434M5.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=Bdn9fT2KZ9u1iSXPRFpM4zLGlRU=",
+      "url": "https://storage-us-gcs.bfldr.com/pz2kek-edeucw-4dvnzo/v/6467475/original/6434M5.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=Bdn9fT2KZ9u1iSXPRFpM4zLGlRU="
+    },
+    {
+      "attachment_id": "pz2kek-edeucw-48qjl6",
+      "filename": "6434M6.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6720,
+      "height": 4480,
+      "size": 18885687,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pz2kek-edeucw-48qjl6/6434M6.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pz2kek-edeucw-48qjl6/v/6467476/original/6434M6.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=kde-gTIEKkiwh1d5ZcKqepH1FBU=",
+      "url": "https://storage-us-gcs.bfldr.com/pz2kek-edeucw-48qjl6/v/6467476/original/6434M6.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=kde-gTIEKkiwh1d5ZcKqepH1FBU="
+    },
+    {
+      "attachment_id": "pz2kek-edeucw-a1do1f",
+      "filename": "6434M7.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 6720,
+      "height": 4480,
+      "size": 19062785,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pz2kek-edeucw-a1do1f/6434M7.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pz2kek-edeucw-a1do1f/v/6467477/original/6434M7.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=wu58IXz2WbNbU3WtUEV0F8Tx9so=",
+      "url": "https://storage-us-gcs.bfldr.com/pz2kek-edeucw-a1do1f/v/6467477/original/6434M7.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=wu58IXz2WbNbU3WtUEV0F8Tx9so="
+    },
+    {
+      "attachment_id": "pkeu53-5ua0u0-794mal",
+      "filename": "6435M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4080,
+      "height": 5436,
+      "size": 8846464,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkeu53-5ua0u0-794mal/6435M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkeu53-5ua0u0-794mal/v/2838642/original/6435M1.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=gDD-mxY2ccfxr6stIj1v79ap20I=",
+      "url": "https://storage-us-gcs.bfldr.com/pkeu53-5ua0u0-794mal/v/2838642/original/6435M1.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=gDD-mxY2ccfxr6stIj1v79ap20I="
+    },
+    {
+      "attachment_id": "pkeu53-5ua0u0-4xh1uv",
+      "filename": "6435M2.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3348,
+      "height": 2832,
+      "size": 4923404,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkeu53-5ua0u0-4xh1uv/6435M2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkeu53-5ua0u0-4xh1uv/v/2838643/original/6435M2.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=2LZSlC2Ravuwm377FQrPr_VPuW8=",
+      "url": "https://storage-us-gcs.bfldr.com/pkeu53-5ua0u0-4xh1uv/v/2838643/original/6435M2.jpg?Expires=1784331426&KeyName=gcs-bfldr-prod&Signature=2LZSlC2Ravuwm377FQrPr_VPuW8="
+    }
+  ]
+}

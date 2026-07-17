@@ -1,0 +1,60 @@
+{
+  "cache_version": 5,
+  "sku": "6562",
+  "assets": [
+    {
+      "asset_id": "phxtkp-7q7in4-34qump",
+      "asset_name": "Large Q Roasting Shield 6562 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6562"
+      ]
+    },
+    {
+      "asset_id": "phxtkp-7q7in4-3zxel4",
+      "asset_name": "Large Q Roasting Shield 6562 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6562"
+      ]
+    },
+    {
+      "asset_id": "ksnpj6fxhf7s5wxqxg5wwqp",
+      "asset_name": "58167 1218 RevE Front lr",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6562"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "phxtkp-7q7in4-sbwiu",
+      "filename": "6562A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2711,
+      "height": 1553,
+      "size": 891393,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phxtkp-7q7in4-sbwiu/6562A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-sbwiu/v/2632246/original/6562A.png?Expires=1784328949&KeyName=gcs-bfldr-prod&Signature=FeNhEuiydf7RoLRjO7fJJVv4UrY=",
+      "url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-sbwiu/v/2632246/original/6562A.png?Expires=1784328949&KeyName=gcs-bfldr-prod&Signature=FeNhEuiydf7RoLRjO7fJJVv4UrY="
+    },
+    {
+      "attachment_id": "phxtkp-7q7in4-anw1f0",
+      "filename": "6562M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 2832,
+      "height": 2869,
+      "size": 4793694,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phxtkp-7q7in4-anw1f0/6562M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-anw1f0/v/2632247/original/6562M1.jpg?Expires=1784328949&KeyName=gcs-bfldr-prod&Signature=ATcNQ7EStspaOYrbVJS7tN9yn_A=",
+      "url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-anw1f0/v/2632247/original/6562M1.jpg?Expires=1784328949&KeyName=gcs-bfldr-prod&Signature=ATcNQ7EStspaOYrbVJS7tN9yn_A="
+    }
+  ]
+}

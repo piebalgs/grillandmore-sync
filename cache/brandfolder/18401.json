@@ -1,0 +1,191 @@
+{
+  "cache_version": 5,
+  "sku": "18401",
+  "assets": [
+    {
+      "asset_id": "h6rp568spvg9wc4czk88w",
+      "asset_name": "4 kg Coconut Shell Briquettes 18401 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "kmsb3jfm6pgbf48np3qhs",
+      "asset_name": "8 kg Coconut Shell Briquettes 18402 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "jgmt6rhr2rppsngphj3j336b",
+      "asset_name": "No Trees Badge",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "xmq92jvkmww8h687v2848ct",
+      "asset_name": "Coconut Shell Briquettes Lifestyle Pour",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18401",
+        "18402"
+      ]
+    },
+    {
+      "asset_id": "mxrk7mfpbx9k343gbqcpkqg",
+      "asset_name": "Coconut Shell Briquettes Lifestyle Chimney Starter",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "bq77vhb53kfg5xqp7hk4ft",
+      "asset_name": "Coconut Shell Briquettes Lifestyle Smoke",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "wcfhpnbgsbspwmchxs8bbnrk",
+      "asset_name": "Coconut Shell Briquettes Lifestyle Close Ups",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "qzkw594m9shp2vf74n7g5xcg",
+      "asset_name": "Weber Kokosbriketten IMG 1278",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18401",
+        "18402"
+      ]
+    },
+    {
+      "asset_id": "gjp3mkkkc6bw76xjm3v7vvq",
+      "asset_name": "Coconut Shell Briquettes Lifestyle Char Baskets",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18401",
+        "18402"
+      ]
+    },
+    {
+      "asset_id": "s8n8nw7hjz9gbvrs2zvmrmhw",
+      "asset_name": "Coconut Shell Briquettes Lifestyle with Bench",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18401",
+        "18402"
+      ]
+    },
+    {
+      "asset_id": "53bx4tcg686ptvskvjgp",
+      "asset_name": "Weber kokosbriketten 0098",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "qk7fw92qbsfhk5wf8rh8bxr6",
+      "asset_name": "Weber kokosbriketten 0101",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "9qnc6frrcx449827x6sshsbw",
+      "asset_name": "Weber kokosbriketten 0103",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "v9939rvrw8ftk53xhk89cgx",
+      "asset_name": "Weber kokosbriketten 0119",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18401",
+        "18402"
+      ]
+    },
+    {
+      "asset_id": "9bw76x4qtnfm7sjgphvkmj99",
+      "asset_name": "4 kg Coconut Shell Briquettes 18401 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18401",
+        "18402"
+      ]
+    },
+    {
+      "asset_id": "68qq8p5qp5pswts8t2k7vqp",
+      "asset_name": "Weber kokosbriketten 0165",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "bx5cp9v76mcsbwvjcbkxrbht",
+      "asset_name": "Weber kokosbriketten 0197",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "4g25chhv357grqrrnhjffnz",
+      "asset_name": "Coconut Briquette 18402",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18402",
+        "18401"
+      ]
+    },
+    {
+      "asset_id": "3nq5ggpvbpb77z3v49wgnwtj",
+      "asset_name": "18401 4kg 0423 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18401"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "swxw5bczsbtcxcq3w5s46tf",
+      "filename": "18402_1500230_Y1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6720,
+      "height": 4480,
+      "size": 15501469,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/swxw5bczsbtcxcq3w5s46tf/18402_1500230_Y1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/swxw5bczsbtcxcq3w5s46tf/v/1112729631/original/18402_1500230_Y1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/swxw5bczsbtcxcq3w5s46tf/v/1112729631/original/18402_1500230_Y1_rgb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "cache_version": 5,
+  "sku": "3400220",
+  "assets": [
+    {
+      "asset_id": "2cgmb8nxcmwn8v9s5m2bhw4t",
+      "asset_name": "3400220 A pkg",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "s4jfgwmznxxb76q3pnjb966",
+      "asset_name": "8654126 9501141 Prep and Serve Kit 1124 RevA OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "nshv2zwc8r9k7rhh5wpsvhp",
+      "asset_name": "(cze) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "nch4z3mnw2hjqbkbw3pf3b5",
+      "asset_name": "(dan) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "3kcztnk7wk974n4mh63w9n6x",
+      "asset_name": "(dut-NL) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "bv8m7jr86wm4bh2pww6fjn",
+      "asset_name": "(fin) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "9hncpppr9n83w5f3xnskss9",
+      "asset_name": "(fre-FR) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "hbbtbn28jffzqc2ztbxkw54j",
+      "asset_name": "(ger-DE) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "8n7b3mk7sctg7t2n44437w3c",
+      "asset_name": "(spa-ES) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "txhf9khgg8vcpfnhrkbqb4gz",
+      "asset_name": "00 (en-US) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "qpn8rxtz5hhnqm7cksnx2px6",
+      "asset_name": "Weber Works Serving Kit 3400220",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "3jfmc9nzq5jgpj5t2w4ppj35",
+      "asset_name": "Weber Works Prep and Serve Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501537",
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "975t3bws5frxv273q4n5m2z",
+      "asset_name": "WW Serving Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501883",
+        "3400220",
+        "1502451",
+        "1501884",
+        "1502444",
+        "1501950",
+        "1502445",
+        "1501885",
+        "1501942",
+        "1502452"
+      ]
+    },
+    {
+      "asset_id": "xwfh3k3tcpf4b8p3t4x45",
+      "asset_name": "WW Prep and Serve Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220",
+        "1501164",
+        "1501169",
+        "1501162",
+        "1501187",
+        "1501213",
+        "1501221",
+        "1501219",
+        "1501188",
+        "1501391",
+        "1501214",
+        "1501168",
+        "1501303",
+        "1502446",
+        "1501215",
+        "1502453",
+        "1501218",
+        "1501166",
+        "1501385",
+        "1501383",
+        "1502447",
+        "1501165",
+        "1501210",
+        "1501390",
+        "1501384",
+        "1501389",
+        "1501220",
+        "1501217",
+        "1502454",
+        "1501320",
+        "1501163",
+        "1501212",
+        "1501167",
+        "1501211",
+        "1501216"
+      ]
+    },
+    {
+      "asset_id": "t9ccrgtf8fsk3t6j4kmmwx",
+      "asset_name": "3400220 WW SERVING TRAY GENESIS E-335W AUS NZ16x9",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "n955rv396hfqzpvnh5nfqp",
+      "asset_name": "3400220 WW PREP SERVE KIT GENESIS EP-435W AUSNZ 16x9",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "qrxgch9p4xqhfm9cxfnh9kk",
+      "asset_name": "Pellet WW Side Table w/ Prep and Serve Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400665",
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "4xjv2z337cc9q5ncrg7px8x3",
+      "asset_name": "(eng-GB) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "2kfft68smr2sw6bhn8tkqt",
+      "asset_name": "(ita-IT) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "6hjn6wnkn5s8mn855mt8hhx",
+      "asset_name": "(no) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "vzwh2z787f855mrfhsbkwg7",
+      "asset_name": "(pol) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "rrkccc5ws86rhbwg5gw63f48",
+      "asset_name": "(por-PT) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "q3kv97b4gfs3zx7jtwsw74",
+      "asset_name": "(sk) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "p5nb98vbb7658m65rsxq9bf8",
+      "asset_name": "(swe-SE) Weber Works Prep and Serve Kit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400220"
+      ]
+    },
+    {
+      "asset_id": "psx54rn3gffhw69767w7bz",
+      "asset_name": "Slate 71CM Premium",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501759",
+        "1501801",
+        "1501758",
+        "1501779",
+        "1501794",
+        "1501789",
+        "1501790",
+        "1501793",
+        "1501792",
+        "1501800",
+        "1501757",
+        "3400519",
+        "1501791",
+        "3400220",
+        "1501756",
+        "1501795"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "nbzc75p5j5ngqssstjj2jw5",
+      "filename": "1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6314,
+      "height": 4209,
+      "size": 12604348,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nbzc75p5j5ngqssstjj2jw5/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nbzc75p5j5ngqssstjj2jw5/v/1289581104/original/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=Wx4J0STllhEIlCBvM2UoTxl0HpQ=",
+      "url": "https://storage-us-gcs.bfldr.com/nbzc75p5j5ngqssstjj2jw5/v/1289581104/original/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=Wx4J0STllhEIlCBvM2UoTxl0HpQ="
+    },
+    {
+      "attachment_id": "556ztzfxbfmsqpbrshjs98pt",
+      "filename": "3400220_069_WWPREPANDSERVEKIT_FY25_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8032,
+      "height": 5357,
+      "size": 24306507,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/556ztzfxbfmsqpbrshjs98pt/3400220_069_WWPREPANDSERVEKIT_FY25_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/556ztzfxbfmsqpbrshjs98pt/v/1279139093/original/3400220_069_WWPREPANDSERVEKIT_FY25_AMER.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=WbQZqej99VDLEsNkA-4JE05TeFE=",
+      "url": "https://storage-us-gcs.bfldr.com/556ztzfxbfmsqpbrshjs98pt/v/1279139093/original/3400220_069_WWPREPANDSERVEKIT_FY25_AMER.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=WbQZqej99VDLEsNkA-4JE05TeFE="
+    },
+    {
+      "attachment_id": "7cqpjxtws8fvb7hqxpqqrj5",
+      "filename": "3400220_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 1651912,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7cqpjxtws8fvb7hqxpqqrj5/3400220_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7cqpjxtws8fvb7hqxpqqrj5/v/1263107997/original/3400220_A_rgb.png?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=uZt6RDgdsY0Sm9TeJ6ybEvcSeXg=",
+      "url": "https://storage-us-gcs.bfldr.com/7cqpjxtws8fvb7hqxpqqrj5/v/1263107997/original/3400220_A_rgb.png?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=uZt6RDgdsY0Sm9TeJ6ybEvcSeXg="
+    },
+    {
+      "attachment_id": "jmmmt4vjtx8xjz5w25445xv",
+      "filename": "3400220_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 1800478,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jmmmt4vjtx8xjz5w25445xv/3400220_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jmmmt4vjtx8xjz5w25445xv/v/1263107998/original/3400220_B_rgb.png?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=RJ4FJ3x0uh3lot-dbbcYHxVbFGk=",
+      "url": "https://storage-us-gcs.bfldr.com/jmmmt4vjtx8xjz5w25445xv/v/1263107998/original/3400220_B_rgb.png?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=RJ4FJ3x0uh3lot-dbbcYHxVbFGk="
+    },
+    {
+      "attachment_id": "vsjkh5fn48ms5rxxnwnk5k2c",
+      "filename": "3400220_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "size": 1840947,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vsjkh5fn48ms5rxxnwnk5k2c/3400220_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vsjkh5fn48ms5rxxnwnk5k2c/v/1263107999/original/3400220_C_rgb.png?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=_hA7zFnvBQLDs9pPP-16kvTNHRk=",
+      "url": "https://storage-us-gcs.bfldr.com/vsjkh5fn48ms5rxxnwnk5k2c/v/1263107999/original/3400220_C_rgb.png?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=_hA7zFnvBQLDs9pPP-16kvTNHRk="
+    },
+    {
+      "attachment_id": "47b57qmcnc2zb9m56t6t6ht",
+      "filename": "3400220_WW SERVING TRAY_GENESIS_E-335W_AUS_NZ16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 4608,
+      "size": 18433181,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/47b57qmcnc2zb9m56t6t6ht/3400220_WW%20SERVING%20TRAY_GENESIS_E-335W_AUS_NZ16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/47b57qmcnc2zb9m56t6t6ht/v/1278818824/original/3400220_WW%20SERVING%20TRAY_GENESIS_E-335W_AUS_NZ16x9.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=XeuMei2AfqgN_J23MqQVgrtcphU=",
+      "url": "https://storage-us-gcs.bfldr.com/47b57qmcnc2zb9m56t6t6ht/v/1278818824/original/3400220_WW%20SERVING%20TRAY_GENESIS_E-335W_AUS_NZ16x9.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=XeuMei2AfqgN_J23MqQVgrtcphU="
+    },
+    {
+      "attachment_id": "6xfctr5646rn38fsf5rp79bf",
+      "filename": "3400220_WW SERVING TRAY_YM_EMEA GENESIS_202_E-335W KUNG LAO_0961_16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 4608,
+      "size": 18548880,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6xfctr5646rn38fsf5rp79bf/3400220_WW%20SERVING%20TRAY_YM_EMEA%20GENESIS_202_E-335W%20KUNG%20LAO_0961_16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6xfctr5646rn38fsf5rp79bf/v/1263925290/original/3400220_WW%20SERVING%20TRAY_YM_EMEA%20GENESIS_202_E-335W%20KUNG%20LAO_0961_16x9.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=NCkWAWzoUhp8dG1DRxivuroGpeg=",
+      "url": "https://storage-us-gcs.bfldr.com/6xfctr5646rn38fsf5rp79bf/v/1263925290/original/3400220_WW%20SERVING%20TRAY_YM_EMEA%20GENESIS_202_E-335W%20KUNG%20LAO_0961_16x9.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=NCkWAWzoUhp8dG1DRxivuroGpeg="
+    },
+    {
+      "attachment_id": "57g63cjnkw94tmfjs5v4fqwk",
+      "filename": "3400220_WW_PREP SERVE KIT_GENESIS_EP-435W_AUSNZ_16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8032,
+      "height": 4518,
+      "size": 18912788,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/57g63cjnkw94tmfjs5v4fqwk/3400220_WW_PREP%20SERVE%20KIT_GENESIS_EP-435W_AUSNZ_16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/57g63cjnkw94tmfjs5v4fqwk/v/1278818826/original/3400220_WW_PREP%20SERVE%20KIT_GENESIS_EP-435W_AUSNZ_16x9.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=GzYA0TrRf1j5beMTqNJZFSYqHhE=",
+      "url": "https://storage-us-gcs.bfldr.com/57g63cjnkw94tmfjs5v4fqwk/v/1278818826/original/3400220_WW_PREP%20SERVE%20KIT_GENESIS_EP-435W_AUSNZ_16x9.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=GzYA0TrRf1j5beMTqNJZFSYqHhE="
+    },
+    {
+      "attachment_id": "nst67w66wr89sgp66cx63rx",
+      "filename": "3400220_WW_PREP SERVE KIT_YM_EMEA_401_EP-435W JOHNNY CAGE_3171_16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8032,
+      "height": 4518,
+      "size": 18910584,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nst67w66wr89sgp66cx63rx/3400220_WW_PREP%20SERVE%20KIT_YM_EMEA_401_EP-435W%20JOHNNY%20CAGE_3171_16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nst67w66wr89sgp66cx63rx/v/1263925291/original/3400220_WW_PREP%20SERVE%20KIT_YM_EMEA_401_EP-435W%20JOHNNY%20CAGE_3171_16x9.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=LwQ_JBYclOM0bH9ypdAmEeZcLq0=",
+      "url": "https://storage-us-gcs.bfldr.com/nst67w66wr89sgp66cx63rx/v/1263925291/original/3400220_WW_PREP%20SERVE%20KIT_YM_EMEA_401_EP-435W%20JOHNNY%20CAGE_3171_16x9.jpg?Expires=1784306651&KeyName=gcs-bfldr-prod&Signature=LwQ_JBYclOM0bH9ypdAmEeZcLq0="
+    }
+  ]
+}

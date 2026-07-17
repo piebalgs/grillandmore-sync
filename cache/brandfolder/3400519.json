@@ -1,0 +1,369 @@
+{
+  "cache_version": 5,
+  "sku": "3400519",
+  "assets": [
+    {
+      "asset_id": "c7w9qkrxqf27bmkf2nq78xnk",
+      "asset_name": "3400519 A pkg",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "4xr7hbjr7kj3j4r8ng8563h",
+      "asset_name": "(cze) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "bp8gxf5sg857xwn4vvg58wtj",
+      "asset_name": "(dan) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "rj5tv8bn65qzj7sfkkm4gqm7",
+      "asset_name": "(dut-NL) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "4v7mhw5ss5g4wvpsffgmr4",
+      "asset_name": "(eng-GB) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "nr8ctqqwxj7rtr2kpk2q9vq",
+      "asset_name": "(fin) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "pv6psfbvsbb97tcrj8338jbq",
+      "asset_name": "(fre-FR) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "2f53c6t4335gkvpk53h93sk",
+      "asset_name": "(ger-DE) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "rq6mjkb5pmt3mgpgng8qr",
+      "asset_name": "(spa-ES) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "srqwrtbxhgmh66mx7thz7sf",
+      "asset_name": "00 (en-US) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "p4sh6w3rg7rs8bp2n8pbq4v",
+      "asset_name": "3400104 3400519 WW EMEA GENESIS STEALTH",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501537",
+        "3400519",
+        "3400104"
+      ]
+    },
+    {
+      "asset_id": "88frb8phb4q8r7h7tq49c97",
+      "asset_name": "Weber Works S/3 Tool Hooks",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "7p7kvffwkjb7fs6w6rnhmssj",
+      "asset_name": "WW Tool Hooks",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501883",
+        "1501942",
+        "1501885",
+        "1501882",
+        "1501884",
+        "3400519",
+        "1501950"
+      ]
+    },
+    {
+      "asset_id": "mv77478vvkxhkgm3v7pr3749",
+      "asset_name": "(fin) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "3h2hm3gqbqr4r9694m3wvnt",
+      "asset_name": "(ita-IT) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "4n2hsxjs5ws4jq7k97m839v",
+      "asset_name": "(no) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "wfxj53bqgrw5p3qr2jvbpk4",
+      "asset_name": "(pol) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "xw4z6g6fpk2gmp8j4fv799mj",
+      "asset_name": "(por-PT) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "s586tpk84g9mm4jrjvft2q49",
+      "asset_name": "(sk) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "7zcn43wp4cv98vvc9wjxtfg",
+      "asset_name": "(swe-SE) Weber Works Tool Hooks MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "8nhvbqkqskckgt4g3cxr7q8t",
+      "asset_name": "Weber Works Took Hooks",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400519"
+      ]
+    },
+    {
+      "asset_id": "55j4h77hnmnjqxnktk8qbx",
+      "asset_name": "Slate 71CM Premium",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501790",
+        "1501801",
+        "1501789",
+        "1501793",
+        "3400128",
+        "1501757",
+        "3400519",
+        "1501791",
+        "1501779",
+        "1501795",
+        "1501756",
+        "1501758",
+        "1501792",
+        "1501794",
+        "1501759",
+        "1501800"
+      ]
+    },
+    {
+      "asset_id": "psx54rn3gffhw69767w7bz",
+      "asset_name": "Slate 71CM Premium",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501759",
+        "1501801",
+        "1501758",
+        "1501779",
+        "1501794",
+        "1501789",
+        "1501790",
+        "1501793",
+        "1501792",
+        "1501800",
+        "1501757",
+        "3400519",
+        "1501791",
+        "3400220",
+        "1501756",
+        "1501795"
+      ]
+    },
+    {
+      "asset_id": "mxgkhtng2wt7mp9pt859tz5g",
+      "asset_name": "Slate 71CM Premium",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501792",
+        "1501795",
+        "1501756",
+        "1501793",
+        "1501801",
+        "3401363",
+        "3400423",
+        "6669",
+        "1501779",
+        "1501800",
+        "6670",
+        "1501759",
+        "1501789",
+        "1501758",
+        "3400519",
+        "1501757",
+        "3401364",
+        "1501794",
+        "1501791",
+        "1501790"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "mqwzgg5nm7jx9st9ptnf88mt",
+      "filename": "1501789_010_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6076,
+      "height": 4566,
+      "size": 12960351,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mqwzgg5nm7jx9st9ptnf88mt/1501789_010_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mqwzgg5nm7jx9st9ptnf88mt/v/1294497585/original/1501789_010_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=mY4ReniwUA3_HOVpP40UZ6HirmA=",
+      "url": "https://storage-us-gcs.bfldr.com/mqwzgg5nm7jx9st9ptnf88mt/v/1294497585/original/1501789_010_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=mY4ReniwUA3_HOVpP40UZ6HirmA="
+    },
+    {
+      "attachment_id": "nbzc75p5j5ngqssstjj2jw5",
+      "filename": "1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6314,
+      "height": 4209,
+      "size": 12604348,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nbzc75p5j5ngqssstjj2jw5/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nbzc75p5j5ngqssstjj2jw5/v/1289581104/original/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=W88b-DFCcj0TLmOSHS7yKW_oJkc=",
+      "url": "https://storage-us-gcs.bfldr.com/nbzc75p5j5ngqssstjj2jw5/v/1289581104/original/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=W88b-DFCcj0TLmOSHS7yKW_oJkc="
+    },
+    {
+      "attachment_id": "k68bvvwzqh9jr6jmbqckhw88",
+      "filename": "1501789_019B_ Slate71CM Prem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8400,
+      "height": 5600,
+      "size": 30739928,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k68bvvwzqh9jr6jmbqckhw88/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=-orEyXpI1W8wa9qQ8jMOeujwHKY=",
+      "url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=-orEyXpI1W8wa9qQ8jMOeujwHKY="
+    },
+    {
+      "attachment_id": "snkc4nh3tt3mr32zsts4vz74",
+      "filename": "3400105_WW_YP1_AMER_6895.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 3271028,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/snkc4nh3tt3mr32zsts4vz74/3400105_WW_YP1_AMER_6895.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/snkc4nh3tt3mr32zsts4vz74/v/1279148585/original/3400105_WW_YP1_AMER_6895.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=MLZgogTJ120zbri2r5H_9VfKXrc=",
+      "url": "https://storage-us-gcs.bfldr.com/snkc4nh3tt3mr32zsts4vz74/v/1279148585/original/3400105_WW_YP1_AMER_6895.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=MLZgogTJ120zbri2r5H_9VfKXrc="
+    },
+    {
+      "attachment_id": "bwk3g3h4q2sk4w3qjqg",
+      "filename": "3400519_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 1620849,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bwk3g3h4q2sk4w3qjqg/3400519_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/bwk3g3h4q2sk4w3qjqg/v/1263108012/original/3400519_A_rgb.png?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=ynTvrI9nRM0YmBXifWRVVAdfQlw=",
+      "url": "https://storage-us-gcs.bfldr.com/bwk3g3h4q2sk4w3qjqg/v/1263108012/original/3400519_A_rgb.png?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=ynTvrI9nRM0YmBXifWRVVAdfQlw="
+    },
+    {
+      "attachment_id": "htk7gfpwgw8v89jfv2jvpmt",
+      "filename": "3400519_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 1076018,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/htk7gfpwgw8v89jfv2jvpmt/3400519_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/htk7gfpwgw8v89jfv2jvpmt/v/1263108013/original/3400519_B_rgb.png?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=dZmjMYUaQtKiJmxjqSQ-KRUSqJQ=",
+      "url": "https://storage-us-gcs.bfldr.com/htk7gfpwgw8v89jfv2jvpmt/v/1263108013/original/3400519_B_rgb.png?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=dZmjMYUaQtKiJmxjqSQ-KRUSqJQ="
+    },
+    {
+      "attachment_id": "77kgt7j8w6q3h7pbs92p35n",
+      "filename": "3400519_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "size": 1680912,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/77kgt7j8w6q3h7pbs92p35n/3400519_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/77kgt7j8w6q3h7pbs92p35n/v/1263108014/original/3400519_C_rgb.png?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=fuXiyML923VJxPh6ZDDcG4h4koI=",
+      "url": "https://storage-us-gcs.bfldr.com/77kgt7j8w6q3h7pbs92p35n/v/1263108014/original/3400519_C_rgb.png?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=fuXiyML923VJxPh6ZDDcG4h4koI="
+    },
+    {
+      "attachment_id": "49t9cbmct8tjspnmrcjtb5h",
+      "filename": "3400519_TOOLHOOK _YM_EMEA GENESIS_201_E-315W KITANA_0898_16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 4608,
+      "size": 18377057,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/49t9cbmct8tjspnmrcjtb5h/3400519_TOOLHOOK%20_YM_EMEA%20GENESIS_201_E-315W%20KITANA_0898_16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/49t9cbmct8tjspnmrcjtb5h/v/1263925296/original/3400519_TOOLHOOK%20_YM_EMEA%20GENESIS_201_E-315W%20KITANA_0898_16x9.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=dX_X_boEIfKSgB2BUEoWBhZfUmU=",
+      "url": "https://storage-us-gcs.bfldr.com/49t9cbmct8tjspnmrcjtb5h/v/1263925296/original/3400519_TOOLHOOK%20_YM_EMEA%20GENESIS_201_E-315W%20KITANA_0898_16x9.jpg?Expires=1784306250&KeyName=gcs-bfldr-prod&Signature=dX_X_boEIfKSgB2BUEoWBhZfUmU="
+    }
+  ]
+}

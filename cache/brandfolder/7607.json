@@ -1,0 +1,229 @@
+{
+  "cache_version": 5,
+  "sku": "7607",
+  "assets": [
+    {
+      "asset_id": "kn26jp6wjkwqx3xghs53fsst",
+      "asset_name": "Weber Crafted Wok & Steamer PECI",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7606",
+        "7607"
+      ]
+    },
+    {
+      "asset_id": "kckvfw73gmctrgtbt27qmfj",
+      "asset_name": "Weber Crafted Wok & Steamer PECI",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7606",
+        "7607"
+      ]
+    },
+    {
+      "asset_id": "2sxh48jwpc7p9gc9hspn73rr",
+      "asset_name": "Weber Crafted Wok & Steamer PECI",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7607",
+        "7606"
+      ]
+    },
+    {
+      "asset_id": "j6st9rrbmkw9xffw9wqxzmb",
+      "asset_name": "Weber Crafted Wok & Steamer PECI",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7606",
+        "7607"
+      ]
+    },
+    {
+      "asset_id": "2hkbsgsm9xw4rhkcfjfwvj",
+      "asset_name": "Weber Crafted Wok & Steamer PECI",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7606",
+        "7607"
+      ]
+    },
+    {
+      "asset_id": "nxq4g7wpcqmtcfk8rgcwx9g",
+      "asset_name": "Weber Crafted Wok & Steamer PECI",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7606",
+        "7607"
+      ]
+    },
+    {
+      "asset_id": "7w5kcmqckqjgj3scqn7xkf",
+      "asset_name": "Weber Crafted Overview Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7684",
+        "7678",
+        "7686",
+        "7688",
+        "7673",
+        "7675",
+        "7670",
+        "7853",
+        "7606",
+        "7854",
+        "7856",
+        "7672",
+        "7680",
+        "7674",
+        "7685",
+        "7860",
+        "3400843",
+        "7682",
+        "7681",
+        "7849",
+        "7607",
+        "7852",
+        "7683",
+        "7687",
+        "7677",
+        "7671"
+      ]
+    },
+    {
+      "asset_id": "fspn44g3f7w4bt9w3wrz4jmt",
+      "asset_name": "182188 7607EMEAWokSteamer 0225 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7607"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "p46x7rthspxcj36p7tjqk27",
+      "filename": "7606B_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 3255896,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p46x7rthspxcj36p7tjqk27/7606B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/p46x7rthspxcj36p7tjqk27/v/1274696605/original/7606B_rgb.png?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=pZvaYG7tS8BC9zAoWomNe1DhaCs=",
+      "url": "https://storage-us-gcs.bfldr.com/p46x7rthspxcj36p7tjqk27/v/1274696605/original/7606B_rgb.png?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=pZvaYG7tS8BC9zAoWomNe1DhaCs="
+    },
+    {
+      "attachment_id": "q84q5n4pqrjh8b36cvqqqh4",
+      "filename": "7606D_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 4769047,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q84q5n4pqrjh8b36cvqqqh4/7606D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q84q5n4pqrjh8b36cvqqqh4/v/1274696606/original/7606D_rgb.png?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=imTVGNVvIAKH9adBX6S-ljbTKBs=",
+      "url": "https://storage-us-gcs.bfldr.com/q84q5n4pqrjh8b36cvqqqh4/v/1274696606/original/7606D_rgb.png?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=imTVGNVvIAKH9adBX6S-ljbTKBs="
+    },
+    {
+      "attachment_id": "2868qx9xxhzqzjspwhstbh",
+      "filename": "GenesisII_LidON_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2571,
+      "size": 3285086,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2868qx9xxhzqzjspwhstbh/GenesisII_LidON_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2868qx9xxhzqzjspwhstbh/v/1274696610/original/GenesisII_LidON_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=9WHKVd5-va_k_bmHY9JMbGNfXts=",
+      "url": "https://storage-us-gcs.bfldr.com/2868qx9xxhzqzjspwhstbh/v/1274696610/original/GenesisII_LidON_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=9WHKVd5-va_k_bmHY9JMbGNfXts="
+    },
+    {
+      "attachment_id": "5nsqsr7mns3594v339f56m3h",
+      "filename": "Genesis_ChickenVegs_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 3825153,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5nsqsr7mns3594v339f56m3h/Genesis_ChickenVegs_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5nsqsr7mns3594v339f56m3h/v/1274696611/original/Genesis_ChickenVegs_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=HYn5eMSw3RNWfkEsQ1LBuXycP_M=",
+      "url": "https://storage-us-gcs.bfldr.com/5nsqsr7mns3594v339f56m3h/v/1274696611/original/Genesis_ChickenVegs_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=HYn5eMSw3RNWfkEsQ1LBuXycP_M="
+    },
+    {
+      "attachment_id": "kbhz3f8rrhv9377zx4jgvfj6",
+      "filename": "Genesis_FishVegs_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 3719093,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kbhz3f8rrhv9377zx4jgvfj6/Genesis_FishVegs_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kbhz3f8rrhv9377zx4jgvfj6/v/1274696612/original/Genesis_FishVegs_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=j9L-LxtYA_rDOGQcbwok5FNA8Nw=",
+      "url": "https://storage-us-gcs.bfldr.com/kbhz3f8rrhv9377zx4jgvfj6/v/1274696612/original/Genesis_FishVegs_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=j9L-LxtYA_rDOGQcbwok5FNA8Nw="
+    },
+    {
+      "attachment_id": "2rfqtfvnfzj3xxpf3f96v58s",
+      "filename": "Genesis_LidON_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2571,
+      "size": 3258776,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2rfqtfvnfzj3xxpf3f96v58s/Genesis_LidON_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2rfqtfvnfzj3xxpf3f96v58s/v/1274696613/original/Genesis_LidON_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=bKkU9PJuqullNYmlVCcemfxX4lQ=",
+      "url": "https://storage-us-gcs.bfldr.com/2rfqtfvnfzj3xxpf3f96v58s/v/1274696613/original/Genesis_LidON_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=bKkU9PJuqullNYmlVCcemfxX4lQ="
+    },
+    {
+      "attachment_id": "kzvkq96qbm2t64nqcfjjsh5j",
+      "filename": "Genesis_VegsOnly_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 3750906,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kzvkq96qbm2t64nqcfjjsh5j/Genesis_VegsOnly_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kzvkq96qbm2t64nqcfjjsh5j/v/1274696614/original/Genesis_VegsOnly_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=RUmVcae6U4ssJjCC7Nlmj8VWCtI=",
+      "url": "https://storage-us-gcs.bfldr.com/kzvkq96qbm2t64nqcfjjsh5j/v/1274696614/original/Genesis_VegsOnly_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=RUmVcae6U4ssJjCC7Nlmj8VWCtI="
+    },
+    {
+      "attachment_id": "whkwn77xrsthwhjtqmzcw45",
+      "filename": "Kettle_NoFood_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 2400,
+      "size": 2148273,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/whkwn77xrsthwhjtqmzcw45/Kettle_NoFood_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/whkwn77xrsthwhjtqmzcw45/v/1274696615/original/Kettle_NoFood_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=NgJwpJx8PjlcBvN4mHVZALJ3xCA=",
+      "url": "https://storage-us-gcs.bfldr.com/whkwn77xrsthwhjtqmzcw45/v/1274696615/original/Kettle_NoFood_rgb.jpg?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=NgJwpJx8PjlcBvN4mHVZALJ3xCA="
+    },
+    {
+      "attachment_id": "4ttfwm68bhp5r59j95n8rrgj",
+      "filename": "Silo_ChickenVegs_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 4000,
+      "height": 4000,
+      "size": 8056681,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4ttfwm68bhp5r59j95n8rrgj/Silo_ChickenVegs_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4ttfwm68bhp5r59j95n8rrgj/v/1274696616/original/Silo_ChickenVegs_rgb.png?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=mwVKcwjk9655wd5ANI4AVpH-AfA=",
+      "url": "https://storage-us-gcs.bfldr.com/4ttfwm68bhp5r59j95n8rrgj/v/1274696616/original/Silo_ChickenVegs_rgb.png?Expires=1784319608&KeyName=gcs-bfldr-prod&Signature=mwVKcwjk9655wd5ANI4AVpH-AfA="
+    }
+  ]
+}

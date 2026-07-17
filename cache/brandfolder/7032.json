@@ -1,34 +1,62 @@
 {
-  "cache_version": 1,
+  "cache_version": 5,
   "sku": "7032",
   "assets": [
     {
       "asset_id": "n7wqsx2x3wj3bpf34j55jtvm",
-      "asset_name": "Cut and Catch Board 7032 Food"
+      "asset_name": "Cut and Catch Board 7032 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7032"
+      ]
     },
     {
       "asset_id": "jgmpbx4f5nskmxpmnnkgjm",
-      "asset_name": "Cut and Catch Board"
+      "asset_name": "Cut and Catch Board",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7032"
+      ]
     },
     {
       "asset_id": "rnrxs7krrgpvt2z9x8hnfs7",
-      "asset_name": "Cut and Catch Board"
+      "asset_name": "Cut and Catch Board",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7032"
+      ]
     },
     {
       "asset_id": "vg96z7cpphq7mrh3cfw7rv7",
-      "asset_name": "Cut and Catch Board"
+      "asset_name": "Cut and Catch Board",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7032"
+      ]
     },
     {
       "asset_id": "cmcvkhjqvbtbsw2qnfjqbt6",
-      "asset_name": "Cut and Catch Board"
+      "asset_name": "Cut and Catch Board",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7032"
+      ]
     },
     {
       "asset_id": "pgjp4mvc5wx2kqqmxjcr9br",
-      "asset_name": "Cut and Catch Board"
+      "asset_name": "Cut and Catch Board",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7032"
+      ]
     },
     {
       "asset_id": "w89x2tnbnnqrf7t3zkk29hh",
-      "asset_name": "Cut and Catch Board"
+      "asset_name": "Cut and Catch Board",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7032"
+      ]
     }
   ],
   "images": [
@@ -39,16 +67,12 @@
       "position": 0,
       "width": 4000,
       "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/s694bkgm3tp55h2twchp5885/7032A1_rgb.png?width=800&height=800&pad=true&auto=webp"
-    },
-    {
-      "attachment_id": "3kjc5bfbqkp83h6rj4rs2cgq",
-      "filename": "7032A1_rgb.png",
-      "extension": "png",
-      "position": 5,
-      "width": 4000,
-      "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/3kjc5bfbqkp83h6rj4rs2cgq/7032A1_rgb.png?width=800&height=800&pad=true&auto=webp"
+      "size": 2862412,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/s694bkgm3tp55h2twchp5885/7032A1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/s694bkgm3tp55h2twchp5885/v/1303965381/original/7032A1_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=3ZitEzFHCrSBQKjCCwbgk5Ul2CM=",
+      "url": "https://storage-us-gcs.bfldr.com/s694bkgm3tp55h2twchp5885/v/1303965381/original/7032A1_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=3ZitEzFHCrSBQKjCCwbgk5Ul2CM="
     },
     {
       "attachment_id": "hr4qt73pb6gppvwctchp4",
@@ -57,16 +81,12 @@
       "position": 1,
       "width": 4000,
       "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/hr4qt73pb6gppvwctchp4/7032A2_rgb.png?width=800&height=800&pad=true&auto=webp"
-    },
-    {
-      "attachment_id": "bvq77vrb395jx4wfqfj6vs2t",
-      "filename": "7032A2_rgb.png",
-      "extension": "png",
-      "position": 7,
-      "width": 4000,
-      "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/bvq77vrb395jx4wfqfj6vs2t/7032A2_rgb.png?width=800&height=800&pad=true&auto=webp"
+      "size": 3255593,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hr4qt73pb6gppvwctchp4/7032A2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hr4qt73pb6gppvwctchp4/v/1303965382/original/7032A2_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=4lS0yASwQe2D6yjl0GJ07du13l4=",
+      "url": "https://storage-us-gcs.bfldr.com/hr4qt73pb6gppvwctchp4/v/1303965382/original/7032A2_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=4lS0yASwQe2D6yjl0GJ07du13l4="
     },
     {
       "attachment_id": "wp9zszkghs9776xqf9ggm3q",
@@ -75,16 +95,12 @@
       "position": 2,
       "width": 4000,
       "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/wp9zszkghs9776xqf9ggm3q/7032B1_rgb.png?width=800&height=800&pad=true&auto=webp"
-    },
-    {
-      "attachment_id": "47mq8ch2vxw6v3g6qrkps9",
-      "filename": "7032B1_rgb.png",
-      "extension": "png",
-      "position": 9,
-      "width": 4000,
-      "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/47mq8ch2vxw6v3g6qrkps9/7032B1_rgb.png?width=800&height=800&pad=true&auto=webp"
+      "size": 4012495,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wp9zszkghs9776xqf9ggm3q/7032B1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/wp9zszkghs9776xqf9ggm3q/v/1303965384/original/7032B1_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=iNlnXboAxiaDrtARZgWiBVAzYys=",
+      "url": "https://storage-us-gcs.bfldr.com/wp9zszkghs9776xqf9ggm3q/v/1303965384/original/7032B1_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=iNlnXboAxiaDrtARZgWiBVAzYys="
     },
     {
       "attachment_id": "nf49q4xf7nmpvpxxxsvp3gmn",
@@ -93,16 +109,12 @@
       "position": 3,
       "width": 4000,
       "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/nf49q4xf7nmpvpxxxsvp3gmn/7032B2_rgb.png?width=800&height=800&pad=true&auto=webp"
-    },
-    {
-      "attachment_id": "sh858zrzrx678rgtmsnnrh",
-      "filename": "7032B2_rgb.png",
-      "extension": "png",
-      "position": 11,
-      "width": 4000,
-      "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/sh858zrzrx678rgtmsnnrh/7032B2_rgb.png?width=800&height=800&pad=true&auto=webp"
+      "size": 3300972,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nf49q4xf7nmpvpxxxsvp3gmn/7032B2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nf49q4xf7nmpvpxxxsvp3gmn/v/1303965387/original/7032B2_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=vhq7JYUd0UDs6T1u3vgkGBb8KDk=",
+      "url": "https://storage-us-gcs.bfldr.com/nf49q4xf7nmpvpxxxsvp3gmn/v/1303965387/original/7032B2_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=vhq7JYUd0UDs6T1u3vgkGBb8KDk="
     },
     {
       "attachment_id": "hpct34nxwxm67pj9xrhcp5vj",
@@ -111,16 +123,12 @@
       "position": 4,
       "width": 4000,
       "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/hpct34nxwxm67pj9xrhcp5vj/7032C1_rgb.png?width=800&height=800&pad=true&auto=webp"
-    },
-    {
-      "attachment_id": "5bjk6r3hwfpmg465xfbvhknc",
-      "filename": "7032C1_rgb.png",
-      "extension": "png",
-      "position": 12,
-      "width": 4000,
-      "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/5bjk6r3hwfpmg465xfbvhknc/7032C1_rgb.png?width=800&height=800&pad=true&auto=webp"
+      "size": 2719040,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hpct34nxwxm67pj9xrhcp5vj/7032C1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hpct34nxwxm67pj9xrhcp5vj/v/1303965390/original/7032C1_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=T9hWDSzkQCtNHcbW6hEN55rwLKU=",
+      "url": "https://storage-us-gcs.bfldr.com/hpct34nxwxm67pj9xrhcp5vj/v/1303965390/original/7032C1_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=T9hWDSzkQCtNHcbW6hEN55rwLKU="
     },
     {
       "attachment_id": "k6pvbmxtnp5t5c2rr6wxsh5",
@@ -129,16 +137,12 @@
       "position": 5,
       "width": 4000,
       "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/k6pvbmxtnp5t5c2rr6wxsh5/7032C2_rgb.png?width=800&height=800&pad=true&auto=webp"
-    },
-    {
-      "attachment_id": "jc28rbcbqw747shq896cx36",
-      "filename": "7032C2_rgb.png",
-      "extension": "png",
-      "position": 13,
-      "width": 4000,
-      "height": 4000,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/jc28rbcbqw747shq896cx36/7032C2_rgb.png?width=800&height=800&pad=true&auto=webp"
+      "size": 2632640,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k6pvbmxtnp5t5c2rr6wxsh5/7032C2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k6pvbmxtnp5t5c2rr6wxsh5/v/1303965391/original/7032C2_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=7l_j3uNqMSh0d7Bd5FeObsax5Pc=",
+      "url": "https://storage-us-gcs.bfldr.com/k6pvbmxtnp5t5c2rr6wxsh5/v/1303965391/original/7032C2_rgb.png?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=7l_j3uNqMSh0d7Bd5FeObsax5Pc="
     },
     {
       "attachment_id": "k4hvpjfg4kts8hscbbrrvn",
@@ -147,16 +151,12 @@
       "position": 0,
       "width": 3600,
       "height": 2400,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/k4hvpjfg4kts8hscbbrrvn/7032M1_rgb.jpg?width=800&height=800&pad=true&auto=webp"
-    },
-    {
-      "attachment_id": "7g6t6qwx563kkk2n3gfb3wf9",
-      "filename": "7032M1_rgb.jpg",
-      "extension": "jpg",
-      "position": 3,
-      "width": 3600,
-      "height": 2400,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/7g6t6qwx563kkk2n3gfb3wf9/7032M1_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+      "size": 3761397,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k4hvpjfg4kts8hscbbrrvn/7032M1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k4hvpjfg4kts8hscbbrrvn/v/1303965394/original/7032M1_rgb.jpg?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=0TgU53Xi8B5CvNbcIhk2Fp68q0o=",
+      "url": "https://storage-us-gcs.bfldr.com/k4hvpjfg4kts8hscbbrrvn/v/1303965394/original/7032M1_rgb.jpg?Expires=1784336196&KeyName=gcs-bfldr-prod&Signature=0TgU53Xi8B5CvNbcIhk2Fp68q0o="
     },
     {
       "attachment_id": "b8rbghpx6smfnrrx9snvsx",
@@ -165,7 +165,12 @@
       "position": 2,
       "width": 3600,
       "height": 2400,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/b8rbghpx6smfnrrx9snvsx/7032M2_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+      "size": 4440473,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/b8rbghpx6smfnrrx9snvsx/7032M2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/b8rbghpx6smfnrrx9snvsx/v/56537018/original/7032M2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/b8rbghpx6smfnrrx9snvsx/v/56537018/original/7032M2_rgb.jpg"
     },
     {
       "attachment_id": "g8j3prx6kjqzbvscfxs8t",
@@ -174,7 +179,12 @@
       "position": 1,
       "width": 3600,
       "height": 2400,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/g8j3prx6kjqzbvscfxs8t/7032M3_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+      "size": 4758563,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g8j3prx6kjqzbvscfxs8t/7032M3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/g8j3prx6kjqzbvscfxs8t/v/56537019/original/7032M3_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/g8j3prx6kjqzbvscfxs8t/v/56537019/original/7032M3_rgb.jpg"
     },
     {
       "attachment_id": "5bbsbcntpcv6cmkkpvt8vn",
@@ -183,7 +193,12 @@
       "position": 0,
       "width": 3600,
       "height": 2400,
-      "url": "https://cdn.brandfolder.io/XBRZ2A26/at/5bbsbcntpcv6cmkkpvt8vn/7032M4_rgb.jpg?width=800&height=800&pad=true&auto=webp"
+      "size": 3397123,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5bbsbcntpcv6cmkkpvt8vn/7032M4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/5bbsbcntpcv6cmkkpvt8vn/v/56537020/original/7032M4_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/5bbsbcntpcv6cmkkpvt8vn/v/56537020/original/7032M4_rgb.jpg"
     }
   ]
 }

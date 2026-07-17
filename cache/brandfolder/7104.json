@@ -1,0 +1,23 @@
+{
+  "cache_version": 5,
+  "sku": "7104",
+  "assets": [
+    {
+      "asset_id": "q5vag9-9uixa0-dxcufz",
+      "asset_name": "7104 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7104"
+      ]
+    },
+    {
+      "asset_id": "st53g88zps96kw65s5fv937",
+      "asset_name": "32034103 177862 0125 RevB OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7104"
+      ]
+    }
+  ],
+  "images": []
+}

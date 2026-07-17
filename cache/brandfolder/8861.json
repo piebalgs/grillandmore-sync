@@ -1,0 +1,96 @@
+{
+  "cache_version": 5,
+  "sku": "8861",
+  "assets": [
+    {
+      "asset_id": "gncr7ftbnj68f9gcq5kprp8",
+      "asset_name": "Glazed Pizza Stone 8861 EMEA Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8861"
+      ]
+    },
+    {
+      "asset_id": "zgmrnfc5ttgx3xmxg643f5",
+      "asset_name": "Weber Crafted Glazed Pizza Stone",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8861"
+      ]
+    },
+    {
+      "asset_id": "mhbtfjxm3ffw98s64gmwbzh7",
+      "asset_name": "[EMEA] Glazed Pizza Stone Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8861"
+      ]
+    },
+    {
+      "asset_id": "p95t2jmcbjhccpsfbgr6g8",
+      "asset_name": "182056 1221 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8861"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "nw286x5xh3bf9k3vp9xcrhm",
+      "filename": "8861Y1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2537,
+      "size": 4210771,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nw286x5xh3bf9k3vp9xcrhm/8861Y1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/nw286x5xh3bf9k3vp9xcrhm/v/1040502385/original/8861Y1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/nw286x5xh3bf9k3vp9xcrhm/v/1040502385/original/8861Y1_rgb.jpg"
+    },
+    {
+      "attachment_id": "74c8qtj4jcmcfbrhsj2v5k6g",
+      "filename": "Glazed Pizza Stone 8861 EMEA Product 8861A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 8173562,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/74c8qtj4jcmcfbrhsj2v5k6g/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/74c8qtj4jcmcfbrhsj2v5k6g/v/1279534714/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861A_rgb.png?Expires=1784321459&KeyName=gcs-bfldr-prod&Signature=4Uqt0JDmxLTFKdq432_S5IvQV3U=",
+      "url": "https://storage-us-gcs.bfldr.com/74c8qtj4jcmcfbrhsj2v5k6g/v/1279534714/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861A_rgb.png?Expires=1784321459&KeyName=gcs-bfldr-prod&Signature=4Uqt0JDmxLTFKdq432_S5IvQV3U="
+    },
+    {
+      "attachment_id": "xrpwhg35xwv8kk4hwqmg498",
+      "filename": "Glazed Pizza Stone 8861 EMEA Product 8861B_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4000,
+      "height": 4000,
+      "size": 6656181,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xrpwhg35xwv8kk4hwqmg498/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xrpwhg35xwv8kk4hwqmg498/v/1279534715/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861B_rgb.png?Expires=1784321459&KeyName=gcs-bfldr-prod&Signature=3XIkTAErcH9qDpkopxhzSgcjTGY=",
+      "url": "https://storage-us-gcs.bfldr.com/xrpwhg35xwv8kk4hwqmg498/v/1279534715/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861B_rgb.png?Expires=1784321459&KeyName=gcs-bfldr-prod&Signature=3XIkTAErcH9qDpkopxhzSgcjTGY="
+    },
+    {
+      "attachment_id": "btbst7bw7bbfm5k6csbm2zg8",
+      "filename": "Glazed Pizza Stone 8861 EMEA Product 8861C_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 4000,
+      "height": 4000,
+      "size": 7517628,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/btbst7bw7bbfm5k6csbm2zg8/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/btbst7bw7bbfm5k6csbm2zg8/v/1279534717/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861C_rgb.png?Expires=1784321459&KeyName=gcs-bfldr-prod&Signature=b0_yINR04sIUtGSEafJB36r80PM=",
+      "url": "https://storage-us-gcs.bfldr.com/btbst7bw7bbfm5k6csbm2zg8/v/1279534717/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861C_rgb.png?Expires=1784321459&KeyName=gcs-bfldr-prod&Signature=b0_yINR04sIUtGSEafJB36r80PM="
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "17612",
+  "assets": [
+    {
+      "asset_id": "plwbz2-3jx03c-cn98gg",
+      "asset_name": "Natural Lighter Cubes 17612 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17612"
+      ]
+    },
+    {
+      "asset_id": "ww4pnf4248p269wb44ps5bm",
+      "asset_name": "OFS 10187 03 (17612) Natural Lighter Cubes 48 pcs ver5",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17612"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "plwbz2-3jx03c-24237w",
+      "filename": "17612B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 701223,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwbz2-3jx03c-24237w/17612B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/plwbz2-3jx03c-24237w/v/3023322/original/17612B.png?Expires=1784327678&KeyName=gcs-bfldr-prod&Signature=6fCyGah1XZ9sw0l_kmcTfWLnis8=",
+      "url": "https://storage-us-gcs.bfldr.com/plwbz2-3jx03c-24237w/v/3023322/original/17612B.png?Expires=1784327678&KeyName=gcs-bfldr-prod&Signature=6fCyGah1XZ9sw0l_kmcTfWLnis8="
+    }
+  ]
+}

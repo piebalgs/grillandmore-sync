@@ -1,0 +1,66 @@
+{
+  "cache_version": 5,
+  "sku": "6207",
+  "assets": [
+    {
+      "asset_id": "ppapq1-5o9frk-8kdqz9",
+      "asset_name": "Plancha Scraper 6207 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6207"
+      ]
+    },
+    {
+      "asset_id": "75pz9zmzpv95pz564nmknbs",
+      "asset_name": "51566 0419 RevA HR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6207"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ppapq1-5o9frk-a2ynl0",
+      "filename": "6207A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4718,
+      "height": 4719,
+      "size": 3902703,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapq1-5o9frk-a2ynl0/6207A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapq1-5o9frk-a2ynl0/v/3471650/original/6207A.png?Expires=1784327068&KeyName=gcs-bfldr-prod&Signature=JubVwGlx9DxhPl1aFX71AI1wMoo=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapq1-5o9frk-a2ynl0/v/3471650/original/6207A.png?Expires=1784327068&KeyName=gcs-bfldr-prod&Signature=JubVwGlx9DxhPl1aFX71AI1wMoo="
+    },
+    {
+      "attachment_id": "ppapq1-5o9frk-8oqbtv",
+      "filename": "6207C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4718,
+      "height": 4718,
+      "size": 4340954,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapq1-5o9frk-8oqbtv/6207C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapq1-5o9frk-8oqbtv/v/3471651/original/6207C.png?Expires=1784327068&KeyName=gcs-bfldr-prod&Signature=cSzT0iSxv_O-FUMHns-nh3_Iuq0=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapq1-5o9frk-8oqbtv/v/3471651/original/6207C.png?Expires=1784327068&KeyName=gcs-bfldr-prod&Signature=cSzT0iSxv_O-FUMHns-nh3_Iuq0="
+    },
+    {
+      "attachment_id": "ppapq1-5o9frk-3i7v5w",
+      "filename": "6207D.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4718,
+      "height": 4718,
+      "size": 3771265,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapq1-5o9frk-3i7v5w/6207D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapq1-5o9frk-3i7v5w/v/3471652/original/6207D.png?Expires=1784327068&KeyName=gcs-bfldr-prod&Signature=n_qEv0t3tcwiovsXpEWVGUrYvYs=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapq1-5o9frk-3i7v5w/v/3471652/original/6207D.png?Expires=1784327068&KeyName=gcs-bfldr-prod&Signature=n_qEv0t3tcwiovsXpEWVGUrYvYs="
+    }
+  ]
+}

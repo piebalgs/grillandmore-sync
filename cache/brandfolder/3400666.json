@@ -1,0 +1,114 @@
+{
+  "cache_version": 5,
+  "sku": "3400666",
+  "assets": [
+    {
+      "asset_id": "86cg8gvh87hg6pq6jrxx7bgf",
+      "asset_name": "00 (en-US) Bottom Shelf Weber Smoque MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400666"
+      ]
+    },
+    {
+      "asset_id": "9srs3c7bw4qzsgpt44444pqt",
+      "asset_name": "Weber Smoque 22 Bottom Shelf",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400666"
+      ]
+    },
+    {
+      "asset_id": "jg8jrjng4rr65tpt7kr3",
+      "asset_name": "Weber Smoque 22 Bottom Shelf",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400666"
+      ]
+    },
+    {
+      "asset_id": "3pct4h3gfjwqwnxfk5c9pm9f",
+      "asset_name": "3400666 W3 Bottom Shelf Plate rgb",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400666",
+        "3400667"
+      ]
+    },
+    {
+      "asset_id": "w8pk5j9v33m8rtccqt28xs3m",
+      "asset_name": "3400667 W3 Bottom Shelf Plate rgb",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400666",
+        "3400667"
+      ]
+    },
+    {
+      "asset_id": "768nmccb63xhkxm6fjbg4x87",
+      "asset_name": "8655463 3400666BottomShelf GLOBAL 0425 RevB",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400666"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "2q9fwfhf43k9rj5r3k527t3",
+      "filename": "1500770_061_SMOQUE22_HOR_FY25_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 31805539,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2q9fwfhf43k9rj5r3k527t3/1500770_061_SMOQUE22_HOR_FY25_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2q9fwfhf43k9rj5r3k527t3/v/1279134899/original/1500770_061_SMOQUE22_HOR_FY25_AMER.jpg?Expires=1784304197&KeyName=gcs-bfldr-prod&Signature=RhaQysL0F0s0MB1sx74cabdxAtg=",
+      "url": "https://storage-us-gcs.bfldr.com/2q9fwfhf43k9rj5r3k527t3/v/1279134899/original/1500770_061_SMOQUE22_HOR_FY25_AMER.jpg?Expires=1784304197&KeyName=gcs-bfldr-prod&Signature=RhaQysL0F0s0MB1sx74cabdxAtg="
+    },
+    {
+      "attachment_id": "bmtj7zf49vh7nj7bccm2j",
+      "filename": "1500770_061_SMOQUE22_VERT_FY25_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5464,
+      "height": 8192,
+      "size": 29825436,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bmtj7zf49vh7nj7bccm2j/1500770_061_SMOQUE22_VERT_FY25_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/bmtj7zf49vh7nj7bccm2j/v/1279134900/original/1500770_061_SMOQUE22_VERT_FY25_AMER.jpg?Expires=1784304197&KeyName=gcs-bfldr-prod&Signature=3aRxwtNG5p2BPNbAjI8bSah-zLU=",
+      "url": "https://storage-us-gcs.bfldr.com/bmtj7zf49vh7nj7bccm2j/v/1279134900/original/1500770_061_SMOQUE22_VERT_FY25_AMER.jpg?Expires=1784304197&KeyName=gcs-bfldr-prod&Signature=3aRxwtNG5p2BPNbAjI8bSah-zLU="
+    },
+    {
+      "attachment_id": "cpgvc9fg2nwcts8wsnhgjbk",
+      "filename": "3400666_W3_Bottom Shelf_Plate_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2767,
+      "size": 1732776,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cpgvc9fg2nwcts8wsnhgjbk/3400666_W3_Bottom%20Shelf_Plate_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cpgvc9fg2nwcts8wsnhgjbk/v/1279134904/original/3400666_W3_Bottom%20Shelf_Plate_rgb.jpg?Expires=1784304197&KeyName=gcs-bfldr-prod&Signature=2pTPn68SAxl5ulbx6WL-il39JAY=",
+      "url": "https://storage-us-gcs.bfldr.com/cpgvc9fg2nwcts8wsnhgjbk/v/1279134904/original/3400666_W3_Bottom%20Shelf_Plate_rgb.jpg?Expires=1784304197&KeyName=gcs-bfldr-prod&Signature=2pTPn68SAxl5ulbx6WL-il39JAY="
+    },
+    {
+      "attachment_id": "wsppnft5xpkb53hqkrhz55mh",
+      "filename": "3400667_W3_Bottom Shelf_Plate_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2767,
+      "size": 1708292,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wsppnft5xpkb53hqkrhz55mh/3400667_W3_Bottom%20Shelf_Plate_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/wsppnft5xpkb53hqkrhz55mh/v/1279134905/original/3400667_W3_Bottom%20Shelf_Plate_rgb.jpg?Expires=1784304197&KeyName=gcs-bfldr-prod&Signature=vAn-qrIQjcPdjXak1bdz6RQ6jIQ=",
+      "url": "https://storage-us-gcs.bfldr.com/wsppnft5xpkb53hqkrhz55mh/v/1279134905/original/3400667_W3_Bottom%20Shelf_Plate_rgb.jpg?Expires=1784304197&KeyName=gcs-bfldr-prod&Signature=vAn-qrIQjcPdjXak1bdz6RQ6jIQ="
+    }
+  ]
+}

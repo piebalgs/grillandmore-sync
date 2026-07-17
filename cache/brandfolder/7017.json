@@ -1,0 +1,66 @@
+{
+  "cache_version": 5,
+  "sku": "7017",
+  "assets": [
+    {
+      "asset_id": "9rrkw8k988t95k8f864v99",
+      "asset_name": "Silicone Grilling Gloves",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7017"
+      ]
+    },
+    {
+      "asset_id": "pg3t5r64t3bnp5vssthrpfr",
+      "asset_name": "33017303 76691 1025 RevC OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7017"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "jns56793pf5vgkmgb3t4hkkn",
+      "filename": "7017D1_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "size": 4508409,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jns56793pf5vgkmgb3t4hkkn/7017D1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jns56793pf5vgkmgb3t4hkkn/v/1272068312/original/7017D1_rgb.png?Expires=1784323375&KeyName=gcs-bfldr-prod&Signature=aKFuxA-ew3MOE6LkH7NPyBVQTE4=",
+      "url": "https://storage-us-gcs.bfldr.com/jns56793pf5vgkmgb3t4hkkn/v/1272068312/original/7017D1_rgb.png?Expires=1784323375&KeyName=gcs-bfldr-prod&Signature=aKFuxA-ew3MOE6LkH7NPyBVQTE4="
+    },
+    {
+      "attachment_id": "gc64bvtnwz3wstqbrpcw3hc",
+      "filename": "7017E1_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3000,
+      "height": 3000,
+      "size": 3838442,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gc64bvtnwz3wstqbrpcw3hc/7017E1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gc64bvtnwz3wstqbrpcw3hc/v/1272068313/original/7017E1_rgb.png?Expires=1784323375&KeyName=gcs-bfldr-prod&Signature=_NpGT4ZnW0qFv0X4Q-q664iI4Eg=",
+      "url": "https://storage-us-gcs.bfldr.com/gc64bvtnwz3wstqbrpcw3hc/v/1272068313/original/7017E1_rgb.png?Expires=1784323375&KeyName=gcs-bfldr-prod&Signature=_NpGT4ZnW0qFv0X4Q-q664iI4Eg="
+    },
+    {
+      "attachment_id": "k4m44vrqvhmp94p5n7p7bmp",
+      "filename": "7017F1_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 3283608,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k4m44vrqvhmp94p5n7p7bmp/7017F1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k4m44vrqvhmp94p5n7p7bmp/v/1272068314/original/7017F1_rgb.png?Expires=1784323375&KeyName=gcs-bfldr-prod&Signature=sH2f1V7oC_kQa18Dh8PDXZ-32nY=",
+      "url": "https://storage-us-gcs.bfldr.com/k4m44vrqvhmp94p5n7p7bmp/v/1272068314/original/7017F1_rgb.png?Expires=1784323375&KeyName=gcs-bfldr-prod&Signature=sH2f1V7oC_kQa18Dh8PDXZ-32nY="
+    }
+  ]
+}

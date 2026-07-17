@@ -1,0 +1,249 @@
+{
+  "cache_version": 5,
+  "sku": "3202",
+  "assets": [
+    {
+      "asset_id": "q6zimb-4sbn0o-byc6fo",
+      "asset_name": "Smokey Mountain Cooker Smoker",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "731004",
+        "721004",
+        "721001",
+        "3202",
+        "711004",
+        "73001",
+        "711001"
+      ]
+    },
+    {
+      "asset_id": "q6zimb-4sbn0o-czg8i8",
+      "asset_name": "Smokey Mountain Cooker Smoker",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "711001",
+        "3202",
+        "711004",
+        "721001",
+        "731004",
+        "721004",
+        "73001"
+      ]
+    },
+    {
+      "asset_id": "q6zizb-j74eg-5h6x69",
+      "asset_name": "Smokey Mountain Cooker Smoker",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "73001",
+        "3202",
+        "711001",
+        "721001",
+        "731004",
+        "721004",
+        "711004"
+      ]
+    },
+    {
+      "asset_id": "q6zimb-4sbn0o-1ougp9",
+      "asset_name": "Smokey Mountain Cooker Smoker",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "731004",
+        "711001",
+        "721001",
+        "3202",
+        "721004",
+        "73001",
+        "711004"
+      ]
+    },
+    {
+      "asset_id": "7g9f9s7npcf8mkcv6nvzgqcf",
+      "asset_name": "(C) Traveler New York Strip",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "9010001",
+        "3202",
+        "9010024",
+        "9010004",
+        "9010053",
+        "9010079",
+        "9010094",
+        "9010068"
+      ]
+    },
+    {
+      "asset_id": "q478kt7c6q52bfg4zw77ctw",
+      "asset_name": "3201-3202-3204-Accessories",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3203",
+        "3205",
+        "3202"
+      ]
+    },
+    {
+      "asset_id": "vxk96qs6k98gtvc7njcbbp59",
+      "asset_name": "3201-3202-3204-Screen-Device",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3205",
+        "3202",
+        "3203"
+      ]
+    },
+    {
+      "asset_id": "vvchgtwktcssbjkkxs65mwh9",
+      "asset_name": "3202-Connect C PDP",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3202",
+        "3203",
+        "3205"
+      ]
+    },
+    {
+      "asset_id": "7r4pvnxk5sk9mqv69prz5c2r",
+      "asset_name": "3202A-REV3",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3203",
+        "3205",
+        "3202"
+      ]
+    },
+    {
+      "asset_id": "sht94xk4r37ptmj44f932bvc",
+      "asset_name": "3202D2 C REV",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3203",
+        "3202",
+        "3205"
+      ]
+    },
+    {
+      "asset_id": "bzmz2jhz8xxqmnk63pvr5",
+      "asset_name": "51862 EMEA 0922 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3202"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "cs8qb6sg64bzpzww5cxk6qhw",
+      "filename": "3201-3202-3204-Accessories.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 625282,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cs8qb6sg64bzpzww5cxk6qhw/3201-3202-3204-Accessories.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cs8qb6sg64bzpzww5cxk6qhw/v/1304168858/original/3201-3202-3204-Accessories.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=5jFbElTHQ5X8SLrD1_NVNpXtSEs=",
+      "url": "https://storage-us-gcs.bfldr.com/cs8qb6sg64bzpzww5cxk6qhw/v/1304168858/original/3201-3202-3204-Accessories.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=5jFbElTHQ5X8SLrD1_NVNpXtSEs="
+    },
+    {
+      "attachment_id": "64h83vmnc6qn3wkhgtsng2t",
+      "filename": "3201-3202-3204-Screen-Device.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1300,
+      "height": 800,
+      "size": 520331,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/64h83vmnc6qn3wkhgtsng2t/3201-3202-3204-Screen-Device.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/64h83vmnc6qn3wkhgtsng2t/v/1304168859/original/3201-3202-3204-Screen-Device.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=2mHj20ITJTOSI8MHDF0UzT5s-H0=",
+      "url": "https://storage-us-gcs.bfldr.com/64h83vmnc6qn3wkhgtsng2t/v/1304168859/original/3201-3202-3204-Screen-Device.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=2mHj20ITJTOSI8MHDF0UzT5s-H0="
+    },
+    {
+      "attachment_id": "58fzxjfnx498tpvgctv3pn3h",
+      "filename": "3202-Connect_C_PDP.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 915909,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/58fzxjfnx498tpvgctv3pn3h/3202-Connect_C_PDP.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/58fzxjfnx498tpvgctv3pn3h/v/1304168861/original/3202-Connect_C_PDP.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=o3fg3pRftx0JAtnwe5s0-m4SJLo=",
+      "url": "https://storage-us-gcs.bfldr.com/58fzxjfnx498tpvgctv3pn3h/v/1304168861/original/3202-Connect_C_PDP.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=o3fg3pRftx0JAtnwe5s0-m4SJLo="
+    },
+    {
+      "attachment_id": "m424nfn92fjqxb9vjpfb76",
+      "filename": "3202-Screen-Device-Celsius.png",
+      "extension": "png",
+      "position": 4,
+      "width": 1300,
+      "height": 800,
+      "size": 519772,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/m424nfn92fjqxb9vjpfb76/3202-Screen-Device-Celsius.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/m424nfn92fjqxb9vjpfb76/v/1304168863/original/3202-Screen-Device-Celsius.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=gU4WmWpw3SnVI6YySrLxKKsArRo=",
+      "url": "https://storage-us-gcs.bfldr.com/m424nfn92fjqxb9vjpfb76/v/1304168863/original/3202-Screen-Device-Celsius.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=gU4WmWpw3SnVI6YySrLxKKsArRo="
+    },
+    {
+      "attachment_id": "wswcfth6b8cstgtfzpzw8qs",
+      "filename": "3202_3203_3205_PDP_App_2.0_C_NoShadow.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 586206,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wswcfth6b8cstgtfzpzw8qs/3202_3203_3205_PDP_App_2.0_C_NoShadow.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/wswcfth6b8cstgtfzpzw8qs/v/1304168875/original/3202_3203_3205_PDP_App_2.0_C_NoShadow.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=3lUEpgARQh0B6FzQSPGGEEcTWEQ=",
+      "url": "https://storage-us-gcs.bfldr.com/wswcfth6b8cstgtfzpzw8qs/v/1304168875/original/3202_3203_3205_PDP_App_2.0_C_NoShadow.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=3lUEpgARQh0B6FzQSPGGEEcTWEQ="
+    },
+    {
+      "attachment_id": "28wqcx6759xb8cb338crbj6f",
+      "filename": "3202_3203_3205_PDP_App_2.0_C_NoShadow_REV.png",
+      "extension": "png",
+      "position": 2,
+      "width": 1800,
+      "height": 1800,
+      "size": 592538,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/28wqcx6759xb8cb338crbj6f/3202_3203_3205_PDP_App_2.0_C_NoShadow_REV.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/28wqcx6759xb8cb338crbj6f/v/1304168877/original/3202_3203_3205_PDP_App_2.0_C_NoShadow_REV.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=TSGWiraEXRYnyuSahvVY75SE1i8=",
+      "url": "https://storage-us-gcs.bfldr.com/28wqcx6759xb8cb338crbj6f/v/1304168877/original/3202_3203_3205_PDP_App_2.0_C_NoShadow_REV.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=TSGWiraEXRYnyuSahvVY75SE1i8="
+    },
+    {
+      "attachment_id": "vskbgjwfnq88jnhf8jfbb5",
+      "filename": "3202_PDP_App_2.0_C.png",
+      "extension": "png",
+      "position": 3,
+      "width": 1800,
+      "height": 1800,
+      "size": 564828,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vskbgjwfnq88jnhf8jfbb5/3202_PDP_App_2.0_C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vskbgjwfnq88jnhf8jfbb5/v/1304168879/original/3202_PDP_App_2.0_C.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=trqRwlhYYMYw79LQrl8hws4f6FE=",
+      "url": "https://storage-us-gcs.bfldr.com/vskbgjwfnq88jnhf8jfbb5/v/1304168879/original/3202_PDP_App_2.0_C.png?Expires=1784333933&KeyName=gcs-bfldr-prod&Signature=trqRwlhYYMYw79LQrl8hws4f6FE="
+    },
+    {
+      "attachment_id": "3mcntspqtcvc6j4pvhk4fr",
+      "filename": "Traveler_NY_Strip_3_C_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2400,
+      "size": 4642645,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3mcntspqtcvc6j4pvhk4fr/Traveler_NY_Strip_3_C_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/3mcntspqtcvc6j4pvhk4fr/v/50451514/original/Traveler_NY_Strip_3_C_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/3mcntspqtcvc6j4pvhk4fr/v/50451514/original/Traveler_NY_Strip_3_C_rgb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "cache_version": 5,
+  "sku": "7194",
+  "assets": [
+    {
+      "asset_id": "x7kc4r55phcxz8btts9vsv5",
+      "asset_name": "7757/7194 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7194",
+        "7757"
+      ]
+    },
+    {
+      "asset_id": "hvqp2m3355nhrb3hvf5ww9kp",
+      "asset_name": "7757/7194 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7194",
+        "7757"
+      ]
+    },
+    {
+      "asset_id": "srmxbnsmxnz5xkv64xjmz6c",
+      "asset_name": "Genesis 3B Cover 16x9",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7194",
+        "1501885",
+        "7757",
+        "1501950"
+      ]
+    },
+    {
+      "asset_id": "srgg39x34n5gm3xrp5s9cpww",
+      "asset_name": "33013616 174841 0125 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7194"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pqrwq96kxmj4tc35sbnc7qmx",
+      "filename": "7757_7194A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 4051058,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pqrwq96kxmj4tc35sbnc7qmx/7757_7194A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/pqrwq96kxmj4tc35sbnc7qmx/v/1012869584/original/7757_7194A_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/pqrwq96kxmj4tc35sbnc7qmx/v/1012869584/original/7757_7194A_rgb.png"
+    },
+    {
+      "attachment_id": "f54kb4p5jqkgf97cssp33cr",
+      "filename": "7757_7194B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 4253534,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f54kb4p5jqkgf97cssp33cr/7757_7194B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/f54kb4p5jqkgf97cssp33cr/v/1012869586/original/7757_7194B_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/f54kb4p5jqkgf97cssp33cr/v/1012869586/original/7757_7194B_rgb.png"
+    },
+    {
+      "attachment_id": "pcvvw566s66598875fwt8c59",
+      "filename": "7757_7194C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4000,
+      "height": 4000,
+      "size": 4110707,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pcvvw566s66598875fwt8c59/7757_7194C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/pcvvw566s66598875fwt8c59/v/1012869587/original/7757_7194C_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/pcvvw566s66598875fwt8c59/v/1012869587/original/7757_7194C_rgb.png"
+    },
+    {
+      "attachment_id": "sj76264mv9j9fgf5b7f7mz",
+      "filename": "7757_7194Y1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 3087,
+      "size": 10237821,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sj76264mv9j9fgf5b7f7mz/7757_7194Y1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/sj76264mv9j9fgf5b7f7mz/v/1012869689/original/7757_7194Y1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/sj76264mv9j9fgf5b7f7mz/v/1012869689/original/7757_7194Y1_rgb.jpg"
+    },
+    {
+      "attachment_id": "nns63vt87vstk5nj5ffwcgqj",
+      "filename": "1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8011,
+      "height": 4507,
+      "size": 21932853,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nns63vt87vstk5nj5ffwcgqj/1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nns63vt87vstk5nj5ffwcgqj/v/1263426470/original/1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg?Expires=1784323269&KeyName=gcs-bfldr-prod&Signature=hd_n5Jbr4gBjVFMvRx0BTuMApZw=",
+      "url": "https://storage-us-gcs.bfldr.com/nns63vt87vstk5nj5ffwcgqj/v/1263426470/original/1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg?Expires=1784323269&KeyName=gcs-bfldr-prod&Signature=hd_n5Jbr4gBjVFMvRx0BTuMApZw="
+    }
+  ]
+}

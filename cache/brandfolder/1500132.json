@@ -1,0 +1,205 @@
+{
+  "cache_version": 5,
+  "sku": "1500132",
+  "assets": [
+    {
+      "asset_id": "vhjwfjkqtqs76rfvktfnt6bq",
+      "asset_name": "Searwood XL 600 Feature",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500132",
+        "1500162",
+        "1500145",
+        "1500143",
+        "1500202",
+        "1500200",
+        "1500131",
+        "1500121"
+      ]
+    },
+    {
+      "asset_id": "6js49qvzfgt752xh8839gwc",
+      "asset_name": "Searwood XL 600 Feature",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500202",
+        "1500200",
+        "1500131",
+        "1500145",
+        "1500132",
+        "1500143",
+        "1500121",
+        "1500162"
+      ]
+    },
+    {
+      "asset_id": "snnbf6ps35hzkfvr2fqgpgf",
+      "asset_name": "Searwood XL 600 Feature FLAVORIZER BAR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500121",
+        "1500132",
+        "1500143",
+        "1500202",
+        "1500162",
+        "1500200",
+        "1500145",
+        "1500131"
+      ]
+    },
+    {
+      "asset_id": "hvfmpxgtbjpnh9qhfvhssfw",
+      "asset_name": "Searwood 600",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500122",
+        "1500123",
+        "1500133",
+        "1500226",
+        "1500120",
+        "1500142",
+        "1500143",
+        "1500205",
+        "1500132",
+        "1500121"
+      ]
+    },
+    {
+      "asset_id": "c5r4sg3vqb7pb62bmvrfb83p",
+      "asset_name": "Searwood 600",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500120",
+        "1500226",
+        "1500143",
+        "1500123",
+        "1500142",
+        "1500205",
+        "1500132",
+        "1500122",
+        "1500121",
+        "1500133"
+      ]
+    },
+    {
+      "asset_id": "47fxr4xmrk89x96n93439bj",
+      "asset_name": "Searwood 600",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500142",
+        "1500123",
+        "1500143",
+        "1500133",
+        "1500205",
+        "1500121",
+        "1500226",
+        "1500120",
+        "1500132",
+        "1500122"
+      ]
+    },
+    {
+      "asset_id": "4g5cgq6njgf94wf53tpqx7v",
+      "asset_name": "Searwood 600/600XL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500122",
+        "1500143",
+        "1500133",
+        "1500123",
+        "1500121",
+        "1500132",
+        "1500120",
+        "1500142",
+        "1500226",
+        "1500205"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "3pvzbs54n8bvkwvf46b7hg8",
+      "filename": "1500120_P2_1x1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4532,
+      "height": 4532,
+      "size": 12551734,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3pvzbs54n8bvkwvf46b7hg8/1500120_P2_1x1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3pvzbs54n8bvkwvf46b7hg8/v/1281580002/original/1500120_P2_1x1.jpg?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=RXp9-SW6a3bmvQOsm9lqqXeuhak=",
+      "url": "https://storage-us-gcs.bfldr.com/3pvzbs54n8bvkwvf46b7hg8/v/1281580002/original/1500120_P2_1x1.jpg?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=RXp9-SW6a3bmvQOsm9lqqXeuhak="
+    },
+    {
+      "attachment_id": "qxgbv89qtg7fvrq7mp3pcb",
+      "filename": "1500120_P3_1x1 copy.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5464,
+      "height": 5464,
+      "size": 20846090,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qxgbv89qtg7fvrq7mp3pcb/1500120_P3_1x1%20copy.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qxgbv89qtg7fvrq7mp3pcb/v/1281580003/original/1500120_P3_1x1%20copy.jpg?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=60iP8tXbJlChfYJcJ_i_cQyVuPk=",
+      "url": "https://storage-us-gcs.bfldr.com/qxgbv89qtg7fvrq7mp3pcb/v/1281580003/original/1500120_P3_1x1%20copy.jpg?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=60iP8tXbJlChfYJcJ_i_cQyVuPk="
+    },
+    {
+      "attachment_id": "rc4f4xmpjjsh349h8kjcrp",
+      "filename": "1500120_Pellet_Dump_W1_1x1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 1770357,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rc4f4xmpjjsh349h8kjcrp/1500120_Pellet_Dump_W1_1x1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rc4f4xmpjjsh349h8kjcrp/v/1281580005/original/1500120_Pellet_Dump_W1_1x1.jpg?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=CK7JADC137F3Poyf6BZEVOcIncA=",
+      "url": "https://storage-us-gcs.bfldr.com/rc4f4xmpjjsh349h8kjcrp/v/1281580005/original/1500120_Pellet_Dump_W1_1x1.jpg?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=CK7JADC137F3Poyf6BZEVOcIncA="
+    },
+    {
+      "attachment_id": "xvs5rbff675n4vqbgr558nh",
+      "filename": "1500121F1_2_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5935,
+      "height": 4239,
+      "size": 31575389,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xvs5rbff675n4vqbgr558nh/1500121F1_2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xvs5rbff675n4vqbgr558nh/v/1264152764/original/1500121F1_2_rgb.png?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=SIKOKqd8_N5nn8qLQEMZFLfSRFA=",
+      "url": "https://storage-us-gcs.bfldr.com/xvs5rbff675n4vqbgr558nh/v/1264152764/original/1500121F1_2_rgb.png?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=SIKOKqd8_N5nn8qLQEMZFLfSRFA="
+    },
+    {
+      "attachment_id": "7667638hc74fx9pz48294pgq",
+      "filename": "1500121F2_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5268,
+      "height": 3763,
+      "size": 19881267,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7667638hc74fx9pz48294pgq/1500121F2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7667638hc74fx9pz48294pgq/v/1264152767/original/1500121F2_rgb.png?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=o4Y039EonJTifLu6zkkrYGVX91I=",
+      "url": "https://storage-us-gcs.bfldr.com/7667638hc74fx9pz48294pgq/v/1264152767/original/1500121F2_rgb.png?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=o4Y039EonJTifLu6zkkrYGVX91I="
+    },
+    {
+      "attachment_id": "3hg6nxr342n6vx8ngxsrwrh",
+      "filename": "1500121F3_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5935,
+      "height": 4239,
+      "size": 28019785,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3hg6nxr342n6vx8ngxsrwrh/1500121F3_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3hg6nxr342n6vx8ngxsrwrh/v/1264152770/original/1500121F3_rgb.png?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=lcxRSn9JVkRT48r8OtRFH-o16M4=",
+      "url": "https://storage-us-gcs.bfldr.com/3hg6nxr342n6vx8ngxsrwrh/v/1264152770/original/1500121F3_rgb.png?Expires=1784317513&KeyName=gcs-bfldr-prod&Signature=lcxRSn9JVkRT48r8OtRFH-o16M4="
+    }
+  ]
+}

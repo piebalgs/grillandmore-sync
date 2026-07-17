@@ -1,0 +1,134 @@
+{
+  "cache_version": 2,
+  "sku": "1502079",
+  "assets": [
+    {
+      "asset_id": "7m9tp2p4bcsbs9c4k2bsjm9",
+      "asset_name": "Scrubber Pad",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "p8bs33rr3twhp76c6qgqwx",
+      "asset_name": "Spirit 4 Burner Premium Cover",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "fjj3hznkbbgt2ncg6q3jgrz",
+      "asset_name": "Spirit E-435",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mqv5r5jpn3bbgrw7344x4b7",
+      "asset_name": "Spirit E-435",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "85m673c6k6vc466b9xffhpxq",
+      "asset_name": "Spirit E-435",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rvhss7kw4wvwn34fcb8hkz2t",
+      "asset_name": "Spirit E-435",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gz3sh97s79256vfj6gw9qrk",
+      "asset_name": "Spirit E-435",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ccxg5pk69p93xxgbgc9c6v4",
+      "asset_name": "Spirit E-435",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rkqh662q6t4b33wh3g7gz9b",
+      "asset_name": "Spirit EX-325",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gx4pfb24fzfkfc7s8zs8vf",
+      "asset_name": "Spirit EX-325",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "vhpfbp6v5xqcx58mcqn2ssm",
+      "asset_name": "Spirit EX-325",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "nx4mxnq5ccb5ktkb9jr5njgz",
+      "asset_name": "Spirit EX-325",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "r84r3ctgsfv82mcrrqrjkf",
+      "asset_name": "Spirit EX-325",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "fkmwgqmh28rmwfwbnqsqxm",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mmqnsnghjxwxpccrwb4fw7p",
+      "asset_name": "en-EMEA Spirit EX-325 MasterCopyDoc FINAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "58sfsvntvvq8qjxzjjzg88w",
+      "asset_name": "[EMEA] Spirit EX-325 LP",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8hnqc4kbfvk597j7gqgnvhmp",
+      "asset_name": "EX325 EMEA Dimensions",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "twsftcms8rpz4866m4jw9pvr",
+      "asset_name": "[RU/HU/TR/EL] Spirit EX-325/425--Assembly Guide",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "6qrfgnjk6mfsw3t8gqfshkv8",
+      "filename": "1502122 Spirit EX-325_LP_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6qrfgnjk6mfsw3t8gqfshkv8/1502122%20Spirit%20EX-325_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6qrfgnjk6mfsw3t8gqfshkv8/v/1279859161/original/1502122%20Spirit%20EX-325_LP_A_rgb.png?Expires=1784297169&KeyName=gcs-bfldr-prod&Signature=x_gZz8BqG9T9hSkjlxaNxPaLMac=",
+      "url": "https://storage-us-gcs.bfldr.com/6qrfgnjk6mfsw3t8gqfshkv8/v/1279859161/original/1502122%20Spirit%20EX-325_LP_A_rgb.png?Expires=1784297169&KeyName=gcs-bfldr-prod&Signature=x_gZz8BqG9T9hSkjlxaNxPaLMac="
+    },
+    {
+      "attachment_id": "jnkwzrt2s7gmv33fxknf8t",
+      "filename": "1502122 Spirit EX-325_LP_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jnkwzrt2s7gmv33fxknf8t/1502122%20Spirit%20EX-325_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jnkwzrt2s7gmv33fxknf8t/v/1279859162/original/1502122%20Spirit%20EX-325_LP_B_rgb.png?Expires=1784297169&KeyName=gcs-bfldr-prod&Signature=CqucqrtJMytKXn4rOvBB7ThLYKc=",
+      "url": "https://storage-us-gcs.bfldr.com/jnkwzrt2s7gmv33fxknf8t/v/1279859162/original/1502122%20Spirit%20EX-325_LP_B_rgb.png?Expires=1784297169&KeyName=gcs-bfldr-prod&Signature=CqucqrtJMytKXn4rOvBB7ThLYKc="
+    },
+    {
+      "attachment_id": "vjjn7svjnsx3j99wjkxh3wm",
+      "filename": "1502122 Spirit EX-325_LP_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vjjn7svjnsx3j99wjkxh3wm/1502122%20Spirit%20EX-325_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vjjn7svjnsx3j99wjkxh3wm/v/1279859163/original/1502122%20Spirit%20EX-325_LP_C_rgb.png?Expires=1784297169&KeyName=gcs-bfldr-prod&Signature=uFfwjjUMg7cYd2c-fAw3GAgb_24=",
+      "url": "https://storage-us-gcs.bfldr.com/vjjn7svjnsx3j99wjkxh3wm/v/1279859163/original/1502122%20Spirit%20EX-325_LP_C_rgb.png?Expires=1784297169&KeyName=gcs-bfldr-prod&Signature=uFfwjjUMg7cYd2c-fAw3GAgb_24="
+    }
+  ]
+}

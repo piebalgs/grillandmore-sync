@@ -1,0 +1,66 @@
+{
+  "cache_version": 5,
+  "sku": "6209",
+  "assets": [
+    {
+      "asset_id": "ppapjr-2zqzio-d9hh41",
+      "asset_name": "Plancha Scourer 6209 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6209"
+      ]
+    },
+    {
+      "asset_id": "khj4vrt33nszmgw4br46sz",
+      "asset_name": "51563 0519 RevA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6209"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ppapjr-2zqzio-38w9vm",
+      "filename": "6209A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4480,
+      "height": 4480,
+      "size": 10441738,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapjr-2zqzio-38w9vm/6209A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapjr-2zqzio-38w9vm/v/3471635/original/6209A.png?Expires=1784327005&KeyName=gcs-bfldr-prod&Signature=hbVbq9kvV-WbYIKaZqoa8tXtXQs=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapjr-2zqzio-38w9vm/v/3471635/original/6209A.png?Expires=1784327005&KeyName=gcs-bfldr-prod&Signature=hbVbq9kvV-WbYIKaZqoa8tXtXQs="
+    },
+    {
+      "attachment_id": "ppapjr-2zqzio-95ufg2",
+      "filename": "6209B.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4480,
+      "height": 4480,
+      "size": 10234183,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapjr-2zqzio-95ufg2/6209B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapjr-2zqzio-95ufg2/v/3471636/original/6209B.png?Expires=1784327005&KeyName=gcs-bfldr-prod&Signature=CnliXCkcmxUK8ELUIpWc2FXhUU4=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapjr-2zqzio-95ufg2/v/3471636/original/6209B.png?Expires=1784327005&KeyName=gcs-bfldr-prod&Signature=CnliXCkcmxUK8ELUIpWc2FXhUU4="
+    },
+    {
+      "attachment_id": "ppapjr-2zqzio-bqaiu0",
+      "filename": "6209C.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4480,
+      "height": 4480,
+      "size": 10321822,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapjr-2zqzio-bqaiu0/6209C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapjr-2zqzio-bqaiu0/v/3471637/original/6209C.png?Expires=1784327005&KeyName=gcs-bfldr-prod&Signature=vfdRXMHFugY0Jnym4t_u2T2LCAU=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapjr-2zqzio-bqaiu0/v/3471637/original/6209C.png?Expires=1784327005&KeyName=gcs-bfldr-prod&Signature=vfdRXMHFugY0Jnym4t_u2T2LCAU="
+    }
+  ]
+}

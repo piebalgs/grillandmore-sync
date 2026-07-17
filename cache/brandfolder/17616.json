@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "17616",
+  "assets": [
+    {
+      "asset_id": "plwbz2-3jx03c-4ilw64",
+      "asset_name": "Apple Wood Chunks 17616 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17616"
+      ]
+    },
+    {
+      "asset_id": "7frkw7bv8jp3hzqtjzwjqcb7",
+      "asset_name": "OFS 16727 02 (17616) Wood Chunks Apple 1,5 kg ver4",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17616"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "plwbz2-3jx03c-dzd6a7",
+      "filename": "17616B.png",
+      "extension": "png",
+      "position": 180742,
+      "width": 1800,
+      "height": 1800,
+      "size": 571262,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwbz2-3jx03c-dzd6a7/17616B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/plwbz2-3jx03c-dzd6a7/v/3023323/original/17616B.png?Expires=1784321956&KeyName=gcs-bfldr-prod&Signature=D1Er6_QBE9f1BOAbqHHS31wD_Cg=",
+      "url": "https://storage-us-gcs.bfldr.com/plwbz2-3jx03c-dzd6a7/v/3023323/original/17616B.png?Expires=1784321956&KeyName=gcs-bfldr-prod&Signature=D1Er6_QBE9f1BOAbqHHS31wD_Cg="
+    }
+  ]
+}

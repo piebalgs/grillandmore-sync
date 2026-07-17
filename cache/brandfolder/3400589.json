@@ -1,0 +1,220 @@
+{
+  "cache_version": 2,
+  "sku": "3400589",
+  "assets": [
+    {
+      "asset_id": "q3vgcs4r9q59jf56v3pfj99",
+      "asset_name": "[EMEA] SMART WIRELESS PROBE PLUS w/BOOSTER MASTER COPY",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bn89g89b77cm54vpjmf59",
+      "asset_name": "[Global] Smart Wireless Probe",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xz9k4smw4f9ktjhjbtp584",
+      "asset_name": "[Global]  Smart Wireless Probe w/ Charger",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bghs65rbv83j6zm52fcqz98",
+      "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7z6q262mtf5w837pswb5xmnz",
+      "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "xzvnzpxhgqnpc9q293c4g9r",
+      "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "snp849xrfc9t7rxvvwspr4j",
+      "asset_name": "Wireless Probe Plus with Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4t9h65tm6csb2x9pg4jmf8v",
+      "asset_name": "[cze] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "3q5hcxhp742hvsrpg58xhpv",
+      "asset_name": "[dan] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pjbksmcn87r2n8t4zf7ggm4",
+      "asset_name": "[dut-NL] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "j42kj986q388pr8s4mnsn7v",
+      "asset_name": "[en-GB] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "r9b94htf2fbhgtspbf5bpnt",
+      "asset_name": "[fin] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "k94tms29m695t436bn9hc85",
+      "asset_name": "[fre-FR] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "6bcwg3pw24cvjmp5q548vvhg",
+      "asset_name": "[ger-DE] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mcmmfqrk8t4b73b76wbmmp",
+      "asset_name": "[hrv] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "vhqft6gsmw4q252hqm3wfn6h",
+      "asset_name": "[ita-IT] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "g2crw794m5fb7s89xhjnt8b",
+      "asset_name": "[no] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mrcnwht4rvbgv9wrwwknxpq9",
+      "asset_name": "[pol] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8kc8r8ft5mcm8mbwkh74wc5c",
+      "asset_name": "[por-PT] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pk4rjvrpk45bkx8ggp7bps",
+      "asset_name": "[sk] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "htgtt789xpwqxtrxmg9wvrx",
+      "asset_name": "[slv] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "rh3cxhhwjsb5wxcsgzpt29",
+      "asset_name": "[spa-ES] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "2wfnf4pn5wcq989mthstpf6",
+      "asset_name": "[swe-SE] SMART WIRELESS PROBE PLUS (BATMOBILE) MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "sw7mhh9c3n5g2pkxhkkxg3gx",
+      "asset_name": "Smart Wireless Probe w/ Charger or Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "t878skwppprrjt7z7s9zn6cg",
+      "asset_name": "Smart Wireless Probe w/ Charger or Booster",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5c3zgpw8whfnk4rs65mq65v",
+      "asset_name": "How To: Understanding the Booster and Charger Icons",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4mrtxnt3s5qmxrmgwk4vc3n",
+      "asset_name": "How To: Turn on and off",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "m997h8ck69vvmts7gv6ckzw5",
+      "asset_name": "How To: Maintaining the Best Connection",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "jftg5xw9vkbh79z6xnk6t5t",
+      "filename": "3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8019,
+      "height": 5349,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jftg5xw9vkbh79z6xnk6t5t/3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jftg5xw9vkbh79z6xnk6t5t/v/1324099895/original/3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg?Expires=1784296735&KeyName=gcs-bfldr-prod&Signature=5DYWTe3LJPunHYME04HvWfw99jE=",
+      "url": "https://storage-us-gcs.bfldr.com/jftg5xw9vkbh79z6xnk6t5t/v/1324099895/original/3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg?Expires=1784296735&KeyName=gcs-bfldr-prod&Signature=5DYWTe3LJPunHYME04HvWfw99jE="
+    },
+    {
+      "attachment_id": "n7qct3nxpvvjg73sgrbhwspv",
+      "filename": "3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8019,
+      "height": 5349,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n7qct3nxpvvjg73sgrbhwspv/3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/n7qct3nxpvvjg73sgrbhwspv/v/1324099894/original/3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg?Expires=1784296735&KeyName=gcs-bfldr-prod&Signature=U8xx7drAIC48PNPi-5WeFCshd2g=",
+      "url": "https://storage-us-gcs.bfldr.com/n7qct3nxpvvjg73sgrbhwspv/v/1324099894/original/3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg?Expires=1784296735&KeyName=gcs-bfldr-prod&Signature=U8xx7drAIC48PNPi-5WeFCshd2g="
+    },
+    {
+      "attachment_id": "9cpbw2vpxwf8kq25rmtn9v",
+      "filename": "3400603_Wireless Probe Plus WBooster_AC_AMER_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9cpbw2vpxwf8kq25rmtn9v/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9cpbw2vpxwf8kq25rmtn9v/v/1291470694/original/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?Expires=1784296734&KeyName=gcs-bfldr-prod&Signature=tk4647rdox7MNkma_MyRB9o5ydM=",
+      "url": "https://storage-us-gcs.bfldr.com/9cpbw2vpxwf8kq25rmtn9v/v/1291470694/original/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?Expires=1784296734&KeyName=gcs-bfldr-prod&Signature=tk4647rdox7MNkma_MyRB9o5ydM="
+    },
+    {
+      "attachment_id": "9jcth7jzkz6p7kfn5wks7cx",
+      "filename": "3400603_Wireless Probe Plus WBooster_A_AMER_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9jcth7jzkz6p7kfn5wks7cx/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9jcth7jzkz6p7kfn5wks7cx/v/1291470695/original/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?Expires=1784296734&KeyName=gcs-bfldr-prod&Signature=svZLMAHIJSf8ODbSJebzHxX0Xos=",
+      "url": "https://storage-us-gcs.bfldr.com/9jcth7jzkz6p7kfn5wks7cx/v/1291470695/original/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?Expires=1784296734&KeyName=gcs-bfldr-prod&Signature=svZLMAHIJSf8ODbSJebzHxX0Xos="
+    },
+    {
+      "attachment_id": "3x78gntpm4sv74zwm369rqh",
+      "filename": "3400603_Wireless Probe Plus WBooster_B_AMER_rgb.png",
+      "extension": "png",
+      "position": 5,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3x78gntpm4sv74zwm369rqh/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3x78gntpm4sv74zwm369rqh/v/1291470699/original/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?Expires=1784296734&KeyName=gcs-bfldr-prod&Signature=VL9Q8j-IbyP4t-9WdtrdfNqJ-CQ=",
+      "url": "https://storage-us-gcs.bfldr.com/3x78gntpm4sv74zwm369rqh/v/1291470699/original/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?Expires=1784296734&KeyName=gcs-bfldr-prod&Signature=VL9Q8j-IbyP4t-9WdtrdfNqJ-CQ="
+    },
+    {
+      "attachment_id": "c4pp6m9pj46r3k25r6c8xk",
+      "filename": "3400603_Wireless Probe Plus WBooster_CB_AMER_rgb.png",
+      "extension": "png",
+      "position": 6,
+      "width": 3600,
+      "height": 3600,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/c4pp6m9pj46r3k25r6c8xk/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/c4pp6m9pj46r3k25r6c8xk/v/1291470700/original/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?Expires=1784296734&KeyName=gcs-bfldr-prod&Signature=u6a7n1XcR_Y-If0bljlZEDhzlG0=",
+      "url": "https://storage-us-gcs.bfldr.com/c4pp6m9pj46r3k25r6c8xk/v/1291470700/original/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?Expires=1784296734&KeyName=gcs-bfldr-prod&Signature=u6a7n1XcR_Y-If0bljlZEDhzlG0="
+    }
+  ]
+}

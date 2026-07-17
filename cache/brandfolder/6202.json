@@ -1,0 +1,72 @@
+{
+  "cache_version": 5,
+  "sku": "6202",
+  "assets": [
+    {
+      "asset_id": "pkepak-79j5zk-cvy76e",
+      "asset_name": "Gas Grill Maintenance Kit 6202 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6202"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pkepak-79j5zk-6hpn2l",
+      "filename": "6202A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 4500,
+      "size": 8454345,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepak-79j5zk-6hpn2l/6202A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-6hpn2l/v/2838078/original/6202A.png?Expires=1784334336&KeyName=gcs-bfldr-prod&Signature=FUNAmTirOAATCKp17EE5iLUrudk=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-6hpn2l/v/2838078/original/6202A.png?Expires=1784334336&KeyName=gcs-bfldr-prod&Signature=FUNAmTirOAATCKp17EE5iLUrudk="
+    },
+    {
+      "attachment_id": "pkepak-79j5zk-f0ptw1",
+      "filename": "6202E.png",
+      "extension": "png",
+      "position": 3,
+      "width": 2423,
+      "height": 2400,
+      "size": 1959040,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepak-79j5zk-f0ptw1/6202E.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-f0ptw1/v/2838082/original/6202E.png?Expires=1784334336&KeyName=gcs-bfldr-prod&Signature=X0v0-35JT1sCCAVI1DwUVbGH3ks=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-f0ptw1/v/2838082/original/6202E.png?Expires=1784334336&KeyName=gcs-bfldr-prod&Signature=X0v0-35JT1sCCAVI1DwUVbGH3ks="
+    },
+    {
+      "attachment_id": "pkepj2-34xs20-eu02ea",
+      "filename": "6202F.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4350,
+      "height": 3150,
+      "size": 4383983,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepj2-34xs20-eu02ea/6202F.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-eu02ea/v/2838197/original/6202F.png?Expires=1784334336&KeyName=gcs-bfldr-prod&Signature=VQ11eImmtPpaauEI_haz-w8dqUs=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-eu02ea/v/2838197/original/6202F.png?Expires=1784334336&KeyName=gcs-bfldr-prod&Signature=VQ11eImmtPpaauEI_haz-w8dqUs="
+    },
+    {
+      "attachment_id": "pkepj2-34xs20-ciat7a",
+      "filename": "6202G.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3857,
+      "height": 3000,
+      "size": 3741312,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepj2-34xs20-ciat7a/6202G.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-ciat7a/v/2838198/original/6202G.png?Expires=1784334336&KeyName=gcs-bfldr-prod&Signature=sjbHafuSFHTy5LupbmV0Izsvfsk=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-ciat7a/v/2838198/original/6202G.png?Expires=1784334336&KeyName=gcs-bfldr-prod&Signature=sjbHafuSFHTy5LupbmV0Izsvfsk="
+    }
+  ]
+}

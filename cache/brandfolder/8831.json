@@ -1,0 +1,99 @@
+{
+  "cache_version": 5,
+  "sku": "8831",
+  "assets": [
+    {
+      "asset_id": "pg4qt7-81woog-loy6e",
+      "asset_name": "Pizza Stone 8831 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8831"
+      ]
+    },
+    {
+      "asset_id": "pg4qt7-81woog-7jl02z",
+      "asset_name": "Pizza Stone 8831 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8831"
+      ]
+    },
+    {
+      "asset_id": "qfdtsr-4foqh4-257ok7",
+      "asset_name": "DE Sweet and Savory from the Pizza Stones Grilltipps Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6669",
+        "8831",
+        "6691",
+        "6690"
+      ]
+    },
+    {
+      "asset_id": "v7w5jzw7gsnbq9rvwk7br2c",
+      "asset_name": "180164 0325 RevC 8831 EMEA Small Grilling Stone LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8831"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pg4qt7-81woog-d3hwt4",
+      "filename": "8831A.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3390,
+      "height": 3390,
+      "size": 5267833,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pg4qt7-81woog-d3hwt4/8831A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pg4qt7-81woog-d3hwt4/v/2444629/original/8831A.png?Expires=1784331586&KeyName=gcs-bfldr-prod&Signature=Q0DQqboM0sf-Kl-RZJZlYQEN2K0=",
+      "url": "https://storage-us-gcs.bfldr.com/pg4qt7-81woog-d3hwt4/v/2444629/original/8831A.png?Expires=1784331586&KeyName=gcs-bfldr-prod&Signature=Q0DQqboM0sf-Kl-RZJZlYQEN2K0="
+    },
+    {
+      "attachment_id": "pg4qt7-81woog-2beuti",
+      "filename": "8831B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3545,
+      "height": 3545,
+      "size": 5950249,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pg4qt7-81woog-2beuti/8831B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pg4qt7-81woog-2beuti/v/2444630/original/8831B.png?Expires=1784331586&KeyName=gcs-bfldr-prod&Signature=oizWLRH1tZg00FufEk5FkK-BW4U=",
+      "url": "https://storage-us-gcs.bfldr.com/pg4qt7-81woog-2beuti/v/2444630/original/8831B.png?Expires=1784331586&KeyName=gcs-bfldr-prod&Signature=oizWLRH1tZg00FufEk5FkK-BW4U="
+    },
+    {
+      "attachment_id": "pg4qt7-81woog-2rsbrt",
+      "filename": "8831C.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3393,
+      "height": 3393,
+      "size": 5799744,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pg4qt7-81woog-2rsbrt/8831C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pg4qt7-81woog-2rsbrt/v/2444631/original/8831C.png?Expires=1784331586&KeyName=gcs-bfldr-prod&Signature=tDD0CZprhaDRnGgcVwJHQfrRMsY=",
+      "url": "https://storage-us-gcs.bfldr.com/pg4qt7-81woog-2rsbrt/v/2444631/original/8831C.png?Expires=1784331586&KeyName=gcs-bfldr-prod&Signature=tDD0CZprhaDRnGgcVwJHQfrRMsY="
+    },
+    {
+      "attachment_id": "pg4qt7-81woog-hze7t",
+      "filename": "8831Y1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 26556987,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pg4qt7-81woog-hze7t/8831Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pg4qt7-81woog-hze7t/v/2444632/original/8831Y1.jpg?Expires=1784331586&KeyName=gcs-bfldr-prod&Signature=Uzx2UZeu8SyP-vdQfbAWOC5ASYI=",
+      "url": "https://storage-us-gcs.bfldr.com/pg4qt7-81woog-hze7t/v/2444632/original/8831Y1.jpg?Expires=1784331586&KeyName=gcs-bfldr-prod&Signature=Uzx2UZeu8SyP-vdQfbAWOC5ASYI="
+    }
+  ]
+}

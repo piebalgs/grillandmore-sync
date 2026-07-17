@@ -1,0 +1,164 @@
+{
+  "cache_version": 5,
+  "sku": "7688",
+  "assets": [
+    {
+      "asset_id": "7w5kcmqckqjgj3scqn7xkf",
+      "asset_name": "Weber Crafted Overview Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7684",
+        "7678",
+        "7686",
+        "7688",
+        "7673",
+        "7675",
+        "7670",
+        "7853",
+        "7606",
+        "7854",
+        "7856",
+        "7672",
+        "7680",
+        "7674",
+        "7685",
+        "7860",
+        "3400843",
+        "7682",
+        "7681",
+        "7849",
+        "7607",
+        "7852",
+        "7683",
+        "7687",
+        "7677",
+        "7671"
+      ]
+    },
+    {
+      "asset_id": "368p23qr8cnt9c7jfcwjhn",
+      "asset_name": "Spirit/SmokeFire Frame Kit Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7678",
+        "7688"
+      ]
+    },
+    {
+      "asset_id": "s83s7b75rxpf2bxcn9473svs",
+      "asset_name": "Spirit/SmokeFire Frame Kit Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7678",
+        "7688"
+      ]
+    },
+    {
+      "asset_id": "xgx6p9kcb4twf57pp87vq9",
+      "asset_name": "Weber Crafted Frame Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7687",
+        "7677",
+        "7678",
+        "7688"
+      ]
+    },
+    {
+      "asset_id": "hmjgcs343xsxkskbpfswstz",
+      "asset_name": "Weber Crafted Frame Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7678",
+        "7687",
+        "7677",
+        "7688"
+      ]
+    },
+    {
+      "asset_id": "75pb9kqn9jj9thkc6n3njc",
+      "asset_name": "Weber Crafted Frame Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7687",
+        "7688",
+        "7677",
+        "7678"
+      ]
+    },
+    {
+      "asset_id": "hghjjqm58wv8h4b3rq9g94",
+      "asset_name": "Weber Crafted Frame Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7688",
+        "7687",
+        "7678",
+        "7677"
+      ]
+    },
+    {
+      "asset_id": "3brfpmfw7scst757qshxfgnq",
+      "asset_name": "Frame Kit Overview Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7678",
+        "7677",
+        "7687",
+        "7688"
+      ]
+    },
+    {
+      "asset_id": "xzj68rkjr8mzkmtntxrqfvw",
+      "asset_name": "53845 7688FrameKit WC EMEA 0125 RevC",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7688"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "832987432tcpmc7njqq9x7b",
+      "filename": "Spirit SmokeFire Frame Kit 7678 7688 Product 7678A_rgb.png",
+      "extension": "png",
+      "position": 4,
+      "width": 5000,
+      "height": 5000,
+      "size": 11606858,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/832987432tcpmc7njqq9x7b/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/832987432tcpmc7njqq9x7b/v/1279527336/original/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678A_rgb.png?Expires=1784322754&KeyName=gcs-bfldr-prod&Signature=764l7fNLaIxmk1bCq2OXo4TG7QU=",
+      "url": "https://storage-us-gcs.bfldr.com/832987432tcpmc7njqq9x7b/v/1279527336/original/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678A_rgb.png?Expires=1784322754&KeyName=gcs-bfldr-prod&Signature=764l7fNLaIxmk1bCq2OXo4TG7QU="
+    },
+    {
+      "attachment_id": "t8nwqmt63mmf9mf6z4vqc4c",
+      "filename": "Spirit SmokeFire Frame Kit 7678 7688 Product 7678B_rgb.png",
+      "extension": "png",
+      "position": 5,
+      "width": 4000,
+      "height": 4000,
+      "size": 9723208,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/t8nwqmt63mmf9mf6z4vqc4c/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/t8nwqmt63mmf9mf6z4vqc4c/v/1279527337/original/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678B_rgb.png?Expires=1784322754&KeyName=gcs-bfldr-prod&Signature=k_lIhbJ6QPTCYjulorl3xkhdqXs=",
+      "url": "https://storage-us-gcs.bfldr.com/t8nwqmt63mmf9mf6z4vqc4c/v/1279527337/original/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678B_rgb.png?Expires=1784322754&KeyName=gcs-bfldr-prod&Signature=k_lIhbJ6QPTCYjulorl3xkhdqXs="
+    },
+    {
+      "attachment_id": "bt72p99z7qsv8z9tt5vf",
+      "filename": "Spirit SmokeFire Frame Kit 7678 7688 Product 7678C_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 3301001,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bt72p99z7qsv8z9tt5vf/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/bt72p99z7qsv8z9tt5vf/v/1279527339/original/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678C_rgb.png?Expires=1784322754&KeyName=gcs-bfldr-prod&Signature=hopVNHlJSjvjw82-S1C7fj3daD4=",
+      "url": "https://storage-us-gcs.bfldr.com/bt72p99z7qsv8z9tt5vf/v/1279527339/original/Spirit%20SmokeFire%20Frame%20Kit%207678%207688%20Product%207678C_rgb.png?Expires=1784322754&KeyName=gcs-bfldr-prod&Signature=hopVNHlJSjvjw82-S1C7fj3daD4="
+    }
+  ]
+}

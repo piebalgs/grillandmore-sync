@@ -1,0 +1,365 @@
+{
+  "cache_version": 5,
+  "sku": "1500629",
+  "assets": [
+    {
+      "asset_id": "8mbsc3v7krn3vfk4r2mv6w",
+      "asset_name": "1500629 BBQ Kitchen Gas 331 - Genesis",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "npwhvth89wpf9rtvpmk4833m",
+      "asset_name": "(cze) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "c7fw3tprqwrwgjv9cs4484t",
+      "asset_name": "(dan) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500629",
+        "1500628"
+      ]
+    },
+    {
+      "asset_id": "6fghj3fwfxmwj2wv32n35v",
+      "asset_name": "(dut-NL) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "3ghrn5m5vm74g2k57w5b7wm",
+      "asset_name": "(eng-GB) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "f66nkmb72xmph75cn65b4z6j",
+      "asset_name": "(enus) Weber BBQ Kitchen 331 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "wxtnxfwt2psr4vntqr3sf67",
+      "asset_name": "(fin) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "7r25mns4mg37rj2xct7wqsn4",
+      "asset_name": "(fre-FR) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500629",
+        "1500628"
+      ]
+    },
+    {
+      "asset_id": "5rs9bbs8nj8p5ph8n5jcvrg",
+      "asset_name": "(ger-DE) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "h68tqxgb2m2hxn5jtgfpjjxh",
+      "asset_name": "(ita-IT) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "nwbzm78cbz7kgxr8wvkhv4ht",
+      "asset_name": "(no) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "3w73cmxvj6pgxk2v55m377nq",
+      "asset_name": "(pol) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "8vsv6tjxrhwpvk9nfgbtn",
+      "asset_name": "(por-PT) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "7hchj4s8rbfvkxrtfv7xqz",
+      "asset_name": "(spa-ES) BBQK 331 Built-In Kitchen MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500628",
+        "1500629"
+      ]
+    },
+    {
+      "asset_id": "qmj7qb9jcvfrbb4wcsshb48g",
+      "asset_name": "1500629 Weber BBQ Kitchen Gas 331 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500629"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "kf4762khwqhx3wbx8jwpf8n",
+      "filename": "1500629 Weber BBQ Kitchen Gas 331_Lifestyle.png",
+      "extension": "png",
+      "position": 0,
+      "width": 800,
+      "height": 534,
+      "size": 751559,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kf4762khwqhx3wbx8jwpf8n/1500629%20Weber%20BBQ%20Kitchen%20Gas%20331_Lifestyle.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kf4762khwqhx3wbx8jwpf8n/v/1275232067/original/1500629%20Weber%20BBQ%20Kitchen%20Gas%20331_Lifestyle.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=w4flZHZZriEIgmFpBVVG-GtprbI=",
+      "url": "https://storage-us-gcs.bfldr.com/kf4762khwqhx3wbx8jwpf8n/v/1275232067/original/1500629%20Weber%20BBQ%20Kitchen%20Gas%20331_Lifestyle.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=w4flZHZZriEIgmFpBVVG-GtprbI="
+    },
+    {
+      "attachment_id": "s3xkpk8mcg8mpnm8rgctqx7",
+      "filename": "1500629_BBQK Gas 331_Genesis300 Connect_1800-1800_1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 408897,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/s3xkpk8mcg8mpnm8rgctqx7/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/s3xkpk8mcg8mpnm8rgctqx7/v/1263107520/original/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_1.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=0FyRYpQHxoO-jgiUfPViZFijypw=",
+      "url": "https://storage-us-gcs.bfldr.com/s3xkpk8mcg8mpnm8rgctqx7/v/1263107520/original/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_1.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=0FyRYpQHxoO-jgiUfPViZFijypw="
+    },
+    {
+      "attachment_id": "mvk6r4ckg597k9rq4s9n2c",
+      "filename": "1500629_BBQK Gas 331_Genesis300 Connect_1800-1800_2.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 504704,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mvk6r4ckg597k9rq4s9n2c/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mvk6r4ckg597k9rq4s9n2c/v/1263107521/original/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_2.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=Wwda_9Rlm5ifdv3m02AJkc01lZs=",
+      "url": "https://storage-us-gcs.bfldr.com/mvk6r4ckg597k9rq4s9n2c/v/1263107521/original/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_2.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=Wwda_9Rlm5ifdv3m02AJkc01lZs="
+    },
+    {
+      "attachment_id": "r4wxr727xvkhbxrz4qsmcxr6",
+      "filename": "1500629_BBQK Gas 331_Genesis300 Connect_1800-1800_3.png",
+      "extension": "png",
+      "position": 2,
+      "width": 1800,
+      "height": 1800,
+      "size": 392579,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r4wxr727xvkhbxrz4qsmcxr6/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/r4wxr727xvkhbxrz4qsmcxr6/v/1263107522/original/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_3.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=yxyiyW2j4pLQZ--YkdiQf_uvC0Y=",
+      "url": "https://storage-us-gcs.bfldr.com/r4wxr727xvkhbxrz4qsmcxr6/v/1263107522/original/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_3.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=yxyiyW2j4pLQZ--YkdiQf_uvC0Y="
+    },
+    {
+      "attachment_id": "3mhjqqbpwbm2zc7c8jpkc",
+      "filename": "1500629_BBQK Gas 331_Genesis300 Connect_1800-1800_4.png",
+      "extension": "png",
+      "position": 3,
+      "width": 1800,
+      "height": 1800,
+      "size": 657447,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3mhjqqbpwbm2zc7c8jpkc/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_4.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3mhjqqbpwbm2zc7c8jpkc/v/1263107523/original/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_4.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=1A4Uwj7LMre3RNQkTZC6_uSeQEg=",
+      "url": "https://storage-us-gcs.bfldr.com/3mhjqqbpwbm2zc7c8jpkc/v/1263107523/original/1500629_BBQK%20Gas%20331_Genesis300%20Connect_1800-1800_4.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=1A4Uwj7LMre3RNQkTZC6_uSeQEg="
+    },
+    {
+      "attachment_id": "m9j5fmp86hksg3hmhxvfcs3q",
+      "filename": "1500629_BBQK Gas 331_Genesis300_1800-1800_1.png",
+      "extension": "png",
+      "position": 4,
+      "width": 1800,
+      "height": 1800,
+      "size": 409015,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/m9j5fmp86hksg3hmhxvfcs3q/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/m9j5fmp86hksg3hmhxvfcs3q/v/1263107524/original/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_1.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=VHRB5UznFbm32Hq2MZ7LE3uCpGo=",
+      "url": "https://storage-us-gcs.bfldr.com/m9j5fmp86hksg3hmhxvfcs3q/v/1263107524/original/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_1.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=VHRB5UznFbm32Hq2MZ7LE3uCpGo="
+    },
+    {
+      "attachment_id": "pvf7kv6s965crr5xzn3v4",
+      "filename": "1500629_BBQK Gas 331_Genesis300_1800-1800_2.png",
+      "extension": "png",
+      "position": 5,
+      "width": 1800,
+      "height": 1800,
+      "size": 505924,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pvf7kv6s965crr5xzn3v4/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pvf7kv6s965crr5xzn3v4/v/1263107525/original/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_2.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=ZB5N8KsUzZuHpL8IsXSNQstw3Mk=",
+      "url": "https://storage-us-gcs.bfldr.com/pvf7kv6s965crr5xzn3v4/v/1263107525/original/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_2.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=ZB5N8KsUzZuHpL8IsXSNQstw3Mk="
+    },
+    {
+      "attachment_id": "6xcq7bp9xn4t5trwpphg75",
+      "filename": "1500629_BBQK Gas 331_Genesis300_1800-1800_3.png",
+      "extension": "png",
+      "position": 6,
+      "width": 1800,
+      "height": 1800,
+      "size": 396914,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6xcq7bp9xn4t5trwpphg75/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6xcq7bp9xn4t5trwpphg75/v/1263107526/original/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_3.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=N7TzsdmNXWBa6uiyAv8i1EFVKto=",
+      "url": "https://storage-us-gcs.bfldr.com/6xcq7bp9xn4t5trwpphg75/v/1263107526/original/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_3.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=N7TzsdmNXWBa6uiyAv8i1EFVKto="
+    },
+    {
+      "attachment_id": "v7hc38vtsfkgp9jrbr67tgtw",
+      "filename": "1500629_BBQK Gas 331_Genesis300_1800-1800_4.png",
+      "extension": "png",
+      "position": 7,
+      "width": 1800,
+      "height": 1800,
+      "size": 649901,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/v7hc38vtsfkgp9jrbr67tgtw/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_4.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/v7hc38vtsfkgp9jrbr67tgtw/v/1263107528/original/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_4.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=HZkdmIOgCLKMfpZ-Spp7POKe58c=",
+      "url": "https://storage-us-gcs.bfldr.com/v7hc38vtsfkgp9jrbr67tgtw/v/1263107528/original/1500629_BBQK%20Gas%20331_Genesis300_1800-1800_4.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=HZkdmIOgCLKMfpZ-Spp7POKe58c="
+    },
+    {
+      "attachment_id": "4vpp7wtzh343cnwzw5xv8c",
+      "filename": "1500629_BBQK Gas 331_Genesis400 Connect_1800-1800_1.png",
+      "extension": "png",
+      "position": 8,
+      "width": 1800,
+      "height": 1800,
+      "size": 426583,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4vpp7wtzh343cnwzw5xv8c/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4vpp7wtzh343cnwzw5xv8c/v/1263107529/original/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_1.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=CdeB219WthOX24gSpon8xMDoaUQ=",
+      "url": "https://storage-us-gcs.bfldr.com/4vpp7wtzh343cnwzw5xv8c/v/1263107529/original/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_1.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=CdeB219WthOX24gSpon8xMDoaUQ="
+    },
+    {
+      "attachment_id": "hmtmtrpqjmb73k67twhqs6z",
+      "filename": "1500629_BBQK Gas 331_Genesis400 Connect_1800-1800_2.png",
+      "extension": "png",
+      "position": 9,
+      "width": 1800,
+      "height": 1800,
+      "size": 533797,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hmtmtrpqjmb73k67twhqs6z/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hmtmtrpqjmb73k67twhqs6z/v/1263107530/original/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_2.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=zD6sTMIZ_8xo823YPbPXzDxspnk=",
+      "url": "https://storage-us-gcs.bfldr.com/hmtmtrpqjmb73k67twhqs6z/v/1263107530/original/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_2.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=zD6sTMIZ_8xo823YPbPXzDxspnk="
+    },
+    {
+      "attachment_id": "pw3nbq99vg3fwmkfkxbrkt",
+      "filename": "1500629_BBQK Gas 331_Genesis400 Connect_1800-1800_3.png",
+      "extension": "png",
+      "position": 10,
+      "width": 1800,
+      "height": 1800,
+      "size": 414928,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pw3nbq99vg3fwmkfkxbrkt/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pw3nbq99vg3fwmkfkxbrkt/v/1263107531/original/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_3.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=--ONoHHY-1mWe3lrFunF4lJ_EjE=",
+      "url": "https://storage-us-gcs.bfldr.com/pw3nbq99vg3fwmkfkxbrkt/v/1263107531/original/1500629_BBQK%20Gas%20331_Genesis400%20Connect_1800-1800_3.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=--ONoHHY-1mWe3lrFunF4lJ_EjE="
+    },
+    {
+      "attachment_id": "q8p3mq5z597hm7gvn4pmk7h3",
+      "filename": "1500629_BBQK Gas 331_Genesis400_1800-1800_1.png",
+      "extension": "png",
+      "position": 11,
+      "width": 1800,
+      "height": 1800,
+      "size": 427426,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q8p3mq5z597hm7gvn4pmk7h3/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q8p3mq5z597hm7gvn4pmk7h3/v/1263107533/original/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_1.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=XTuzuvZD55hoZmHuiE_oOo6UFY4=",
+      "url": "https://storage-us-gcs.bfldr.com/q8p3mq5z597hm7gvn4pmk7h3/v/1263107533/original/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_1.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=XTuzuvZD55hoZmHuiE_oOo6UFY4="
+    },
+    {
+      "attachment_id": "mw4v4p5589k7qpwnbnsr9bz",
+      "filename": "1500629_BBQK Gas 331_Genesis400_1800-1800_2.png",
+      "extension": "png",
+      "position": 12,
+      "width": 1800,
+      "height": 1800,
+      "size": 533938,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mw4v4p5589k7qpwnbnsr9bz/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mw4v4p5589k7qpwnbnsr9bz/v/1263107534/original/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_2.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=Nau-ZGA0Jemd4nnF4W1SBT30vuk=",
+      "url": "https://storage-us-gcs.bfldr.com/mw4v4p5589k7qpwnbnsr9bz/v/1263107534/original/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_2.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=Nau-ZGA0Jemd4nnF4W1SBT30vuk="
+    },
+    {
+      "attachment_id": "3zjff9pvk346ms8tnghnpf4",
+      "filename": "1500629_BBQK Gas 331_Genesis400_1800-1800_3.png",
+      "extension": "png",
+      "position": 13,
+      "width": 1800,
+      "height": 1800,
+      "size": 419277,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3zjff9pvk346ms8tnghnpf4/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3zjff9pvk346ms8tnghnpf4/v/1263107535/original/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_3.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=U5e3hc6gAOr8QdVy6dB_SdebjSM=",
+      "url": "https://storage-us-gcs.bfldr.com/3zjff9pvk346ms8tnghnpf4/v/1263107535/original/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_3.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=U5e3hc6gAOr8QdVy6dB_SdebjSM="
+    },
+    {
+      "attachment_id": "3bk8346gq8m8j92z79fzkh",
+      "filename": "1500629_BBQK Gas 331_Genesis400_1800-1800_4.png",
+      "extension": "png",
+      "position": 14,
+      "width": 1800,
+      "height": 1800,
+      "size": 744929,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3bk8346gq8m8j92z79fzkh/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_4.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3bk8346gq8m8j92z79fzkh/v/1263107536/original/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_4.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=kLDAw9sh8Eo6lNKAX6malkpWvPc=",
+      "url": "https://storage-us-gcs.bfldr.com/3bk8346gq8m8j92z79fzkh/v/1263107536/original/1500629_BBQK%20Gas%20331_Genesis400_1800-1800_4.png?Expires=1784318305&KeyName=gcs-bfldr-prod&Signature=kLDAw9sh8Eo6lNKAX6malkpWvPc="
+    }
+  ]
+}

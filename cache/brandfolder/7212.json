@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "7212",
+  "assets": [
+    {
+      "asset_id": "phhlw2-cpwbyg-be20tz",
+      "asset_name": "Pro Ambient Probe 7212 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7212"
+      ]
+    },
+    {
+      "asset_id": "q4zj9w-54c58g-g46n2b",
+      "asset_name": "Pro Ambient Probe 7212 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7212"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "phhlw2-cpwbyg-yf1cx",
+      "filename": "7212_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 4934575,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phhlw2-cpwbyg-yf1cx/7212_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phhlw2-cpwbyg-yf1cx/v/1031542649/original/7212_rgb.png?Expires=1784333717&KeyName=gcs-bfldr-prod&Signature=yQyO3nBGn-dLOFxKQgCDFYWzWMs=",
+      "url": "https://storage-us-gcs.bfldr.com/phhlw2-cpwbyg-yf1cx/v/1031542649/original/7212_rgb.png?Expires=1784333717&KeyName=gcs-bfldr-prod&Signature=yQyO3nBGn-dLOFxKQgCDFYWzWMs="
+    }
+  ]
+}

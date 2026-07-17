@@ -1,0 +1,85 @@
+{
+  "cache_version": 5,
+  "sku": "1331004",
+  "assets": [
+    {
+      "asset_id": "pfdaun-52zfdk-7ltppp",
+      "asset_name": "1331004 57CM Bar B Kettle Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1331004"
+      ]
+    },
+    {
+      "asset_id": "pfdaiq-a8rrgw-8wsdq1",
+      "asset_name": "Ash Catcher",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1231004",
+        "1331004"
+      ]
+    },
+    {
+      "asset_id": "pfdaiq-a8rrgw-152ffu",
+      "asset_name": "Lid and Bowl",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1331004",
+        "1231004"
+      ]
+    },
+    {
+      "asset_id": "pfdaiq-a8rrgw-f61ipl",
+      "asset_name": "Wheels",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1231004",
+        "1331004"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pfdaun-52zfdk-266n5",
+      "filename": "1331004A.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2372,
+      "height": 3258,
+      "size": 5418159,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfdaun-52zfdk-266n5/1331004A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfdaun-52zfdk-266n5/v/2367860/original/1331004A.png?Expires=1784319381&KeyName=gcs-bfldr-prod&Signature=1JgUL9s5ARO7nUlu3-wH9IlRxsU=",
+      "url": "https://storage-us-gcs.bfldr.com/pfdaun-52zfdk-266n5/v/2367860/original/1331004A.png?Expires=1784319381&KeyName=gcs-bfldr-prod&Signature=1JgUL9s5ARO7nUlu3-wH9IlRxsU="
+    },
+    {
+      "attachment_id": "pfdaun-52zfdk-1q1d9y",
+      "filename": "1331004B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2199,
+      "height": 3384,
+      "size": 4813311,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfdaun-52zfdk-1q1d9y/1331004B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfdaun-52zfdk-1q1d9y/v/2367863/original/1331004B.png?Expires=1784319381&KeyName=gcs-bfldr-prod&Signature=TVeLiq5Jof_FNsfXJlziN8ck4Bo=",
+      "url": "https://storage-us-gcs.bfldr.com/pfdaun-52zfdk-1q1d9y/v/2367863/original/1331004B.png?Expires=1784319381&KeyName=gcs-bfldr-prod&Signature=TVeLiq5Jof_FNsfXJlziN8ck4Bo="
+    },
+    {
+      "attachment_id": "pfdaun-52zfdk-gi6pmf",
+      "filename": "1331004C.png",
+      "extension": "png",
+      "position": 4,
+      "width": 2357,
+      "height": 3249,
+      "size": 5318213,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfdaun-52zfdk-gi6pmf/1331004C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfdaun-52zfdk-gi6pmf/v/2367864/original/1331004C.png?Expires=1784319381&KeyName=gcs-bfldr-prod&Signature=t0zx87Hs1-gNjIPKrbN5CvRqC6Q=",
+      "url": "https://storage-us-gcs.bfldr.com/pfdaun-52zfdk-gi6pmf/v/2367864/original/1331004C.png?Expires=1784319381&KeyName=gcs-bfldr-prod&Signature=t0zx87Hs1-gNjIPKrbN5CvRqC6Q="
+    }
+  ]
+}

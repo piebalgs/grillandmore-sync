@@ -1,0 +1,206 @@
+{
+  "cache_version": 5,
+  "sku": "3400859",
+  "assets": [
+    {
+      "asset_id": "4gvw4tt8j8r5v8p4s88n9q4c",
+      "asset_name": "[AUNZ/AMER/EMEA] Weber Q2XXXN/ Q2XXXN+  Rotisserie",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859",
+        "3400243",
+        "3400264",
+        "3401866"
+      ]
+    },
+    {
+      "asset_id": "scrjs4nwjbswk97j6c35xj",
+      "asset_name": "[AUNZ/AMER/EMEA] Weber Q2XXXN/ Q2XXXN+  Rotisserie",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400243",
+        "3400264",
+        "3400859",
+        "3401866"
+      ]
+    },
+    {
+      "asset_id": "b3p9q69j8xncm4rfcnhhbcn",
+      "asset_name": "(cze) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "b8pt7jks5fknbtb67zc45q29",
+      "asset_name": "(dan) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "mbshn3f35389b57j69h2v5",
+      "asset_name": "(dut-NL) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "p8k8b6njphgv399mnnxn5nw",
+      "asset_name": "(eng-GB) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "h599vmvcb3kr3sj2t4hvfr",
+      "asset_name": "(fin) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "4w7skx24b8m454c7b4s25m",
+      "asset_name": "(fre-FR) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "3v7z35gz5tpb2q7zx6fs53tx",
+      "asset_name": "(ger-DE) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "8bxn4fr9vm5wgq9w348jjnv",
+      "asset_name": "(ita-IT) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "jb9szggkf6928vt8x3g3r6j",
+      "asset_name": "(no) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "hw8xfg3ff5gwsbfpwg5kfx9",
+      "asset_name": "(pol) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "xrpkq3qbxq7cnnckswstswt",
+      "asset_name": "(por-PT) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "kssrphgfrhmw2r3qjgk3ws3",
+      "asset_name": "(sk) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "h8k4vvrhmnpqhrmnsfq6tk",
+      "asset_name": "(spa-ES) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "2k54pqf4kjrz5cshb35j8t3z",
+      "asset_name": "(swe-SE) Rotisserie Q 2100N  2200N  and 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    },
+    {
+      "asset_id": "qq7q9ncmp5k9jg8kct69cvw",
+      "asset_name": "9501377 0125 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400859"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "q6fpr5g8bvg98n25v5pcnwpw",
+      "filename": "3400243_C_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 411794,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q6fpr5g8bvg98n25v5pcnwpw/3400243_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q6fpr5g8bvg98n25v5pcnwpw/v/1273786959/original/3400243_C_rgb.png?Expires=1784303833&KeyName=gcs-bfldr-prod&Signature=vUAbWPJgoFE--Byv7ZF70EYvTZQ=",
+      "url": "https://storage-us-gcs.bfldr.com/q6fpr5g8bvg98n25v5pcnwpw/v/1273786959/original/3400243_C_rgb.png?Expires=1784303833&KeyName=gcs-bfldr-prod&Signature=vUAbWPJgoFE--Byv7ZF70EYvTZQ="
+    },
+    {
+      "attachment_id": "cgsq2q6tx36n84cgz54wm4",
+      "filename": "3400243_M_EMEA_2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2972,
+      "size": 2142369,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cgsq2q6tx36n84cgz54wm4/3400243_M_EMEA_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cgsq2q6tx36n84cgz54wm4/v/1273786961/original/3400243_M_EMEA_2_rgb.jpg?Expires=1784303833&KeyName=gcs-bfldr-prod&Signature=kuIpnde8K-DxUcTiKrjhRScI-ws=",
+      "url": "https://storage-us-gcs.bfldr.com/cgsq2q6tx36n84cgz54wm4/v/1273786961/original/3400243_M_EMEA_2_rgb.jpg?Expires=1784303833&KeyName=gcs-bfldr-prod&Signature=kuIpnde8K-DxUcTiKrjhRScI-ws="
+    },
+    {
+      "attachment_id": "hp9kkhvjx7jx4tb7cmwkqh8",
+      "filename": "3400243_M_EMEA_ALT_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 2972,
+      "size": 2100291,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hp9kkhvjx7jx4tb7cmwkqh8/3400243_M_EMEA_ALT_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hp9kkhvjx7jx4tb7cmwkqh8/v/1273786962/original/3400243_M_EMEA_ALT_rgb.jpg?Expires=1784303833&KeyName=gcs-bfldr-prod&Signature=4FI98zJp-mwCMusJxsgkNIHi_wA=",
+      "url": "https://storage-us-gcs.bfldr.com/hp9kkhvjx7jx4tb7cmwkqh8/v/1273786962/original/3400243_M_EMEA_ALT_rgb.jpg?Expires=1784303833&KeyName=gcs-bfldr-prod&Signature=4FI98zJp-mwCMusJxsgkNIHi_wA="
+    },
+    {
+      "attachment_id": "99ps5pmm5rxn56w7kgv8cpb5",
+      "filename": "3400243_M_EMEA_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 2972,
+      "size": 2077512,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/99ps5pmm5rxn56w7kgv8cpb5/3400243_M_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/99ps5pmm5rxn56w7kgv8cpb5/v/1273786963/original/3400243_M_EMEA_rgb.jpg?Expires=1784303833&KeyName=gcs-bfldr-prod&Signature=CtJ6lwwONfzMxM3l8BujNZ1iN0c=",
+      "url": "https://storage-us-gcs.bfldr.com/99ps5pmm5rxn56w7kgv8cpb5/v/1273786963/original/3400243_M_EMEA_rgb.jpg?Expires=1784303833&KeyName=gcs-bfldr-prod&Signature=CtJ6lwwONfzMxM3l8BujNZ1iN0c="
+    }
+  ]
+}

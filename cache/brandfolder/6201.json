@@ -1,0 +1,46 @@
+{
+  "cache_version": 5,
+  "sku": "6201",
+  "assets": [
+    {
+      "asset_id": "q5uxuy-c4i9qg-g9urt6",
+      "asset_name": "Cookbox Scraper 6201 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6201"
+      ]
+    },
+    {
+      "asset_id": "8zjpq8fqvz5q5r8k3qc6mn3",
+      "asset_name": "Cookbox Scraper 6201",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6201"
+      ]
+    },
+    {
+      "asset_id": "bwf43hnspzbhhktzbnn5qpct",
+      "asset_name": "51173 0917 RevA Front",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6201"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "z6vpc2s5kpxfb64n8bg34g",
+      "filename": "6201_REV.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 233097,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/z6vpc2s5kpxfb64n8bg34g/6201_REV.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/z6vpc2s5kpxfb64n8bg34g/v/1303768072/original/6201_REV.png?Expires=1784322745&KeyName=gcs-bfldr-prod&Signature=sqp7Zt9lUAsd0Ux4YttGoWrS2hM=",
+      "url": "https://storage-us-gcs.bfldr.com/z6vpc2s5kpxfb64n8bg34g/v/1303768072/original/6201_REV.png?Expires=1784322745&KeyName=gcs-bfldr-prod&Signature=sqp7Zt9lUAsd0Ux4YttGoWrS2hM="
+    }
+  ]
+}

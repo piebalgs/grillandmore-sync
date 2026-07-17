@@ -1,0 +1,49 @@
+{
+  "cache_version": 2,
+  "sku": "1502291",
+  "assets": [
+    {
+      "asset_id": "nm45fvmppvkrrgqmtxfmns",
+      "asset_name": "[EMEA] Genesis E-330WR [Stealth]",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "gxtfn83gtqfmx73skfh8msjz",
+      "filename": "1501537_LP_GENESIS_E330WR_STEALTH_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gxtfn83gtqfmx73skfh8msjz/1501537_LP_GENESIS_E330WR_STEALTH_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gxtfn83gtqfmx73skfh8msjz/v/1307329847/original/1501537_LP_GENESIS_E330WR_STEALTH_A_rgb.png?Expires=1784296876&KeyName=gcs-bfldr-prod&Signature=OjlX3wE7G1OT5CeWaDKkUk5-RfE=",
+      "url": "https://storage-us-gcs.bfldr.com/gxtfn83gtqfmx73skfh8msjz/v/1307329847/original/1501537_LP_GENESIS_E330WR_STEALTH_A_rgb.png?Expires=1784296876&KeyName=gcs-bfldr-prod&Signature=OjlX3wE7G1OT5CeWaDKkUk5-RfE="
+    },
+    {
+      "attachment_id": "khnsxcchbn37fwcmf96qwfr",
+      "filename": "1501537_LP_GENESIS_E330WR_STEALTH_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/khnsxcchbn37fwcmf96qwfr/1501537_LP_GENESIS_E330WR_STEALTH_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/khnsxcchbn37fwcmf96qwfr/v/1307329852/original/1501537_LP_GENESIS_E330WR_STEALTH_B_rgb.png?Expires=1784296876&KeyName=gcs-bfldr-prod&Signature=R0sPNeY2krY7ztfHBX6aIv0AQjE=",
+      "url": "https://storage-us-gcs.bfldr.com/khnsxcchbn37fwcmf96qwfr/v/1307329852/original/1501537_LP_GENESIS_E330WR_STEALTH_B_rgb.png?Expires=1784296876&KeyName=gcs-bfldr-prod&Signature=R0sPNeY2krY7ztfHBX6aIv0AQjE="
+    },
+    {
+      "attachment_id": "h37t668njn8xq49vgjkmgb",
+      "filename": "1501537_LP_GENESIS_E330WR_STEALTH_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4200,
+      "height": 4200,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/h37t668njn8xq49vgjkmgb/1501537_LP_GENESIS_E330WR_STEALTH_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/h37t668njn8xq49vgjkmgb/v/1307329856/original/1501537_LP_GENESIS_E330WR_STEALTH_C_rgb.png?Expires=1784296876&KeyName=gcs-bfldr-prod&Signature=91NhNmZ490OOqNjmZsEUDPbAAZk=",
+      "url": "https://storage-us-gcs.bfldr.com/h37t668njn8xq49vgjkmgb/v/1307329856/original/1501537_LP_GENESIS_E330WR_STEALTH_C_rgb.png?Expires=1784296876&KeyName=gcs-bfldr-prod&Signature=91NhNmZ490OOqNjmZsEUDPbAAZk="
+    }
+  ]
+}

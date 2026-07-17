@@ -1,0 +1,106 @@
+{
+  "cache_version": 5,
+  "sku": "3400855",
+  "assets": [
+    {
+      "asset_id": "kj7xsvbbxxxv8j7brthqnt5",
+      "asset_name": "[AUNZ/EMEA/AMER] Weber Q Compact Stand",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400262",
+        "3400177",
+        "3400855"
+      ]
+    },
+    {
+      "asset_id": "pw8x3zvphh9g5mr9g8bfv2g",
+      "asset_name": "[AUNZ/EMEA/AMER] Weber Q Compact Stand",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400855",
+        "3400177",
+        "3400262"
+      ]
+    },
+    {
+      "asset_id": "mr7scs58kr9m3jn9mkn4mm",
+      "asset_name": "9501510 0225 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400855"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "kcvc27ngxw3vx5g7kr7rc",
+      "filename": "3400262Y_ALT_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 2089,
+      "size": 13636396,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kcvc27ngxw3vx5g7kr7rc/3400262Y_ALT_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kcvc27ngxw3vx5g7kr7rc/v/1273782526/original/3400262Y_ALT_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=h-V7Qr5PaUlO1J5ZuVLAQrnZ_7Q=",
+      "url": "https://storage-us-gcs.bfldr.com/kcvc27ngxw3vx5g7kr7rc/v/1273782526/original/3400262Y_ALT_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=h-V7Qr5PaUlO1J5ZuVLAQrnZ_7Q="
+    },
+    {
+      "attachment_id": "jk49h5jgwvwp2f64936cbzsv",
+      "filename": "3400855A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2500,
+      "height": 2500,
+      "size": 6788487,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jk49h5jgwvwp2f64936cbzsv/3400855A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jk49h5jgwvwp2f64936cbzsv/v/1263105698/original/3400855A_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=fDhTKOBNs9ZibaFQY1NsP-K63Is=",
+      "url": "https://storage-us-gcs.bfldr.com/jk49h5jgwvwp2f64936cbzsv/v/1263105698/original/3400855A_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=fDhTKOBNs9ZibaFQY1NsP-K63Is="
+    },
+    {
+      "attachment_id": "b68h7fn9pf5k7c5qhmqwfp9m",
+      "filename": "3400855B_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 2500,
+      "height": 2500,
+      "size": 6596442,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/b68h7fn9pf5k7c5qhmqwfp9m/3400855B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/b68h7fn9pf5k7c5qhmqwfp9m/v/1263105699/original/3400855B_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=ix9XyYDvRqoJ27Xx9kKFcZff5Ck=",
+      "url": "https://storage-us-gcs.bfldr.com/b68h7fn9pf5k7c5qhmqwfp9m/v/1263105699/original/3400855B_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=ix9XyYDvRqoJ27Xx9kKFcZff5Ck="
+    },
+    {
+      "attachment_id": "3p785g9gwvg5nv5g54nhpgvn",
+      "filename": "3400855C_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 2500,
+      "height": 2500,
+      "size": 6760045,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3p785g9gwvg5nv5g54nhpgvn/3400855C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3p785g9gwvg5nv5g54nhpgvn/v/1263105700/original/3400855C_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=iWkgM3RgaMv3LbJ-QnTd106HM7U=",
+      "url": "https://storage-us-gcs.bfldr.com/3p785g9gwvg5nv5g54nhpgvn/v/1263105700/original/3400855C_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=iWkgM3RgaMv3LbJ-QnTd106HM7U="
+    },
+    {
+      "attachment_id": "879zkx29n848khn5r37wjs4",
+      "filename": "3400855T_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2500,
+      "height": 2500,
+      "size": 7151827,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/879zkx29n848khn5r37wjs4/3400855T_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/879zkx29n848khn5r37wjs4/v/1263105701/original/3400855T_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=WTlJZD-t3EuqUqYYCN6C6ody8Eo=",
+      "url": "https://storage-us-gcs.bfldr.com/879zkx29n848khn5r37wjs4/v/1263105701/original/3400855T_rgb.png?Expires=1784305412&KeyName=gcs-bfldr-prod&Signature=WTlJZD-t3EuqUqYYCN6C6ody8Eo="
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "cache_version": 5,
+  "sku": "7193",
+  "assets": [
+    {
+      "asset_id": "pucc1y-e7h1lk-d2n9bm",
+      "asset_name": "7191/7193 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7193",
+        "7191"
+      ]
+    },
+    {
+      "asset_id": "pudsdp-bizopc-c98kmd",
+      "asset_name": "7191/7193 Straps",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7193",
+        "7191"
+      ]
+    },
+    {
+      "asset_id": "pudrsj-aokuco-7c8mwx",
+      "asset_name": "7191/7193 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7193",
+        "7191"
+      ]
+    },
+    {
+      "asset_id": "q5v7vc-bjax0w-sqraz",
+      "asset_name": "7193 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7193"
+      ]
+    },
+    {
+      "asset_id": "6wq964jp5z6c56wnh3cz6tbj",
+      "asset_name": "51820 0120 RevB lr",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7193"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "q3sx5q-c9qs00-d2mxut",
+      "filename": "7191_7193A.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2500,
+      "height": 2500,
+      "size": 4847735,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q3sx5q-c9qs00-d2mxut/7191_7193A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q3sx5q-c9qs00-d2mxut/v/8364707/original/7191_7193A.png?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=u3jy-PMwZ-0gXVAJt10BdTbSAc8=",
+      "url": "https://storage-us-gcs.bfldr.com/q3sx5q-c9qs00-d2mxut/v/8364707/original/7191_7193A.png?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=u3jy-PMwZ-0gXVAJt10BdTbSAc8="
+    },
+    {
+      "attachment_id": "q3sx5q-c9qs00-90f61s",
+      "filename": "7191_7193B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2500,
+      "height": 2500,
+      "size": 4807588,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q3sx5q-c9qs00-90f61s/7191_7193B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q3sx5q-c9qs00-90f61s/v/8364708/original/7191_7193B.png?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=GrlaF0rDcoVeH_m7u1d6nyPPpiw=",
+      "url": "https://storage-us-gcs.bfldr.com/q3sx5q-c9qs00-90f61s/v/8364708/original/7191_7193B.png?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=GrlaF0rDcoVeH_m7u1d6nyPPpiw="
+    },
+    {
+      "attachment_id": "q3sx5q-c9qs00-8wy73f",
+      "filename": "7191_7193C.png",
+      "extension": "png",
+      "position": 2,
+      "width": 2500,
+      "height": 2500,
+      "size": 6286932,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q3sx5q-c9qs00-8wy73f/7191_7193C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q3sx5q-c9qs00-8wy73f/v/8364709/original/7191_7193C.png?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=UP8v5WhRTgDcqOXx_BokRDNekco=",
+      "url": "https://storage-us-gcs.bfldr.com/q3sx5q-c9qs00-8wy73f/v/8364709/original/7191_7193C.png?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=UP8v5WhRTgDcqOXx_BokRDNekco="
+    },
+    {
+      "attachment_id": "pudsdp-bizopc-cf5i9c",
+      "filename": "7191_7193T1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5095,
+      "height": 4835,
+      "size": 12615271,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pudsdp-bizopc-cf5i9c/7191_7193T1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pudsdp-bizopc-cf5i9c/v/5234842/original/7191_7193T1.jpg?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=_dAJDjddBdiHhHmPXWQOy4_cRXY=",
+      "url": "https://storage-us-gcs.bfldr.com/pudsdp-bizopc-cf5i9c/v/5234842/original/7191_7193T1.jpg?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=_dAJDjddBdiHhHmPXWQOy4_cRXY="
+    },
+    {
+      "attachment_id": "pudsdp-bizopc-ag5d65",
+      "filename": "7191_7193T2.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 4460,
+      "height": 4537,
+      "size": 10462707,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pudsdp-bizopc-ag5d65/7191_7193T2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pudsdp-bizopc-ag5d65/v/5234843/original/7191_7193T2.jpg?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=fNkSSgGO4WS0xLstZI0sRkXZzMg=",
+      "url": "https://storage-us-gcs.bfldr.com/pudsdp-bizopc-ag5d65/v/5234843/original/7191_7193T2.jpg?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=fNkSSgGO4WS0xLstZI0sRkXZzMg="
+    },
+    {
+      "attachment_id": "q3sx7i-f0nfn4-85sazp",
+      "filename": "7191_7193Y1.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 7233,
+      "height": 4788,
+      "size": 15963057,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q3sx7i-f0nfn4-85sazp/7191_7193Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q3sx7i-f0nfn4-85sazp/v/8364760/original/7191_7193Y1.jpg?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=tSBq95dGjUghEfVwEIEuU2B3ajs=",
+      "url": "https://storage-us-gcs.bfldr.com/q3sx7i-f0nfn4-85sazp/v/8364760/original/7191_7193Y1.jpg?Expires=1784322543&KeyName=gcs-bfldr-prod&Signature=tSBq95dGjUghEfVwEIEuU2B3ajs="
+    }
+  ]
+}

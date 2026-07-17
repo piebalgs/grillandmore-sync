@@ -1,0 +1,107 @@
+{
+  "cache_version": 5,
+  "sku": "6690",
+  "assets": [
+    {
+      "asset_id": "ph5sj1-c03ljk-abj2ux",
+      "asset_name": "Pizza Cutter 6690 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6690"
+      ]
+    },
+    {
+      "asset_id": "ph5sj1-c03ljk-g7i4g2",
+      "asset_name": "Pizza Cutter 6690 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6690"
+      ]
+    },
+    {
+      "asset_id": "q4zlhr-2ofg80-87o18f",
+      "asset_name": "Packaging 6690 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6690"
+      ]
+    },
+    {
+      "asset_id": "qfdtsr-4foqh4-257ok7",
+      "asset_name": "DE Sweet and Savory from the Pizza Stones Grilltipps Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6669",
+        "8831",
+        "6691",
+        "6690"
+      ]
+    },
+    {
+      "asset_id": "mppb969jf4wjhj2cctqbsb8k",
+      "asset_name": "177725 0321 RevE ol",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6690"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ph5sj1-c03ljk-87914k",
+      "filename": "6690A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3300,
+      "height": 3072,
+      "size": 3339050,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5sj1-c03ljk-87914k/6690A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5sj1-c03ljk-87914k/v/2552193/original/6690A.png?Expires=1784331022&KeyName=gcs-bfldr-prod&Signature=V0GTEJr_Crywlhce8C5V-NDIK-s=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5sj1-c03ljk-87914k/v/2552193/original/6690A.png?Expires=1784331022&KeyName=gcs-bfldr-prod&Signature=V0GTEJr_Crywlhce8C5V-NDIK-s="
+    },
+    {
+      "attachment_id": "ph5sj1-c03ljk-degz6o",
+      "filename": "6690M1.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 5792,
+      "height": 8688,
+      "size": 23296091,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5sj1-c03ljk-degz6o/6690M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5sj1-c03ljk-degz6o/v/2552218/original/6690M1.jpg?Expires=1784331022&KeyName=gcs-bfldr-prod&Signature=r_Y8BYcExb7LgC6akNNP_8deD9s=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5sj1-c03ljk-degz6o/v/2552218/original/6690M1.jpg?Expires=1784331022&KeyName=gcs-bfldr-prod&Signature=r_Y8BYcExb7LgC6akNNP_8deD9s="
+    },
+    {
+      "attachment_id": "ph5sj1-c03ljk-f9i4tp",
+      "filename": "6690M2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 29096932,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5sj1-c03ljk-f9i4tp/6690M2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5sj1-c03ljk-f9i4tp/v/2552194/original/6690M2.jpg?Expires=1784331022&KeyName=gcs-bfldr-prod&Signature=UzS2NlUd0PXvtYVIZwtuR8Vjm8Y=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5sj1-c03ljk-f9i4tp/v/2552194/original/6690M2.jpg?Expires=1784331022&KeyName=gcs-bfldr-prod&Signature=UzS2NlUd0PXvtYVIZwtuR8Vjm8Y="
+    },
+    {
+      "attachment_id": "ph5sj1-c03ljk-cb92jk",
+      "filename": "6690M3.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 5760,
+      "height": 3840,
+      "size": 11512664,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5sj1-c03ljk-cb92jk/6690M3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5sj1-c03ljk-cb92jk/v/2552225/original/6690M3.jpg?Expires=1784331022&KeyName=gcs-bfldr-prod&Signature=NSDpuU_lzsiMFlc2Di6sHJVQ69Y=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5sj1-c03ljk-cb92jk/v/2552225/original/6690M3.jpg?Expires=1784331022&KeyName=gcs-bfldr-prod&Signature=NSDpuU_lzsiMFlc2Di6sHJVQ69Y="
+    }
+  ]
+}

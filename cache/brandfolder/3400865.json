@@ -1,0 +1,94 @@
+{
+  "cache_version": 5,
+  "sku": "3400865",
+  "assets": [
+    {
+      "asset_id": "4rh6ckw8czttcrt9qnpmkpjc",
+      "asset_name": "[EMEA/AUNZ] Q3200N+ Half Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400865",
+        "3400137"
+      ]
+    },
+    {
+      "asset_id": "69xc9hjk4xqhgtnkk7qwnn",
+      "asset_name": "[EMEA/AUNZ] Q3200N+ Half Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400865",
+        "3400137"
+      ]
+    },
+    {
+      "asset_id": "66qpxbssfgbwnkf4hkp455b8",
+      "asset_name": "(dan) Griddle (3400865) Q 3200N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400865"
+      ]
+    },
+    {
+      "asset_id": "5jw9266gmbgj3ps6fwnhw7v",
+      "asset_name": "(dut-NL) Griddle (3400865) Q 3200N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400865"
+      ]
+    },
+    {
+      "asset_id": "hvm3j4h9rgm84fnrsc4mnwrs",
+      "asset_name": "(en-US) Griddle (3400865) Q 3200N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400865"
+      ]
+    },
+    {
+      "asset_id": "nzwrfp5b2wxvk6xnmht5nqt",
+      "asset_name": "(swe-SE) Griddle (3400865) Q 3200N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400865"
+      ]
+    },
+    {
+      "asset_id": "j5vjbs5t5rwx3hzx79j6qsz",
+      "asset_name": "8656032 9501384 1224 RevA 3400865 Carton LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400865"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "jp6kv75zjs4sgqpj3chcq",
+      "filename": "3400865_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 649508,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jp6kv75zjs4sgqpj3chcq/3400865_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jp6kv75zjs4sgqpj3chcq/v/1267376500/original/3400865_A_rgb.png?Expires=1784305001&KeyName=gcs-bfldr-prod&Signature=Off4d1TCWQcBRxcHNW9UlKLdn3c=",
+      "url": "https://storage-us-gcs.bfldr.com/jp6kv75zjs4sgqpj3chcq/v/1267376500/original/3400865_A_rgb.png?Expires=1784305001&KeyName=gcs-bfldr-prod&Signature=Off4d1TCWQcBRxcHNW9UlKLdn3c="
+    },
+    {
+      "attachment_id": "3t9grph6wcxv67tbrfvpqjq9",
+      "filename": "3400865_Griddle_EMEA_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2445,
+      "size": 1852365,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3t9grph6wcxv67tbrfvpqjq9/3400865_Griddle_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3t9grph6wcxv67tbrfvpqjq9/v/1267376510/original/3400865_Griddle_EMEA_rgb.jpg?Expires=1784305001&KeyName=gcs-bfldr-prod&Signature=FFBeAWlUAlWlkWiyWy5D5B6ImDg=",
+      "url": "https://storage-us-gcs.bfldr.com/3t9grph6wcxv67tbrfvpqjq9/v/1267376510/original/3400865_Griddle_EMEA_rgb.jpg?Expires=1784305001&KeyName=gcs-bfldr-prod&Signature=FFBeAWlUAlWlkWiyWy5D5B6ImDg="
+    }
+  ]
+}

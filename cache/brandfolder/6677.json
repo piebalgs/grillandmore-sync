@@ -1,0 +1,110 @@
+{
+  "cache_version": 5,
+  "sku": "6677",
+  "assets": [
+    {
+      "asset_id": "phj9f8-f18mrc-6evyuw",
+      "asset_name": "Premium Grilling Basket 6677 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6677"
+      ]
+    },
+    {
+      "asset_id": "phj9f8-f18mrc-7y3mo9",
+      "asset_name": "Premium Grilling Basket 6677 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6677"
+      ]
+    },
+    {
+      "asset_id": "q60drb-2yl6w0-asbo8t",
+      "asset_name": "Premium Grilling Basket 6677 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6677"
+      ]
+    },
+    {
+      "asset_id": "vcghc38xj8ns3rgp5spmzgv",
+      "asset_name": "58076 0118 RevD",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6677"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "phj9f8-f18mrc-edb82x",
+      "filename": "6677A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2292,
+      "height": 1621,
+      "size": 3174504,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phj9f8-f18mrc-edb82x/6677A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-edb82x/v/2601171/original/6677A.png?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=IMUJoPSApvENtLbhOCNL00f6dQI=",
+      "url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-edb82x/v/2601171/original/6677A.png?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=IMUJoPSApvENtLbhOCNL00f6dQI="
+    },
+    {
+      "attachment_id": "phj9f8-f18mrc-5hek81",
+      "filename": "6677B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2358,
+      "height": 1869,
+      "size": 2965956,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phj9f8-f18mrc-5hek81/6677B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-5hek81/v/2601172/original/6677B.png?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=2ItcXQjKwnnuEpx7DhvgIj2sMTw=",
+      "url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-5hek81/v/2601172/original/6677B.png?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=2ItcXQjKwnnuEpx7DhvgIj2sMTw="
+    },
+    {
+      "attachment_id": "phj9f8-f18mrc-en0nkc",
+      "filename": "6677C.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2196,
+      "height": 1425,
+      "size": 2029287,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phj9f8-f18mrc-en0nkc/6677C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-en0nkc/v/2601173/original/6677C.png?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=nQTNmh5_FNXY5-Rn7XEmwrZlQAg=",
+      "url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-en0nkc/v/2601173/original/6677C.png?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=nQTNmh5_FNXY5-Rn7XEmwrZlQAg="
+    },
+    {
+      "attachment_id": "phj9f8-f18mrc-b6hyt7",
+      "filename": "6677M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 28374533,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phj9f8-f18mrc-b6hyt7/6677M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-b6hyt7/v/2838919/original/6677M1.jpg?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=U4RStuT91lu89jkX93qCuLhTSGY=",
+      "url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-b6hyt7/v/2838919/original/6677M1.jpg?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=U4RStuT91lu89jkX93qCuLhTSGY="
+    },
+    {
+      "attachment_id": "phj9f8-f18mrc-3qoqn",
+      "filename": "6677M2.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 2832,
+      "height": 4256,
+      "size": 6475580,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phj9f8-f18mrc-3qoqn/6677M2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-3qoqn/v/2601175/original/6677M2.jpg?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=QLIHoisHmB5pmmRHfciqt4Dgd0c=",
+      "url": "https://storage-us-gcs.bfldr.com/phj9f8-f18mrc-3qoqn/v/2601175/original/6677M2.jpg?Expires=1784332282&KeyName=gcs-bfldr-prod&Signature=QLIHoisHmB5pmmRHfciqt4Dgd0c="
+    }
+  ]
+}

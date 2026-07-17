@@ -3,6 +3,16 @@
   "sku": "3401278",
   "assets": [
     {
+      "asset_id": "jpqfc9cmtz6w57ztr4t3th",
+      "asset_name": "Pellet 2 Piece Cleaning Set",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "8n8csh9s59xzgsw77vpqm44f",
+      "asset_name": "en-US PelletGrillScraper&BrushSet MasterCopy FINAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
       "asset_id": "jvc7qr5cbmkmb6gbnx7h9ghr",
       "asset_name": "8659655 9501917 0925 RevA KH OL",
       "cdn_key": "XBRZ2A26"
@@ -88,5 +98,30 @@
       "cdn_key": "XBRZ2A26"
     }
   ],
-  "images": []
+  "images": [
+    {
+      "attachment_id": "wk9tcpvw8hsb5qqsmhh9ncn",
+      "filename": "3401278- Pellet 2 Piece Cleaning Set_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wk9tcpvw8hsb5qqsmhh9ncn/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/wk9tcpvw8hsb5qqsmhh9ncn/v/1270948025/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_A_rgb.png?Expires=1784296689&KeyName=gcs-bfldr-prod&Signature=rxZB8GqDbm-H2rfvQ9xrDcawvew=",
+      "url": "https://storage-us-gcs.bfldr.com/wk9tcpvw8hsb5qqsmhh9ncn/v/1270948025/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_A_rgb.png?Expires=1784296689&KeyName=gcs-bfldr-prod&Signature=rxZB8GqDbm-H2rfvQ9xrDcawvew="
+    },
+    {
+      "attachment_id": "q3xbw57nrbk3zww7j9x4s",
+      "filename": "3401278- Pellet 2 Piece Cleaning Set_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q3xbw57nrbk3zww7j9x4s/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q3xbw57nrbk3zww7j9x4s/v/1270948026/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_B_rgb.png?Expires=1784296689&KeyName=gcs-bfldr-prod&Signature=w44i4AerW_CI_O9yGbh0pxNjdXs=",
+      "url": "https://storage-us-gcs.bfldr.com/q3xbw57nrbk3zww7j9x4s/v/1270948026/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_B_rgb.png?Expires=1784296689&KeyName=gcs-bfldr-prod&Signature=w44i4AerW_CI_O9yGbh0pxNjdXs="
+    }
+  ]
 }

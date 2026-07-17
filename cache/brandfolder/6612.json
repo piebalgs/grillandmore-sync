@@ -1,0 +1,331 @@
+{
+  "cache_version": 5,
+  "sku": "6612",
+  "assets": [
+    {
+      "asset_id": "hgbqxjmhr7bcwtwqrm87m56p",
+      "asset_name": "Lumin Grill Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "nvsg96tcr3mrmc3x2qq8shrb",
+      "asset_name": "Lumin/Lumin Compact Grill Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "mpng2675t7bsqpt743qc5hgj",
+      "asset_name": "Lumin Grill Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "n3w7gnnw89nfn5k33vg9xjmk",
+      "asset_name": "Lumin Grill Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "hjtf72bktrq858rbnjm3r",
+      "asset_name": "(cze) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "s66v2r6qmz6x2n7vs54cwmv",
+      "asset_name": "(dan) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "st8sfbh8gn6rts8vzc3t9",
+      "asset_name": "(dut-NL) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "b5pvtjkzpv3kncm46v6jsh68",
+      "asset_name": "(eng-GB) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "ppbtqvwzn99w7qf5v4qsprv",
+      "asset_name": "(fin) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "m64mf4vfqcjp4jxm3gj7vw",
+      "asset_name": "(fre-FR) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "6c6vkmpx27mmhq6q633f6swc",
+      "asset_name": "(ger-DE) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "j7m7n8fr2fjr75jb747sq7f",
+      "asset_name": "(gre) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "b3xhfm2nnxth7w5s8mfz34",
+      "asset_name": "(hrv) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "vcjptmx6gtmp6hf5x7qq6v",
+      "asset_name": "(hun) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "tck79wscqvgvnkvhxnqg6",
+      "asset_name": "(ita-IT) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "63b644q3cc44k5qtwqvtvc5",
+      "asset_name": "(nob) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "8sjknhv4xrqtj44w32z4k49",
+      "asset_name": "(pol) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "jns6rv66mnh8k3fnsvpsqwq",
+      "asset_name": "(por-PT) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "vbnkbkf26jf939zb49r7r8v",
+      "asset_name": "(rum) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "k4v2tbp5vb79ggq756kw9nw",
+      "asset_name": "(slo) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "w8hx26jcqs5zh9xzqrwvfvf4",
+      "asset_name": "(slv) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "j9qvmjnzrv3nx8sm5fsrr9kh",
+      "asset_name": "(spa-ES) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "s47n7mm7fnn6n76tprsgv3wx",
+      "asset_name": "(swe-SE) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "pwjfthfxf2zrhx8wcnh2r",
+      "asset_name": "(tur) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "rn5g6h7mg2jj5b8rrqh7hbm",
+      "asset_name": "(ukr) Lumin Griddle Cont-Pkg Copy v7 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612",
+        "6611"
+      ]
+    },
+    {
+      "asset_id": "t6wqf9hkhh7vnr2hnjxrxc53",
+      "asset_name": "Lumin Griddle Copy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6611",
+        "6612"
+      ]
+    },
+    {
+      "asset_id": "qv7s9jpcs3wv7645vkx9bwt",
+      "asset_name": "8659959 6612GLOBALLumin TH 0925 RevA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6612"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "4nrtsfq9c5qgrxrhc9n6vm",
+      "filename": "6612 Lumin Grill Griddle Product 6612A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 6487414,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4nrtsfq9c5qgrxrhc9n6vm/6612%20Lumin%20Grill%20Griddle%20Product%206612A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4nrtsfq9c5qgrxrhc9n6vm/v/1279307548/original/6612%20Lumin%20Grill%20Griddle%20Product%206612A_rgb.png?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=izoQlr3YCq05gS-G-Dz9h_j9Vng=",
+      "url": "https://storage-us-gcs.bfldr.com/4nrtsfq9c5qgrxrhc9n6vm/v/1279307548/original/6612%20Lumin%20Grill%20Griddle%20Product%206612A_rgb.png?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=izoQlr3YCq05gS-G-Dz9h_j9Vng="
+    },
+    {
+      "attachment_id": "wq8f2gv5t2bjkjrqshfmwmf",
+      "filename": "6612 Lumin Grill Griddle Product 6612B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 6254597,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wq8f2gv5t2bjkjrqshfmwmf/6612%20Lumin%20Grill%20Griddle%20Product%206612B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/wq8f2gv5t2bjkjrqshfmwmf/v/1279307549/original/6612%20Lumin%20Grill%20Griddle%20Product%206612B_rgb.png?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=Gp1JpIiBIi-8yh7YdrbIwF6c91w=",
+      "url": "https://storage-us-gcs.bfldr.com/wq8f2gv5t2bjkjrqshfmwmf/v/1279307549/original/6612%20Lumin%20Grill%20Griddle%20Product%206612B_rgb.png?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=Gp1JpIiBIi-8yh7YdrbIwF6c91w="
+    },
+    {
+      "attachment_id": "4mfr8575p394p8rkz8ncfww",
+      "filename": "6612 Lumin Grill Griddle Product 6612C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4000,
+      "height": 4000,
+      "size": 6509858,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4mfr8575p394p8rkz8ncfww/6612%20Lumin%20Grill%20Griddle%20Product%206612C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4mfr8575p394p8rkz8ncfww/v/1279307550/original/6612%20Lumin%20Grill%20Griddle%20Product%206612C_rgb.png?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=RN5tpT4qxIfGQu355Zn2yOvfBXo=",
+      "url": "https://storage-us-gcs.bfldr.com/4mfr8575p394p8rkz8ncfww/v/1279307550/original/6612%20Lumin%20Grill%20Griddle%20Product%206612C_rgb.png?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=RN5tpT4qxIfGQu355Zn2yOvfBXo="
+    },
+    {
+      "attachment_id": "6t7pmxwbsmzvkjzmmtgff",
+      "filename": "6612FB1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 4495326,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6t7pmxwbsmzvkjzmmtgff/6612FB1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6t7pmxwbsmzvkjzmmtgff/v/1279307551/original/6612FB1_rgb.jpg?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=gzzqpsHXjn7OJoGtRjgRE5lK9fE=",
+      "url": "https://storage-us-gcs.bfldr.com/6t7pmxwbsmzvkjzmmtgff/v/1279307551/original/6612FB1_rgb.jpg?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=gzzqpsHXjn7OJoGtRjgRE5lK9fE="
+    },
+    {
+      "attachment_id": "43xmsqjrm75j32xqs5xbgx",
+      "filename": "6612Y_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2854,
+      "size": 6032985,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/43xmsqjrm75j32xqs5xbgx/6612Y_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/43xmsqjrm75j32xqs5xbgx/v/1279307553/original/6612Y_rgb.jpg?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=LRV2uiGyuWjZYivBBbFMRe5wpUw=",
+      "url": "https://storage-us-gcs.bfldr.com/43xmsqjrm75j32xqs5xbgx/v/1279307553/original/6612Y_rgb.jpg?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=LRV2uiGyuWjZYivBBbFMRe5wpUw="
+    },
+    {
+      "attachment_id": "gt3zfqfb79rknqhgg7ktqz99",
+      "filename": "6612_1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 8032730,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gt3zfqfb79rknqhgg7ktqz99/6612_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gt3zfqfb79rknqhgg7ktqz99/v/1279307554/original/6612_1.png?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=BcuBxIQJkohSkXcKgZiUP1It5Cc=",
+      "url": "https://storage-us-gcs.bfldr.com/gt3zfqfb79rknqhgg7ktqz99/v/1279307554/original/6612_1.png?Expires=1784321099&KeyName=gcs-bfldr-prod&Signature=BcuBxIQJkohSkXcKgZiUP1It5Cc="
+    }
+  ]
+}

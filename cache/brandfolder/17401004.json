@@ -1,0 +1,151 @@
+{
+  "cache_version": 5,
+  "sku": "17401004",
+  "assets": [
+    {
+      "asset_id": "pgeiqp-5dam14-4utgi4",
+      "asset_name": "Master-Touch Premium Hinge Assembly Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pnupqg-doc7rc-9f39pq",
+      "asset_name": "CH Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pob3ae-30vxa8-6odcyz",
+      "asset_name": "CZ Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17301004",
+        "17401004"
+      ]
+    },
+    {
+      "asset_id": "pnues9-fo6oew-dk9dl",
+      "asset_name": "DE AT Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pnues9-fo6oew-60y8c4",
+      "asset_name": "DK Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17301004",
+        "17401004"
+      ]
+    },
+    {
+      "asset_id": "pnmtxi-5p61dk-30hhvh",
+      "asset_name": "ES Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17301004",
+        "17401004"
+      ]
+    },
+    {
+      "asset_id": "pnub5e-5l94ug-azaf2s",
+      "asset_name": "FI Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pnupqk-dd1r1k-2pkfg",
+      "asset_name": "FR Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pnupqg-doc7rc-cn2noq",
+      "asset_name": "IT Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pnues9-fo6oew-fd6u03",
+      "asset_name": "NL Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pob58w-92v8dc-1bciul",
+      "asset_name": "NO Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pnub5e-5l94ug-5j7z7s",
+      "asset_name": "PL Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17301004",
+        "17401004"
+      ]
+    },
+    {
+      "asset_id": "pnmtxi-5p61dk-bfgxzq",
+      "asset_name": "PT Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pnub5e-5l94ug-4e61kd",
+      "asset_name": "SK Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pob58w-92v8dc-aqms43",
+      "asset_name": "RU Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17401004",
+        "17301004"
+      ]
+    },
+    {
+      "asset_id": "pob58w-92v8dc-3oaast",
+      "asset_name": "SE Master-Touch Premium Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17301004",
+        "17401004"
+      ]
+    }
+  ],
+  "images": []
+}

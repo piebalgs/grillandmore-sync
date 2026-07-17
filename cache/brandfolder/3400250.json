@@ -1,0 +1,252 @@
+{
+  "cache_version": 5,
+  "sku": "3400250",
+  "assets": [
+    {
+      "asset_id": "x947q5mzktfs27txs4w9rhqq",
+      "asset_name": "Searwood Wet Smoke Pan",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "5nrb77nt4qbksm5mprqcsrv",
+      "asset_name": "(cze) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "6pjxx56pmgscgfrzrgtpkc4m",
+      "asset_name": "(dan) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "bm8f55vjfk8z4n4th625cwfg",
+      "asset_name": "(dut-NL) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "c5rpvwhp3sgw47h5gj4qgtx7",
+      "asset_name": "(en-US) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "kmkr3h56j3mq3hpwr6983",
+      "asset_name": "(eng-GB) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "sqnmvhc5r4qh68chvcm4zht",
+      "asset_name": "(fin) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "sj9vngf3f8hkt468xss95h",
+      "asset_name": "(fre-FR) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "sghttbx4hnhj5p2tr7thbp7w",
+      "asset_name": "(ger-DE) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "7w3rhn473pwvmv4cv93n66b",
+      "asset_name": "(ita-IT) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "t9q695r72t9frp7927mg5q7",
+      "asset_name": "(no) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "2qvvft78b92qw4j44mwgm4v",
+      "asset_name": "(pol) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "mfn6bp398jj6mp6ppw9g6vf",
+      "asset_name": "(por-PT) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "fqxwg9s3xw9nc88htmfgct53",
+      "asset_name": "(sk) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "2f6j9v3r9tnw8jspxr5vqh73",
+      "asset_name": "(spa-ES) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "q2qxs436c9f83wbt3g586b",
+      "asset_name": "(swe-SE) Wet Smoke Pan Searwood MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "95s9hkm77nv7tb8smgrbr74s",
+      "asset_name": "Pellet Wet Smoke Pan",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "2sgmwbjks3nxs3q5q8sp9tm",
+      "asset_name": "Pellet Wet Smoke Pan",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "qs7xrhkkkmttkvptjxkp37n",
+      "asset_name": "Pellet Wet Smoke Pan",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    },
+    {
+      "asset_id": "8zw4pj2nw5qcz655t6w9rr9",
+      "asset_name": "8654852 3400250 GLOBALWetSmokePan 1024 RevA OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400250"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "4jg5kc7n967vbctxkzfb64q9",
+      "filename": "3400250_075_WETSMOKEPAN_FY25_GLOBAL.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 26720390,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4jg5kc7n967vbctxkzfb64q9/3400250_075_WETSMOKEPAN_FY25_GLOBAL.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4jg5kc7n967vbctxkzfb64q9/v/1279124734/original/3400250_075_WETSMOKEPAN_FY25_GLOBAL.jpg?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=D3tCZ5ITCdAnUk_WexfYbXU1rG0=",
+      "url": "https://storage-us-gcs.bfldr.com/4jg5kc7n967vbctxkzfb64q9/v/1279124734/original/3400250_075_WETSMOKEPAN_FY25_GLOBAL.jpg?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=D3tCZ5ITCdAnUk_WexfYbXU1rG0="
+    },
+    {
+      "attachment_id": "pxfbt58bk6mhs33vxw5vcwnr",
+      "filename": "3400250_076_WETSMOKEPAN_HOR_FY25_GLOBAL.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 28671658,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pxfbt58bk6mhs33vxw5vcwnr/3400250_076_WETSMOKEPAN_HOR_FY25_GLOBAL.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pxfbt58bk6mhs33vxw5vcwnr/v/1279124735/original/3400250_076_WETSMOKEPAN_HOR_FY25_GLOBAL.jpg?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=cls-Hx0rZGLcZPIr6m3l1F8yKoU=",
+      "url": "https://storage-us-gcs.bfldr.com/pxfbt58bk6mhs33vxw5vcwnr/v/1279124735/original/3400250_076_WETSMOKEPAN_HOR_FY25_GLOBAL.jpg?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=cls-Hx0rZGLcZPIr6m3l1F8yKoU="
+    },
+    {
+      "attachment_id": "g3pchffr938f5w6x6qxp7zw",
+      "filename": "3400250_076_WETSMOKEPAN_VERT_FY25_GLOBAL.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 26794925,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g3pchffr938f5w6x6qxp7zw/3400250_076_WETSMOKEPAN_VERT_FY25_GLOBAL.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/g3pchffr938f5w6x6qxp7zw/v/1279124736/original/3400250_076_WETSMOKEPAN_VERT_FY25_GLOBAL.jpg?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=-FX3-EI_5HdLfcMqM0gnDCq5Wmk=",
+      "url": "https://storage-us-gcs.bfldr.com/g3pchffr938f5w6x6qxp7zw/v/1279124736/original/3400250_076_WETSMOKEPAN_VERT_FY25_GLOBAL.jpg?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=-FX3-EI_5HdLfcMqM0gnDCq5Wmk="
+    },
+    {
+      "attachment_id": "95xgkkvv75spqvtw66fnbf3",
+      "filename": "3400250_Pellet_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 3022538,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/95xgkkvv75spqvtw66fnbf3/3400250_Pellet_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/95xgkkvv75spqvtw66fnbf3/v/1263105779/original/3400250_Pellet_A_rgb.png?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=-dKDHJca8fPr_HtfyL25BZkjgUY=",
+      "url": "https://storage-us-gcs.bfldr.com/95xgkkvv75spqvtw66fnbf3/v/1263105779/original/3400250_Pellet_A_rgb.png?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=-dKDHJca8fPr_HtfyL25BZkjgUY="
+    },
+    {
+      "attachment_id": "6jmz355tb48q3m36jc5cn6q",
+      "filename": "3400250_Pellet_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 4455917,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6jmz355tb48q3m36jc5cn6q/3400250_Pellet_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6jmz355tb48q3m36jc5cn6q/v/1263105780/original/3400250_Pellet_B_rgb.png?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=PjRJgJt24fiMk5-Ip0KBlVTMD6Q=",
+      "url": "https://storage-us-gcs.bfldr.com/6jmz355tb48q3m36jc5cn6q/v/1263105780/original/3400250_Pellet_B_rgb.png?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=PjRJgJt24fiMk5-Ip0KBlVTMD6Q="
+    },
+    {
+      "attachment_id": "88r3vcm85z5g4nmqvc38tpr",
+      "filename": "3400250_Pellet_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 2570333,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/88r3vcm85z5g4nmqvc38tpr/3400250_Pellet_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/88r3vcm85z5g4nmqvc38tpr/v/1263105781/original/3400250_Pellet_C_rgb.png?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=BJpqF9Qv0sOjFJGnqicT4OMXCEY=",
+      "url": "https://storage-us-gcs.bfldr.com/88r3vcm85z5g4nmqvc38tpr/v/1263105781/original/3400250_Pellet_C_rgb.png?Expires=1784302567&KeyName=gcs-bfldr-prod&Signature=BJpqF9Qv0sOjFJGnqicT4OMXCEY="
+    }
+  ]
+}

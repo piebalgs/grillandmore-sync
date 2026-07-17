@@ -1,0 +1,270 @@
+{
+  "cache_version": 5,
+  "sku": "7770",
+  "assets": [
+    {
+      "asset_id": "jg55vnnjhg67cz6j2m98mmz",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "c7gsszwzt5fjfcpfb3cfbcjf",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "8bb9nqsjqh4jps6tczh84frn",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "rxxx2699bj9bnj98237xh6",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "qfm4bk2r7ks2zqj7ftqr2q",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "8pmvqh3xqh576r7nnrxn8cbs",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "wpr3n6xnggbphmtrvh5cwss",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "sz6ttf59752pwcnfcb2x9w3k",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "mzkg7wrrwnk9836wvqbq25kz",
+      "asset_name": "Weber Traveler Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    },
+    {
+      "asset_id": "9qxv4q48f3tjw6mzskm4h77",
+      "asset_name": "79326 0422 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7770"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "5j8b2fpvn6qm7hhhhhbb88x",
+      "filename": "7770A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 8857841,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5j8b2fpvn6qm7hhhhhbb88x/7770A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5j8b2fpvn6qm7hhhhhbb88x/v/1274846344/original/7770A_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=z-vpd68-isaTeojOhK9LsaacG9E=",
+      "url": "https://storage-us-gcs.bfldr.com/5j8b2fpvn6qm7hhhhhbb88x/v/1274846344/original/7770A_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=z-vpd68-isaTeojOhK9LsaacG9E="
+    },
+    {
+      "attachment_id": "p39tmsfzmj4bhz6xcqxfvh5z",
+      "filename": "7770B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 9495118,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p39tmsfzmj4bhz6xcqxfvh5z/7770B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/p39tmsfzmj4bhz6xcqxfvh5z/v/1274846345/original/7770B_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=JdEKMkHvAm2aJxY3Sb9JfP2hgcc=",
+      "url": "https://storage-us-gcs.bfldr.com/p39tmsfzmj4bhz6xcqxfvh5z/v/1274846345/original/7770B_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=JdEKMkHvAm2aJxY3Sb9JfP2hgcc="
+    },
+    {
+      "attachment_id": "p487kz6kwp9zn6vkmcbfjxcj",
+      "filename": "7770C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4000,
+      "height": 4000,
+      "size": 8668409,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p487kz6kwp9zn6vkmcbfjxcj/7770C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/p487kz6kwp9zn6vkmcbfjxcj/v/1274846347/original/7770C_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=ONNyiP3yzzOeauw-7mFc0H4DgCw=",
+      "url": "https://storage-us-gcs.bfldr.com/p487kz6kwp9zn6vkmcbfjxcj/v/1274846347/original/7770C_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=ONNyiP3yzzOeauw-7mFc0H4DgCw="
+    },
+    {
+      "attachment_id": "rb93tw9c59rpxk3cbxpq8mh",
+      "filename": "7770T1_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2727,
+      "height": 2727,
+      "size": 8145378,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rb93tw9c59rpxk3cbxpq8mh/7770T1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rb93tw9c59rpxk3cbxpq8mh/v/1274846348/original/7770T1_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=rYFr7q7FiG3zmAMA6mxGUr_Bdtc=",
+      "url": "https://storage-us-gcs.bfldr.com/rb93tw9c59rpxk3cbxpq8mh/v/1274846348/original/7770T1_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=rYFr7q7FiG3zmAMA6mxGUr_Bdtc="
+    },
+    {
+      "attachment_id": "6gp3q4c355vs784nrppngtkk",
+      "filename": "7770T2_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2727,
+      "height": 2727,
+      "size": 8437685,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6gp3q4c355vs784nrppngtkk/7770T2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6gp3q4c355vs784nrppngtkk/v/1274846349/original/7770T2_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=xG-bR8V9kfqdr_ZsrZXF1f2tdIQ=",
+      "url": "https://storage-us-gcs.bfldr.com/6gp3q4c355vs784nrppngtkk/v/1274846349/original/7770T2_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=xG-bR8V9kfqdr_ZsrZXF1f2tdIQ="
+    },
+    {
+      "attachment_id": "k33b5n34n699xwwz45ptkbsm",
+      "filename": "7770YM1_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2771,
+      "height": 3600,
+      "size": 11741870,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k33b5n34n699xwwz45ptkbsm/7770YM1_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k33b5n34n699xwwz45ptkbsm/v/1274846350/original/7770YM1_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=hmNImeIzrW-bn6WxMKHGJ4yBsQM=",
+      "url": "https://storage-us-gcs.bfldr.com/k33b5n34n699xwwz45ptkbsm/v/1274846350/original/7770YM1_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=hmNImeIzrW-bn6WxMKHGJ4yBsQM="
+    },
+    {
+      "attachment_id": "hs9nqcsbhb3b25bffzbqjq",
+      "filename": "7770YM2_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 2145,
+      "size": 9242157,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hs9nqcsbhb3b25bffzbqjq/7770YM2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hs9nqcsbhb3b25bffzbqjq/v/1274846351/original/7770YM2_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=FAX8xATSiV4Fx1QJ-uDcPsPWW6Q=",
+      "url": "https://storage-us-gcs.bfldr.com/hs9nqcsbhb3b25bffzbqjq/v/1274846351/original/7770YM2_rgb.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=FAX8xATSiV4Fx1QJ-uDcPsPWW6Q="
+    },
+    {
+      "attachment_id": "cgcqzf3ntkt8s68n64k2cg6",
+      "filename": "7770_A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 900,
+      "height": 900,
+      "size": 455781,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cgcqzf3ntkt8s68n64k2cg6/7770_A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cgcqzf3ntkt8s68n64k2cg6/v/1274846352/original/7770_A.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=eBQwbOJPlQotEAjuYRFz7M9ecCc=",
+      "url": "https://storage-us-gcs.bfldr.com/cgcqzf3ntkt8s68n64k2cg6/v/1274846352/original/7770_A.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=eBQwbOJPlQotEAjuYRFz7M9ecCc="
+    },
+    {
+      "attachment_id": "pc8tcb68h9fpw4q67rgk3k24",
+      "filename": "7770_B.png",
+      "extension": "png",
+      "position": 1,
+      "width": 900,
+      "height": 900,
+      "size": 419080,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pc8tcb68h9fpw4q67rgk3k24/7770_B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pc8tcb68h9fpw4q67rgk3k24/v/1274846353/original/7770_B.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=Gq2Im6eyjG9oODjDPq6LQox_kNU=",
+      "url": "https://storage-us-gcs.bfldr.com/pc8tcb68h9fpw4q67rgk3k24/v/1274846353/original/7770_B.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=Gq2Im6eyjG9oODjDPq6LQox_kNU="
+    },
+    {
+      "attachment_id": "r7xnrz7rkkwk7nvqntgcrnk8",
+      "filename": "7770_C.png",
+      "extension": "png",
+      "position": 2,
+      "width": 900,
+      "height": 900,
+      "size": 443438,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r7xnrz7rkkwk7nvqntgcrnk8/7770_C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/r7xnrz7rkkwk7nvqntgcrnk8/v/1274846354/original/7770_C.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=TdHdBFid_xdmWZwLSnX5auY6awY=",
+      "url": "https://storage-us-gcs.bfldr.com/r7xnrz7rkkwk7nvqntgcrnk8/v/1274846354/original/7770_C.png?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=TdHdBFid_xdmWZwLSnX5auY6awY="
+    },
+    {
+      "attachment_id": "5kmzgg4b9wh4b5c5c92whj",
+      "filename": "7770_Traveler_Cover_1000x1000.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4167,
+      "height": 4167,
+      "size": 2161688,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5kmzgg4b9wh4b5c5c92whj/7770_Traveler_Cover_1000x1000.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5kmzgg4b9wh4b5c5c92whj/v/1274846355/original/7770_Traveler_Cover_1000x1000.jpg?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=u6_HaUMR6CYPhM6ZDj6GegWZK0A=",
+      "url": "https://storage-us-gcs.bfldr.com/5kmzgg4b9wh4b5c5c92whj/v/1274846355/original/7770_Traveler_Cover_1000x1000.jpg?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=u6_HaUMR6CYPhM6ZDj6GegWZK0A="
+    },
+    {
+      "attachment_id": "2grwpzf97p74jk85xj8r57v",
+      "filename": "7770_Traveler_Cover_1000x10002.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4167,
+      "height": 4167,
+      "size": 881204,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2grwpzf97p74jk85xj8r57v/7770_Traveler_Cover_1000x10002.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2grwpzf97p74jk85xj8r57v/v/1274846356/original/7770_Traveler_Cover_1000x10002.jpg?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=C4gVq_dOd9fBYbqTp8Km83XqVJs=",
+      "url": "https://storage-us-gcs.bfldr.com/2grwpzf97p74jk85xj8r57v/v/1274846356/original/7770_Traveler_Cover_1000x10002.jpg?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=C4gVq_dOd9fBYbqTp8Km83XqVJs="
+    },
+    {
+      "attachment_id": "jr2gkkvrgtq8t9x5xk4v563",
+      "filename": "7770_Traveler_Cover_1000x10003.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4167,
+      "height": 4167,
+      "size": 1752896,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jr2gkkvrgtq8t9x5xk4v563/7770_Traveler_Cover_1000x10003.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jr2gkkvrgtq8t9x5xk4v563/v/1274846357/original/7770_Traveler_Cover_1000x10003.jpg?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=3sz-oAyu9niD7XS8gqVdL1oAbQg=",
+      "url": "https://storage-us-gcs.bfldr.com/jr2gkkvrgtq8t9x5xk4v563/v/1274846357/original/7770_Traveler_Cover_1000x10003.jpg?Expires=1784320177&KeyName=gcs-bfldr-prod&Signature=3sz-oAyu9niD7XS8gqVdL1oAbQg="
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "cache_version": 2,
+  "sku": "1501652",
+  "assets": [
+    {
+      "asset_id": "67sv53xnv7nwtnmv67gp6n",
+      "asset_name": "[EMEA] Lumin + fixed stand",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ctv87gb26strgh2hpq3nc",
+      "asset_name": "enEMEA Lumin Electric Grill With Stand MasterCopyDoc FY26 FINAL[26]",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pkmb7n67fbvb5k3m6qq74tw",
+      "asset_name": "[cze] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "6trr3cj6hp3wpsr8cgktbmbk",
+      "asset_name": "[dan] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4rkn4zp5grtbtbmhqfbfss26",
+      "asset_name": "[dut-NL] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "k7j477qswxrtmnj6g2gt8kt",
+      "asset_name": "[en-GB] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7g6vvkw4hsnq9k7j3vpfq3c",
+      "asset_name": "[fin] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gg2zqhsjbtbprhqn7xf43z5r",
+      "asset_name": "[fre-FR] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pm4r3xpsgvjk5wx6jnbjvrjs",
+      "asset_name": "[ger-DE] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "wqr8qgn46mhkj6nqpnj34gb",
+      "asset_name": "[hrv] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gqmf9q4q5shr3m74hrc8wgs4",
+      "asset_name": "[ita-IT] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mhbvbf2s6wbbcs3hj4jm",
+      "asset_name": "[no] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "c4wvgmtm7m75t8wwck7xvpp8",
+      "asset_name": "[pol] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pt9zg5wfmv6bmqcx6sff8r4",
+      "asset_name": "[por-PT] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "m387vc4ksmpps589jjvvnsmj",
+      "asset_name": "[sk] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "7gm9r4zh47gq66hqxnjjqhp",
+      "asset_name": "[slv] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4hxc8f6nxtkvg7wb99pwwx9k",
+      "asset_name": "[spa-ES] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "k8tqwx9f4n2q6qp4t2888gp",
+      "asset_name": "[swe-SV] Lumin Electric Grill With Stand MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bs4xr3j36bftsswv8vw947fg",
+      "asset_name": "[EMEA] Lumin with Stand",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "9cr9kztqpp7tcftg5nnm7t",
+      "filename": "1501652- Lumin fixed stand _A_EMEA_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9cr9kztqpp7tcftg5nnm7t/1501652-%20Lumin%20fixed%20stand%20_A_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9cr9kztqpp7tcftg5nnm7t/v/1275994871/original/1501652-%20Lumin%20fixed%20stand%20_A_EMEA_rgb.png?Expires=1784297226&KeyName=gcs-bfldr-prod&Signature=TuEkXogYGvtkuAmAV2Wf7oxoHBw=",
+      "url": "https://storage-us-gcs.bfldr.com/9cr9kztqpp7tcftg5nnm7t/v/1275994871/original/1501652-%20Lumin%20fixed%20stand%20_A_EMEA_rgb.png?Expires=1784297226&KeyName=gcs-bfldr-prod&Signature=TuEkXogYGvtkuAmAV2Wf7oxoHBw="
+    },
+    {
+      "attachment_id": "kvjz4zt3whvc3bh88jgz9",
+      "filename": "1501652- Lumin fixed stand _B_EMEA_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kvjz4zt3whvc3bh88jgz9/1501652-%20Lumin%20fixed%20stand%20_B_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kvjz4zt3whvc3bh88jgz9/v/1275994873/original/1501652-%20Lumin%20fixed%20stand%20_B_EMEA_rgb.png?Expires=1784297226&KeyName=gcs-bfldr-prod&Signature=RFSujB8OiGatYai1ahfFRFUc8Gw=",
+      "url": "https://storage-us-gcs.bfldr.com/kvjz4zt3whvc3bh88jgz9/v/1275994873/original/1501652-%20Lumin%20fixed%20stand%20_B_EMEA_rgb.png?Expires=1784297226&KeyName=gcs-bfldr-prod&Signature=RFSujB8OiGatYai1ahfFRFUc8Gw="
+    },
+    {
+      "attachment_id": "mb47sv48p4nfcv8zpct5v39r",
+      "filename": "1501652- Lumin fixed stand _C_EMEA_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4800,
+      "height": 4800,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mb47sv48p4nfcv8zpct5v39r/1501652-%20Lumin%20fixed%20stand%20_C_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mb47sv48p4nfcv8zpct5v39r/v/1275994875/original/1501652-%20Lumin%20fixed%20stand%20_C_EMEA_rgb.png?Expires=1784297226&KeyName=gcs-bfldr-prod&Signature=fUR7iAX1aWOlZ4sc8l_bALCMGfw=",
+      "url": "https://storage-us-gcs.bfldr.com/mb47sv48p4nfcv8zpct5v39r/v/1275994875/original/1501652-%20Lumin%20fixed%20stand%20_C_EMEA_rgb.png?Expires=1784297226&KeyName=gcs-bfldr-prod&Signature=fUR7iAX1aWOlZ4sc8l_bALCMGfw="
+    },
+    {
+      "attachment_id": "kffx8k7wvtg7s6px6k664867",
+      "filename": "1501652_LUMIN _EMEA_ON STAND_LID OPEN_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 5000,
+      "height": 5000,
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kffx8k7wvtg7s6px6k664867/1501652_LUMIN%20_EMEA_ON%20STAND_LID%20OPEN_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kffx8k7wvtg7s6px6k664867/v/1278527654/original/1501652_LUMIN%20_EMEA_ON%20STAND_LID%20OPEN_rgb.png?Expires=1784297226&KeyName=gcs-bfldr-prod&Signature=zcc_mH8Y_kFgwLWlr22wT80QDqs=",
+      "url": "https://storage-us-gcs.bfldr.com/kffx8k7wvtg7s6px6k664867/v/1278527654/original/1501652_LUMIN%20_EMEA_ON%20STAND_LID%20OPEN_rgb.png?Expires=1784297226&KeyName=gcs-bfldr-prod&Signature=zcc_mH8Y_kFgwLWlr22wT80QDqs="
+    }
+  ]
+}

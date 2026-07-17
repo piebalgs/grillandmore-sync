@@ -1,0 +1,222 @@
+{
+  "cache_version": 5,
+  "sku": "3400189",
+  "assets": [
+    {
+      "asset_id": "g6b8hrm4vf6p3v34whs87scr",
+      "asset_name": "(cze) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "b5qbt3gck8375r9pgs69xvn7",
+      "asset_name": "(dan) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "3qg8rfb5z75pm77bxb6r78f",
+      "asset_name": "(dut-NL) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "6cj7h984p9rjptsc58w9ccb",
+      "asset_name": "(eng-GB) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "n63ws723vwvpfg3st8xjx5fc",
+      "asset_name": "(fin) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "k9xtj84vwpjt3hxschfmkj",
+      "asset_name": "(fre-FR) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "pbfwwf44bmfvjv68gk7s974",
+      "asset_name": "(ger-DE) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "pqnjm57qgwxxkxpmhjp6nmk",
+      "asset_name": "(ita-IT) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "w7nj48j8tj98hwj7nqrms7h6",
+      "asset_name": "(no) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "r5ntg4pkccnnnhfp9335knt",
+      "asset_name": "(pol) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "8rcgm7hv339x9c3cbcst5jb4",
+      "asset_name": "(por-PT) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "qmf62vgwssj4wxmgsv54v48s",
+      "asset_name": "(sk) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "fgpfgz4jh8hqcfpjpq767g",
+      "asset_name": "(spa-ES) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "2cj3mtkj4rf3rw5wpxm66ss4",
+      "asset_name": "(swe-SE) Premium Grill Cover Summit MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "stt3bw43krvpq9t67xh9q65",
+      "asset_name": "Summit Premium Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400173",
+        "3400171",
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "wwffknphxtjbswxg3t2c7kg4",
+      "asset_name": "Summit Premium Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400171",
+        "3400173",
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "fj7p4sfssrzfkc648j9pc2n",
+      "asset_name": "Summit Premium Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400171",
+        "3400173",
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "5s2zjgrfqq4h5grnk5hhnnvb",
+      "asset_name": "Premium Grill Cover - Summit - PDP - Packaging Copy FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400173",
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "8zqnhxs49628kff7xnxc7f7",
+      "asset_name": "Premium Grill Cover - Summit - PDP - Packaging Copy FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189",
+        "3400173"
+      ]
+    },
+    {
+      "asset_id": "454q9k7c5j63jq8f2grtws2g",
+      "asset_name": "Premium Grill Cover - Summit Grill Center PDP - Packaging Copy FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189",
+        "3400173"
+      ]
+    },
+    {
+      "asset_id": "6rhrfp2xqkhpb9tvnvhg68f",
+      "asset_name": "Premium Grill Cover - Summit Grill Center PDP - Packaging Copy FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400173",
+        "3400189"
+      ]
+    },
+    {
+      "asset_id": "699hhwrs2qqjq8frphhtvk",
+      "asset_name": "8651234 9500570 0125 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400189"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "4fsx5v9jwhpnwptfrk8569",
+      "filename": "3400171_YM1_cmyk.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 59349070,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4fsx5v9jwhpnwptfrk8569/3400171_YM1_cmyk.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4fsx5v9jwhpnwptfrk8569/v/1273362587/original/3400171_YM1_cmyk.jpg?Expires=1784317845&KeyName=gcs-bfldr-prod&Signature=lOL8CS6zM1TcCYLij8IEv0QDLTk=",
+      "url": "https://storage-us-gcs.bfldr.com/4fsx5v9jwhpnwptfrk8569/v/1273362587/original/3400171_YM1_cmyk.jpg?Expires=1784317845&KeyName=gcs-bfldr-prod&Signature=lOL8CS6zM1TcCYLij8IEv0QDLTk="
+    },
+    {
+      "attachment_id": "gj3jnxfgg9bxpzc9h5cgvjtk",
+      "filename": "3400173Y_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 21687559,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gj3jnxfgg9bxpzc9h5cgvjtk/3400173Y_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gj3jnxfgg9bxpzc9h5cgvjtk/v/1273362594/original/3400173Y_rgb.png?Expires=1784317845&KeyName=gcs-bfldr-prod&Signature=YFy50-PkaFskWg5JOyfzSJRvHo4=",
+      "url": "https://storage-us-gcs.bfldr.com/gj3jnxfgg9bxpzc9h5cgvjtk/v/1273362594/original/3400173Y_rgb.png?Expires=1784317845&KeyName=gcs-bfldr-prod&Signature=YFy50-PkaFskWg5JOyfzSJRvHo4="
+    }
+  ]
+}

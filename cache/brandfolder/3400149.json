@@ -1,0 +1,120 @@
+{
+  "cache_version": 5,
+  "sku": "3400149",
+  "assets": [
+    {
+      "asset_id": "75ckcm275f99n8bjmwvgbtx",
+      "asset_name": "Searwood 600 [24IN] Premium Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400145",
+        "3400149"
+      ]
+    },
+    {
+      "asset_id": "hn5748pgf9g56rmkt23prw7",
+      "asset_name": "Searwood 600 [24IN] Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400149",
+        "3400145"
+      ]
+    },
+    {
+      "asset_id": "km4xwh9rfs6r9kkbzqjwqv",
+      "asset_name": "Premium Grill Cover - Searwood 600 PDP and Packaging Copy - EMEA - FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400149"
+      ]
+    },
+    {
+      "asset_id": "jhrf7nqrmg6c572qj83xpcg8",
+      "asset_name": "(spa-ES) Premium Grill Cover Searwood pellet grill MasterCopy EMEA 2",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400149"
+      ]
+    },
+    {
+      "asset_id": "p4rmv9hrr4khgn9r7n66mrz",
+      "asset_name": "8652290 9500801 0924 RevB KH LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400149"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "78pqpv896ckbp9893q432mj8",
+      "filename": "3400145Y_3_extended2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5048,
+      "height": 4394,
+      "size": 19720507,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/78pqpv896ckbp9893q432mj8/3400145Y_3_extended2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/78pqpv896ckbp9893q432mj8/v/1274632011/original/3400145Y_3_extended2_rgb.jpg?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=HNZB2_wS3Ei0Nl8aMc0TOgx1JYM=",
+      "url": "https://storage-us-gcs.bfldr.com/78pqpv896ckbp9893q432mj8/v/1274632011/original/3400145Y_3_extended2_rgb.jpg?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=HNZB2_wS3Ei0Nl8aMc0TOgx1JYM="
+    },
+    {
+      "attachment_id": "4rvjsmwkh3x28qqcxq5sjkv",
+      "filename": "3400145_017_Searwood 24IN Cover_FY26_AMER_ALT_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4146,
+      "height": 4146,
+      "size": 10862523,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4rvjsmwkh3x28qqcxq5sjkv/3400145_017_Searwood%2024IN%20Cover_FY26_AMER_ALT_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4rvjsmwkh3x28qqcxq5sjkv/v/1271928256/original/3400145_017_Searwood%2024IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=H7NGdHP_xlB5vfvYdg9lo1GpncE=",
+      "url": "https://storage-us-gcs.bfldr.com/4rvjsmwkh3x28qqcxq5sjkv/v/1271928256/original/3400145_017_Searwood%2024IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=H7NGdHP_xlB5vfvYdg9lo1GpncE="
+    },
+    {
+      "attachment_id": "xw2r75ggjkgtc6qmncxq2ccj",
+      "filename": "3400145_018_Searwood 24IN Cover_FY26_AMER_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4037,
+      "height": 4037,
+      "size": 10874385,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xw2r75ggjkgtc6qmncxq2ccj/3400145_018_Searwood%2024IN%20Cover_FY26_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xw2r75ggjkgtc6qmncxq2ccj/v/1271928257/original/3400145_018_Searwood%2024IN%20Cover_FY26_AMER_rgb.png?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=K6yi-gM9hCxRQR0eAf3pFEx7NSI=",
+      "url": "https://storage-us-gcs.bfldr.com/xw2r75ggjkgtc6qmncxq2ccj/v/1271928257/original/3400145_018_Searwood%2024IN%20Cover_FY26_AMER_rgb.png?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=K6yi-gM9hCxRQR0eAf3pFEx7NSI="
+    },
+    {
+      "attachment_id": "t8375m69m8n4p39p7mf43xk",
+      "filename": "3400145_019_Searwood 24IN Cover_FY26_AMER_ALT_rgb.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3975,
+      "height": 3975,
+      "size": 10695701,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/t8375m69m8n4p39p7mf43xk/3400145_019_Searwood%2024IN%20Cover_FY26_AMER_ALT_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/t8375m69m8n4p39p7mf43xk/v/1271928260/original/3400145_019_Searwood%2024IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=OVLeXjj64R1k2zfHCOO6ezMamJ0=",
+      "url": "https://storage-us-gcs.bfldr.com/t8375m69m8n4p39p7mf43xk/v/1271928260/original/3400145_019_Searwood%2024IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=OVLeXjj64R1k2zfHCOO6ezMamJ0="
+    },
+    {
+      "attachment_id": "446mvjqbhvspps9f7mvn6r",
+      "filename": "3400145_019_Searwood 24IN Cover_FY26_AMER_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3949,
+      "height": 3949,
+      "size": 10428082,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/446mvjqbhvspps9f7mvn6r/3400145_019_Searwood%2024IN%20Cover_FY26_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/446mvjqbhvspps9f7mvn6r/v/1271928258/original/3400145_019_Searwood%2024IN%20Cover_FY26_AMER_rgb.png?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=xTYp41modN3HP_5R4CF7xZRY7GI=",
+      "url": "https://storage-us-gcs.bfldr.com/446mvjqbhvspps9f7mvn6r/v/1271928258/original/3400145_019_Searwood%2024IN%20Cover_FY26_AMER_rgb.png?Expires=1784307518&KeyName=gcs-bfldr-prod&Signature=xTYp41modN3HP_5R4CF7xZRY7GI="
+    }
+  ]
+}

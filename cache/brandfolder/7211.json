@@ -1,0 +1,88 @@
+{
+  "cache_version": 5,
+  "sku": "7211",
+  "assets": [
+    {
+      "asset_id": "ph5qjy-91yoaw-6ya4zm",
+      "asset_name": "Pro Meat Probe 7211 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7211"
+      ]
+    },
+    {
+      "asset_id": "q58lhx-54k16o-5cdzr0",
+      "asset_name": "Pro Meat Probe 7211 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7211"
+      ]
+    },
+    {
+      "asset_id": "ph5qjy-91yoaw-8h508s",
+      "asset_name": "Pro Meat Probe 7211 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7211"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ph5qjy-91yoaw-2w494k",
+      "filename": "7211_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 4870055,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5qjy-91yoaw-2w494k/7211_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5qjy-91yoaw-2w494k/v/1031542370/original/7211_rgb.png?Expires=1784333730&KeyName=gcs-bfldr-prod&Signature=vCeyq2H0O29boNU6tgj2De8Xr44=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5qjy-91yoaw-2w494k/v/1031542370/original/7211_rgb.png?Expires=1784333730&KeyName=gcs-bfldr-prod&Signature=vCeyq2H0O29boNU6tgj2De8Xr44="
+    },
+    {
+      "attachment_id": "ph5qjy-91yoaw-cm0zti",
+      "filename": "7211M1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5184,
+      "height": 3456,
+      "size": 11399509,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5qjy-91yoaw-cm0zti/7211M1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5qjy-91yoaw-cm0zti/v/2551882/original/7211M1.jpg?Expires=1784333730&KeyName=gcs-bfldr-prod&Signature=rwVdGMVz44klDmiSvqx4BhQKd8Q=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5qjy-91yoaw-cm0zti/v/2551882/original/7211M1.jpg?Expires=1784333730&KeyName=gcs-bfldr-prod&Signature=rwVdGMVz44klDmiSvqx4BhQKd8Q="
+    },
+    {
+      "attachment_id": "ph5qjy-91yoaw-65165j",
+      "filename": "7211M2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5760,
+      "height": 3840,
+      "size": 8954764,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5qjy-91yoaw-65165j/7211M2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5qjy-91yoaw-65165j/v/2551883/original/7211M2.jpg?Expires=1784333730&KeyName=gcs-bfldr-prod&Signature=jdnX2dG0jdzmzh-hnvHZC9ftkS0=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5qjy-91yoaw-65165j/v/2551883/original/7211M2.jpg?Expires=1784333730&KeyName=gcs-bfldr-prod&Signature=jdnX2dG0jdzmzh-hnvHZC9ftkS0="
+    },
+    {
+      "attachment_id": "ph5qjy-91yoaw-2tp9uh",
+      "filename": "7211M3.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5760,
+      "height": 3840,
+      "size": 9310898,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5qjy-91yoaw-2tp9uh/7211M3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5qjy-91yoaw-2tp9uh/v/2551884/original/7211M3.jpg?Expires=1784333730&KeyName=gcs-bfldr-prod&Signature=iPvAjZeDzmbqyCtYrDsVSpgxd08=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5qjy-91yoaw-2tp9uh/v/2551884/original/7211M3.jpg?Expires=1784333730&KeyName=gcs-bfldr-prod&Signature=iPvAjZeDzmbqyCtYrDsVSpgxd08="
+    }
+  ]
+}

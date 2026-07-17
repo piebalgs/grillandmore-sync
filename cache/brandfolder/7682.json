@@ -1,0 +1,93 @@
+{
+  "cache_version": 5,
+  "sku": "7682",
+  "assets": [
+    {
+      "asset_id": "gf4c3x5rvgk5khsg6jcn9",
+      "asset_name": "[EMEA/AUNZ] Weber Crafted Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7682"
+      ]
+    },
+    {
+      "asset_id": "wrmvhh6rt4c6k54kn2mkv",
+      "asset_name": "[EMEA/AUNZ] Weber Crafted Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7682"
+      ]
+    },
+    {
+      "asset_id": "7w5kcmqckqjgj3scqn7xkf",
+      "asset_name": "Weber Crafted Overview Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7684",
+        "7678",
+        "7686",
+        "7688",
+        "7673",
+        "7675",
+        "7670",
+        "7853",
+        "7606",
+        "7854",
+        "7856",
+        "7672",
+        "7680",
+        "7674",
+        "7685",
+        "7860",
+        "3400843",
+        "7682",
+        "7681",
+        "7849",
+        "7607",
+        "7852",
+        "7683",
+        "7687",
+        "7677",
+        "7671"
+      ]
+    },
+    {
+      "asset_id": "xtkrcrn4bcggkqrsh69kr58v",
+      "asset_name": "53872 0921 RevA OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7682"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "54hg5qnpkj66knghm64wqk",
+      "filename": "7682 WEBER CRAFTED FLAT TOP EMEA_updated_8-17-21_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 5867,
+      "height": 3300,
+      "size": 4200190,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/54hg5qnpkj66knghm64wqk/7682%20WEBER%20CRAFTED%20FLAT%20TOP%20EMEA_updated_8-17-21_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/54hg5qnpkj66knghm64wqk/v/1274889675/original/7682%20WEBER%20CRAFTED%20FLAT%20TOP%20EMEA_updated_8-17-21_rgb.jpg?Expires=1784322846&KeyName=gcs-bfldr-prod&Signature=1P1zSBbtWmXSRwLE4_J_Kdog2ak=",
+      "url": "https://storage-us-gcs.bfldr.com/54hg5qnpkj66knghm64wqk/v/1274889675/original/7682%20WEBER%20CRAFTED%20FLAT%20TOP%20EMEA_updated_8-17-21_rgb.jpg?Expires=1784322846&KeyName=gcs-bfldr-prod&Signature=1P1zSBbtWmXSRwLE4_J_Kdog2ak="
+    },
+    {
+      "attachment_id": "hs954qr6j6kf28ptkg3qwgxn",
+      "filename": "7682A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2551,
+      "height": 2551,
+      "size": 1637847,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hs954qr6j6kf28ptkg3qwgxn/7682A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hs954qr6j6kf28ptkg3qwgxn/v/1274888964/original/7682A_rgb.png?Expires=1784322846&KeyName=gcs-bfldr-prod&Signature=1zVNbFV1OtNi2ocO9Gcy41i49HU=",
+      "url": "https://storage-us-gcs.bfldr.com/hs954qr6j6kf28ptkg3qwgxn/v/1274888964/original/7682A_rgb.png?Expires=1784322846&KeyName=gcs-bfldr-prod&Signature=1zVNbFV1OtNi2ocO9Gcy41i49HU="
+    }
+  ]
+}

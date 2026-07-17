@@ -1,0 +1,167 @@
+{
+  "cache_version": 5,
+  "sku": "3400858",
+  "assets": [
+    {
+      "asset_id": "6w6f6whqjnm93q35xvbsqrz",
+      "asset_name": "(cze) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "98wj74jpkv9gkrp6sh8jt",
+      "asset_name": "(dan) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "h9hnkfs955nzb4bx5sp9j5k4",
+      "asset_name": "(dut-NL) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "8fqcx6rxvtrgt9qjr3nc",
+      "asset_name": "(en US) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "tcrbcnc95fgmvw487wvnt69g",
+      "asset_name": "(eng-GB) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "svbvwf42p2999t4m78p7xj",
+      "asset_name": "(fin) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "6hfcs486sk9m5kzr6c7n6n",
+      "asset_name": "(fre-FR) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "tnpbfwtfh3f4ws7q8865pz",
+      "asset_name": "(ger-DE) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "rs3vch54jt5mv9rbn3skbnp",
+      "asset_name": "(ita-IT) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "6h2g8ff8kn9f6qpcpk3gqjxz",
+      "asset_name": "(no) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "s87s9qkgjrtjkqhvw6m8jp9",
+      "asset_name": "(pol) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "62brn9m79c752j6gp8xwsw",
+      "asset_name": "(por-PT) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "x8h9xnxnrwhvbptk6rkv38",
+      "asset_name": "(sk) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "shmmfsf995gc9ktb7x5gbrs",
+      "asset_name": "(spa-ES) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "w3tx7gw6sq48f3bjr5g3ng",
+      "asset_name": "(swe-SE) Rotisserie Q 1100N 1200N MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "3nrkp8q2rv7kmm9jz2vgc2f",
+      "asset_name": "EN-EMEA Rotisserie Q 1100N 1200N MasterCopyDoc",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "2qmmqvjg7v7tkx5jnhggj38q",
+      "asset_name": "[AUNZ/EMEA] Weber Baby Q Rotisserie",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400242",
+        "3400858"
+      ]
+    },
+    {
+      "asset_id": "qkvmv2mh6g3zfbsc9mn7m7",
+      "asset_name": "9501376 0125 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400858"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "xz8fnfgcr7459q66x8x6n6",
+      "filename": "3400242_C_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 411794,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xz8fnfgcr7459q66x8x6n6/3400242_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xz8fnfgcr7459q66x8x6n6/v/1273372740/original/3400242_C_rgb.png?Expires=1784303865&KeyName=gcs-bfldr-prod&Signature=--Kb9hpXxqpAbpkG_piR58eDQJU=",
+      "url": "https://storage-us-gcs.bfldr.com/xz8fnfgcr7459q66x8x6n6/v/1273372740/original/3400242_C_rgb.png?Expires=1784303865&KeyName=gcs-bfldr-prod&Signature=--Kb9hpXxqpAbpkG_piR58eDQJU="
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "cache_version": 5,
+  "sku": "8834",
+  "assets": [
+    {
+      "asset_id": "t8gftss3rb2kgcnzj66wfx68",
+      "asset_name": "51551 0321 RevC lr",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8834"
+      ]
+    },
+    {
+      "asset_id": "8zckkv6pgnbcrccrbr9c2ph9",
+      "asset_name": "51551 0321 RevC lr",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8834"
+      ]
+    }
+  ],
+  "images": []
+}

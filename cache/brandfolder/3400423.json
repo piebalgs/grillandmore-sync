@@ -1,0 +1,264 @@
+{
+  "cache_version": 5,
+  "sku": "3400423",
+  "assets": [
+    {
+      "asset_id": "c5943w8sgq44sqjh52p3bh9",
+      "asset_name": "(dut-NL) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "rrvvbbjsp99pcgrb5jsfkgwt",
+      "asset_name": "(eng-GB) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "2xr32kfsjxctcm7ghzwfggm",
+      "asset_name": "(fin) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "nf64xfg5hbf7hk77wchpvvg",
+      "asset_name": "(fre-FR) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "f2fgc3pgc6z36h9bsgcjxjc",
+      "asset_name": "(ger-DE) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "bb44wsnrnk88qhrh7nxh6",
+      "asset_name": "(ita-IT) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "vwhjs34rbwf2smkkrg9mjtv",
+      "asset_name": "(por-PT) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "q8c8723qm63ss55pbgcr9",
+      "asset_name": "(sk) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "sbxwsww267wks7wssn947cj",
+      "asset_name": "NPD MasterCopyDoc Griddle Scoop",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "knckkq9tspgq3xsb3kjk6k8",
+      "asset_name": "Griddle Scoop",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "6t6tq6jsz6vk77mhrsv2ckz",
+      "asset_name": "(cze) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "p6m75vkgmmmjcmmsvcn6kj",
+      "asset_name": "(dan) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "vmvwxbc8wrrx4jk8256cr5",
+      "asset_name": "(no) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "65k4qp6k8g6ngtsxxp6sqqk3",
+      "asset_name": "(pol) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "xcnm3hvb3hbm5ssgm6vx4p",
+      "asset_name": "(spa-ES) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "9h3ggh96j8bcpgb423j3gxqq",
+      "asset_name": "(swe-SE) Griddle Scoop MasterCopy GLOBAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    },
+    {
+      "asset_id": "mxgkhtng2wt7mp9pt859tz5g",
+      "asset_name": "Slate 71CM Premium",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501792",
+        "1501795",
+        "1501756",
+        "1501793",
+        "1501801",
+        "3401363",
+        "3400423",
+        "6669",
+        "1501779",
+        "1501800",
+        "6670",
+        "1501759",
+        "1501789",
+        "1501758",
+        "3400519",
+        "1501757",
+        "3401364",
+        "1501794",
+        "1501791",
+        "1501790"
+      ]
+    },
+    {
+      "asset_id": "gsfp8h8k45qz5mt3c88567",
+      "asset_name": "Slate 71CM Premium",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501791",
+        "1501759",
+        "3400260",
+        "3400423",
+        "1501793",
+        "1501790",
+        "1501801",
+        "1501795",
+        "1501757",
+        "1501792",
+        "1501756",
+        "1501789",
+        "1501794",
+        "1501758",
+        "1501779",
+        "1501800"
+      ]
+    },
+    {
+      "asset_id": "xswb3fk3c3tfkmj6s9brqbq",
+      "asset_name": "8654094 9501147 0524 RevA OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400423"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "k68bvvwzqh9jr6jmbqckhw88",
+      "filename": "1501789_019B_ Slate71CM Prem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8400,
+      "height": 5600,
+      "size": 30739928,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k68bvvwzqh9jr6jmbqckhw88/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784306565&KeyName=gcs-bfldr-prod&Signature=NFLGJ9i53GD0vfVAN9WNbOhw4Q4=",
+      "url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784306565&KeyName=gcs-bfldr-prod&Signature=NFLGJ9i53GD0vfVAN9WNbOhw4Q4="
+    },
+    {
+      "attachment_id": "6b66qr8g59pw7vwhcfkzksrt",
+      "filename": "1501789_021_Slate71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8228,
+      "height": 5485,
+      "size": 25740660,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6b66qr8g59pw7vwhcfkzksrt/1501789_021_Slate71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6b66qr8g59pw7vwhcfkzksrt/v/1294495890/original/1501789_021_Slate71CMPrem_FY2026_EMEA.jpg?Expires=1784306565&KeyName=gcs-bfldr-prod&Signature=FJqQcT-UxkkowW5-66UsWMhbc4M=",
+      "url": "https://storage-us-gcs.bfldr.com/6b66qr8g59pw7vwhcfkzksrt/v/1294495890/original/1501789_021_Slate71CMPrem_FY2026_EMEA.jpg?Expires=1784306565&KeyName=gcs-bfldr-prod&Signature=FJqQcT-UxkkowW5-66UsWMhbc4M="
+    },
+    {
+      "attachment_id": "639xgwmz6cwscms84gtbr7",
+      "filename": "3400423_A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 1587740,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/639xgwmz6cwscms84gtbr7/3400423_A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/639xgwmz6cwscms84gtbr7/v/1264917906/original/3400423_A_rgb.png?Expires=1784306564&KeyName=gcs-bfldr-prod&Signature=Z4_kRblCs8w24EfYz3NKZBG8CQc=",
+      "url": "https://storage-us-gcs.bfldr.com/639xgwmz6cwscms84gtbr7/v/1264917906/original/3400423_A_rgb.png?Expires=1784306564&KeyName=gcs-bfldr-prod&Signature=Z4_kRblCs8w24EfYz3NKZBG8CQc="
+    },
+    {
+      "attachment_id": "5k7249mnqcsr4vkn2bgtfg",
+      "filename": "3400423_B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 1426785,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5k7249mnqcsr4vkn2bgtfg/3400423_B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5k7249mnqcsr4vkn2bgtfg/v/1264917907/original/3400423_B_rgb.png?Expires=1784306564&KeyName=gcs-bfldr-prod&Signature=x3s4dIaDsukrt9wrU1sN7gnWUKI=",
+      "url": "https://storage-us-gcs.bfldr.com/5k7249mnqcsr4vkn2bgtfg/v/1264917907/original/3400423_B_rgb.png?Expires=1784306564&KeyName=gcs-bfldr-prod&Signature=x3s4dIaDsukrt9wrU1sN7gnWUKI="
+    },
+    {
+      "attachment_id": "svhp6qk73wqxf7nx8m6nv9r6",
+      "filename": "3400423_C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "size": 1658519,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/svhp6qk73wqxf7nx8m6nv9r6/3400423_C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/svhp6qk73wqxf7nx8m6nv9r6/v/1264917908/original/3400423_C_rgb.png?Expires=1784306564&KeyName=gcs-bfldr-prod&Signature=Af5YijhbsKhVCiEue68TZqdT3LI=",
+      "url": "https://storage-us-gcs.bfldr.com/svhp6qk73wqxf7nx8m6nv9r6/v/1264917908/original/3400423_C_rgb.png?Expires=1784306564&KeyName=gcs-bfldr-prod&Signature=Af5YijhbsKhVCiEue68TZqdT3LI="
+    }
+  ]
+}

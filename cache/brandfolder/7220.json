@@ -1,0 +1,89 @@
+{
+  "cache_version": 5,
+  "sku": "7220",
+  "assets": [
+    {
+      "asset_id": "ph2o8o-dmob4g-2cj5o7",
+      "asset_name": "iGrill Mini 7202/7220 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7220",
+        "7202"
+      ]
+    },
+    {
+      "asset_id": "pq4d2t-dqv6g8-ftpl88",
+      "asset_name": "(C) iGrill Mini 7202/7220 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7202",
+        "7220"
+      ]
+    },
+    {
+      "asset_id": "pq4faa-4v3k8o-eyplmh",
+      "asset_name": "(F) iGrill Mini 7202/7220 Lifestyle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7220",
+        "7202"
+      ]
+    },
+    {
+      "asset_id": "mf5fx9hrxpw33qm6fc6kxvrr",
+      "asset_name": "iGrill Mini 7220 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7220"
+      ]
+    },
+    {
+      "asset_id": "prnm38-16y2y8-2q62er",
+      "asset_name": "iGrill Mini 7202/7220 Demo Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7220",
+        "7202"
+      ]
+    },
+    {
+      "asset_id": "qcqz2v-cvyi4g-5bpfni",
+      "asset_name": "(C) iGrill Mini 7202/7220 Premium Content",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7220",
+        "7202"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "6mxggpj79rvpvcns8wmn4x",
+      "filename": "7202A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5000,
+      "height": 3885,
+      "size": 2179187,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6mxggpj79rvpvcns8wmn4x/7202A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/6mxggpj79rvpvcns8wmn4x/v/50916173/original/7202A_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/6mxggpj79rvpvcns8wmn4x/v/50916173/original/7202A_rgb.png"
+    },
+    {
+      "attachment_id": "mbj6hf64kht66z5wjkfpf63",
+      "filename": "7202B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 3108,
+      "size": 1680600,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mbj6hf64kht66z5wjkfpf63/7202B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/mbj6hf64kht66z5wjkfpf63/v/55465716/original/7202B_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/mbj6hf64kht66z5wjkfpf63/v/55465716/original/7202B_rgb.png"
+    }
+  ]
+}

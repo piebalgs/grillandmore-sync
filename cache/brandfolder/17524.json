@@ -1,0 +1,30 @@
+{
+  "cache_version": 5,
+  "sku": "17524",
+  "assets": [
+    {
+      "asset_id": "pmev92-6jmgts-1h9m7s",
+      "asset_name": "[EMEA] Q Rotisserie 17524 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17524"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pmev92-6jmgts-b6nxzy",
+      "filename": "17524C.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 514949,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pmev92-6jmgts-b6nxzy/17524C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pmev92-6jmgts-b6nxzy/v/3052276/original/17524C.png?Expires=1784331819&KeyName=gcs-bfldr-prod&Signature=JubXCYHSmWERl4NhxlrKIDciNSk=",
+      "url": "https://storage-us-gcs.bfldr.com/pmev92-6jmgts-b6nxzy/v/3052276/original/17524C.png?Expires=1784331819&KeyName=gcs-bfldr-prod&Signature=JubXCYHSmWERl4NhxlrKIDciNSk="
+    }
+  ]
+}

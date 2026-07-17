@@ -1,0 +1,137 @@
+{
+  "cache_version": 5,
+  "sku": "6792",
+  "assets": [
+    {
+      "asset_id": "ps6m9mhrscns9s6fgtsggcn",
+      "asset_name": "Genesis EPX-470",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "36617084",
+        "36617049",
+        "36617039",
+        "36617074",
+        "36617053",
+        "36617069",
+        "36617033",
+        "36617094",
+        "6792",
+        "36617029",
+        "36617079",
+        "36617064",
+        "36617044"
+      ]
+    },
+    {
+      "asset_id": "hq9m4spqg6xx2q56xvk6qgxx",
+      "asset_name": "[EMEA] Full-Size Griddle 16x9 15",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6791",
+        "6792",
+        "6790"
+      ]
+    },
+    {
+      "asset_id": "3k7znxf69mtkcb4qh67gfs",
+      "asset_name": "[EMEA] Full-Size Griddle 16x9 30",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6792",
+        "6790",
+        "6791"
+      ]
+    },
+    {
+      "asset_id": "nrq3sjckpqbztqcv2w2xqgx5",
+      "asset_name": "[EMEA] Full-Size Griddle 9x16 15",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6792",
+        "6791",
+        "6790"
+      ]
+    },
+    {
+      "asset_id": "cwnbnpgkr9j986nsmg385jjx",
+      "asset_name": "[EMEA] Full-Size Griddle Genesis 300 Series PECI",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6792",
+        "6791"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "nttx3thzcv54cht23jzr",
+      "filename": "6791 Full-Size Griddle Genesis 300 Series PECI 6791A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 3999,
+      "size": 5835329,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nttx3thzcv54cht23jzr/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nttx3thzcv54cht23jzr/v/1279206067/original/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791A_rgb.png?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=4Fxhznd3fn8SBBP9nSR-QwnrbY0=",
+      "url": "https://storage-us-gcs.bfldr.com/nttx3thzcv54cht23jzr/v/1279206067/original/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791A_rgb.png?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=4Fxhznd3fn8SBBP9nSR-QwnrbY0="
+    },
+    {
+      "attachment_id": "pvbfn7zj7fn7k23k4pxjzg8",
+      "filename": "6791 Full-Size Griddle Genesis 300 Series PECI 6791B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 3999,
+      "size": 5727705,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pvbfn7zj7fn7k23k4pxjzg8/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pvbfn7zj7fn7k23k4pxjzg8/v/1279206068/original/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791B_rgb.png?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=PB_365k9HbqoEa9y_8EfpDfnYEM=",
+      "url": "https://storage-us-gcs.bfldr.com/pvbfn7zj7fn7k23k4pxjzg8/v/1279206068/original/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791B_rgb.png?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=PB_365k9HbqoEa9y_8EfpDfnYEM="
+    },
+    {
+      "attachment_id": "6pkv5q5z3xtbhrwnrz6fsnbz",
+      "filename": "6791 Full-Size Griddle Genesis 300 Series PECI 6791C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4000,
+      "height": 4001,
+      "size": 5918026,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6pkv5q5z3xtbhrwnrz6fsnbz/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6pkv5q5z3xtbhrwnrz6fsnbz/v/1279206069/original/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791C_rgb.png?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=paSS3MSyXAUlrMLhR6Kc7CyCLi4=",
+      "url": "https://storage-us-gcs.bfldr.com/6pkv5q5z3xtbhrwnrz6fsnbz/v/1279206069/original/6791%20Full-Size%20Griddle%20Genesis%20300%20Series%20PECI%206791C_rgb.png?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=paSS3MSyXAUlrMLhR6Kc7CyCLi4="
+    },
+    {
+      "attachment_id": "2j4h7jgfjqfv5vwhwk89mrk",
+      "filename": "36617079BB_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5214,
+      "height": 5214,
+      "size": 13318971,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2j4h7jgfjqfv5vwhwk89mrk/36617079BB_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2j4h7jgfjqfv5vwhwk89mrk/v/1277044980/original/36617079BB_rgb.png?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=otJqSmvFdJl08TfO0W_MRblNVrc=",
+      "url": "https://storage-us-gcs.bfldr.com/2j4h7jgfjqfv5vwhwk89mrk/v/1277044980/original/36617079BB_rgb.png?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=otJqSmvFdJl08TfO0W_MRblNVrc="
+    },
+    {
+      "attachment_id": "jm9nsm69c93wkn7v2vgm9xkx",
+      "filename": "36617079G1_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 6720,
+      "height": 4480,
+      "size": 12926393,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jm9nsm69c93wkn7v2vgm9xkx/36617079G1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jm9nsm69c93wkn7v2vgm9xkx/v/1277044981/original/36617079G1_rgb.jpg?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=RrIsc6hSXw4ZyFMZwSRi4Q5OpZY=",
+      "url": "https://storage-us-gcs.bfldr.com/jm9nsm69c93wkn7v2vgm9xkx/v/1277044981/original/36617079G1_rgb.jpg?Expires=1784318042&KeyName=gcs-bfldr-prod&Signature=RrIsc6hSXw4ZyFMZwSRi4Q5OpZY="
+    }
+  ]
+}

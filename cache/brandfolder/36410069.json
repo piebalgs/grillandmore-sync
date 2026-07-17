@@ -1,0 +1,45 @@
+{
+  "cache_version": 5,
+  "sku": "36410069",
+  "assets": [
+    {
+      "asset_id": "kj9k4rvqtnf89vnjrw3qprt",
+      "asset_name": "[AMER/AUNZ/EMEA] E-435/SE-E-435 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "36410049",
+        "36410039",
+        "36410044",
+        "36410079",
+        "36410029",
+        "36410033",
+        "36410094",
+        "36410075",
+        "36410021",
+        "36410069",
+        "36410001",
+        "36410064",
+        "36410084",
+        "36410053",
+        "36410074",
+        "36413024"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "bsx8r4bc8sn8cgfx43b9n",
+      "filename": "36410001Y1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3000,
+      "height": 2000,
+      "size": 3170173,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bsx8r4bc8sn8cgfx43b9n/36410001Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/bsx8r4bc8sn8cgfx43b9n/v/1025625709/original/36410001Y1.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/bsx8r4bc8sn8cgfx43b9n/v/1025625709/original/36410001Y1.jpg"
+    }
+  ]
+}

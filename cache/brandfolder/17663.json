@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "17663",
+  "assets": [
+    {
+      "asset_id": "pmf663-1bn654-duflo1",
+      "asset_name": "Beef Smoking Blend 17663 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17663"
+      ]
+    },
+    {
+      "asset_id": "s4j4bfhmbwzv86zhnp5scv",
+      "asset_name": "OFS 00829 03 (17663) Beef Smoking Blend 0,7kg ver6",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17663"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pmf663-1bn654-g82zow",
+      "filename": "17663B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 585557,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pmf663-1bn654-g82zow/17663B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pmf663-1bn654-g82zow/v/3053316/original/17663B.png?Expires=1784327832&KeyName=gcs-bfldr-prod&Signature=hdzXXi1twm8lRvcM3ChrAiMs5KU=",
+      "url": "https://storage-us-gcs.bfldr.com/pmf663-1bn654-g82zow/v/3053316/original/17663B.png?Expires=1784327832&KeyName=gcs-bfldr-prod&Signature=hdzXXi1twm8lRvcM3ChrAiMs5KU="
+    }
+  ]
+}

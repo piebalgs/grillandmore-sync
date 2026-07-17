@@ -1,0 +1,310 @@
+{
+  "cache_version": 5,
+  "sku": "6613",
+  "assets": [
+    {
+      "asset_id": "cr98m7rn4f6hz7r5965vb8",
+      "asset_name": "Lumin Compact Cersatility Expansion Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "rc3mmrptc558cz889nbsr7p",
+      "asset_name": "6613 1",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "h73x784c94xzfs3mj5t5nxx",
+      "asset_name": "Lumin Compact Cersatility Expansion Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "njkpxw49krnbm69q54q4f95c",
+      "asset_name": "Lumin Compact Cersatility Expansion Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "4p8bp6xvqkww2vqnqgw4jc4j",
+      "asset_name": "(cze) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6614",
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "wbpt4w447tbtxqhsnj3xwf7",
+      "asset_name": "(dan) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "q3qqj4jj8w7cg35fm39k76p",
+      "asset_name": "(dut-NL) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "rpn4fwmz6fvm2hbn38pt9hk3",
+      "asset_name": "(eng-GB) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "967z2s7fthffwpwt5jfv8kwt",
+      "asset_name": "(fin) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6614",
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "wzf4p7c5v79p6pbnhmfhksg6",
+      "asset_name": "(fre-FR) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "zbqw9shcc9shvpbkvqm4w3s",
+      "asset_name": "(ger-DE) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "b6hmq3gkbfbq5gms3hmj6n7z",
+      "asset_name": "(gre) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "nf28hhj7j4hc74kg53s8xspv",
+      "asset_name": "(hrv) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "tz7m4ffphc9s5hqxx9jzps87",
+      "asset_name": "(hun) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "mgjsvtn52vmm37bg6mm7",
+      "asset_name": "(ita-IT) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822(ita-IT)",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6614",
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "rxmr67mfc89pjbsntnwh2qbr",
+      "asset_name": "(nob) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6614",
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "h6k9kc4jjnsbhkktxgcbcrgm",
+      "asset_name": "(pol) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "tnck4wpvs6kzhpfr77kwjw",
+      "asset_name": "(por-PT) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "ngv5xfmjgj6r6pw3sx4rns43",
+      "asset_name": "(rum) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6614",
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "7xcnx4ffv6s44qkq89swxpx",
+      "asset_name": "(slo) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "hvmr2xtcrf4mh3jv9vqkggc9",
+      "asset_name": "(slv) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "q9kkh93tj98bbg9k5jsjnp4",
+      "asset_name": "(spa-ES) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6614",
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "5z7spjqx6p6mh996nnwhz89",
+      "asset_name": "(swe-SE) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "368phf5ft95jbfrzjk34rqvj",
+      "asset_name": "(tur) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613",
+        "6614"
+      ]
+    },
+    {
+      "asset_id": "rn7c73fnmt8q7c4ktv3vwrns",
+      "asset_name": "(ukr) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6614",
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "mr2bswcn8qgh2k46wqn3fcw",
+      "asset_name": "Lumin Vers Exp Kit Copy",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6614",
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "mj9c6hrp25fp3sxgt867mq4h",
+      "asset_name": "Lumin Compact Cersatility Expansion Kit",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613"
+      ]
+    },
+    {
+      "asset_id": "cbgb3fkk93thbrk65xkq6jrc",
+      "asset_name": "30113603 19016 0724 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6613"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ckkn8np6jb23tkc5wf5pzvv",
+      "filename": "6613D_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2500,
+      "height": 2500,
+      "size": 3215792,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ckkn8np6jb23tkc5wf5pzvv/6613D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ckkn8np6jb23tkc5wf5pzvv/v/1279325841/original/6613D_rgb.png?Expires=1784320821&KeyName=gcs-bfldr-prod&Signature=mNimK9OMDcjv3OHJB3c2PriJ7z8=",
+      "url": "https://storage-us-gcs.bfldr.com/ckkn8np6jb23tkc5wf5pzvv/v/1279325841/original/6613D_rgb.png?Expires=1784320821&KeyName=gcs-bfldr-prod&Signature=mNimK9OMDcjv3OHJB3c2PriJ7z8="
+    },
+    {
+      "attachment_id": "9489bjhchh27r4fnhxzm8h7",
+      "filename": "6613_1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 10227971,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9489bjhchh27r4fnhxzm8h7/6613_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9489bjhchh27r4fnhxzm8h7/v/1279325845/original/6613_1.png?Expires=1784320821&KeyName=gcs-bfldr-prod&Signature=SLKS1ItSH8PjQLDTiAtXj-NXLQY=",
+      "url": "https://storage-us-gcs.bfldr.com/9489bjhchh27r4fnhxzm8h7/v/1279325845/original/6613_1.png?Expires=1784320821&KeyName=gcs-bfldr-prod&Signature=SLKS1ItSH8PjQLDTiAtXj-NXLQY="
+    },
+    {
+      "attachment_id": "k595jc3cnnnjfvmvmb5pp",
+      "filename": "91010901FB1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 6408129,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k595jc3cnnnjfvmvmb5pp/91010901FB1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k595jc3cnnnjfvmvmb5pp/v/1279325846/original/91010901FB1_rgb.jpg?Expires=1784320821&KeyName=gcs-bfldr-prod&Signature=gjZQcjFmcOn7RsR-2iGwzeN_6go=",
+      "url": "https://storage-us-gcs.bfldr.com/k595jc3cnnnjfvmvmb5pp/v/1279325846/original/91010901FB1_rgb.jpg?Expires=1784320821&KeyName=gcs-bfldr-prod&Signature=gjZQcjFmcOn7RsR-2iGwzeN_6go="
+    },
+    {
+      "attachment_id": "45xptvr3cvcz5nwq6p44ttgj",
+      "filename": "91010901FB2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 4463425,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/45xptvr3cvcz5nwq6p44ttgj/91010901FB2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/45xptvr3cvcz5nwq6p44ttgj/v/1279325847/original/91010901FB2_rgb.jpg?Expires=1784320821&KeyName=gcs-bfldr-prod&Signature=Qn7NV9UmQFmRwMQzIGiVyW4GB_w=",
+      "url": "https://storage-us-gcs.bfldr.com/45xptvr3cvcz5nwq6p44ttgj/v/1279325847/original/91010901FB2_rgb.jpg?Expires=1784320821&KeyName=gcs-bfldr-prod&Signature=Qn7NV9UmQFmRwMQzIGiVyW4GB_w="
+    }
+  ]
+}

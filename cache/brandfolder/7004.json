@@ -1,0 +1,258 @@
+{
+  "cache_version": 5,
+  "sku": "7004",
+  "assets": [
+    {
+      "asset_id": "q5po4f-9o9kmg-5tsrwd",
+      "asset_name": "Wet Smoke Kit 7004 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7004"
+      ]
+    },
+    {
+      "asset_id": "5b9t3m3r9z784fjhmcf33b9",
+      "asset_name": "How To Install Your Weber Wet Smoke Kit Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7004"
+      ]
+    },
+    {
+      "asset_id": "7gv5q949fqg3r9g9gb39jq",
+      "asset_name": "Retailers How To Install Weber Wet Smoke Kit Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7004"
+      ]
+    },
+    {
+      "asset_id": "qe5rn2-a4dfmg-9tksym",
+      "asset_name": "Wet Smoke Kit 7004 Premium Content",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7004"
+      ]
+    },
+    {
+      "asset_id": "qe6ngc-6vk1c0-6vzmmk",
+      "asset_name": "Wet Smoke Kit 7004 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7004"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "q5po4f-9o9kmg-bjbmhh",
+      "filename": "7004A1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 6371839,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-bjbmhh/7004A1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-bjbmhh/v/10188105/original/7004A1.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=MnzvLzktrkL2xRtyXImC9Po3XN8=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-bjbmhh/v/10188105/original/7004A1.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=MnzvLzktrkL2xRtyXImC9Po3XN8="
+    },
+    {
+      "attachment_id": "q5po4f-9o9kmg-27bwn9",
+      "filename": "7004A2.png",
+      "extension": "png",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "size": 5060123,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-27bwn9/7004A2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-27bwn9/v/10188106/original/7004A2.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=TRYQ9F56XmAhpQi4mueqBodf8b0=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-27bwn9/v/10188106/original/7004A2.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=TRYQ9F56XmAhpQi4mueqBodf8b0="
+    },
+    {
+      "attachment_id": "q5po4f-9o9kmg-4gu65p",
+      "filename": "7004A3.png",
+      "extension": "png",
+      "position": 2,
+      "width": 3135,
+      "height": 3135,
+      "size": 4984753,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-4gu65p/7004A3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-4gu65p/v/10188107/original/7004A3.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=d4FqEIZmjkTyDgeEOiUo-faBZBo=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-4gu65p/v/10188107/original/7004A3.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=d4FqEIZmjkTyDgeEOiUo-faBZBo="
+    },
+    {
+      "attachment_id": "q5po4f-9o9kmg-620vf0",
+      "filename": "7004B1.png",
+      "extension": "png",
+      "position": 3,
+      "width": 3000,
+      "height": 3000,
+      "size": 5408322,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-620vf0/7004B1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-620vf0/v/10188108/original/7004B1.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=K-NVqed4hlehXorDGhlO_gqojZk=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-620vf0/v/10188108/original/7004B1.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=K-NVqed4hlehXorDGhlO_gqojZk="
+    },
+    {
+      "attachment_id": "q5po4f-9o9kmg-bqa2lc",
+      "filename": "7004B2.png",
+      "extension": "png",
+      "position": 4,
+      "width": 3000,
+      "height": 3000,
+      "size": 4682330,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-bqa2lc/7004B2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-bqa2lc/v/10188109/original/7004B2.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=SCbMHx5ObuD3f7rcW-4lqna8xHs=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-bqa2lc/v/10188109/original/7004B2.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=SCbMHx5ObuD3f7rcW-4lqna8xHs="
+    },
+    {
+      "attachment_id": "q5po4f-9o9kmg-61wwxp",
+      "filename": "7004B3.png",
+      "extension": "png",
+      "position": 5,
+      "width": 3000,
+      "height": 3000,
+      "size": 3077552,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-61wwxp/7004B3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-61wwxp/v/10188110/original/7004B3.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=E8k5UX1PbzW7LPzIBlA2F4VrrWU=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-61wwxp/v/10188110/original/7004B3.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=E8k5UX1PbzW7LPzIBlA2F4VrrWU="
+    },
+    {
+      "attachment_id": "q5po4f-9o9kmg-f5eewg",
+      "filename": "7004C1.png",
+      "extension": "png",
+      "position": 6,
+      "width": 3000,
+      "height": 3000,
+      "size": 6660159,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-f5eewg/7004C1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-f5eewg/v/10188111/original/7004C1.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=Jh54lg2xOPlLTLUMaAZ_PKXG2jg=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-f5eewg/v/10188111/original/7004C1.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=Jh54lg2xOPlLTLUMaAZ_PKXG2jg="
+    },
+    {
+      "attachment_id": "q5po4f-9o9kmg-fcksax",
+      "filename": "7004C2.png",
+      "extension": "png",
+      "position": 7,
+      "width": 3000,
+      "height": 3000,
+      "size": 5101454,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-fcksax/7004C2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-fcksax/v/10188112/original/7004C2.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=ANF2nAlp8f-jPsAqrnuhVr69zYQ=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-fcksax/v/10188112/original/7004C2.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=ANF2nAlp8f-jPsAqrnuhVr69zYQ="
+    },
+    {
+      "attachment_id": "q5po4f-9o9kmg-3rwbmt",
+      "filename": "7004C3.png",
+      "extension": "png",
+      "position": 8,
+      "width": 3000,
+      "height": 3000,
+      "size": 4755047,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q5po4f-9o9kmg-3rwbmt/7004C3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-3rwbmt/v/10188113/original/7004C3.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=hi1UztqPBNFZvB5ZotYMmdTptY8=",
+      "url": "https://storage-us-gcs.bfldr.com/q5po4f-9o9kmg-3rwbmt/v/10188113/original/7004C3.png?Expires=1784325729&KeyName=gcs-bfldr-prod&Signature=hi1UztqPBNFZvB5ZotYMmdTptY8="
+    },
+    {
+      "attachment_id": "qe5rn2-a4dfmg-dge1ne",
+      "filename": "7004_Wet_Smoke_Kit_Premium_Content_1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 1000,
+      "height": 1000,
+      "size": 279115,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qe5rn2-a4dfmg-dge1ne/7004_Wet_Smoke_Kit_Premium_Content_1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-dge1ne/v/25110556/original/7004_Wet_Smoke_Kit_Premium_Content_1.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-dge1ne/v/25110556/original/7004_Wet_Smoke_Kit_Premium_Content_1.jpg"
+    },
+    {
+      "attachment_id": "qe5rn2-a4dfmg-arqqio",
+      "filename": "7004_Wet_Smoke_Kit_Premium_Content_2.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "size": 134022,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qe5rn2-a4dfmg-arqqio/7004_Wet_Smoke_Kit_Premium_Content_2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-arqqio/v/25110557/original/7004_Wet_Smoke_Kit_Premium_Content_2.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-arqqio/v/25110557/original/7004_Wet_Smoke_Kit_Premium_Content_2.jpg"
+    },
+    {
+      "attachment_id": "qe5rn2-a4dfmg-bjakyh",
+      "filename": "7004_Wet_Smoke_Kit_Premium_Content_3.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "size": 302955,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qe5rn2-a4dfmg-bjakyh/7004_Wet_Smoke_Kit_Premium_Content_3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-bjakyh/v/25110558/original/7004_Wet_Smoke_Kit_Premium_Content_3.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-bjakyh/v/25110558/original/7004_Wet_Smoke_Kit_Premium_Content_3.jpg"
+    },
+    {
+      "attachment_id": "qe5rn2-a4dfmg-9bfp6c",
+      "filename": "7004_Wet_Smoke_Kit_Premium_Content_4.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "size": 259971,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qe5rn2-a4dfmg-9bfp6c/7004_Wet_Smoke_Kit_Premium_Content_4.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-9bfp6c/v/25110559/original/7004_Wet_Smoke_Kit_Premium_Content_4.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-9bfp6c/v/25110559/original/7004_Wet_Smoke_Kit_Premium_Content_4.jpg"
+    },
+    {
+      "attachment_id": "qe5rn2-a4dfmg-305xwo",
+      "filename": "7004_Wet_Smoke_Kit_Premium_Content_5.jpg",
+      "extension": "jpg",
+      "position": 4,
+      "width": 970,
+      "height": 300,
+      "size": 193376,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qe5rn2-a4dfmg-305xwo/7004_Wet_Smoke_Kit_Premium_Content_5.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-305xwo/v/25110560/original/7004_Wet_Smoke_Kit_Premium_Content_5.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-305xwo/v/25110560/original/7004_Wet_Smoke_Kit_Premium_Content_5.jpg"
+    },
+    {
+      "attachment_id": "qe5rn2-a4dfmg-295hiy",
+      "filename": "7004_Wet_Smoke_Kit_Premium_Content_6.jpg",
+      "extension": "jpg",
+      "position": 5,
+      "width": 970,
+      "height": 300,
+      "size": 88355,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qe5rn2-a4dfmg-295hiy/7004_Wet_Smoke_Kit_Premium_Content_6.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-295hiy/v/25110561/original/7004_Wet_Smoke_Kit_Premium_Content_6.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/qe5rn2-a4dfmg-295hiy/v/25110561/original/7004_Wet_Smoke_Kit_Premium_Content_6.jpg"
+    }
+  ]
+}

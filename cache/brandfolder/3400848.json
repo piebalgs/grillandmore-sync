@@ -1,0 +1,198 @@
+{
+  "cache_version": 5,
+  "sku": "3400848",
+  "assets": [
+    {
+      "asset_id": "w4gqrfjhgxfm2mvk6phwjn64",
+      "asset_name": "(cze) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "hhbc3fv826mtb32w7xc5p758",
+      "asset_name": "(dan) Side Table Set Q 2000 series MasterCopy EMEA 1",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "86jkgb49gqqsm646mjs3nr",
+      "asset_name": "(dut-NL) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "gjxw7cqpc3twhjrr94p3c",
+      "asset_name": "(en US) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "h7m5brnbvbb876sg2gwqn7",
+      "asset_name": "(eng-GB) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "4smmncsfb7cp5wj65tgjt6f8",
+      "asset_name": "(fin) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "gxvv6jq3kx5ttbvqm9h76n9",
+      "asset_name": "(fre-FR) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "jkfgnj8sj95439pfr68qbr",
+      "asset_name": "(ger-DE) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "wcvkpgmpgpjrs2jjjtw2xf",
+      "asset_name": "(ita-IT) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "xm9rfpwkq59rcbcrn8cpz77",
+      "asset_name": "(no) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "q6xtkfrp9wgkjc547zgmxx3k",
+      "asset_name": "(pol) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "fwpfx368xkkbhsnx5gxfm4f",
+      "asset_name": "(por-PT) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "xp4rh4xpffwhrspqbnsss6",
+      "asset_name": "(sk) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "6c4vvvrmbq4gs2wpng3stp7",
+      "asset_name": "(spa-ES) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "3ngcq97f9bwnff8ns98bhcpn",
+      "asset_name": "(swe-SE) Side Table Set Q 2000 series MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "g5sthrcxfk5sh6h7sms8t9j4",
+      "asset_name": "[EMEA/AUNZ] Weber Q1XXXN/ Q2XXXN/ Q2XXXN+ Side Tables",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400153",
+        "3400847",
+        "3400848"
+      ]
+    },
+    {
+      "asset_id": "rnqpfkckffrmkp8nvtr6qgk",
+      "asset_name": "[EMEA/AUNZ] Side Table Kit Q1XXXN/ Q2XXXN/ Q2XXXN+",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400153",
+        "3400848",
+        "3400847"
+      ]
+    },
+    {
+      "asset_id": "gfsfpcfk8msrjjw24vq5kb",
+      "asset_name": "9501380 0125 RevA LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400848"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "smmmf6t34n7qsw44nk837g",
+      "filename": "3400153_R1_EMEA_2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 3411,
+      "size": 1765228,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/smmmf6t34n7qsw44nk837g/3400153_R1_EMEA_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/smmmf6t34n7qsw44nk837g/v/1273791235/original/3400153_R1_EMEA_2_rgb.jpg?Expires=1784302978&KeyName=gcs-bfldr-prod&Signature=S1S-l2opOJzCnaV594Rliyq6I9k=",
+      "url": "https://storage-us-gcs.bfldr.com/smmmf6t34n7qsw44nk837g/v/1273791235/original/3400153_R1_EMEA_2_rgb.jpg?Expires=1784302978&KeyName=gcs-bfldr-prod&Signature=S1S-l2opOJzCnaV594Rliyq6I9k="
+    },
+    {
+      "attachment_id": "hhv63bcq28qgt5n8f3kq7g9",
+      "filename": "3400153_R1_EMEA_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 3486,
+      "size": 2290539,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hhv63bcq28qgt5n8f3kq7g9/3400153_R1_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hhv63bcq28qgt5n8f3kq7g9/v/1273791236/original/3400153_R1_EMEA_rgb.jpg?Expires=1784302978&KeyName=gcs-bfldr-prod&Signature=XEhY7Y1xVw94qJL4BahKdj-oCQE=",
+      "url": "https://storage-us-gcs.bfldr.com/hhv63bcq28qgt5n8f3kq7g9/v/1273791236/original/3400153_R1_EMEA_rgb.jpg?Expires=1784302978&KeyName=gcs-bfldr-prod&Signature=XEhY7Y1xVw94qJL4BahKdj-oCQE="
+    },
+    {
+      "attachment_id": "spvk3hwv55jpj47fgfmw53qm",
+      "filename": "3400153_R2_EMEA_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 2385,
+      "size": 908738,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/spvk3hwv55jpj47fgfmw53qm/3400153_R2_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/spvk3hwv55jpj47fgfmw53qm/v/1273791237/original/3400153_R2_EMEA_rgb.jpg?Expires=1784302978&KeyName=gcs-bfldr-prod&Signature=0FlMY4EvhQJzL8be2fkGd5kg10k=",
+      "url": "https://storage-us-gcs.bfldr.com/spvk3hwv55jpj47fgfmw53qm/v/1273791237/original/3400153_R2_EMEA_rgb.jpg?Expires=1784302978&KeyName=gcs-bfldr-prod&Signature=0FlMY4EvhQJzL8be2fkGd5kg10k="
+    }
+  ]
+}

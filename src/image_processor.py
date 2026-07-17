@@ -8,7 +8,6 @@ import re
 import time
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any
 from urllib.parse import unquote, urlparse
 
 import requests
@@ -19,7 +18,9 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 IMAGE_CACHE_DIR = PROJECT_ROOT / "cache" / "processed_images"
 
 OUTPUT_SIZE = 800
-JPEG_QUALITY = 88
+IMAGE_FORMAT = "WEBP"
+WEBP_QUALITY = 90
+WEBP_METHOD = 6
 
 RETRY_STATUS_CODES = {
     429,
@@ -61,7 +62,6 @@ def sanitize_filename(value: str) -> str:
     decoded = Path(decoded).name
 
     stem = Path(decoded).stem
-    suffix = Path(decoded).suffix.lower()
 
     stem = re.sub(r"[^\w.-]+", "_", stem, flags=re.UNICODE)
     stem = re.sub(r"_+", "_", stem).strip("._-")
@@ -69,7 +69,7 @@ def sanitize_filename(value: str) -> str:
     if not stem:
         stem = "product-image"
 
-    return f"{stem}{suffix}"
+    return stem
 
 
 def filename_from_url(url: str) -> str:
@@ -82,9 +82,10 @@ def cache_key(
     filename: str,
 ) -> str:
     digest = hashlib.sha256(
-        f"{url}|{filename}|{OUTPUT_SIZE}|{JPEG_QUALITY}".encode(
-            "utf-8"
-        )
+        (
+            f"{url}|{filename}|{OUTPUT_SIZE}|"
+            f"{IMAGE_FORMAT}|{WEBP_QUALITY}|{WEBP_METHOD}"
+        ).encode("utf-8")
     ).hexdigest()
 
     return digest[:24]
@@ -170,7 +171,7 @@ def prepare_square_image(
     Izveido precīzi 800 × 800 px attēlu.
 
     Attēlam saglabā proporcijas un trūkstošo laukumu aizpilda:
-      - caurspīdīgu, ja avotam ir transparency;
+      - caurspīdīgu, ja avotam ir caurspīdīgums;
       - baltu, ja attēls nav caurspīdīgs.
     """
     source = ImageOps.exif_transpose(source)
@@ -230,46 +231,31 @@ def prepare_square_image(
 
 def choose_output_filename(
     original_filename: str,
-    transparent: bool,
 ) -> tuple[str, str]:
-    safe_filename = sanitize_filename(original_filename)
-    stem = Path(safe_filename).stem
+    """
+    Visi apstrādātie attēli tiek saglabāti WebP formātā.
+    """
+    safe_stem = sanitize_filename(original_filename)
 
-    if transparent:
-        return f"{stem}.png", "image/png"
-
-    return f"{stem}.jpg", "image/jpeg"
+    return f"{safe_stem}.webp", "image/webp"
 
 
 def save_processed_image(
     image: Image.Image,
     *,
     output_path: Path,
-    content_type: str,
 ) -> None:
     output_path.parent.mkdir(
         parents=True,
         exist_ok=True,
     )
 
-    if content_type == "image/png":
-        image.save(
-            output_path,
-            format="PNG",
-            optimize=True,
-            compress_level=7,
-        )
-        return
-
-    rgb_image = image.convert("RGB")
-
-    rgb_image.save(
+    image.save(
         output_path,
-        format="JPEG",
-        quality=JPEG_QUALITY,
-        optimize=True,
-        progressive=True,
-        subsampling="4:2:0",
+        format=IMAGE_FORMAT,
+        quality=WEBP_QUALITY,
+        method=WEBP_METHOD,
+        exact=True,
     )
 
 
@@ -298,8 +284,8 @@ def process_remote_image(
         session.headers.update(
             {
                 "User-Agent": (
-                    "GrillAndMore-Sync/0.3 "
-                    "(WordPress product image importer)"
+                    "GrillAndMore-Sync/0.4 "
+                    "(WordPress WebP product image importer)"
                 ),
                 "Accept": "image/*,*/*;q=0.8",
             }
@@ -317,14 +303,13 @@ def process_remote_image(
 
         original_width, original_height = source_image.size
 
-        processed, transparent, was_resized = (
+        processed, _transparent, was_resized = (
             prepare_square_image(source_image)
         )
 
         output_filename, content_type = (
             choose_output_filename(
                 source_filename,
-                transparent,
             )
         )
 
@@ -354,7 +339,6 @@ def process_remote_image(
         save_processed_image(
             processed,
             output_path=output_path,
-            content_type=content_type,
         )
 
         return ProcessedImage(

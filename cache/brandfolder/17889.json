@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "17889",
+  "assets": [
+    {
+      "asset_id": "py1eah-2f0v6g-csrhed",
+      "asset_name": "Cast Iron Protector 17889 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17889"
+      ]
+    },
+    {
+      "asset_id": "fbpvpx6bn7p733qmj8fp",
+      "asset_name": "17889 Cast Iron Protector 25-06-2019",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17889"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "py1eah-2f0v6g-7er7w0",
+      "filename": "17889 Weber_Cast Iron Protector.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 1458426,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/py1eah-2f0v6g-7er7w0/17889%20Weber_Cast%20Iron%20Protector.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/py1eah-2f0v6g-7er7w0/v/1266823273/original/17889%20Weber_Cast%20Iron%20Protector.png?Expires=1784326720&KeyName=gcs-bfldr-prod&Signature=HjvPzv2e2TYTlvxm4vNec_KVp1M=",
+      "url": "https://storage-us-gcs.bfldr.com/py1eah-2f0v6g-7er7w0/v/1266823273/original/17889%20Weber_Cast%20Iron%20Protector.png?Expires=1784326720&KeyName=gcs-bfldr-prod&Signature=HjvPzv2e2TYTlvxm4vNec_KVp1M="
+    }
+  ]
+}

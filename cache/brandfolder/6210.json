@@ -1,0 +1,66 @@
+{
+  "cache_version": 5,
+  "sku": "6210",
+  "assets": [
+    {
+      "asset_id": "ppapro-c4w9lc-41ov0j",
+      "asset_name": "Replacement Plancha Scourers 6210 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6210"
+      ]
+    },
+    {
+      "asset_id": "9584gnrvq9c3jw9xs4fpxbjt",
+      "asset_name": "51564 0519 RevA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6210"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "ppapro-c4w9lc-dwk80z",
+      "filename": "6210A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4480,
+      "height": 4480,
+      "size": 8158479,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapro-c4w9lc-dwk80z/6210A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dwk80z/v/3471654/original/6210A.png?Expires=1784326974&KeyName=gcs-bfldr-prod&Signature=K9ZXV9PGd-l-bwfnHPMhEiP3xkE=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dwk80z/v/3471654/original/6210A.png?Expires=1784326974&KeyName=gcs-bfldr-prod&Signature=K9ZXV9PGd-l-bwfnHPMhEiP3xkE="
+    },
+    {
+      "attachment_id": "ppapro-c4w9lc-dew2xd",
+      "filename": "6210B.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4480,
+      "height": 4480,
+      "size": 7146023,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapro-c4w9lc-dew2xd/6210B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dew2xd/v/3471655/original/6210B.png?Expires=1784326974&KeyName=gcs-bfldr-prod&Signature=d1k4bpqn-0epbOOiUucUOhptpmo=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dew2xd/v/3471655/original/6210B.png?Expires=1784326974&KeyName=gcs-bfldr-prod&Signature=d1k4bpqn-0epbOOiUucUOhptpmo="
+    },
+    {
+      "attachment_id": "ppapro-c4w9lc-dpd5e2",
+      "filename": "6210C.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4480,
+      "height": 4480,
+      "size": 7947938,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapro-c4w9lc-dpd5e2/6210C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dpd5e2/v/3471656/original/6210C.png?Expires=1784326974&KeyName=gcs-bfldr-prod&Signature=YnZwe5Pzv9Q5g5xaMFkAEYnWJ8c=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dpd5e2/v/3471656/original/6210C.png?Expires=1784326974&KeyName=gcs-bfldr-prod&Signature=YnZwe5Pzv9Q5g5xaMFkAEYnWJ8c="
+    }
+  ]
+}

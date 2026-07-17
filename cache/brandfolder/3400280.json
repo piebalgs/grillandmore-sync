@@ -1,0 +1,211 @@
+{
+  "cache_version": 5,
+  "sku": "3400280",
+  "assets": [
+    {
+      "asset_id": "74hkkwcqrc4zt8783fr83f",
+      "asset_name": "(cze) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "fkb4tprvvrm8bvb7xggmkwx",
+      "asset_name": "(dan) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "q5t4hq4bpgkg3n9kbrb6cxq6",
+      "asset_name": "(dut-NL) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "mgbz73863sc4v36ttntgc9q",
+      "asset_name": "(eng-GB) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "tckhrjzkfpkf7xtc5m9rq3q",
+      "asset_name": "(fin) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "4q3q7qszppcnxcjqvbtpjstr",
+      "asset_name": "(fre-FR) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "8vwjsnxcgj7k9wtcfj3xqffw",
+      "asset_name": "(ger-DE) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "9rfx2w6mbnmm5n8rvwfmv8s",
+      "asset_name": "(ita) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "7nvkb6r57w9fjcg4pknnt76",
+      "asset_name": "(no) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "xrpptvkw7rtkck39k798w88",
+      "asset_name": "(pol) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "mknn8g8j3tkfrr365cj6pth7",
+      "asset_name": "(por PT) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "p8h89jrsn2cc7kg7vj67f47",
+      "asset_name": "(sk) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "vrnshf84kzjftrwgqmb96z6v",
+      "asset_name": "(spa-ES) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "63g8gkgh57gj6g965fpxn49n",
+      "asset_name": "(swe) Premium Grill Cover - Weber Traveler Compact - MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "bm9g4hv3pjc86wh7vcms5prx",
+      "asset_name": "Weber Traveler Compact Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280",
+        "3400335"
+      ]
+    },
+    {
+      "asset_id": "f9pv63x5hpqs6bsthkpzx88",
+      "asset_name": "Weber Traveler Compact Premium Grill Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280",
+        "3400335"
+      ]
+    },
+    {
+      "asset_id": "nrnvvc9kkrqthhmkns3fbgvm",
+      "asset_name": "NPD MasterCopyDoc Premium Grill Cover - Weber Traveler Compact",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400335",
+        "3400280"
+      ]
+    },
+    {
+      "asset_id": "pzvbtz959krkkgkp6n6xvq",
+      "asset_name": "9500845 0124 RevA CN LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400280"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "bj3kjsgpjmxqrmjsgj73t3r9",
+      "filename": "3400335A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2500,
+      "height": 2500,
+      "size": 7079372,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bj3kjsgpjmxqrmjsgj73t3r9/3400335A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/bj3kjsgpjmxqrmjsgj73t3r9/v/1278183177/original/3400335A_rgb.png?Expires=1784301596&KeyName=gcs-bfldr-prod&Signature=YnSK7SjV7YRDyXDdJhMMmSltpfk=",
+      "url": "https://storage-us-gcs.bfldr.com/bj3kjsgpjmxqrmjsgj73t3r9/v/1278183177/original/3400335A_rgb.png?Expires=1784301596&KeyName=gcs-bfldr-prod&Signature=YnSK7SjV7YRDyXDdJhMMmSltpfk="
+    },
+    {
+      "attachment_id": "gtb5hkb56gtzc37mg3877chr",
+      "filename": "3400335B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2500,
+      "height": 2500,
+      "size": 7189267,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gtb5hkb56gtzc37mg3877chr/3400335B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gtb5hkb56gtzc37mg3877chr/v/1278183178/original/3400335B_rgb.png?Expires=1784301596&KeyName=gcs-bfldr-prod&Signature=Ez4BQUhVoOMq2A_s1vtySaTAdns=",
+      "url": "https://storage-us-gcs.bfldr.com/gtb5hkb56gtzc37mg3877chr/v/1278183178/original/3400335B_rgb.png?Expires=1784301596&KeyName=gcs-bfldr-prod&Signature=Ez4BQUhVoOMq2A_s1vtySaTAdns="
+    },
+    {
+      "attachment_id": "c7fm3mwrg67svbv3kwk6xf",
+      "filename": "3400335C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 2500,
+      "height": 2500,
+      "size": 7717829,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/c7fm3mwrg67svbv3kwk6xf/3400335C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/c7fm3mwrg67svbv3kwk6xf/v/1278183179/original/3400335C_rgb.png?Expires=1784301596&KeyName=gcs-bfldr-prod&Signature=cuLvBXsp1_4qAe7ZKwx_tuFo9c0=",
+      "url": "https://storage-us-gcs.bfldr.com/c7fm3mwrg67svbv3kwk6xf/v/1278183179/original/3400335C_rgb.png?Expires=1784301596&KeyName=gcs-bfldr-prod&Signature=cuLvBXsp1_4qAe7ZKwx_tuFo9c0="
+    },
+    {
+      "attachment_id": "stwnktc4gb7nz7nq5kjq58s",
+      "filename": "3400335Y_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3600,
+      "height": 2618,
+      "size": 15059685,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/stwnktc4gb7nz7nq5kjq58s/3400335Y_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/stwnktc4gb7nz7nq5kjq58s/v/1278183180/original/3400335Y_rgb.png?Expires=1784301596&KeyName=gcs-bfldr-prod&Signature=pRjXlLqUHsn0nSUc4He60v5tGKQ=",
+      "url": "https://storage-us-gcs.bfldr.com/stwnktc4gb7nz7nq5kjq58s/v/1278183180/original/3400335Y_rgb.png?Expires=1784301596&KeyName=gcs-bfldr-prod&Signature=pRjXlLqUHsn0nSUc4He60v5tGKQ="
+    }
+  ]
+}

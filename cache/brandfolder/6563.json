@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "6563",
+  "assets": [
+    {
+      "asset_id": "pi392c-5dzso-c5t1ga",
+      "asset_name": "Small Q Roasting Rack 6563 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6563"
+      ]
+    },
+    {
+      "asset_id": "jkz6tkzsm633gqpftrn5th",
+      "asset_name": "179792 0218 RevB",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6563"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pi392c-5dzso-bsxyq2",
+      "filename": "6563B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5034,
+      "height": 5034,
+      "size": 5033895,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi392c-5dzso-bsxyq2/6563B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pi392c-5dzso-bsxyq2/v/2640797/original/6563B.png?Expires=1784328938&KeyName=gcs-bfldr-prod&Signature=3vjuMCWYhbHpImKO4T17WXQUn0M=",
+      "url": "https://storage-us-gcs.bfldr.com/pi392c-5dzso-bsxyq2/v/2640797/original/6563B.png?Expires=1784328938&KeyName=gcs-bfldr-prod&Signature=3vjuMCWYhbHpImKO4T17WXQUn0M="
+    }
+  ]
+}

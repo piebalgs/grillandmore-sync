@@ -1,0 +1,68 @@
+{
+  "cache_version": 5,
+  "sku": "17275",
+  "assets": [
+    {
+      "asset_id": "plwadx-chs0t4-4cdwkx",
+      "asset_name": "Premium Salt Mill 17087 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17275"
+      ]
+    },
+    {
+      "asset_id": "plwadx-chs0t4-2ohyln",
+      "asset_name": "Premium Pepper Mill 17090 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17275"
+      ]
+    },
+    {
+      "asset_id": "plwadx-chs0t4-4v01sz",
+      "asset_name": "Premium Salt and Pepper Mill Set 17093 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17275"
+      ]
+    },
+    {
+      "asset_id": "plwadx-chs0t4-ceddy",
+      "asset_name": "Premium Salt and Pepper Shaker Set 17275 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17275"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "plwadx-chs0t4-9ot7h9",
+      "filename": "17087D.png",
+      "extension": "png",
+      "position": 182222,
+      "width": 1800,
+      "height": 1800,
+      "size": 394626,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwadx-chs0t4-9ot7h9/17087D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-9ot7h9/v/3023132/original/17087D.png?Expires=1784318025&KeyName=gcs-bfldr-prod&Signature=lIhgWVo0xwxFW0sQSj5stVsq8II=",
+      "url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-9ot7h9/v/3023132/original/17087D.png?Expires=1784318025&KeyName=gcs-bfldr-prod&Signature=lIhgWVo0xwxFW0sQSj5stVsq8II="
+    },
+    {
+      "attachment_id": "plwadx-chs0t4-1veqj1",
+      "filename": "17090D.png",
+      "extension": "png",
+      "position": 182223,
+      "width": 1800,
+      "height": 1800,
+      "size": 300355,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwadx-chs0t4-1veqj1/17090D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-1veqj1/v/3023133/original/17090D.png?Expires=1784318025&KeyName=gcs-bfldr-prod&Signature=CO9raiG_Qx-HVOAsyHI6eDUtP24=",
+      "url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-1veqj1/v/3023133/original/17090D.png?Expires=1784318025&KeyName=gcs-bfldr-prod&Signature=CO9raiG_Qx-HVOAsyHI6eDUtP24="
+    }
+  ]
+}

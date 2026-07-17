@@ -1,0 +1,96 @@
+{
+  "cache_version": 5,
+  "sku": "6415",
+  "assets": [
+    {
+      "asset_id": "pgacwq-bj7myw-5m5rnq",
+      "asset_name": "Small Drip Pans 6415 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6415"
+      ]
+    },
+    {
+      "asset_id": "q4zf8z-86cg80-22l9zl",
+      "asset_name": "Small Drip Pans 6415 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6415"
+      ]
+    },
+    {
+      "asset_id": "n734b37ts4tzshfwqm94xz",
+      "asset_name": "6415 Drip Pans",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6415"
+      ]
+    },
+    {
+      "asset_id": "nzc93bk4c8pstvpn4pbqzs3",
+      "asset_name": "78136 0323 RevG LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6415"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "b9jvmjg9b8f3b8brjjtsq73",
+      "filename": "6415B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3860,
+      "height": 3150,
+      "size": 9776065,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/b9jvmjg9b8f3b8brjjtsq73/6415B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/b9jvmjg9b8f3b8brjjtsq73/v/1292256636/original/6415B.png?Expires=1784334477&KeyName=gcs-bfldr-prod&Signature=XXpZz0kP5RWuB1eUqMCBC8wY2qw=",
+      "url": "https://storage-us-gcs.bfldr.com/b9jvmjg9b8f3b8brjjtsq73/v/1292256636/original/6415B.png?Expires=1784334477&KeyName=gcs-bfldr-prod&Signature=XXpZz0kP5RWuB1eUqMCBC8wY2qw="
+    },
+    {
+      "attachment_id": "74mb3wr347r95wgk3vxk7",
+      "filename": "6415C1.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1939,
+      "height": 1939,
+      "size": 2306500,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/74mb3wr347r95wgk3vxk7/6415C1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/74mb3wr347r95wgk3vxk7/v/1292256637/original/6415C1.png?Expires=1784334477&KeyName=gcs-bfldr-prod&Signature=WsurMDl3FWR9HHJ8GrJX-O5M4o8=",
+      "url": "https://storage-us-gcs.bfldr.com/74mb3wr347r95wgk3vxk7/v/1292256637/original/6415C1.png?Expires=1784334477&KeyName=gcs-bfldr-prod&Signature=WsurMDl3FWR9HHJ8GrJX-O5M4o8="
+    },
+    {
+      "attachment_id": "pgacwq-bj7myw-5j4ora",
+      "filename": "6415C2.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2042,
+      "height": 1349,
+      "size": 2836009,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgacwq-bj7myw-5j4ora/6415C2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pgacwq-bj7myw-5j4ora/v/2450380/original/6415C2.png?Expires=1784334476&KeyName=gcs-bfldr-prod&Signature=R5r4sDDRu3yj6uspCuSMvj_1ttM=",
+      "url": "https://storage-us-gcs.bfldr.com/pgacwq-bj7myw-5j4ora/v/2450380/original/6415C2.png?Expires=1784334476&KeyName=gcs-bfldr-prod&Signature=R5r4sDDRu3yj6uspCuSMvj_1ttM="
+    },
+    {
+      "attachment_id": "pgacwq-bj7myw-93e28m",
+      "filename": "6415D.png",
+      "extension": "png",
+      "position": 3,
+      "width": 2107,
+      "height": 1964,
+      "size": 3864168,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgacwq-bj7myw-93e28m/6415D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pgacwq-bj7myw-93e28m/v/2450381/original/6415D.png?Expires=1784334476&KeyName=gcs-bfldr-prod&Signature=c4oBVire4JD9wtgV3Wk-Lnp3OFU=",
+      "url": "https://storage-us-gcs.bfldr.com/pgacwq-bj7myw-93e28m/v/2450381/original/6415D.png?Expires=1784334476&KeyName=gcs-bfldr-prod&Signature=c4oBVire4JD9wtgV3Wk-Lnp3OFU="
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "cache_version": 5,
+  "sku": "7240",
+  "assets": [
+    {
+      "asset_id": "q4h7u5-7aucag-e2t36j",
+      "asset_name": "iGrill Bracket 7240 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7240"
+      ]
+    },
+    {
+      "asset_id": "q4h7q2-2vvnbc-72rgr5",
+      "asset_name": "iGrill Bracket 7240 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7240"
+      ]
+    },
+    {
+      "asset_id": "q4h7q2-2vvnbc-g55j1r",
+      "asset_name": "(Celsius) iGrill Bracket 7240 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7240"
+      ]
+    },
+    {
+      "asset_id": "q4h7q2-2vvnbc-4ogvn4",
+      "asset_name": "(Fahrenheit) iGrill Bracket 7240 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7240"
+      ]
+    },
+    {
+      "asset_id": "q5uoz2-298nt4-f6twej",
+      "asset_name": "iGrill Bracket 7240 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7240"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "q4h7u5-7aucag-b6dxwr",
+      "filename": "7240B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 701827,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q4h7u5-7aucag-b6dxwr/7240B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q4h7u5-7aucag-b6dxwr/v/8843378/original/7240B.png?Expires=1784333694&KeyName=gcs-bfldr-prod&Signature=Vu2JXoCKYG6ng2nPSnYnau2t7Pw=",
+      "url": "https://storage-us-gcs.bfldr.com/q4h7u5-7aucag-b6dxwr/v/8843378/original/7240B.png?Expires=1784333694&KeyName=gcs-bfldr-prod&Signature=Vu2JXoCKYG6ng2nPSnYnau2t7Pw="
+    },
+    {
+      "attachment_id": "q4h7q2-2vvnbc-2k3v6w",
+      "filename": "7240Y1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6174,
+      "height": 4116,
+      "size": 13568189,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q4h7q2-2vvnbc-2k3v6w/7240Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q4h7q2-2vvnbc-2k3v6w/v/11680135/original/7240Y1.jpg?Expires=1784333694&KeyName=gcs-bfldr-prod&Signature=o5fm8ups5eDlXBvwHf7J9V5Vgmw=",
+      "url": "https://storage-us-gcs.bfldr.com/q4h7q2-2vvnbc-2k3v6w/v/11680135/original/7240Y1.jpg?Expires=1784333694&KeyName=gcs-bfldr-prod&Signature=o5fm8ups5eDlXBvwHf7J9V5Vgmw="
+    }
+  ]
+}

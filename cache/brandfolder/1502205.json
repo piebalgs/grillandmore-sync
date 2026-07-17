@@ -1,0 +1,107 @@
+{
+  "cache_version": 2,
+  "sku": "1502205",
+  "assets": [
+    {
+      "asset_id": "t3nnm4rvjsmxmcsh6pjp9wk",
+      "asset_name": "enUS KETTLE MASTER-TOUCH 57CM DOB SSGBS 1502205 EMEA NEXUS2026 MasterCopy FINAL",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "pp9ck4vqfhqgf8srcq9n4mv",
+      "asset_name": "57CM Master Touch SSGBS [DOB]",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "4wpb8wn733hzc5q4bkfm4jqx",
+      "asset_name": "22IN / 57CM Master Touch [PLATE]",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mqf5x2jm7scx9xmrbwz9346",
+      "asset_name": "[CS] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "839ks9xjg26wnz3vph3vq8",
+      "asset_name": "[DA] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "5ks4h7t4kjc8gj9pc4bs8k73",
+      "asset_name": "[DE] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "mhbsk8xw9hkckhn478rqs4kf",
+      "asset_name": "[EN-GB] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "ptfjggsbg98nbz2jtcjxgkqk",
+      "asset_name": "[ES] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "t9c9qn6cqt2vr32vvqmvfb",
+      "asset_name": "[FI] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kfptsz7qr8ttr45zhj9rgv2w",
+      "asset_name": "[FR] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "kn2kt5rm9k8z73km7mxpnt2b",
+      "asset_name": "[HR] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "sfsw73q7qtjff6pwht666n",
+      "asset_name": "[IT] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bqsm7j5hn58tch48h4rpjcm",
+      "asset_name": "[NL] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "gz9t23wzcbpb3gmmt9pkg2v",
+      "asset_name": "[NO] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "g6qw3f32rnrhrxzt4g9bvst",
+      "asset_name": "[PL] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "bbsswfv3nfmg3m8x86n7f5k",
+      "asset_name": "[PT-PT] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "6q5wcn8qf28qg62q5pjgv",
+      "asset_name": "[SK] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "hwfkprbhj8tq7m6jh3sjc98",
+      "asset_name": "[SL] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "23sqxbskwvgx585f47vxqpf",
+      "asset_name": "[SV] MASTER-TOUCH 57CM DOB SSGBS 1502205 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26"
+    },
+    {
+      "asset_id": "hrf6nc3b92xts9sr4gkccsf",
+      "asset_name": "1502205 Dimensions EMEA",
+      "cdn_key": "XBRZ2A26"
+    }
+  ],
+  "images": []
+}

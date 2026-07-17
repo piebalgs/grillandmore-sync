@@ -1,0 +1,212 @@
+{
+  "cache_version": 5,
+  "sku": "6779",
+  "assets": [
+    {
+      "asset_id": "s8c6n323f73w84tx6sm9v",
+      "asset_name": "Griddle Spatula",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6779"
+      ]
+    },
+    {
+      "asset_id": "st8xbnrmx6jq96hzq3jp3cnr",
+      "asset_name": "Griddle Spatula",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6779"
+      ]
+    },
+    {
+      "asset_id": "2gwwfr62rfqsw9sfp2pfctp",
+      "asset_name": "Griddle Spatula",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6779"
+      ]
+    },
+    {
+      "asset_id": "pnfzkrj7nghnss5bmrjx5qbz",
+      "asset_name": "Griddle Spatula",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6779"
+      ]
+    },
+    {
+      "asset_id": "kvk7mxj8rqz4f5v7wbq3q3t",
+      "asset_name": "Griddle Spatula",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6779"
+      ]
+    },
+    {
+      "asset_id": "x8t4b6tv3trmrv4kxhq5kmj7",
+      "asset_name": "Griddle Spatula",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6779"
+      ]
+    },
+    {
+      "asset_id": "gvxvx4wgx6ftg6qp38fhcf3c",
+      "asset_name": "Griddle Spatula",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6779"
+      ]
+    },
+    {
+      "asset_id": "bzqcjstjvbxrgn8gj4hjgwrf",
+      "asset_name": "32054601 91302 1225 RevD CH OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6779"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "rmkt7mkzwmbj3r5g9ts9ssqr",
+      "filename": "6779 Griddle Spatula 6779A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 3532625,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rmkt7mkzwmbj3r5g9ts9ssqr/6779%20Griddle%20Spatula%206779A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/rmkt7mkzwmbj3r5g9ts9ssqr/v/1279454051/original/6779%20Griddle%20Spatula%206779A_rgb.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=1qabNG-ubi1M8fbIA1w0Pj8x1Iw=",
+      "url": "https://storage-us-gcs.bfldr.com/rmkt7mkzwmbj3r5g9ts9ssqr/v/1279454051/original/6779%20Griddle%20Spatula%206779A_rgb.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=1qabNG-ubi1M8fbIA1w0Pj8x1Iw="
+    },
+    {
+      "attachment_id": "q958f8tgfcrtw8mcpmj8bttq",
+      "filename": "6779 Griddle Spatula 6779B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 2362624,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q958f8tgfcrtw8mcpmj8bttq/6779%20Griddle%20Spatula%206779B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q958f8tgfcrtw8mcpmj8bttq/v/1279454052/original/6779%20Griddle%20Spatula%206779B_rgb.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=cV5nBk84CXhnaXCKXSVy6_-OH_w=",
+      "url": "https://storage-us-gcs.bfldr.com/q958f8tgfcrtw8mcpmj8bttq/v/1279454052/original/6779%20Griddle%20Spatula%206779B_rgb.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=cV5nBk84CXhnaXCKXSVy6_-OH_w="
+    },
+    {
+      "attachment_id": "8zhx5ff5376jjkgx5wczjsjb",
+      "filename": "6779 Griddle Spatula 6779C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4000,
+      "height": 4000,
+      "size": 3545301,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8zhx5ff5376jjkgx5wczjsjb/6779%20Griddle%20Spatula%206779C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8zhx5ff5376jjkgx5wczjsjb/v/1279454053/original/6779%20Griddle%20Spatula%206779C_rgb.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=qGdU_Uxwf0CRF37PAUXhnq2Kddk=",
+      "url": "https://storage-us-gcs.bfldr.com/8zhx5ff5376jjkgx5wczjsjb/v/1279454053/original/6779%20Griddle%20Spatula%206779C_rgb.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=qGdU_Uxwf0CRF37PAUXhnq2Kddk="
+    },
+    {
+      "attachment_id": "69czhk2vvnjwbbmwhkkxgxj",
+      "filename": "6779 Griddle Spatula Packaging 6779_1.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1229,
+      "height": 5398,
+      "size": 537715,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/69czhk2vvnjwbbmwhkkxgxj/6779%20Griddle%20Spatula%20Packaging%206779_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/69czhk2vvnjwbbmwhkkxgxj/v/1279454054/original/6779%20Griddle%20Spatula%20Packaging%206779_1.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=_Rc7Xcxuz528Ga4vtHcEatD3fbk=",
+      "url": "https://storage-us-gcs.bfldr.com/69czhk2vvnjwbbmwhkkxgxj/v/1279454054/original/6779%20Griddle%20Spatula%20Packaging%206779_1.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=_Rc7Xcxuz528Ga4vtHcEatD3fbk="
+    },
+    {
+      "attachment_id": "whqmkn875qqm2q4cn9qknqs",
+      "filename": "6779 Griddle Spatula Packaging 6779_2.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5404,
+      "height": 1259,
+      "size": 1342727,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/whqmkn875qqm2q4cn9qknqs/6779%20Griddle%20Spatula%20Packaging%206779_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/whqmkn875qqm2q4cn9qknqs/v/1279454055/original/6779%20Griddle%20Spatula%20Packaging%206779_2.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=qXgCz7prECgLTqu82xACQuG3w_w=",
+      "url": "https://storage-us-gcs.bfldr.com/whqmkn875qqm2q4cn9qknqs/v/1279454055/original/6779%20Griddle%20Spatula%20Packaging%206779_2.png?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=qXgCz7prECgLTqu82xACQuG3w_w="
+    },
+    {
+      "attachment_id": "btkvcctrb35nc5894g6h",
+      "filename": "6779FB1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 5417856,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/btkvcctrb35nc5894g6h/6779FB1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/btkvcctrb35nc5894g6h/v/1279454056/original/6779FB1_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=W7OrYxuWSdfeZCqhRL0wNShYVA4=",
+      "url": "https://storage-us-gcs.bfldr.com/btkvcctrb35nc5894g6h/v/1279454056/original/6779FB1_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=W7OrYxuWSdfeZCqhRL0wNShYVA4="
+    },
+    {
+      "attachment_id": "tgvp7sn9xqtrtfmb4v3v7x8f",
+      "filename": "6779FB2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 5055605,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tgvp7sn9xqtrtfmb4v3v7x8f/6779FB2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tgvp7sn9xqtrtfmb4v3v7x8f/v/1279454057/original/6779FB2_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=TgSx2QPxfx7nufUdENAnrAZQd48=",
+      "url": "https://storage-us-gcs.bfldr.com/tgvp7sn9xqtrtfmb4v3v7x8f/v/1279454057/original/6779FB2_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=TgSx2QPxfx7nufUdENAnrAZQd48="
+    },
+    {
+      "attachment_id": "gg7mww67ts5jqr76x5zpfk8",
+      "filename": "6779FB3_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 5593072,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gg7mww67ts5jqr76x5zpfk8/6779FB3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gg7mww67ts5jqr76x5zpfk8/v/1279454058/original/6779FB3_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=z2_-3sjM8nS0VR7J80kovWO484M=",
+      "url": "https://storage-us-gcs.bfldr.com/gg7mww67ts5jqr76x5zpfk8/v/1279454058/original/6779FB3_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=z2_-3sjM8nS0VR7J80kovWO484M="
+    },
+    {
+      "attachment_id": "vfqknq46s7gn373h7jftmzff",
+      "filename": "6779FB4_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 4375762,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vfqknq46s7gn373h7jftmzff/6779FB4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vfqknq46s7gn373h7jftmzff/v/1279454059/original/6779FB4_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=K1HHwCsRfrQpDz35fajh8Zji9zM=",
+      "url": "https://storage-us-gcs.bfldr.com/vfqknq46s7gn373h7jftmzff/v/1279454059/original/6779FB4_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=K1HHwCsRfrQpDz35fajh8Zji9zM="
+    },
+    {
+      "attachment_id": "kx9wbnpk5mhz63fgnbgg478x",
+      "filename": "6779YM1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 4279368,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kx9wbnpk5mhz63fgnbgg478x/6779YM1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kx9wbnpk5mhz63fgnbgg478x/v/1279454061/original/6779YM1_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=9r9q1AFFAQWb7N0TB4RC4GG0iZ8=",
+      "url": "https://storage-us-gcs.bfldr.com/kx9wbnpk5mhz63fgnbgg478x/v/1279454061/original/6779YM1_rgb.jpg?Expires=1784319427&KeyName=gcs-bfldr-prod&Signature=9r9q1AFFAQWb7N0TB4RC4GG0iZ8="
+    }
+  ]
+}

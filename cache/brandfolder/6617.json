@@ -1,0 +1,62 @@
+{
+  "cache_version": 5,
+  "sku": "6617",
+  "assets": [
+    {
+      "asset_id": "7gbzprbtcf9zhzvcgvtnxq5",
+      "asset_name": "6617 1",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6619",
+        "6617"
+      ]
+    },
+    {
+      "asset_id": "kq374hwqgj3hqvkj98g6vm",
+      "asset_name": "6619 1",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6617",
+        "6619"
+      ]
+    },
+    {
+      "asset_id": "wsr8bb4sgfx8nktgmx787g",
+      "asset_name": "33017511 17109 0724 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6617"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "f8k5ck74b7m88jntg74cg",
+      "filename": "6617_1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 7403693,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f8k5ck74b7m88jntg74cg/6617_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/f8k5ck74b7m88jntg74cg/v/1279322773/original/6617_1.png?Expires=1784320872&KeyName=gcs-bfldr-prod&Signature=eNJkVBG7VjLF1TOjrSWWz-b0AQs=",
+      "url": "https://storage-us-gcs.bfldr.com/f8k5ck74b7m88jntg74cg/v/1279322773/original/6617_1.png?Expires=1784320872&KeyName=gcs-bfldr-prod&Signature=eNJkVBG7VjLF1TOjrSWWz-b0AQs="
+    },
+    {
+      "attachment_id": "9pg8nk3tphj8gw3fxxw3f8hv",
+      "filename": "6619_1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 3000,
+      "height": 3000,
+      "size": 7308326,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9pg8nk3tphj8gw3fxxw3f8hv/6619_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9pg8nk3tphj8gw3fxxw3f8hv/v/1279322775/original/6619_1.png?Expires=1784320872&KeyName=gcs-bfldr-prod&Signature=NflY_gbLxL4kL9vyrkUDfI6sb_A=",
+      "url": "https://storage-us-gcs.bfldr.com/9pg8nk3tphj8gw3fxxw3f8hv/v/1279322775/original/6619_1.png?Expires=1784320872&KeyName=gcs-bfldr-prod&Signature=NflY_gbLxL4kL9vyrkUDfI6sb_A="
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "cache_version": 5,
+  "sku": "18285",
+  "assets": [
+    {
+      "asset_id": "6b5x2xrgscn5sztg9bf34b",
+      "asset_name": "Charcoal Grill Cleaning Kit 18285 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18285"
+      ]
+    },
+    {
+      "asset_id": "7vvswr35xvsvcn6b335g8",
+      "asset_name": "Charcoal Grill Cleaning Kit 18285 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18285"
+      ]
+    },
+    {
+      "asset_id": "tqfsn3shtkwcjr7t6stn",
+      "asset_name": "18285 0821 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18285"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "6twjn3h4tgn6mcnxjgb78r7v",
+      "filename": "18285_OB.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4700,
+      "height": 3379,
+      "size": 7628224,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6twjn3h4tgn6mcnxjgb78r7v/18285_OB.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/6twjn3h4tgn6mcnxjgb78r7v/v/1023297480/original/18285_OB.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/6twjn3h4tgn6mcnxjgb78r7v/v/1023297480/original/18285_OB.jpg"
+    },
+    {
+      "attachment_id": "hrnzb95tgjxbnc4j7g9c6tw7",
+      "filename": "18285_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 6543114,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hrnzb95tgjxbnc4j7g9c6tw7/18285_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/hrnzb95tgjxbnc4j7g9c6tw7/v/1024122499/original/18285_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/hrnzb95tgjxbnc4j7g9c6tw7/v/1024122499/original/18285_rgb.png"
+    }
+  ]
+}

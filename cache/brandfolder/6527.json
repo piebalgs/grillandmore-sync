@@ -1,0 +1,82 @@
+{
+  "cache_version": 5,
+  "sku": "6527",
+  "assets": [
+    {
+      "asset_id": "pgrayg-ar4dvk-5c7gje",
+      "asset_name": "Side Table Kit 6527 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6527"
+      ]
+    },
+    {
+      "asset_id": "pgrayg-ar4dvk-cfx6s4",
+      "asset_name": "Side Table Kit 6527 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6527"
+      ]
+    },
+    {
+      "asset_id": "q5uv27-g2hpb4-3rlj2f",
+      "asset_name": "Side Table Kit 6527 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6527"
+      ]
+    },
+    {
+      "asset_id": "kh6c7fg7g79nk8rxwrn8jc",
+      "asset_name": "171036 0118 RevB",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6527"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pgrayg-ar4dvk-6tm14s",
+      "filename": "6527A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 5333,
+      "height": 2876,
+      "size": 10251421,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgrayg-ar4dvk-6tm14s/6527A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-6tm14s/v/2519162/original/6527A.png?Expires=1784327311&KeyName=gcs-bfldr-prod&Signature=B8JkcpxVgS4lpO-4Fw1devCG8U8=",
+      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-6tm14s/v/2519162/original/6527A.png?Expires=1784327311&KeyName=gcs-bfldr-prod&Signature=B8JkcpxVgS4lpO-4Fw1devCG8U8="
+    },
+    {
+      "attachment_id": "pgrayg-ar4dvk-7s2l7g",
+      "filename": "6527B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4937,
+      "height": 3486,
+      "size": 12404956,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgrayg-ar4dvk-7s2l7g/6527B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-7s2l7g/v/2519163/original/6527B.png?Expires=1784327311&KeyName=gcs-bfldr-prod&Signature=LN81LSNXovdWfaJoRgQC_5gbsPI=",
+      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-7s2l7g/v/2519163/original/6527B.png?Expires=1784327311&KeyName=gcs-bfldr-prod&Signature=LN81LSNXovdWfaJoRgQC_5gbsPI="
+    },
+    {
+      "attachment_id": "pgrayg-ar4dvk-27hu28",
+      "filename": "6527Y1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8688,
+      "height": 5792,
+      "size": 29506677,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgrayg-ar4dvk-27hu28/6527Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-27hu28/v/2519164/original/6527Y1.jpg?Expires=1784327311&KeyName=gcs-bfldr-prod&Signature=VrE59qSmIVnNOxBxYIp94teNYSs=",
+      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-27hu28/v/2519164/original/6527Y1.jpg?Expires=1784327311&KeyName=gcs-bfldr-prod&Signature=VrE59qSmIVnNOxBxYIp94teNYSs="
+    }
+  ]
+}

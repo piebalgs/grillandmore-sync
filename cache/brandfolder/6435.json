@@ -1,0 +1,132 @@
+{
+  "cache_version": 5,
+  "sku": "6435",
+  "assets": [
+    {
+      "asset_id": "pkepyx-cj11y8-gfx2fu",
+      "asset_name": "Deluxe Grilling Pan 6435 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6435"
+      ]
+    },
+    {
+      "asset_id": "pjjiol-9d4vgw-blx7am",
+      "asset_name": "NO Only Deluxe Grilling Pan 6435 Food - Norway",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6435"
+      ]
+    },
+    {
+      "asset_id": "puoux7-6kians-n5c40",
+      "asset_name": "Deluxe Grilling Pan 6435 Premium Content",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6435"
+      ]
+    },
+    {
+      "asset_id": "q4zmjv-fd17hc-45wx0u",
+      "asset_name": "Deluxe Grilling Pan 6435 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6435"
+      ]
+    },
+    {
+      "asset_id": "msf4njwjm5v7gjck5vptsgvt",
+      "asset_name": "58196 0421 RevE OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6435"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pkepyx-cj11y8-gmu01",
+      "filename": "6435A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 1257445,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepyx-cj11y8-gmu01/6435A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepyx-cj11y8-gmu01/v/2838262/original/6435A.png?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=xx3ts4piOzA2rqJECRPPRAq1Kag=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepyx-cj11y8-gmu01/v/2838262/original/6435A.png?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=xx3ts4piOzA2rqJECRPPRAq1Kag="
+    },
+    {
+      "attachment_id": "pkepyx-cj11y8-bw1xow",
+      "filename": "6435C.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 1900784,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepyx-cj11y8-bw1xow/6435C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepyx-cj11y8-bw1xow/v/2838263/original/6435C.png?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=kZlJAzeKUzjKZu6V_Vt6i9yd5Bw=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepyx-cj11y8-bw1xow/v/2838263/original/6435C.png?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=kZlJAzeKUzjKZu6V_Vt6i9yd5Bw="
+    },
+    {
+      "attachment_id": "pkepyx-cj11y8-g4or2c",
+      "filename": "6435D.png",
+      "extension": "png",
+      "position": 2,
+      "width": 1800,
+      "height": 1800,
+      "size": 1019076,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepyx-cj11y8-g4or2c/6435D.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepyx-cj11y8-g4or2c/v/2838264/original/6435D.png?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=1dgCbbxGk5Wft0DaEFJowyvmmXo=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepyx-cj11y8-g4or2c/v/2838264/original/6435D.png?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=1dgCbbxGk5Wft0DaEFJowyvmmXo="
+    },
+    {
+      "attachment_id": "puoux7-6kians-9hxrkb",
+      "filename": "6435_Grilling_Pan_1000x1000_Hero.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 1000,
+      "height": 1000,
+      "size": 754854,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puoux7-6kians-9hxrkb/6435_Grilling_Pan_1000x1000_Hero.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puoux7-6kians-9hxrkb/v/5283852/original/6435_Grilling_Pan_1000x1000_Hero.jpg?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=2Tn1WcYIT9bM0mRckv8lfwU8iCM=",
+      "url": "https://storage-us-gcs.bfldr.com/puoux7-6kians-9hxrkb/v/5283852/original/6435_Grilling_Pan_1000x1000_Hero.jpg?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=2Tn1WcYIT9bM0mRckv8lfwU8iCM="
+    },
+    {
+      "attachment_id": "puoux7-6kians-4740f5",
+      "filename": "6435_Grilling_Pan_1000x1000_Specs.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "size": 802999,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/puoux7-6kians-4740f5/6435_Grilling_Pan_1000x1000_Specs.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/puoux7-6kians-4740f5/v/5283853/original/6435_Grilling_Pan_1000x1000_Specs.jpg?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=7EZ6RR2HCaz6yAbrEUbgo56OvNM=",
+      "url": "https://storage-us-gcs.bfldr.com/puoux7-6kians-4740f5/v/5283853/original/6435_Grilling_Pan_1000x1000_Specs.jpg?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=7EZ6RR2HCaz6yAbrEUbgo56OvNM="
+    },
+    {
+      "attachment_id": "pjjiol-9d4vgw-aat0nu",
+      "filename": "6435M3.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3456,
+      "height": 4608,
+      "size": 2835910,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjjiol-9d4vgw-aat0nu/6435M3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pjjiol-9d4vgw-aat0nu/v/2838646/original/6435M3.jpg?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=SJjBTh0O-7l0aJbs4MjvPKEZ8jc=",
+      "url": "https://storage-us-gcs.bfldr.com/pjjiol-9d4vgw-aat0nu/v/2838646/original/6435M3.jpg?Expires=1784331363&KeyName=gcs-bfldr-prod&Signature=SJjBTh0O-7l0aJbs4MjvPKEZ8jc="
+    }
+  ]
+}

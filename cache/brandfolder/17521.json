@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "17521",
+  "assets": [
+    {
+      "asset_id": "pmf663-1bn654-7bj79p",
+      "asset_name": "Western Red Cedar Wood Wraps 17521 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17521"
+      ]
+    },
+    {
+      "asset_id": "qffet0-gkyqo-453jka",
+      "asset_name": "Wood Wraps Grilltipps Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17521"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pmf663-1bn654-ew5xcu",
+      "filename": "17521B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 773464,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pmf663-1bn654-ew5xcu/17521B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pmf663-1bn654-ew5xcu/v/3053314/original/17521B.png?Expires=1784324293&KeyName=gcs-bfldr-prod&Signature=o6CnVGsoqtwdXtNxRhLeamWU63s=",
+      "url": "https://storage-us-gcs.bfldr.com/pmf663-1bn654-ew5xcu/v/3053314/original/17521B.png?Expires=1784324293&KeyName=gcs-bfldr-prod&Signature=o6CnVGsoqtwdXtNxRhLeamWU63s="
+    }
+  ]
+}

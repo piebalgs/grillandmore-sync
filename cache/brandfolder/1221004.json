@@ -1,0 +1,58 @@
+{
+  "cache_version": 5,
+  "sku": "1221004",
+  "assets": [
+    {
+      "asset_id": "pfdb49-d7ycf4-fqiokx",
+      "asset_name": "1221004 47CM Compact Kettle Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1221004"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pfdb49-d7ycf4-ggabmr",
+      "filename": "1221004A.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2051,
+      "height": 2878,
+      "size": 1227657,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfdb49-d7ycf4-ggabmr/1221004A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfdb49-d7ycf4-ggabmr/v/2368017/original/1221004A.png?Expires=1784335750&KeyName=gcs-bfldr-prod&Signature=EuKNb8Doeld0ZUJJJzYs4eVsq_8=",
+      "url": "https://storage-us-gcs.bfldr.com/pfdb49-d7ycf4-ggabmr/v/2368017/original/1221004A.png?Expires=1784335750&KeyName=gcs-bfldr-prod&Signature=EuKNb8Doeld0ZUJJJzYs4eVsq_8="
+    },
+    {
+      "attachment_id": "pfdb49-d7ycf4-anzlof",
+      "filename": "1221004B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1836,
+      "height": 2951,
+      "size": 1038955,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfdb49-d7ycf4-anzlof/1221004B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfdb49-d7ycf4-anzlof/v/2368020/original/1221004B.png?Expires=1784335750&KeyName=gcs-bfldr-prod&Signature=b9TxV9HHyuPsvAmxuGN0KxxrLCs=",
+      "url": "https://storage-us-gcs.bfldr.com/pfdb49-d7ycf4-anzlof/v/2368020/original/1221004B.png?Expires=1784335750&KeyName=gcs-bfldr-prod&Signature=b9TxV9HHyuPsvAmxuGN0KxxrLCs="
+    },
+    {
+      "attachment_id": "pfdb49-d7ycf4-9vm5z2",
+      "filename": "1221004C.png",
+      "extension": "png",
+      "position": 4,
+      "width": 2044,
+      "height": 2887,
+      "size": 1318670,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfdb49-d7ycf4-9vm5z2/1221004C.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pfdb49-d7ycf4-9vm5z2/v/2368021/original/1221004C.png?Expires=1784335750&KeyName=gcs-bfldr-prod&Signature=lIDio6h6fJSi_IJrJUCOYu_2QxU=",
+      "url": "https://storage-us-gcs.bfldr.com/pfdb49-d7ycf4-9vm5z2/v/2368021/original/1221004C.png?Expires=1784335750&KeyName=gcs-bfldr-prod&Signature=lIDio6h6fJSi_IJrJUCOYu_2QxU="
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "cache_version": 5,
+  "sku": "1501275",
+  "assets": [
+    {
+      "asset_id": "v2pskc6q96877c3jfv8qf6s",
+      "asset_name": "GENESIS E-335LW LP BLK EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501271",
+        "1501276",
+        "1501280",
+        "1501274",
+        "1501277",
+        "1501313",
+        "1501356",
+        "1501272",
+        "1501270",
+        "1501281",
+        "1501355",
+        "1501273",
+        "1501275",
+        "1501189",
+        "1501354"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "p7s78psfmk5frkrp6ccpqs",
+      "filename": "1501270_A_rgb_EMEA.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4200,
+      "height": 4200,
+      "size": 3532174,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p7s78psfmk5frkrp6ccpqs/1501270_A_rgb_EMEA.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/p7s78psfmk5frkrp6ccpqs/v/1263107950/original/1501270_A_rgb_EMEA.png?Expires=1784313968&KeyName=gcs-bfldr-prod&Signature=KyQqk83bWZDMiAQaWPnx_b4Yx2c=",
+      "url": "https://storage-us-gcs.bfldr.com/p7s78psfmk5frkrp6ccpqs/v/1263107950/original/1501270_A_rgb_EMEA.png?Expires=1784313968&KeyName=gcs-bfldr-prod&Signature=KyQqk83bWZDMiAQaWPnx_b4Yx2c="
+    },
+    {
+      "attachment_id": "bktb2cb66wpbw97c27cq",
+      "filename": "1501270_B_rgb_EMEA.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4200,
+      "height": 4200,
+      "size": 3386862,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bktb2cb66wpbw97c27cq/1501270_B_rgb_EMEA.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/bktb2cb66wpbw97c27cq/v/1263107952/original/1501270_B_rgb_EMEA.png?Expires=1784313968&KeyName=gcs-bfldr-prod&Signature=6Y_VK3MulRSac8JCZO6IZFuKi6Y=",
+      "url": "https://storage-us-gcs.bfldr.com/bktb2cb66wpbw97c27cq/v/1263107952/original/1501270_B_rgb_EMEA.png?Expires=1784313968&KeyName=gcs-bfldr-prod&Signature=6Y_VK3MulRSac8JCZO6IZFuKi6Y="
+    },
+    {
+      "attachment_id": "w9ss3wmjr3rn5nbtbhkj2wv",
+      "filename": "1501270_C_rgb_EMEA.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4200,
+      "height": 4200,
+      "size": 3619412,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w9ss3wmjr3rn5nbtbhkj2wv/1501270_C_rgb_EMEA.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/w9ss3wmjr3rn5nbtbhkj2wv/v/1263107955/original/1501270_C_rgb_EMEA.png?Expires=1784313968&KeyName=gcs-bfldr-prod&Signature=iSfBQP2u1aygBrBVMWFUBd2M4og=",
+      "url": "https://storage-us-gcs.bfldr.com/w9ss3wmjr3rn5nbtbhkj2wv/v/1263107955/original/1501270_C_rgb_EMEA.png?Expires=1784313968&KeyName=gcs-bfldr-prod&Signature=iSfBQP2u1aygBrBVMWFUBd2M4og="
+    }
+  ]
+}

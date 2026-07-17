@@ -1,0 +1,52 @@
+{
+  "cache_version": 5,
+  "sku": "3401054",
+  "assets": [
+    {
+      "asset_id": "wppkr4kr2mrk378p2j4f74t6",
+      "asset_name": "[EMEA/APAC]  Beech Pellets",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401054"
+      ]
+    },
+    {
+      "asset_id": "w77z8kwszrxpcmqsmvtq8v5",
+      "asset_name": "3401054 BEECH 0125 RevC LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401054"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "p6nqq75j7gr7b7zw9pnjg7g",
+      "filename": "3401054_PelletFuel_Beech_Back_1800x1800.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 2140953,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p6nqq75j7gr7b7zw9pnjg7g/3401054_PelletFuel_Beech_Back_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/p6nqq75j7gr7b7zw9pnjg7g/v/1266873447/original/3401054_PelletFuel_Beech_Back_1800x1800.png?Expires=1784301311&KeyName=gcs-bfldr-prod&Signature=ri1mGfNjx2tAq4ZNrDc5BMRkVXc=",
+      "url": "https://storage-us-gcs.bfldr.com/p6nqq75j7gr7b7zw9pnjg7g/v/1266873447/original/3401054_PelletFuel_Beech_Back_1800x1800.png?Expires=1784301311&KeyName=gcs-bfldr-prod&Signature=ri1mGfNjx2tAq4ZNrDc5BMRkVXc="
+    },
+    {
+      "attachment_id": "4hwgxmmf4vczpksmjhfxxvc",
+      "filename": "3401054_PelletFuel_Beech_Front_1800x1800.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 2037356,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4hwgxmmf4vczpksmjhfxxvc/3401054_PelletFuel_Beech_Front_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4hwgxmmf4vczpksmjhfxxvc/v/1266873448/original/3401054_PelletFuel_Beech_Front_1800x1800.png?Expires=1784301311&KeyName=gcs-bfldr-prod&Signature=sXLE3jK7aqoXvFKZbqI4I-adiac=",
+      "url": "https://storage-us-gcs.bfldr.com/4hwgxmmf4vczpksmjhfxxvc/v/1266873448/original/3401054_PelletFuel_Beech_Front_1800x1800.png?Expires=1784301311&KeyName=gcs-bfldr-prod&Signature=sXLE3jK7aqoXvFKZbqI4I-adiac="
+    }
+  ]
+}

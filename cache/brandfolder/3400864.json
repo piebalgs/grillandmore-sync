@@ -1,0 +1,240 @@
+{
+  "cache_version": 5,
+  "sku": "3400864",
+  "assets": [
+    {
+      "asset_id": "g4xw2vh3fpqp3cfh6mkm5t",
+      "asset_name": "3400864-Q-Half-Hotplates-1-1800x1800px-3",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "ks28xxsf7zpw5mhg9fs2tnf",
+      "asset_name": "3400864-Q-Half-Hotplates-1-1800x1800px-4",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "p8gcb32wbqnsnkb688c8sw6g",
+      "asset_name": "[EMEA] Q1000N / Q1200N Half Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400863",
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "gc9jc4wr49jmj9xf9txgj9mj",
+      "asset_name": "(dan) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "gwhzs8jbnpqrbkj58xvhbfr",
+      "asset_name": "(en-US) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "b6xcwvzfqktbgbr4tqbft6",
+      "asset_name": "(eng-GB) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "fszfkwg3msppxhvmvhcqsrf",
+      "asset_name": "(fre-FR) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "33tcv8wn29v3hc9jcs6p3g3",
+      "asset_name": "(ger-DE) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "72nm8rmmwwht5mmcgwb26ff",
+      "asset_name": "(ita-IT) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "swprmx66tn6vrf967nx4hwgb",
+      "asset_name": "(no) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "prwq7mc6qb8w8r6brnjcw9w",
+      "asset_name": "(pol) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "5wqnsbhgtxnktn2w5bq4mkh",
+      "asset_name": "(por-PT) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "ck94576n3khjmkfnm3cn6v",
+      "asset_name": "(sk) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "pv5xc8pgbq8b853vkswp",
+      "asset_name": "(spa-ES) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "x6n63svsb8xxbszxv3ckj3f",
+      "asset_name": "(swe-SE) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "r995rrb3kcvmmff57qjbmp",
+      "asset_name": "[EMEA/AUNZ/AMER] Q2100N / Q2200N / Q2800N+ Half Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400137",
+        "3400864",
+        "3401865",
+        "3400247"
+      ]
+    },
+    {
+      "asset_id": "4jgg5jm6jszxnr5g528bm",
+      "asset_name": "Q1XXXN / Q2XXXN+ Half Griddle",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400247",
+        "3400167",
+        "3401865",
+        "3400863",
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "hzckpnf8xgfw7nj88tss4fbr",
+      "asset_name": "(cze) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "hbfc6q2njh7v5nrkvkg69mg",
+      "asset_name": "(dut-NL) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "3n8kq6q39v5sjxh9jmb89gtq",
+      "asset_name": "(fin) Griddle (3400864) Q 2100N 2200N 2800N  MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    },
+    {
+      "asset_id": "4m3fc6pfp8rqngtg7f5g6rj",
+      "asset_name": "8656031 9501383 1224 RevA 3400864 Carton LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400864"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "wsnqbpfhtxrzvjnr24nf54r",
+      "filename": "3400864-Q-Half-Hotplates-1-1800x1800px-3.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 2051387,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wsnqbpfhtxrzvjnr24nf54r/3400864-Q-Half-Hotplates-1-1800x1800px-3.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/wsnqbpfhtxrzvjnr24nf54r/v/1262699699/original/3400864-Q-Half-Hotplates-1-1800x1800px-3.png?Expires=1784305017&KeyName=gcs-bfldr-prod&Signature=JbTXaWZ0IbM6yvDrz3iizdEiS0c=",
+      "url": "https://storage-us-gcs.bfldr.com/wsnqbpfhtxrzvjnr24nf54r/v/1262699699/original/3400864-Q-Half-Hotplates-1-1800x1800px-3.png?Expires=1784305017&KeyName=gcs-bfldr-prod&Signature=JbTXaWZ0IbM6yvDrz3iizdEiS0c="
+    },
+    {
+      "attachment_id": "crfrr969n7gw7kk8ssbr4g",
+      "filename": "3400864-Q-Half-Hotplates_A.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1800,
+      "height": 1800,
+      "size": 528420,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/crfrr969n7gw7kk8ssbr4g/3400864-Q-Half-Hotplates_A.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=0q7LvWZNuPbMuwD7mAdP3Ed420Y=",
+      "url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=0q7LvWZNuPbMuwD7mAdP3Ed420Y="
+    },
+    {
+      "attachment_id": "kj9n73m7hszjnh9q6s6zhg",
+      "filename": "3400864-Q-Half-Hotplates_B.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 871108,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kj9n73m7hszjnh9q6s6zhg/3400864-Q-Half-Hotplates_B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=K_WNE7Re-RzXmcKclV-H7_iG1jQ=",
+      "url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=K_WNE7Re-RzXmcKclV-H7_iG1jQ="
+    },
+    {
+      "attachment_id": "hc5q99wn4jnj7w64tbh99sk",
+      "filename": "3400864_Griddle_EMEA_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2439,
+      "size": 1993452,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hc5q99wn4jnj7w64tbh99sk/3400864_Griddle_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hc5q99wn4jnj7w64tbh99sk/v/1267391562/original/3400864_Griddle_EMEA_rgb.jpg?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=3CLmLClDzFD8t-04fqsaUjpTrmw=",
+      "url": "https://storage-us-gcs.bfldr.com/hc5q99wn4jnj7w64tbh99sk/v/1267391562/original/3400864_Griddle_EMEA_rgb.jpg?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=3CLmLClDzFD8t-04fqsaUjpTrmw="
+    }
+  ]
+}

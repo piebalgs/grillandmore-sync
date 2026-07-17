@@ -1,0 +1,152 @@
+{
+  "cache_version": 5,
+  "sku": "7173",
+  "assets": [
+    {
+      "asset_id": "pkgcyl-2rds5k-cyihra",
+      "asset_name": "7173 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7173"
+      ]
+    },
+    {
+      "asset_id": "pkgcyl-2rds5k-67ehi7",
+      "asset_name": "7173 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7173"
+      ]
+    },
+    {
+      "asset_id": "q4w1iu-1kby68-bszfyw",
+      "asset_name": "7173 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7173"
+      ]
+    },
+    {
+      "asset_id": "bkgw7q2zx5kq9vtxk4mg9z",
+      "asset_name": "7173 Summit Kamado E6 Cover",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7173"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "55ws862v7pjvf7wbghgh9b",
+      "filename": "7173B2_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 2400,
+      "height": 2400,
+      "size": 4048777,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/55ws862v7pjvf7wbghgh9b/7173B2_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/55ws862v7pjvf7wbghgh9b/v/49933528/original/7173B2_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/55ws862v7pjvf7wbghgh9b/v/49933528/original/7173B2_rgb.png"
+    },
+    {
+      "attachment_id": "pkgcyl-2rds5k-6jxi4s",
+      "filename": "7173B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2400,
+      "height": 2400,
+      "size": 2900895,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkgcyl-2rds5k-6jxi4s/7173B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkgcyl-2rds5k-6jxi4s/v/2839515/original/7173B.png?Expires=1784325968&KeyName=gcs-bfldr-prod&Signature=fst8A3qNk-gOiku5vJNiyz3MdSs=",
+      "url": "https://storage-us-gcs.bfldr.com/pkgcyl-2rds5k-6jxi4s/v/2839515/original/7173B.png?Expires=1784325968&KeyName=gcs-bfldr-prod&Signature=fst8A3qNk-gOiku5vJNiyz3MdSs="
+    },
+    {
+      "attachment_id": "3x5679fb6jb5m7cgggfxt3",
+      "filename": "7173S2.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 2705,
+      "size": 5239482,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3x5679fb6jb5m7cgggfxt3/7173S2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/3x5679fb6jb5m7cgggfxt3/v/49933396/original/7173S2.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/3x5679fb6jb5m7cgggfxt3/v/49933396/original/7173S2.jpg"
+    },
+    {
+      "attachment_id": "pkgcyl-2rds5k-ezs5l0",
+      "filename": "7173S.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 10328,
+      "height": 7760,
+      "size": 33828028,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkgcyl-2rds5k-ezs5l0/7173S.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkgcyl-2rds5k-ezs5l0/v/2839516/original/7173S.jpg?Expires=1784325968&KeyName=gcs-bfldr-prod&Signature=d3I04icwQE_O0FDhs1e-sLh4hzw=",
+      "url": "https://storage-us-gcs.bfldr.com/pkgcyl-2rds5k-ezs5l0/v/2839516/original/7173S.jpg?Expires=1784325968&KeyName=gcs-bfldr-prod&Signature=d3I04icwQE_O0FDhs1e-sLh4hzw="
+    },
+    {
+      "attachment_id": "pkgcyl-2rds5k-fiiog7",
+      "filename": "7173Y1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 9351,
+      "height": 7605,
+      "size": 34777708,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkgcyl-2rds5k-fiiog7/7173Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkgcyl-2rds5k-fiiog7/v/2839517/original/7173Y1.jpg?Expires=1784325968&KeyName=gcs-bfldr-prod&Signature=CAsH2585hwRYOT8bWDpg-ubYxwA=",
+      "url": "https://storage-us-gcs.bfldr.com/pkgcyl-2rds5k-fiiog7/v/2839517/original/7173Y1.jpg?Expires=1784325968&KeyName=gcs-bfldr-prod&Signature=CAsH2585hwRYOT8bWDpg-ubYxwA="
+    },
+    {
+      "attachment_id": "pkgcyl-2rds5k-2vv5m",
+      "filename": "7173Y2.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 9009,
+      "height": 8034,
+      "size": 33592059,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkgcyl-2rds5k-2vv5m/7173Y2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pkgcyl-2rds5k-2vv5m/v/2839518/original/7173Y2.jpg?Expires=1784325968&KeyName=gcs-bfldr-prod&Signature=5e_yKuDlSe1181rZM2a7d6PpLDk=",
+      "url": "https://storage-us-gcs.bfldr.com/pkgcyl-2rds5k-2vv5m/v/2839518/original/7173Y2.jpg?Expires=1784325968&KeyName=gcs-bfldr-prod&Signature=5e_yKuDlSe1181rZM2a7d6PpLDk="
+    },
+    {
+      "attachment_id": "fsj5kh53gc36rvxjqxtrgjb",
+      "filename": "7173Y3_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 2928,
+      "size": 6632341,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fsj5kh53gc36rvxjqxtrgjb/7173Y3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/fsj5kh53gc36rvxjqxtrgjb/v/49933348/original/7173Y3_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/fsj5kh53gc36rvxjqxtrgjb/v/49933348/original/7173Y3_rgb.jpg"
+    },
+    {
+      "attachment_id": "6vf6sc8m3bkfc54777cnzkm",
+      "filename": "7173Y4_rgb.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 3600,
+      "height": 3210,
+      "size": 6273345,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6vf6sc8m3bkfc54777cnzkm/7173Y4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/6vf6sc8m3bkfc54777cnzkm/v/49933349/original/7173Y4_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/6vf6sc8m3bkfc54777cnzkm/v/49933349/original/7173Y4_rgb.jpg"
+    }
+  ]
+}

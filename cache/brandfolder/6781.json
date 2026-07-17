@@ -1,0 +1,150 @@
+{
+  "cache_version": 5,
+  "sku": "6781",
+  "assets": [
+    {
+      "asset_id": "gk4tw6nhmwcfp965th3hc9w",
+      "asset_name": "Slate 30IN RR Griddle Scrapper 1x1",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500013",
+        "6781",
+        "1500420"
+      ]
+    },
+    {
+      "asset_id": "mxgk5bxs83mk35g6jjjnh",
+      "asset_name": "Slate 30IN RR Griddle Scrapper 1x1",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6781",
+        "1500420",
+        "1500013"
+      ]
+    },
+    {
+      "asset_id": "2gfg575nb63g5c8h4cwh79",
+      "asset_name": "Griddle Scraper",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6781"
+      ]
+    },
+    {
+      "asset_id": "kh9773cp5h439kz7kfrnz",
+      "asset_name": "Griddle Scraper",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6781"
+      ]
+    },
+    {
+      "asset_id": "83r6gh2xp9nqmb6cbhx89x",
+      "asset_name": "19059 0922 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6781"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pz7rb5fw6hm2pkz58qw2ch",
+      "filename": "6781 Griddle Scraper 6781A_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 3028001,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pz7rb5fw6hm2pkz58qw2ch/6781%20Griddle%20Scraper%206781A_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pz7rb5fw6hm2pkz58qw2ch/v/1279455103/original/6781%20Griddle%20Scraper%206781A_rgb.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=wDrorYUzK8LGCVYxVmrO6KWd768=",
+      "url": "https://storage-us-gcs.bfldr.com/pz7rb5fw6hm2pkz58qw2ch/v/1279455103/original/6781%20Griddle%20Scraper%206781A_rgb.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=wDrorYUzK8LGCVYxVmrO6KWd768="
+    },
+    {
+      "attachment_id": "8r7prp7w2r6tv7v6664nxm8",
+      "filename": "6781 Griddle Scraper 6781B_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 2176702,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8r7prp7w2r6tv7v6664nxm8/6781%20Griddle%20Scraper%206781B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8r7prp7w2r6tv7v6664nxm8/v/1279455106/original/6781%20Griddle%20Scraper%206781B_rgb.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=D1GB0jIJX84NBU_a_0PH21C1-YQ=",
+      "url": "https://storage-us-gcs.bfldr.com/8r7prp7w2r6tv7v6664nxm8/v/1279455106/original/6781%20Griddle%20Scraper%206781B_rgb.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=D1GB0jIJX84NBU_a_0PH21C1-YQ="
+    },
+    {
+      "attachment_id": "vvbjf997hfhctr9ghg4tc34k",
+      "filename": "6781 Griddle Scraper 6781C_rgb.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4000,
+      "height": 4000,
+      "size": 3160294,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vvbjf997hfhctr9ghg4tc34k/6781%20Griddle%20Scraper%206781C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vvbjf997hfhctr9ghg4tc34k/v/1279455108/original/6781%20Griddle%20Scraper%206781C_rgb.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=uABfSTeTK0prAht7QEt4HH60nzM=",
+      "url": "https://storage-us-gcs.bfldr.com/vvbjf997hfhctr9ghg4tc34k/v/1279455108/original/6781%20Griddle%20Scraper%206781C_rgb.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=uABfSTeTK0prAht7QEt4HH60nzM="
+    },
+    {
+      "attachment_id": "3jrpnr659745cfvjq7ktcs",
+      "filename": "6781 Griddle Scraper Packaging 6781_1.png",
+      "extension": "png",
+      "position": 0,
+      "width": 1689,
+      "height": 4204,
+      "size": 446408,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3jrpnr659745cfvjq7ktcs/6781%20Griddle%20Scraper%20Packaging%206781_1.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3jrpnr659745cfvjq7ktcs/v/1279455109/original/6781%20Griddle%20Scraper%20Packaging%206781_1.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=NsnRojdkrTqYy-Q2Vfuut7kmfGc=",
+      "url": "https://storage-us-gcs.bfldr.com/3jrpnr659745cfvjq7ktcs/v/1279455109/original/6781%20Griddle%20Scraper%20Packaging%206781_1.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=NsnRojdkrTqYy-Q2Vfuut7kmfGc="
+    },
+    {
+      "attachment_id": "pvxxt2r4rnb54xgvr8gm8hm",
+      "filename": "6781 Griddle Scraper Packaging 6781_2.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4220,
+      "height": 1725,
+      "size": 887972,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pvxxt2r4rnb54xgvr8gm8hm/6781%20Griddle%20Scraper%20Packaging%206781_2.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pvxxt2r4rnb54xgvr8gm8hm/v/1279455111/original/6781%20Griddle%20Scraper%20Packaging%206781_2.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=0n3GBeTY1BwG20-w_GN7qosPDJI=",
+      "url": "https://storage-us-gcs.bfldr.com/pvxxt2r4rnb54xgvr8gm8hm/v/1279455111/original/6781%20Griddle%20Scraper%20Packaging%206781_2.png?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=0n3GBeTY1BwG20-w_GN7qosPDJI="
+    },
+    {
+      "attachment_id": "6sjk85rm9v5ncwhv8vmct9b",
+      "filename": "15000214_Slate THD-FOOD_0374_1x1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5203,
+      "height": 5203,
+      "size": 12085679,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6sjk85rm9v5ncwhv8vmct9b/15000214_Slate%20THD-FOOD_0374_1x1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6sjk85rm9v5ncwhv8vmct9b/v/1272917585/original/15000214_Slate%20THD-FOOD_0374_1x1.jpg?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=bXRJrWrgiL-Z_XKnfyk5nMAc4Hg=",
+      "url": "https://storage-us-gcs.bfldr.com/6sjk85rm9v5ncwhv8vmct9b/v/1272917585/original/15000214_Slate%20THD-FOOD_0374_1x1.jpg?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=bXRJrWrgiL-Z_XKnfyk5nMAc4Hg="
+    },
+    {
+      "attachment_id": "4hmbz9tg5xx468w55wq6xb",
+      "filename": "15000214_Slate THD-FOOD_0379_1x1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5203,
+      "height": 5203,
+      "size": 13331200,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4hmbz9tg5xx468w55wq6xb/15000214_Slate%20THD-FOOD_0379_1x1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4hmbz9tg5xx468w55wq6xb/v/1272917586/original/15000214_Slate%20THD-FOOD_0379_1x1.jpg?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=LxCn4MdGlXvIwn24Epffny8tSOU=",
+      "url": "https://storage-us-gcs.bfldr.com/4hmbz9tg5xx468w55wq6xb/v/1272917586/original/15000214_Slate%20THD-FOOD_0379_1x1.jpg?Expires=1784320523&KeyName=gcs-bfldr-prod&Signature=LxCn4MdGlXvIwn24Epffny8tSOU="
+    }
+  ]
+}

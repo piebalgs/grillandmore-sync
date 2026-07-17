@@ -1,0 +1,100 @@
+{
+  "cache_version": 5,
+  "sku": "18292",
+  "assets": [
+    {
+      "asset_id": "66n8n57bqsq86v3gc65fmgk",
+      "asset_name": "Beech 18292 Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18292"
+      ]
+    },
+    {
+      "asset_id": "9g85mzc983s9rnb98nj4qjr8",
+      "asset_name": "Beech 18292 Logos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18292"
+      ]
+    },
+    {
+      "asset_id": "swbj387h2zgtf6c9tcqjfrbt",
+      "asset_name": "Wood Pellets Lifestyle- SmokeFire",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18293",
+        "18290",
+        "18295",
+        "18294",
+        "18291",
+        "18292"
+      ]
+    },
+    {
+      "asset_id": "tmv5274fb9pkqxnvjqhn28wb",
+      "asset_name": "EMEA FUEL Pellets Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18294",
+        "18290",
+        "18293",
+        "18291",
+        "18295",
+        "18292"
+      ]
+    },
+    {
+      "asset_id": "389nh3hsvxrhh9whb9988633",
+      "asset_name": "18292 BEECH 1122 RevB LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18292"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "x3rjgbcshgmqs7b5jx93nz8f",
+      "filename": "18292_1_300.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4753,
+      "height": 3501,
+      "size": 10612386,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/x3rjgbcshgmqs7b5jx93nz8f/18292_1_300.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/x3rjgbcshgmqs7b5jx93nz8f/v/1078294491/original/18292_1_300.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/x3rjgbcshgmqs7b5jx93nz8f/v/1078294491/original/18292_1_300.png"
+    },
+    {
+      "attachment_id": "r8z37wxrx2pwnmmpxcf4k6q",
+      "filename": "18292_Beech_render_300.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2811,
+      "height": 2021,
+      "size": 3849845,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r8z37wxrx2pwnmmpxcf4k6q/18292_Beech_render_300.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/r8z37wxrx2pwnmmpxcf4k6q/v/1078294431/original/18292_Beech_render_300.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/r8z37wxrx2pwnmmpxcf4k6q/v/1078294431/original/18292_Beech_render_300.png"
+    },
+    {
+      "attachment_id": "7xsq5vsxrqhpsgxq7h68r5",
+      "filename": "WBR_RGB_Pellets_Stapel (1)67247fed1d8d5218ff4654481b31d9bc1f5795eb57eed45bef14d45f122b707d.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4580,
+      "height": 3054,
+      "size": 3041158,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7xsq5vsxrqhpsgxq7h68r5/WBR_RGB_Pellets_Stapel%20%281%2967247fed1d8d5218ff4654481b31d9bc1f5795eb57eed45bef14d45f122b707d.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/7xsq5vsxrqhpsgxq7h68r5/v/1019499865/original/WBR_RGB_Pellets_Stapel%20(1)67247fed1d8d5218ff4654481b31d9bc1f5795eb57eed45bef14d45f122b707d.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/7xsq5vsxrqhpsgxq7h68r5/v/1019499865/original/WBR_RGB_Pellets_Stapel%20(1)67247fed1d8d5218ff4654481b31d9bc1f5795eb57eed45bef14d45f122b707d.jpg"
+    }
+  ]
+}

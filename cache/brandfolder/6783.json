@@ -1,0 +1,118 @@
+{
+  "cache_version": 5,
+  "sku": "6783",
+  "assets": [
+    {
+      "asset_id": "44jbkj3rr73jmvh99hhx2b",
+      "asset_name": "Griddle Basting Dome",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6783"
+      ]
+    },
+    {
+      "asset_id": "76g386p2zg62n9rsnkg99gc",
+      "asset_name": "Griddle Basting Dome",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6783"
+      ]
+    },
+    {
+      "asset_id": "vcbgrnx7fqrrhk9bjsfp4k",
+      "asset_name": "Griddle Basting Dome",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6783"
+      ]
+    },
+    {
+      "asset_id": "ss47c9g66pc6t4fhnqcsvr3n",
+      "asset_name": "Griddle Basting Dome",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6783"
+      ]
+    },
+    {
+      "asset_id": "8nk5tpgqbhszgcb43947rc2n",
+      "asset_name": "32056601 91077 1125 RevC CH OL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6783"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "8t8r8x26pg8nrg8gctcg3w3",
+      "filename": "6783 Griddle Basting Dome 6783B_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 5318626,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8t8r8x26pg8nrg8gctcg3w3/6783%20Griddle%20Basting%20Dome%206783B_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/8t8r8x26pg8nrg8gctcg3w3/v/1279449897/original/6783%20Griddle%20Basting%20Dome%206783B_rgb.png?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=rYxCvvME7_SPNK2dK2uYa6jnPFc=",
+      "url": "https://storage-us-gcs.bfldr.com/8t8r8x26pg8nrg8gctcg3w3/v/1279449897/original/6783%20Griddle%20Basting%20Dome%206783B_rgb.png?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=rYxCvvME7_SPNK2dK2uYa6jnPFc="
+    },
+    {
+      "attachment_id": "4f9kgwjh5npkgj2c4wqm8kn",
+      "filename": "6783 Griddle Basting Dome 6783D_rgb.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4000,
+      "height": 4000,
+      "size": 3078448,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4f9kgwjh5npkgj2c4wqm8kn/6783%20Griddle%20Basting%20Dome%206783D_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4f9kgwjh5npkgj2c4wqm8kn/v/1279449898/original/6783%20Griddle%20Basting%20Dome%206783D_rgb.png?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=Ue4ncCZLgM0HFka2Ey-VPIpKGGw=",
+      "url": "https://storage-us-gcs.bfldr.com/4f9kgwjh5npkgj2c4wqm8kn/v/1279449898/original/6783%20Griddle%20Basting%20Dome%206783D_rgb.png?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=Ue4ncCZLgM0HFka2Ey-VPIpKGGw="
+    },
+    {
+      "attachment_id": "7knz7jxx2ws7bf6pk7m6bq7p",
+      "filename": "6783FB1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 4201757,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7knz7jxx2ws7bf6pk7m6bq7p/6783FB1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7knz7jxx2ws7bf6pk7m6bq7p/v/1279449901/original/6783FB1_rgb.jpg?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=FS9o78n-_AUNcyMVLmThWMol5WE=",
+      "url": "https://storage-us-gcs.bfldr.com/7knz7jxx2ws7bf6pk7m6bq7p/v/1279449901/original/6783FB1_rgb.jpg?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=FS9o78n-_AUNcyMVLmThWMol5WE="
+    },
+    {
+      "attachment_id": "g7txrh8vt9k4rkc9j949k2m",
+      "filename": "6783FB2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 4561385,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g7txrh8vt9k4rkc9j949k2m/6783FB2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/g7txrh8vt9k4rkc9j949k2m/v/1279449903/original/6783FB2_rgb.jpg?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=ABUneiDV_2WvJFrk5XIaAiB3CXw=",
+      "url": "https://storage-us-gcs.bfldr.com/g7txrh8vt9k4rkc9j949k2m/v/1279449903/original/6783FB2_rgb.jpg?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=ABUneiDV_2WvJFrk5XIaAiB3CXw="
+    },
+    {
+      "attachment_id": "qs6jpp74xwtwwn8mtc4qk436",
+      "filename": "6783FB3_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2401,
+      "size": 4140941,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qs6jpp74xwtwwn8mtc4qk436/6783FB3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qs6jpp74xwtwwn8mtc4qk436/v/1279449904/original/6783FB3_rgb.jpg?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=IyRVqlMX4sRGrGII4qj-TkNLcBY=",
+      "url": "https://storage-us-gcs.bfldr.com/qs6jpp74xwtwwn8mtc4qk436/v/1279449904/original/6783FB3_rgb.jpg?Expires=1784320471&KeyName=gcs-bfldr-prod&Signature=IyRVqlMX4sRGrGII4qj-TkNLcBY="
+    }
+  ]
+}

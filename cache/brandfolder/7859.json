@@ -1,0 +1,23 @@
+{
+  "cache_version": 5,
+  "sku": "7859",
+  "assets": [
+    {
+      "asset_id": "qc549ftr3tscnzg83np5nw",
+      "asset_name": "78306 0422 RevA CH LR",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7859"
+      ]
+    },
+    {
+      "asset_id": "46pw9zbknvphxhw3qhsc8f",
+      "asset_name": "7859 Stainless Steel cooking Grates - Searwood XL 600 / SmokeFire EX6",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7859"
+      ]
+    }
+  ],
+  "images": []
+}

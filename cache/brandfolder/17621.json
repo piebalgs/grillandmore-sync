@@ -1,0 +1,38 @@
+{
+  "cache_version": 5,
+  "sku": "17621",
+  "assets": [
+    {
+      "asset_id": "plwbz2-3jx03c-5dlgjn",
+      "asset_name": "Apple Wood Chips 17621 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17621"
+      ]
+    },
+    {
+      "asset_id": "jrwk86c9ffxxb7gvfpg9sk",
+      "asset_name": "OFS 14973 02 (17621) Wood Chips Apple 0,7 kg ver4",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17621"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "plwbz2-3jx03c-c3sy22",
+      "filename": "17621B.png",
+      "extension": "png",
+      "position": 182237,
+      "width": 1800,
+      "height": 1800,
+      "size": 401234,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwbz2-3jx03c-c3sy22/17621B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/plwbz2-3jx03c-c3sy22/v/3023325/original/17621B.png?Expires=1784327863&KeyName=gcs-bfldr-prod&Signature=0GB5fz_lPTSU_ulVQ9o_14p54SM=",
+      "url": "https://storage-us-gcs.bfldr.com/plwbz2-3jx03c-c3sy22/v/3023325/original/17621B.png?Expires=1784327863&KeyName=gcs-bfldr-prod&Signature=0GB5fz_lPTSU_ulVQ9o_14p54SM="
+    }
+  ]
+}

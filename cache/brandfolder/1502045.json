@@ -1,101 +1,253 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1502045",
   "assets": [
     {
       "asset_id": "x4b8qmw89brqtb3n5tsr7qkm",
       "asset_name": "[EMEA] Lumin",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502017",
+        "1502038",
+        "1502041",
+        "1502045",
+        "1502013",
+        "1502051"
+      ]
     },
     {
       "asset_id": "pswrckrp35z2w25fgp8cbk",
       "asset_name": "enEMEA Lumin Electric Grill MasterCopyDoc FY26 FINAL[27]",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502038",
+        "1502051",
+        "1502017",
+        "1502041",
+        "1502013",
+        "1502045"
+      ]
     },
     {
       "asset_id": "9jfnsqw78ncg8jq667jh7s43",
       "asset_name": "[cze] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502041",
+        "1502017",
+        "1502051",
+        "1502038",
+        "1502045",
+        "1502013"
+      ]
     },
     {
       "asset_id": "nvxcfw5n8szm6c643jz2ncx",
       "asset_name": "[dan] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502017",
+        "1502051",
+        "1502013",
+        "1502041",
+        "1502038",
+        "1502045"
+      ]
     },
     {
       "asset_id": "t8jvb92xxb2qw42ntptn9wkg",
       "asset_name": "[dut-NL] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502041",
+        "1502051",
+        "1502045",
+        "1502038",
+        "1502013",
+        "1502017"
+      ]
     },
     {
       "asset_id": "k75pvjq7tngvnw8qw3p9r6fb",
       "asset_name": "[eng-GB] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502045",
+        "1502017",
+        "1502041",
+        "1502013",
+        "1502051",
+        "1502038"
+      ]
     },
     {
       "asset_id": "wwhb56gwnn4hh75pv9347z2t",
       "asset_name": "[fin] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502013",
+        "1502017",
+        "1502045",
+        "1502038",
+        "1502041",
+        "1502051"
+      ]
     },
     {
       "asset_id": "259jx9p3nkctn7rxpbrqsx2b",
       "asset_name": "[fre-FR] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502051",
+        "1502041",
+        "1502045",
+        "1502038",
+        "1502017",
+        "1502013"
+      ]
     },
     {
       "asset_id": "9tctfk4w3vvr89grnmttnhf",
       "asset_name": "[ger-DE] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502041",
+        "1502038",
+        "1502045",
+        "1502051",
+        "1502017",
+        "1502013"
+      ]
     },
     {
       "asset_id": "rkcnr4bkgpxnhjjc8frq6824",
       "asset_name": "[hrv] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502017",
+        "1502045",
+        "1502051",
+        "1502041",
+        "1502013",
+        "1502038"
+      ]
     },
     {
       "asset_id": "7kg348cv54hvm3tbhgp4zq8",
       "asset_name": "[ita-IT] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502041",
+        "1502045",
+        "1502017",
+        "1502051",
+        "1502038",
+        "1502013"
+      ]
     },
     {
       "asset_id": "nmfzgp82bqqfw4ws9cg5kcs",
       "asset_name": "[no] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502051",
+        "1502017",
+        "1502038",
+        "1502045",
+        "1502013",
+        "1502041"
+      ]
     },
     {
       "asset_id": "h82c6hcrjn9jkcmvn7vz4jf3",
       "asset_name": "[pol] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502051",
+        "1502045",
+        "1502041",
+        "1502013",
+        "1502017",
+        "1502038"
+      ]
     },
     {
       "asset_id": "kxnbm3rjg95pngjbwx5t87",
       "asset_name": "[por-PT] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502041",
+        "1502038",
+        "1502017",
+        "1502013",
+        "1502045",
+        "1502051"
+      ]
     },
     {
       "asset_id": "vp734h6kvw9bhx9w8zwx3m2h",
       "asset_name": "[sk] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502051",
+        "1502038",
+        "1502017",
+        "1502041",
+        "1502013",
+        "1502045"
+      ]
     },
     {
       "asset_id": "v8gc8fbtvhcftm938b59b54b",
       "asset_name": "[slv] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502017",
+        "1502051",
+        "1502045",
+        "1502013",
+        "1502038",
+        "1502041"
+      ]
     },
     {
       "asset_id": "gwp89g8qqv2snjc798hxjztq",
       "asset_name": "[spa-ES] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502045",
+        "1502041",
+        "1502038",
+        "1502051",
+        "1502017",
+        "1502013"
+      ]
     },
     {
       "asset_id": "whtp8ksjfrkqkp9bx2m5x9v",
       "asset_name": "[swe-SV] Lumin Electric Grill MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502017",
+        "1502051",
+        "1502038",
+        "1502041",
+        "1502045",
+        "1502013"
+      ]
     },
     {
       "asset_id": "95x9w4ms4pp89fjqgbvwtsvz",
       "asset_name": "[EMEA] Lumin",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502041",
+        "1502017",
+        "1502051",
+        "1502045",
+        "1502013",
+        "1502038"
+      ]
     }
   ],
   "images": [
@@ -106,10 +258,12 @@
       "position": 2,
       "width": 7812,
       "height": 7812,
+      "size": 5075308,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/533f9htv3vxfpzr82zm9b6t5/1502045_ELECTRIC_LUMIN_FULL%20SIZE_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/533f9htv3vxfpzr82zm9b6t5/v/1278009917/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_A_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=vnYXwcNLKTKiJmIH-0EKy1qExO0=",
-      "url": "https://storage-us-gcs.bfldr.com/533f9htv3vxfpzr82zm9b6t5/v/1278009917/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_A_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=vnYXwcNLKTKiJmIH-0EKy1qExO0="
+      "original_url": "https://storage-us-gcs.bfldr.com/533f9htv3vxfpzr82zm9b6t5/v/1278009917/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_A_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=2N1x3mIWOSw5k90ie0Ha1HoGMUg=",
+      "url": "https://storage-us-gcs.bfldr.com/533f9htv3vxfpzr82zm9b6t5/v/1278009917/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_A_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=2N1x3mIWOSw5k90ie0Ha1HoGMUg="
     },
     {
       "attachment_id": "9vhvpxq3r4bkwgrnhmmfwcw",
@@ -118,10 +272,12 @@
       "position": 0,
       "width": 7812,
       "height": 7812,
+      "size": 4383945,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9vhvpxq3r4bkwgrnhmmfwcw/1502045_ELECTRIC_LUMIN_FULL%20SIZE_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9vhvpxq3r4bkwgrnhmmfwcw/v/1278003784/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_B_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=Gl2-7m41olX_d15lcNBbsrfg3WM=",
-      "url": "https://storage-us-gcs.bfldr.com/9vhvpxq3r4bkwgrnhmmfwcw/v/1278003784/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_B_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=Gl2-7m41olX_d15lcNBbsrfg3WM="
+      "original_url": "https://storage-us-gcs.bfldr.com/9vhvpxq3r4bkwgrnhmmfwcw/v/1278003784/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_B_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=49Of6apF5M1QMzyvjFg3nusNK3E=",
+      "url": "https://storage-us-gcs.bfldr.com/9vhvpxq3r4bkwgrnhmmfwcw/v/1278003784/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_B_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=49Of6apF5M1QMzyvjFg3nusNK3E="
     },
     {
       "attachment_id": "6vh4m5kms5mnnzh3fw3psp7p",
@@ -130,10 +286,26 @@
       "position": 1,
       "width": 7812,
       "height": 7812,
+      "size": 5074778,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6vh4m5kms5mnnzh3fw3psp7p/1502045_ELECTRIC_LUMIN_FULL%20SIZE_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6vh4m5kms5mnnzh3fw3psp7p/v/1278003785/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_C_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=h7g6m9fMsEfmQzZXJawyyRzFLbo=",
-      "url": "https://storage-us-gcs.bfldr.com/6vh4m5kms5mnnzh3fw3psp7p/v/1278003785/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_C_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=h7g6m9fMsEfmQzZXJawyyRzFLbo="
+      "original_url": "https://storage-us-gcs.bfldr.com/6vh4m5kms5mnnzh3fw3psp7p/v/1278003785/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_C_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=T_uESwmEzzLU5GAxmm1QY9g-9wg=",
+      "url": "https://storage-us-gcs.bfldr.com/6vh4m5kms5mnnzh3fw3psp7p/v/1278003785/original/1502045_ELECTRIC_LUMIN_FULL%20SIZE_C_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=T_uESwmEzzLU5GAxmm1QY9g-9wg="
+    },
+    {
+      "attachment_id": "hpmzqv7s4676frjww5rbftmv",
+      "filename": "1502045_EMEA.png",
+      "extension": "png",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 53066701,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hpmzqv7s4676frjww5rbftmv/1502045_EMEA.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hpmzqv7s4676frjww5rbftmv/v/1328335158/original/1502045_EMEA.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=MXA-jgAnoPSkoVkC4Q5AP-A93us=",
+      "url": "https://storage-us-gcs.bfldr.com/hpmzqv7s4676frjww5rbftmv/v/1328335158/original/1502045_EMEA.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=MXA-jgAnoPSkoVkC4Q5AP-A93us="
     },
     {
       "attachment_id": "462pn985fg57nkw6sm8vs9r",
@@ -142,10 +314,12 @@
       "position": 3,
       "width": 5000,
       "height": 5000,
+      "size": 7688421,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/462pn985fg57nkw6sm8vs9r/1502045_LUMIN_EMEA_LID%20OPEN%20W%20GRIDDLE_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/462pn985fg57nkw6sm8vs9r/v/1278527439/original/1502045_LUMIN_EMEA_LID%20OPEN%20W%20GRIDDLE_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=ACv50QM2_nofwZST4CSlFaUAVi0=",
-      "url": "https://storage-us-gcs.bfldr.com/462pn985fg57nkw6sm8vs9r/v/1278527439/original/1502045_LUMIN_EMEA_LID%20OPEN%20W%20GRIDDLE_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=ACv50QM2_nofwZST4CSlFaUAVi0="
+      "original_url": "https://storage-us-gcs.bfldr.com/462pn985fg57nkw6sm8vs9r/v/1278527439/original/1502045_LUMIN_EMEA_LID%20OPEN%20W%20GRIDDLE_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=QBbqlfsRR9UuxnvUIzQ9C6MkIH8=",
+      "url": "https://storage-us-gcs.bfldr.com/462pn985fg57nkw6sm8vs9r/v/1278527439/original/1502045_LUMIN_EMEA_LID%20OPEN%20W%20GRIDDLE_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=QBbqlfsRR9UuxnvUIzQ9C6MkIH8="
     },
     {
       "attachment_id": "rsn4nvvqg8jknhj85wvwmvr",
@@ -154,10 +328,12 @@
       "position": 4,
       "width": 5000,
       "height": 5000,
+      "size": 7248109,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rsn4nvvqg8jknhj85wvwmvr/1502045_LUMIN_EMEA_LID%20OPEN_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rsn4nvvqg8jknhj85wvwmvr/v/1278527440/original/1502045_LUMIN_EMEA_LID%20OPEN_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=ssiyeqU4-GYIp7DvRumEPyK9Emg=",
-      "url": "https://storage-us-gcs.bfldr.com/rsn4nvvqg8jknhj85wvwmvr/v/1278527440/original/1502045_LUMIN_EMEA_LID%20OPEN_rgb.png?Expires=1784297607&KeyName=gcs-bfldr-prod&Signature=ssiyeqU4-GYIp7DvRumEPyK9Emg="
+      "original_url": "https://storage-us-gcs.bfldr.com/rsn4nvvqg8jknhj85wvwmvr/v/1278527440/original/1502045_LUMIN_EMEA_LID%20OPEN_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=0l0lpR1JG5lLM5r5gBG-g_xL_6o=",
+      "url": "https://storage-us-gcs.bfldr.com/rsn4nvvqg8jknhj85wvwmvr/v/1278527440/original/1502045_LUMIN_EMEA_LID%20OPEN_rgb.png?Expires=1784652063&KeyName=gcs-bfldr-prod&Signature=0l0lpR1JG5lLM5r5gBG-g_xL_6o="
     }
   ]
 }

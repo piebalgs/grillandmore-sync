@@ -24,15 +24,15 @@
       "asset_name": "Spirit 2 and 3 Burner Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501886",
+        "1501889",
         "7182",
-        "7138",
-        "1502360",
-        "1501987",
-        "1501887",
         "1502003",
         "1502361",
-        "1501889"
+        "1501886",
+        "1502360",
+        "1501887",
+        "1501987",
+        "7138"
       ]
     },
     {
@@ -40,22 +40,22 @@
       "asset_name": "[EMEA] Spirit 2 and 3 Burner Premium Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500940",
-        "1500945",
-        "1500948",
         "1500944",
-        "1501037",
-        "1501419",
-        "1500947",
-        "1501036",
-        "7182",
-        "1501431",
-        "1501430",
-        "1500942",
-        "1501341",
         "1500941",
+        "1501419",
+        "1501431",
+        "1500947",
+        "1500940",
+        "1500948",
+        "1501341",
+        "7182",
+        "1501430",
+        "1501036",
+        "1500942",
+        "1500946",
         "1500943",
-        "1500946"
+        "1500945",
+        "1501037"
       ]
     },
     {
@@ -63,22 +63,22 @@
       "asset_name": "[EMEA] Spirit 2 and 3 Burner Premium Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501430",
-        "1500945",
-        "1500941",
-        "1501036",
-        "1500948",
-        "1500944",
-        "7182",
-        "1500943",
-        "1501341",
-        "1501431",
         "1501419",
-        "1500947",
         "1501037",
-        "1500946",
+        "1500947",
         "1500940",
-        "1500942"
+        "1500946",
+        "7182",
+        "1500944",
+        "1500943",
+        "1501430",
+        "1500948",
+        "1500942",
+        "1500941",
+        "1500945",
+        "1501431",
+        "1501036",
+        "1501341"
       ]
     },
     {
@@ -102,8 +102,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/435sk43bht6mn695th433v9j/1500940_COVER_EMEA_0285_Hor.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/435sk43bht6mn695th433v9j/v/1277402152/original/1500940_COVER_EMEA_0285_Hor.jpg?Expires=1784329416&KeyName=gcs-bfldr-prod&Signature=by5yNlglYePp2Og5y26M-hWc-AM=",
-      "url": "https://storage-us-gcs.bfldr.com/435sk43bht6mn695th433v9j/v/1277402152/original/1500940_COVER_EMEA_0285_Hor.jpg?Expires=1784329416&KeyName=gcs-bfldr-prod&Signature=by5yNlglYePp2Og5y26M-hWc-AM="
+      "original_url": "https://storage-us-gcs.bfldr.com/435sk43bht6mn695th433v9j/v/1277402152/original/1500940_COVER_EMEA_0285_Hor.jpg?Expires=1784652267&KeyName=gcs-bfldr-prod&Signature=WEjYSDTh1Y0OwDt56YWeVX6VqNg=",
+      "url": "https://storage-us-gcs.bfldr.com/435sk43bht6mn695th433v9j/v/1277402152/original/1500940_COVER_EMEA_0285_Hor.jpg?Expires=1784652267&KeyName=gcs-bfldr-prod&Signature=WEjYSDTh1Y0OwDt56YWeVX6VqNg="
     },
     {
       "attachment_id": "cqw3tnbc4ss457f74v8bn7xz",
@@ -116,8 +116,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cqw3tnbc4ss457f74v8bn7xz/1500940_COVER_EMEA_4019_Hor.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cqw3tnbc4ss457f74v8bn7xz/v/1277402153/original/1500940_COVER_EMEA_4019_Hor.jpg?Expires=1784329416&KeyName=gcs-bfldr-prod&Signature=G4urr12VbbRdKJ-hswKplUeguxk=",
-      "url": "https://storage-us-gcs.bfldr.com/cqw3tnbc4ss457f74v8bn7xz/v/1277402153/original/1500940_COVER_EMEA_4019_Hor.jpg?Expires=1784329416&KeyName=gcs-bfldr-prod&Signature=G4urr12VbbRdKJ-hswKplUeguxk="
+      "original_url": "https://storage-us-gcs.bfldr.com/cqw3tnbc4ss457f74v8bn7xz/v/1277402153/original/1500940_COVER_EMEA_4019_Hor.jpg?Expires=1784652267&KeyName=gcs-bfldr-prod&Signature=-XL6sNm15L-KU6m1oE3HtH1Qi2E=",
+      "url": "https://storage-us-gcs.bfldr.com/cqw3tnbc4ss457f74v8bn7xz/v/1277402153/original/1500940_COVER_EMEA_4019_Hor.jpg?Expires=1784652267&KeyName=gcs-bfldr-prod&Signature=-XL6sNm15L-KU6m1oE3HtH1Qi2E="
     },
     {
       "attachment_id": "jpns5mmbtfrj3h843bpz8qc9",
@@ -130,8 +130,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jpns5mmbtfrj3h843bpz8qc9/1501000_COVER_AMER_2207.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/jpns5mmbtfrj3h843bpz8qc9/v/1277333390/original/1501000_COVER_AMER_2207.jpg?Expires=1784329416&KeyName=gcs-bfldr-prod&Signature=M2Z-mM6YrIHkVhTa3VssGlYspmw=",
-      "url": "https://storage-us-gcs.bfldr.com/jpns5mmbtfrj3h843bpz8qc9/v/1277333390/original/1501000_COVER_AMER_2207.jpg?Expires=1784329416&KeyName=gcs-bfldr-prod&Signature=M2Z-mM6YrIHkVhTa3VssGlYspmw="
+      "original_url": "https://storage-us-gcs.bfldr.com/jpns5mmbtfrj3h843bpz8qc9/v/1277333390/original/1501000_COVER_AMER_2207.jpg?Expires=1784652267&KeyName=gcs-bfldr-prod&Signature=EiLY_i1WMs-ye2LH3MTj5tYN9rM=",
+      "url": "https://storage-us-gcs.bfldr.com/jpns5mmbtfrj3h843bpz8qc9/v/1277333390/original/1501000_COVER_AMER_2207.jpg?Expires=1784652267&KeyName=gcs-bfldr-prod&Signature=EiLY_i1WMs-ye2LH3MTj5tYN9rM="
     }
   ]
 }

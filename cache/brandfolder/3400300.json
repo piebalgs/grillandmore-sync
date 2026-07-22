@@ -7,9 +7,9 @@
       "asset_name": "[AMER/EMEA/AUNZ] Genesis 4B & Searwood XL 36IN Rotisserie",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400292",
         "3400300",
-        "3400246"
+        "3400246",
+        "3400292"
       ]
     },
     {
@@ -121,8 +121,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/svcr69xj3rgnbk4jmtftnsw/3400300_AA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/svcr69xj3rgnbk4jmtftnsw/v/1275116592/original/3400300_AA_rgb.png?Expires=1784304792&KeyName=gcs-bfldr-prod&Signature=1itnf3dORVTA_TFpt7RJaBblk2U=",
-      "url": "https://storage-us-gcs.bfldr.com/svcr69xj3rgnbk4jmtftnsw/v/1275116592/original/3400300_AA_rgb.png?Expires=1784304792&KeyName=gcs-bfldr-prod&Signature=1itnf3dORVTA_TFpt7RJaBblk2U="
+      "original_url": "https://storage-us-gcs.bfldr.com/svcr69xj3rgnbk4jmtftnsw/v/1275116592/original/3400300_AA_rgb.png?Expires=1784652413&KeyName=gcs-bfldr-prod&Signature=Z420xn3URFFtmx5vllTODOy92Fw=",
+      "url": "https://storage-us-gcs.bfldr.com/svcr69xj3rgnbk4jmtftnsw/v/1275116592/original/3400300_AA_rgb.png?Expires=1784652413&KeyName=gcs-bfldr-prod&Signature=Z420xn3URFFtmx5vllTODOy92Fw="
     },
     {
       "attachment_id": "6t37wrtq64xsp6w9ggmgnvj",
@@ -135,8 +135,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6t37wrtq64xsp6w9ggmgnvj/3400300_AB_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6t37wrtq64xsp6w9ggmgnvj/v/1275116593/original/3400300_AB_rgb.png?Expires=1784304792&KeyName=gcs-bfldr-prod&Signature=xo5cjATZ_13U2U-la44p-ghpd-U=",
-      "url": "https://storage-us-gcs.bfldr.com/6t37wrtq64xsp6w9ggmgnvj/v/1275116593/original/3400300_AB_rgb.png?Expires=1784304792&KeyName=gcs-bfldr-prod&Signature=xo5cjATZ_13U2U-la44p-ghpd-U="
+      "original_url": "https://storage-us-gcs.bfldr.com/6t37wrtq64xsp6w9ggmgnvj/v/1275116593/original/3400300_AB_rgb.png?Expires=1784652413&KeyName=gcs-bfldr-prod&Signature=cW9k_Bn1swcAalinNUFcSUDtJX8=",
+      "url": "https://storage-us-gcs.bfldr.com/6t37wrtq64xsp6w9ggmgnvj/v/1275116593/original/3400300_AB_rgb.png?Expires=1784652413&KeyName=gcs-bfldr-prod&Signature=cW9k_Bn1swcAalinNUFcSUDtJX8="
     },
     {
       "attachment_id": "hpn4ngqjg7fcthk8x2nkghp",
@@ -149,8 +149,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hpn4ngqjg7fcthk8x2nkghp/3400300_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hpn4ngqjg7fcthk8x2nkghp/v/1275116594/original/3400300_B_rgb.png?Expires=1784304792&KeyName=gcs-bfldr-prod&Signature=8h-Z5Uu1to7EfLFbSlLk_1Mw1JY=",
-      "url": "https://storage-us-gcs.bfldr.com/hpn4ngqjg7fcthk8x2nkghp/v/1275116594/original/3400300_B_rgb.png?Expires=1784304792&KeyName=gcs-bfldr-prod&Signature=8h-Z5Uu1to7EfLFbSlLk_1Mw1JY="
+      "original_url": "https://storage-us-gcs.bfldr.com/hpn4ngqjg7fcthk8x2nkghp/v/1275116594/original/3400300_B_rgb.png?Expires=1784652413&KeyName=gcs-bfldr-prod&Signature=njec0vvQZ3TByIkVfjNBwSME1Z8=",
+      "url": "https://storage-us-gcs.bfldr.com/hpn4ngqjg7fcthk8x2nkghp/v/1275116594/original/3400300_B_rgb.png?Expires=1784652413&KeyName=gcs-bfldr-prod&Signature=njec0vvQZ3TByIkVfjNBwSME1Z8="
     }
   ]
 }

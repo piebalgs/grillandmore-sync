@@ -1,144 +1,718 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1501779",
   "assets": [
     {
       "asset_id": "4zxcsb8k85ppqcsrvbt8s8q",
       "asset_name": "EMEA Slate 71cm Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501790",
+        "1501789",
+        "1501758",
+        "1501757",
+        "1501779",
+        "1501793",
+        "1501756",
+        "1501801",
+        "1501795",
+        "1501794",
+        "1501791",
+        "1501759",
+        "1501800",
+        "1501792"
+      ]
+    },
+    {
+      "asset_id": "jc4c7jhzqzpkvtbfbkbbm",
+      "asset_name": "[en-EMEA] Slate 71 cm Master Copy Doc FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501759",
+        "1501791",
+        "1501789",
+        "1501794",
+        "1501801",
+        "1501779",
+        "1501792",
+        "1501793",
+        "1501757",
+        "1501758",
+        "1501790",
+        "1501756",
+        "1501800"
+      ]
     },
     {
       "asset_id": "8fhfqrbfsb47hqk68gkmwsx",
       "asset_name": "Slate 71CM Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501758",
+        "1501790",
+        "1501792",
+        "1501801",
+        "1501795",
+        "1501759",
+        "1501779",
+        "1501756",
+        "1501793",
+        "1501794",
+        "1501757",
+        "1501789",
+        "1501800",
+        "1501791"
+      ]
     },
     {
       "asset_id": "n6b4g6h7tvg65pxvtr483c7z",
       "asset_name": "Slate 71CM Premium [PLATE]",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501795",
+        "1501792",
+        "1501793",
+        "1501801",
+        "1501791",
+        "1501790",
+        "1501800",
+        "1501757",
+        "1501758",
+        "1501759",
+        "1501794",
+        "1501779",
+        "1501789",
+        "1501756"
+      ]
     },
     {
       "asset_id": "f52mmwjmr8jg69wtsm98cf3f",
       "asset_name": "Slate 71CM Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501793",
+        "1501789",
+        "1501759",
+        "1501757",
+        "1501801",
+        "1501794",
+        "1501758",
+        "1501792",
+        "1501800",
+        "1501795",
+        "1501790",
+        "1501779",
+        "1501756",
+        "1501791"
+      ]
     },
     {
       "asset_id": "gxh9cqkwk433nq6474knbcg",
       "asset_name": "Slate 71CM Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501790",
+        "1501794",
+        "1501756",
+        "1501759",
+        "1501791",
+        "1501793",
+        "1501789",
+        "1501779",
+        "1501795",
+        "1501758",
+        "1501800",
+        "1501757",
+        "1501801",
+        "1501792"
+      ]
     },
     {
       "asset_id": "sk8kcjbtf46g8656cnxx46cb",
       "asset_name": "Slate 71CM Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501759",
+        "1501801",
+        "1501758",
+        "1501789",
+        "1501790",
+        "1501756",
+        "1501757",
+        "1501795",
+        "1501779",
+        "1501794",
+        "1501793",
+        "1501792",
+        "1501791",
+        "1501800"
+      ]
     },
     {
       "asset_id": "55j4h77hnmnjqxnktk8qbx",
       "asset_name": "Slate 71CM Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501790",
+        "1501800",
+        "1501795",
+        "1501801",
+        "1501789",
+        "1501759",
+        "1501779",
+        "1501756",
+        "1501792",
+        "1501791",
+        "1501794",
+        "1501793",
+        "3400128",
+        "1501757",
+        "1501758",
+        "3400519"
+      ]
     },
     {
       "asset_id": "psx54rn3gffhw69767w7bz",
       "asset_name": "Slate 71CM Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501793",
+        "1501759",
+        "1501791",
+        "1501801",
+        "1501795",
+        "1501792",
+        "1501789",
+        "1501794",
+        "3400519",
+        "1501779",
+        "1501790",
+        "1501758",
+        "1501800",
+        "3400220",
+        "1501756",
+        "1501757"
+      ]
     },
     {
       "asset_id": "mxgkhtng2wt7mp9pt859tz5g",
       "asset_name": "Slate 71CM Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501793",
+        "1501758",
+        "3400423",
+        "1501756",
+        "3401364",
+        "3400519",
+        "6669",
+        "1501790",
+        "1501791",
+        "3401363",
+        "1501789",
+        "1501757",
+        "1501801",
+        "1501794",
+        "1501800",
+        "1501759",
+        "1501779",
+        "6670",
+        "1501795",
+        "1501792"
+      ]
     },
     {
       "asset_id": "gsfp8h8k45qz5mt3c88567",
       "asset_name": "Slate 71CM Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501791",
+        "1501792",
+        "3400423",
+        "1501790",
+        "1501779",
+        "1501793",
+        "3400260",
+        "1501800",
+        "1501756",
+        "1501757",
+        "1501789",
+        "1501759",
+        "1501758",
+        "1501801",
+        "1501795",
+        "1501794"
+      ]
     },
     {
       "asset_id": "btf56c885rt5g52m9rgm4h6k",
       "asset_name": "[cze] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501779",
+        "1501790",
+        "1501793",
+        "1501794",
+        "1501756",
+        "1501757",
+        "1501800",
+        "1501791",
+        "1501789",
+        "1501792",
+        "1501758",
+        "1501759",
+        "1501801"
+      ]
     },
     {
       "asset_id": "r8fpc5xtm8mvjz6kxgmf66ck",
       "asset_name": "[dan] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501756",
+        "1501793",
+        "1501759",
+        "1501792",
+        "1501791",
+        "1501758",
+        "1501800",
+        "1501789",
+        "1501757",
+        "1501801",
+        "1501790",
+        "1501779",
+        "1501794"
+      ]
     },
     {
       "asset_id": "krvp3p8xjqk8mw738qh9jw8n",
       "asset_name": "[dut-NL] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501791",
+        "1501801",
+        "1501793",
+        "1501758",
+        "1501800",
+        "1501779",
+        "1501757",
+        "1501794",
+        "1501789",
+        "1501759",
+        "1501792",
+        "1501790",
+        "1501756"
+      ]
     },
     {
       "asset_id": "76wnpsjxvppt3bv8xmcbc4",
       "asset_name": "[eng-GB] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501801",
+        "1501800",
+        "1501789",
+        "1501790",
+        "1501792",
+        "1501794",
+        "1501779",
+        "1501757",
+        "1501758",
+        "1501756",
+        "1501791",
+        "1501759",
+        "1501793"
+      ]
     },
     {
       "asset_id": "8cx34jngsznn9bq4kfhkjqg3",
       "asset_name": "[fin] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501793",
+        "1501758",
+        "1501779",
+        "1501756",
+        "1501789",
+        "1501757",
+        "1501794",
+        "1501791",
+        "1501792",
+        "1501790",
+        "1501800",
+        "1501801",
+        "1501759"
+      ]
     },
     {
       "asset_id": "45sfqrc3nx8hrttwgnff3r",
       "asset_name": "[fre-FR] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501790",
+        "1501794",
+        "1501789",
+        "1501757",
+        "1501756",
+        "1501759",
+        "1501792",
+        "1501800",
+        "1501779",
+        "1501793",
+        "1501791",
+        "1501801",
+        "1501758"
+      ]
     },
     {
       "asset_id": "cxwxfmbr3qkvt9shprkwqv4",
       "asset_name": "[ger-DE] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501792",
+        "1501791",
+        "1501779",
+        "1501789",
+        "1501757",
+        "1501759",
+        "1501758",
+        "1501801",
+        "1501794",
+        "1501790",
+        "1501756",
+        "1501793",
+        "1501800"
+      ]
     },
     {
       "asset_id": "6p3fh98xsjh8hmrpkhntb5t",
       "asset_name": "[hrv] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501756",
+        "1501789",
+        "1501779",
+        "1501794",
+        "1501793",
+        "1501801",
+        "1501759",
+        "1501792",
+        "1501790",
+        "1501758",
+        "1501757",
+        "1501791",
+        "1501800"
+      ]
     },
     {
       "asset_id": "qr95ft6f78rqpq5vs5tfq58j",
       "asset_name": "[ita-IT] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501790",
+        "1501794",
+        "1501793",
+        "1501779",
+        "1501791",
+        "1501800",
+        "1501756",
+        "1501801",
+        "1501792",
+        "1501759",
+        "1501757",
+        "1501758",
+        "1501789"
+      ]
     },
     {
       "asset_id": "v948p3gvrn6vx9pjpgxq8",
       "asset_name": "[no] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501757",
+        "1501791",
+        "1501801",
+        "1501790",
+        "1501759",
+        "1501756",
+        "1501794",
+        "1501793",
+        "1501800",
+        "1501779",
+        "1501758",
+        "1501792",
+        "1501789"
+      ]
     },
     {
       "asset_id": "rt6mbbbtr9gmvcjp4gtht",
       "asset_name": "[pol] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501756",
+        "1501759",
+        "1501800",
+        "1501794",
+        "1501792",
+        "1501757",
+        "1501801",
+        "1501779",
+        "1501793",
+        "1501789",
+        "1501758",
+        "1501790",
+        "1501791"
+      ]
     },
     {
       "asset_id": "j67fsbjcrw33zr34mpg2np7",
       "asset_name": "[por-PT] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501790",
+        "1501791",
+        "1501794",
+        "1501800",
+        "1501759",
+        "1501779",
+        "1501801",
+        "1501793",
+        "1501757",
+        "1501758",
+        "1501792",
+        "1501789",
+        "1501756"
+      ]
     },
     {
       "asset_id": "3x3c2c6xqbc7r7pxn5vf6g3",
       "asset_name": "[sk] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501793",
+        "1501758",
+        "1501791",
+        "1501756",
+        "1501790",
+        "1501794",
+        "1501792",
+        "1501757",
+        "1501779",
+        "1501801",
+        "1501759",
+        "1501800",
+        "1501789"
+      ]
     },
     {
       "asset_id": "pqwvtgrtvc4k5jvkrpqhbv",
       "asset_name": "[slv] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501792",
+        "1501759",
+        "1501800",
+        "1501801",
+        "1501757",
+        "1501758",
+        "1501789",
+        "1501779",
+        "1501756",
+        "1501791",
+        "1501794",
+        "1501790",
+        "1501793"
+      ]
     },
     {
       "asset_id": "qsnns36pnm899m99tn9xn4mt",
       "asset_name": "[spa-ES] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501800",
+        "1501756",
+        "1501794",
+        "1501789",
+        "1501791",
+        "1501759",
+        "1501792",
+        "1501801",
+        "1501793",
+        "1501790",
+        "1501779",
+        "1501758",
+        "1501757"
+      ]
     },
     {
       "asset_id": "wjtswjx87gj3c36vh35t3ttj",
       "asset_name": "[swe-SE] Slate 71 cm MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501791",
+        "1501759",
+        "1501793",
+        "1501794",
+        "1501800",
+        "1501790",
+        "1501779",
+        "1501789",
+        "1501757",
+        "1501758",
+        "1501801",
+        "1501756",
+        "1501792"
+      ]
     },
     {
       "asset_id": "fshnqwtw43rwzckscqwrtv",
       "asset_name": "71CM Specs LP",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501779",
+        "1501791",
+        "1501789",
+        "1501800",
+        "1501790",
+        "1501793",
+        "1501792",
+        "1501795",
+        "1501801",
+        "1501758",
+        "1501794",
+        "1501757",
+        "1501756",
+        "1501759"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "6xqs9p7zkmjgmhfx56sbbb9m",
+      "filename": "1501789_003_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6114,
+      "height": 4076,
+      "size": 14653823,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6xqs9p7zkmjgmhfx56sbbb9m/1501789_003_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6xqs9p7zkmjgmhfx56sbbb9m/v/1289564543/original/1501789_003_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=VQ30R6fbDkKv__Uwph6kjlIDSDQ=",
+      "url": "https://storage-us-gcs.bfldr.com/6xqs9p7zkmjgmhfx56sbbb9m/v/1289564543/original/1501789_003_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=VQ30R6fbDkKv__Uwph6kjlIDSDQ="
+    },
+    {
+      "attachment_id": "qjmgkp9jnvhxsgv35tt42638",
+      "filename": "1501789_003_SlateGP_71CMPrem_FY2026_EMEA_PLATE.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6114,
+      "height": 4076,
+      "size": 14393105,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qjmgkp9jnvhxsgv35tt42638/1501789_003_SlateGP_71CMPrem_FY2026_EMEA_PLATE.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qjmgkp9jnvhxsgv35tt42638/v/1289564546/original/1501789_003_SlateGP_71CMPrem_FY2026_EMEA_PLATE.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=5IgowsUQ4OEhF82Pqd3RTQ_VOtk=",
+      "url": "https://storage-us-gcs.bfldr.com/qjmgkp9jnvhxsgv35tt42638/v/1289564546/original/1501789_003_SlateGP_71CMPrem_FY2026_EMEA_PLATE.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=5IgowsUQ4OEhF82Pqd3RTQ_VOtk="
+    },
+    {
+      "attachment_id": "k9xxn4qjkr8f3pk46pp8cs7z",
+      "filename": "1501789_006_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6623,
+      "height": 4416,
+      "size": 14467360,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k9xxn4qjkr8f3pk46pp8cs7z/1501789_006_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k9xxn4qjkr8f3pk46pp8cs7z/v/1289581089/original/1501789_006_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=4dTnhlWUEPMmezheOwrSDvxP1BY=",
+      "url": "https://storage-us-gcs.bfldr.com/k9xxn4qjkr8f3pk46pp8cs7z/v/1289581089/original/1501789_006_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=4dTnhlWUEPMmezheOwrSDvxP1BY="
+    },
+    {
+      "attachment_id": "kg89jh4gnpfs8kx3r8nq9t43",
+      "filename": "1501789_007_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6623,
+      "height": 4416,
+      "size": 14482273,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kg89jh4gnpfs8kx3r8nq9t43/1501789_007_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kg89jh4gnpfs8kx3r8nq9t43/v/1289581092/original/1501789_007_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=-k9rpXZLdN4thfOfm5mkyxWI--Q=",
+      "url": "https://storage-us-gcs.bfldr.com/kg89jh4gnpfs8kx3r8nq9t43/v/1289581092/original/1501789_007_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=-k9rpXZLdN4thfOfm5mkyxWI--Q="
+    },
+    {
+      "attachment_id": "j8vp74jx2kfbhwrh8wjv",
+      "filename": "1501789_009_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6162,
+      "height": 4462,
+      "size": 11764721,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j8vp74jx2kfbhwrh8wjv/1501789_009_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/j8vp74jx2kfbhwrh8wjv/v/1294497577/original/1501789_009_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=jiHG6q9ew4Q2O_3jc4ULhQAJT_U=",
+      "url": "https://storage-us-gcs.bfldr.com/j8vp74jx2kfbhwrh8wjv/v/1294497577/original/1501789_009_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=jiHG6q9ew4Q2O_3jc4ULhQAJT_U="
+    },
+    {
+      "attachment_id": "mqwzgg5nm7jx9st9ptnf88mt",
+      "filename": "1501789_010_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6076,
+      "height": 4566,
+      "size": 12960351,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mqwzgg5nm7jx9st9ptnf88mt/1501789_010_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mqwzgg5nm7jx9st9ptnf88mt/v/1294497585/original/1501789_010_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=Fyw1t5RrGi0ZT9S6w7fliSuETwg=",
+      "url": "https://storage-us-gcs.bfldr.com/mqwzgg5nm7jx9st9ptnf88mt/v/1294497585/original/1501789_010_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=Fyw1t5RrGi0ZT9S6w7fliSuETwg="
+    },
+    {
+      "attachment_id": "nbzc75p5j5ngqssstjj2jw5",
+      "filename": "1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6314,
+      "height": 4209,
+      "size": 12604348,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nbzc75p5j5ngqssstjj2jw5/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nbzc75p5j5ngqssstjj2jw5/v/1289581104/original/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=wC__9CaE8vJVwyHXT69xfai3oxw=",
+      "url": "https://storage-us-gcs.bfldr.com/nbzc75p5j5ngqssstjj2jw5/v/1289581104/original/1501789_011_SlateGP_71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=wC__9CaE8vJVwyHXT69xfai3oxw="
+    },
+    {
+      "attachment_id": "k68bvvwzqh9jr6jmbqckhw88",
+      "filename": "1501789_019B_ Slate71CM Prem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8400,
+      "height": 5600,
+      "size": 30739928,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k68bvvwzqh9jr6jmbqckhw88/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=x4Z-HpEBQwc5Qb-UTLHBU9-CwA4=",
+      "url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=x4Z-HpEBQwc5Qb-UTLHBU9-CwA4="
+    },
+    {
+      "attachment_id": "6b66qr8g59pw7vwhcfkzksrt",
+      "filename": "1501789_021_Slate71CMPrem_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8228,
+      "height": 5485,
+      "size": 25740660,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6b66qr8g59pw7vwhcfkzksrt/1501789_021_Slate71CMPrem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6b66qr8g59pw7vwhcfkzksrt/v/1294495890/original/1501789_021_Slate71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=c6MpLeydnho69jX8Qy6jAEY2I1I=",
+      "url": "https://storage-us-gcs.bfldr.com/6b66qr8g59pw7vwhcfkzksrt/v/1294495890/original/1501789_021_Slate71CMPrem_FY2026_EMEA.jpg?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=c6MpLeydnho69jX8Qy6jAEY2I1I="
+    },
     {
       "attachment_id": "vs3rsfvq27jqchtsp7272prq",
       "filename": "1501789_Slate 71cm Pro_EMEA_FRONT_rgb.png",
@@ -146,10 +720,12 @@
       "position": 0,
       "width": 7200,
       "height": 7200,
+      "size": 8501779,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vs3rsfvq27jqchtsp7272prq/1501789_Slate%2071cm%20Pro_EMEA_FRONT_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vs3rsfvq27jqchtsp7272prq/v/1264080211/original/1501789_Slate%2071cm%20Pro_EMEA_FRONT_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=9xODxU_YPq95W7NJF07LyvRg9AA=",
-      "url": "https://storage-us-gcs.bfldr.com/vs3rsfvq27jqchtsp7272prq/v/1264080211/original/1501789_Slate%2071cm%20Pro_EMEA_FRONT_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=9xODxU_YPq95W7NJF07LyvRg9AA="
+      "original_url": "https://storage-us-gcs.bfldr.com/vs3rsfvq27jqchtsp7272prq/v/1264080211/original/1501789_Slate%2071cm%20Pro_EMEA_FRONT_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=YcjFSUwDdp5pHVc6YE9I8WgJRkc=",
+      "url": "https://storage-us-gcs.bfldr.com/vs3rsfvq27jqchtsp7272prq/v/1264080211/original/1501789_Slate%2071cm%20Pro_EMEA_FRONT_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=YcjFSUwDdp5pHVc6YE9I8WgJRkc="
     },
     {
       "attachment_id": "xs4hczsx89fphbppmzvkwn9b",
@@ -158,10 +734,12 @@
       "position": 1,
       "width": 7200,
       "height": 7200,
+      "size": 9902681,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xs4hczsx89fphbppmzvkwn9b/1501789_Slate_71cm%20Pro_EMEA_FRONT%20OPEN_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xs4hczsx89fphbppmzvkwn9b/v/1264080212/original/1501789_Slate_71cm%20Pro_EMEA_FRONT%20OPEN_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=I9LfQzrpggjqsSGNu6olAT-guOc=",
-      "url": "https://storage-us-gcs.bfldr.com/xs4hczsx89fphbppmzvkwn9b/v/1264080212/original/1501789_Slate_71cm%20Pro_EMEA_FRONT%20OPEN_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=I9LfQzrpggjqsSGNu6olAT-guOc="
+      "original_url": "https://storage-us-gcs.bfldr.com/xs4hczsx89fphbppmzvkwn9b/v/1264080212/original/1501789_Slate_71cm%20Pro_EMEA_FRONT%20OPEN_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=e54Eck3FJlFOlSUZu-l83BwzbDk=",
+      "url": "https://storage-us-gcs.bfldr.com/xs4hczsx89fphbppmzvkwn9b/v/1264080212/original/1501789_Slate_71cm%20Pro_EMEA_FRONT%20OPEN_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=e54Eck3FJlFOlSUZu-l83BwzbDk="
     },
     {
       "attachment_id": "gjph56h4rkk3spt3nqtkvxh",
@@ -170,10 +748,12 @@
       "position": 2,
       "width": 7200,
       "height": 7200,
+      "size": 9105578,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gjph56h4rkk3spt3nqtkvxh/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gjph56h4rkk3spt3nqtkvxh/v/1264080213/original/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=IomHu867H_jCBMgLHWtFHhJbl4s=",
-      "url": "https://storage-us-gcs.bfldr.com/gjph56h4rkk3spt3nqtkvxh/v/1264080213/original/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=IomHu867H_jCBMgLHWtFHhJbl4s="
+      "original_url": "https://storage-us-gcs.bfldr.com/gjph56h4rkk3spt3nqtkvxh/v/1264080213/original/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=-SJYcg1A1ZglqDxrR5q-5PfqLsw=",
+      "url": "https://storage-us-gcs.bfldr.com/gjph56h4rkk3spt3nqtkvxh/v/1264080213/original/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=-SJYcg1A1ZglqDxrR5q-5PfqLsw="
     },
     {
       "attachment_id": "xbr4gzhcxrv7kzgh86p9p",
@@ -182,10 +762,12 @@
       "position": 6,
       "width": 7200,
       "height": 7200,
+      "size": 9958658,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xbr4gzhcxrv7kzgh86p9p/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_Table_Down_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xbr4gzhcxrv7kzgh86p9p/v/1295032914/original/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_Table_Down_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=c2fzJgoXLj3Z_4ow-mRN3hyDJPQ=",
-      "url": "https://storage-us-gcs.bfldr.com/xbr4gzhcxrv7kzgh86p9p/v/1295032914/original/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_Table_Down_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=c2fzJgoXLj3Z_4ow-mRN3hyDJPQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/xbr4gzhcxrv7kzgh86p9p/v/1295032914/original/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_Table_Down_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=RDpUca3hza8UYZvXYKElrpjnZMA=",
+      "url": "https://storage-us-gcs.bfldr.com/xbr4gzhcxrv7kzgh86p9p/v/1295032914/original/1501789_Slate_71cm%20Pro_EMEA_LEFT%20OPEN_Table_Down_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=RDpUca3hza8UYZvXYKElrpjnZMA="
     },
     {
       "attachment_id": "8mxv3sqqswt5zvm8psqhn7w",
@@ -194,10 +776,12 @@
       "position": 3,
       "width": 7200,
       "height": 7200,
+      "size": 7927459,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8mxv3sqqswt5zvm8psqhn7w/1501789_Slate_71cm%20Pro_EMEA_LEFT_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8mxv3sqqswt5zvm8psqhn7w/v/1264080214/original/1501789_Slate_71cm%20Pro_EMEA_LEFT_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=7DEUhX0gcssepa5_JILpWVY8aV4=",
-      "url": "https://storage-us-gcs.bfldr.com/8mxv3sqqswt5zvm8psqhn7w/v/1264080214/original/1501789_Slate_71cm%20Pro_EMEA_LEFT_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=7DEUhX0gcssepa5_JILpWVY8aV4="
+      "original_url": "https://storage-us-gcs.bfldr.com/8mxv3sqqswt5zvm8psqhn7w/v/1264080214/original/1501789_Slate_71cm%20Pro_EMEA_LEFT_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=8f-PfL8PXs9wFBYGRfVX21yXSi4=",
+      "url": "https://storage-us-gcs.bfldr.com/8mxv3sqqswt5zvm8psqhn7w/v/1264080214/original/1501789_Slate_71cm%20Pro_EMEA_LEFT_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=8f-PfL8PXs9wFBYGRfVX21yXSi4="
     },
     {
       "attachment_id": "qqwvss5g9n4fg98zfq9q33gr",
@@ -206,10 +790,12 @@
       "position": 7,
       "width": 7200,
       "height": 7200,
+      "size": 8819373,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qqwvss5g9n4fg98zfq9q33gr/1501789_Slate_71cm%20Pro_EMEA_LEFT_TableDown_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qqwvss5g9n4fg98zfq9q33gr/v/1295032915/original/1501789_Slate_71cm%20Pro_EMEA_LEFT_TableDown_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=nEbJ2hKPE5pyl_wXxGdzdx55FJg=",
-      "url": "https://storage-us-gcs.bfldr.com/qqwvss5g9n4fg98zfq9q33gr/v/1295032915/original/1501789_Slate_71cm%20Pro_EMEA_LEFT_TableDown_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=nEbJ2hKPE5pyl_wXxGdzdx55FJg="
+      "original_url": "https://storage-us-gcs.bfldr.com/qqwvss5g9n4fg98zfq9q33gr/v/1295032915/original/1501789_Slate_71cm%20Pro_EMEA_LEFT_TableDown_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=URZdAoRuxocvLMfxNydneZpfjFQ=",
+      "url": "https://storage-us-gcs.bfldr.com/qqwvss5g9n4fg98zfq9q33gr/v/1295032915/original/1501789_Slate_71cm%20Pro_EMEA_LEFT_TableDown_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=URZdAoRuxocvLMfxNydneZpfjFQ="
     },
     {
       "attachment_id": "vnmnps6mr3zq8nk48xfvn84",
@@ -218,10 +804,12 @@
       "position": 4,
       "width": 7200,
       "height": 7200,
+      "size": 9604801,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vnmnps6mr3zq8nk48xfvn84/1501789_Slate_71cm%20Pro_EMEA_Right%20OPEN_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vnmnps6mr3zq8nk48xfvn84/v/1264080216/original/1501789_Slate_71cm%20Pro_EMEA_Right%20OPEN_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=YoItTRONGbnYHAyT0fYcXTh5cdo=",
-      "url": "https://storage-us-gcs.bfldr.com/vnmnps6mr3zq8nk48xfvn84/v/1264080216/original/1501789_Slate_71cm%20Pro_EMEA_Right%20OPEN_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=YoItTRONGbnYHAyT0fYcXTh5cdo="
+      "original_url": "https://storage-us-gcs.bfldr.com/vnmnps6mr3zq8nk48xfvn84/v/1264080216/original/1501789_Slate_71cm%20Pro_EMEA_Right%20OPEN_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=oJvAqTrXANajGxnxg2YaOtSwdPk=",
+      "url": "https://storage-us-gcs.bfldr.com/vnmnps6mr3zq8nk48xfvn84/v/1264080216/original/1501789_Slate_71cm%20Pro_EMEA_Right%20OPEN_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=oJvAqTrXANajGxnxg2YaOtSwdPk="
     },
     {
       "attachment_id": "tv787m2cbnjw75bc7vn6b3k",
@@ -230,10 +818,12 @@
       "position": 5,
       "width": 7200,
       "height": 7200,
+      "size": 8303367,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tv787m2cbnjw75bc7vn6b3k/1501789_Slate_71cm%20Pro_EMEA_Right_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tv787m2cbnjw75bc7vn6b3k/v/1264080217/original/1501789_Slate_71cm%20Pro_EMEA_Right_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=yshdb_swxbHWZqQPoN5lLy0JzPc=",
-      "url": "https://storage-us-gcs.bfldr.com/tv787m2cbnjw75bc7vn6b3k/v/1264080217/original/1501789_Slate_71cm%20Pro_EMEA_Right_rgb.png?Expires=1784293764&KeyName=gcs-bfldr-prod&Signature=yshdb_swxbHWZqQPoN5lLy0JzPc="
+      "original_url": "https://storage-us-gcs.bfldr.com/tv787m2cbnjw75bc7vn6b3k/v/1264080217/original/1501789_Slate_71cm%20Pro_EMEA_Right_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=AWwJxhoLxWI2d24zoOcAuqBKGzQ=",
+      "url": "https://storage-us-gcs.bfldr.com/tv787m2cbnjw75bc7vn6b3k/v/1264080217/original/1501789_Slate_71cm%20Pro_EMEA_Right_rgb.png?Expires=1784652463&KeyName=gcs-bfldr-prod&Signature=AWwJxhoLxWI2d24zoOcAuqBKGzQ="
     }
   ]
 }

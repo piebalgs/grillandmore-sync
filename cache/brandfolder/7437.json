@@ -1,11 +1,14 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "7437",
   "assets": [
     {
       "asset_id": "pi8xc0-6702sw-1102gq",
       "asset_name": "57 cm Hinged Cooking Grate 7437 Product",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "7437"
+      ]
     }
   ],
   "images": [
@@ -16,10 +19,12 @@
       "position": 0,
       "width": 1800,
       "height": 1800,
+      "size": 2799579,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi8xc0-6702sw-8y56wl/7437A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi8xc0-6702sw-8y56wl/v/2664340/original/7437A.png?Expires=1784293708&KeyName=gcs-bfldr-prod&Signature=HmCQgxKG0bimtJMh1Atz9YEPoG8=",
-      "url": "https://storage-us-gcs.bfldr.com/pi8xc0-6702sw-8y56wl/v/2664340/original/7437A.png?Expires=1784293708&KeyName=gcs-bfldr-prod&Signature=HmCQgxKG0bimtJMh1Atz9YEPoG8="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi8xc0-6702sw-8y56wl/v/2664340/original/7437A.png?Expires=1784652330&KeyName=gcs-bfldr-prod&Signature=KjHz3mzUl6eTTrn8lNEsFw-84xU=",
+      "url": "https://storage-us-gcs.bfldr.com/pi8xc0-6702sw-8y56wl/v/2664340/original/7437A.png?Expires=1784652330&KeyName=gcs-bfldr-prod&Signature=KjHz3mzUl6eTTrn8lNEsFw-84xU="
     }
   ]
 }

@@ -1,101 +1,160 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "3401421",
   "assets": [
     {
       "asset_id": "bksgwpp59cq97qzp24w4sf",
       "asset_name": "Performer Premium and Performer Premium Smart Grill Cover",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401382",
+        "1501825",
+        "3401421"
+      ]
     },
     {
       "asset_id": "gs88ftqjxb97mc646c3b3psf",
       "asset_name": "8659241 9501859 0625 RevA LR",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "9wsjhcbnvzsbsp83mcrfjq6c",
       "asset_name": "enEMEA GRILL COVER PERFORMER PREMIUM 3401421 NPD26 MasterCopyDoc FINAL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "vnr677wwf93n7ws79fwk4t",
       "asset_name": "[cze] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "gpgpgnfm495z39mkqbngxrg",
       "asset_name": "[dan] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "hssgmnvcv6wfh84nk2mk3sj",
       "asset_name": "[dut-NL] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "6c8fstmhgbcbq746nmfbbn",
       "asset_name": "[en-GB] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "gq6ptfxg4c4mfrvrqghwkf",
       "asset_name": "[es-ES] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "tt5jqk55qp5b8f9kc6xmpmj",
       "asset_name": "[fin] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "w3vtg84wb6x3vcn5fh9x9s",
       "asset_name": "[fr-FR] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "pv8tf9hxphf7k7mg6w9mqt",
       "asset_name": "[ger-DE] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "4hngpp539htkbtvstn947bwq",
       "asset_name": "[hrv] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "rf9cqb6khjgxk33mb4hc87v4",
       "asset_name": "[ita-IT] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "qtgrmwfmpt73mhvfbgqxcn8",
       "asset_name": "[no] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "x6pgw4cbhnfzgm4gc9pzprhb",
       "asset_name": "[pol] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "pmjcp6j444jg8mjp66mzt3pz",
       "asset_name": "[por-PT] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "cshmtzwkqgq7vjvhfkqw3csg",
       "asset_name": "[sk] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "m5s5gjtbxv7r3b7bb3tnh4",
       "asset_name": "[slv] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     },
     {
       "asset_id": "w8kggsjqb3nc968gwwbxkm",
       "asset_name": "[swe-SV] GRILL COVER PERFORMER PREMIUM 3401421 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401421"
+      ]
     }
   ],
   "images": [
@@ -106,10 +165,12 @@
       "position": 0,
       "width": 5334,
       "height": 5334,
+      "size": 25457001,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pcqbr5cts7hj683w6rkfv83f/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pcqbr5cts7hj683w6rkfv83f/v/1277876603/original/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784296469&KeyName=gcs-bfldr-prod&Signature=Egmz9aeJToEHBy7hDpJDfpW9qxU=",
-      "url": "https://storage-us-gcs.bfldr.com/pcqbr5cts7hj683w6rkfv83f/v/1277876603/original/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784296469&KeyName=gcs-bfldr-prod&Signature=Egmz9aeJToEHBy7hDpJDfpW9qxU="
+      "original_url": "https://storage-us-gcs.bfldr.com/pcqbr5cts7hj683w6rkfv83f/v/1277876603/original/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=7q9pcpFk85i8o6aFCQ5dNZRB-1A=",
+      "url": "https://storage-us-gcs.bfldr.com/pcqbr5cts7hj683w6rkfv83f/v/1277876603/original/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=7q9pcpFk85i8o6aFCQ5dNZRB-1A="
     },
     {
       "attachment_id": "f4j7j7436jbp2xgnfr7fkz5n",
@@ -118,10 +179,12 @@
       "position": 1,
       "width": 5334,
       "height": 5334,
+      "size": 25363872,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f4j7j7436jbp2xgnfr7fkz5n/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/f4j7j7436jbp2xgnfr7fkz5n/v/1277876604/original/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784296469&KeyName=gcs-bfldr-prod&Signature=kySsKq0pkgpZofhiOJNNNNoIIp0=",
-      "url": "https://storage-us-gcs.bfldr.com/f4j7j7436jbp2xgnfr7fkz5n/v/1277876604/original/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784296469&KeyName=gcs-bfldr-prod&Signature=kySsKq0pkgpZofhiOJNNNNoIIp0="
+      "original_url": "https://storage-us-gcs.bfldr.com/f4j7j7436jbp2xgnfr7fkz5n/v/1277876604/original/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=UfzrDhBT_3S178K-aIlpJ9OMMDY=",
+      "url": "https://storage-us-gcs.bfldr.com/f4j7j7436jbp2xgnfr7fkz5n/v/1277876604/original/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=UfzrDhBT_3S178K-aIlpJ9OMMDY="
     },
     {
       "attachment_id": "nbtz2tms8zn9pkkcnkg43mx5",
@@ -130,10 +193,12 @@
       "position": 2,
       "width": 5255,
       "height": 5255,
+      "size": 25595394,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nbtz2tms8zn9pkkcnkg43mx5/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nbtz2tms8zn9pkkcnkg43mx5/v/1277876606/original/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784296469&KeyName=gcs-bfldr-prod&Signature=4yV4xObXZSluTlS3yFjxDt107tg=",
-      "url": "https://storage-us-gcs.bfldr.com/nbtz2tms8zn9pkkcnkg43mx5/v/1277876606/original/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784296469&KeyName=gcs-bfldr-prod&Signature=4yV4xObXZSluTlS3yFjxDt107tg="
+      "original_url": "https://storage-us-gcs.bfldr.com/nbtz2tms8zn9pkkcnkg43mx5/v/1277876606/original/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=1Cn0Xs74h-PTBiJPG6PMSHnfKKE=",
+      "url": "https://storage-us-gcs.bfldr.com/nbtz2tms8zn9pkkcnkg43mx5/v/1277876606/original/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=1Cn0Xs74h-PTBiJPG6PMSHnfKKE="
     }
   ]
 }

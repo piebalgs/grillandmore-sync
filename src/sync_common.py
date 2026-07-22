@@ -34,6 +34,12 @@ UnchangedPrinter = Callable[
 
 
 @dataclass
+class SyncContext:
+    supplier_products: list[Product] = field(default_factory=list)
+    woocommerce_products: list[Product] = field(default_factory=list)
+
+
+@dataclass
 class SyncArguments:
     apply: bool
     brand: str
@@ -423,8 +429,20 @@ class SyncRunner:
         self,
         config: SyncRunnerConfig,
         arguments: SyncArguments | None = None,
+        context: SyncContext | None = None,
+        supplier_products: Iterable[Product] | None = None,
+        woocommerce_products: Iterable[Product] | None = None,
     ) -> None:
         self.config = config
+
+        if context is not None and (
+            supplier_products is not None
+            or woocommerce_products is not None
+        ):
+            raise ValueError(
+                "Norādi vai nu context, vai atsevišķus produktu "
+                "sarakstus, nevis abus vienlaikus."
+            )
 
         self.arguments = arguments or parse_sync_arguments(
             name=config.name,
@@ -434,21 +452,44 @@ class SyncRunner:
 
         self.statistics = SyncStatistics()
 
-        self.supplier_products: list[Product] = []
+        if context is None:
+            context = SyncContext(
+                supplier_products=ensure_product_list(
+                    supplier_products
+                ),
+                woocommerce_products=ensure_product_list(
+                    woocommerce_products
+                ),
+            )
+
+        self.context = context
+
+        self._supplier_products_provided = bool(
+            self.context.supplier_products
+        )
+        self._woocommerce_products_provided = bool(
+            self.context.woocommerce_products
+        )
+
+        self.supplier_products = self.context.supplier_products
         self.filtered_supplier_products: list[Product] = []
 
-        self.woocommerce_products: list[Product] = []
+        self.woocommerce_products = self.context.woocommerce_products
         self.filtered_woocommerce_products: list[Product] = []
 
         self.comparison_result: Comparison | None = None
         self.changes: list[Change] = []
 
     def load_supplier(self) -> None:
-        print("Lejupielādē piegādātāja produktus...")
+        if self._supplier_products_provided:
+            print("Izmanto jau ielādētus piegādātāja produktus...")
+        else:
+            print("Lejupielādē piegādātāja produktus...")
 
-        self.supplier_products = ensure_product_list(
-            self.config.supplier_loader()
-        )
+            self.supplier_products = ensure_product_list(
+                self.config.supplier_loader()
+            )
+            self.context.supplier_products = self.supplier_products
 
         self.filtered_supplier_products = filter_supplier_products(
             products=self.supplier_products,
@@ -474,11 +515,18 @@ class SyncRunner:
 
     def load_woocommerce(self) -> None:
         print()
-        print("Ielādē WooCommerce produktus...")
 
-        self.woocommerce_products = ensure_product_list(
-            self.config.woocommerce_loader()
-        )
+        if self._woocommerce_products_provided:
+            print("Izmanto jau ielādētus WooCommerce produktus...")
+        else:
+            print("Ielādē WooCommerce produktus...")
+
+            self.woocommerce_products = ensure_product_list(
+                self.config.woocommerce_loader()
+            )
+            self.context.woocommerce_products = (
+                self.woocommerce_products
+            )
 
         self.filtered_woocommerce_products = (
             filter_woocommerce_products(
@@ -780,7 +828,7 @@ class SyncRunner:
             f"{self.statistics.duplicate_woocommerce}"
         )
         print(
-            f"Izpildes laiks:             "
+            f"Posma izpildes laiks:       "
             f"{format_duration(self.statistics.elapsed_seconds)}"
         )
         print(SEPARATOR)
@@ -862,20 +910,32 @@ class SyncRunner:
 def run_sync(
     config: SyncRunnerConfig,
     arguments: SyncArguments | None = None,
+    context: SyncContext | None = None,
+    supplier_products: Iterable[Product] | None = None,
+    woocommerce_products: Iterable[Product] | None = None,
 ) -> int:
     return SyncRunner(
         config=config,
         arguments=arguments,
+        context=context,
+        supplier_products=supplier_products,
+        woocommerce_products=woocommerce_products,
     ).run()
 
 
 def exit_with_sync_result(
     config: SyncRunnerConfig,
     arguments: SyncArguments | None = None,
+    context: SyncContext | None = None,
+    supplier_products: Iterable[Product] | None = None,
+    woocommerce_products: Iterable[Product] | None = None,
 ) -> None:
     sys.exit(
         run_sync(
             config=config,
             arguments=arguments,
+            context=context,
+            supplier_products=supplier_products,
+            woocommerce_products=woocommerce_products,
         )
     )

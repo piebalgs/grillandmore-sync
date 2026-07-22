@@ -1,16 +1,22 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "6489",
   "assets": [
     {
       "asset_id": "ph5rxr-7iz2vc-8xw2vy",
       "asset_name": "Corn Holder Set 6489 Product",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6489"
+      ]
     },
     {
       "asset_id": "4v7b8xvqptxhkp5nz6xfsfj",
       "asset_name": "58054 0816 RevE",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6489"
+      ]
     }
   ],
   "images": [
@@ -21,10 +27,12 @@
       "position": 1,
       "width": 2957,
       "height": 2014,
+      "size": 3830338,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5rxr-7iz2vc-3eg9gf/6489C1.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ph5rxr-7iz2vc-3eg9gf/v/2552142/original/6489C1.png?Expires=1784295831&KeyName=gcs-bfldr-prod&Signature=6BeAOP5eUABiBlljb0Lgtack7do=",
-      "url": "https://storage-us-gcs.bfldr.com/ph5rxr-7iz2vc-3eg9gf/v/2552142/original/6489C1.png?Expires=1784295831&KeyName=gcs-bfldr-prod&Signature=6BeAOP5eUABiBlljb0Lgtack7do="
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5rxr-7iz2vc-3eg9gf/v/2552142/original/6489C1.png?Expires=1784652355&KeyName=gcs-bfldr-prod&Signature=9cRNTFo1rDJ-pUe1S1346jTOHCA=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5rxr-7iz2vc-3eg9gf/v/2552142/original/6489C1.png?Expires=1784652355&KeyName=gcs-bfldr-prod&Signature=9cRNTFo1rDJ-pUe1S1346jTOHCA="
     },
     {
       "attachment_id": "ph5scp-8q7tb4-eopixy",
@@ -33,10 +41,12 @@
       "position": 0,
       "width": 3682,
       "height": 2586,
+      "size": 3455886,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph5scp-8q7tb4-eopixy/6489C2.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ph5scp-8q7tb4-eopixy/v/2552176/original/6489C2.png?Expires=1784295831&KeyName=gcs-bfldr-prod&Signature=sBRqcFM9jglMTOXecICsd14BWzg=",
-      "url": "https://storage-us-gcs.bfldr.com/ph5scp-8q7tb4-eopixy/v/2552176/original/6489C2.png?Expires=1784295831&KeyName=gcs-bfldr-prod&Signature=sBRqcFM9jglMTOXecICsd14BWzg="
+      "original_url": "https://storage-us-gcs.bfldr.com/ph5scp-8q7tb4-eopixy/v/2552176/original/6489C2.png?Expires=1784652355&KeyName=gcs-bfldr-prod&Signature=CzXZrbo17f_bAenrmWLf4lAVaS8=",
+      "url": "https://storage-us-gcs.bfldr.com/ph5scp-8q7tb4-eopixy/v/2552176/original/6489C2.png?Expires=1784652355&KeyName=gcs-bfldr-prod&Signature=CzXZrbo17f_bAenrmWLf4lAVaS8="
     }
   ]
 }

@@ -1,11 +1,14 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "3401312",
   "assets": [
     {
       "asset_id": "xcktkmjq8kvf4583xhqv28wv",
       "asset_name": "8659850 9501974 1225 RevC CH OL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401312"
+      ]
     }
   ],
   "images": []

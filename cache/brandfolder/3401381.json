@@ -1,11 +1,14 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "3401381",
   "assets": [
     {
       "asset_id": "cn8crhgwgtx773npc7qmbc",
       "asset_name": "Half Moon Basket",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401381"
+      ]
     }
   ],
   "images": [
@@ -16,10 +19,12 @@
       "position": 0,
       "width": 4200,
       "height": 4200,
+      "size": 7117885,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kxkqhpt5xp4t5jz5w9s4g67/3401381_Half%20Moon%20Basket_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kxkqhpt5xp4t5jz5w9s4g67/v/1322002426/original/3401381_Half%20Moon%20Basket_A_rgb.png?Expires=1784296224&KeyName=gcs-bfldr-prod&Signature=cjv7nvFgx1-1-zd2FS1mrEuBV6M=",
-      "url": "https://storage-us-gcs.bfldr.com/kxkqhpt5xp4t5jz5w9s4g67/v/1322002426/original/3401381_Half%20Moon%20Basket_A_rgb.png?Expires=1784296224&KeyName=gcs-bfldr-prod&Signature=cjv7nvFgx1-1-zd2FS1mrEuBV6M="
+      "original_url": "https://storage-us-gcs.bfldr.com/kxkqhpt5xp4t5jz5w9s4g67/v/1322002426/original/3401381_Half%20Moon%20Basket_A_rgb.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=V1zp2JzodNYp_brzktc-XUM1tdM=",
+      "url": "https://storage-us-gcs.bfldr.com/kxkqhpt5xp4t5jz5w9s4g67/v/1322002426/original/3401381_Half%20Moon%20Basket_A_rgb.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=V1zp2JzodNYp_brzktc-XUM1tdM="
     },
     {
       "attachment_id": "kt5cfcmsmthw7bqx6ht5wrkq",
@@ -28,10 +33,12 @@
       "position": 1,
       "width": 4200,
       "height": 4200,
+      "size": 8974645,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kt5cfcmsmthw7bqx6ht5wrkq/3401381_Half%20Moon%20Basket_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kt5cfcmsmthw7bqx6ht5wrkq/v/1322002432/original/3401381_Half%20Moon%20Basket_B_rgb.png?Expires=1784296224&KeyName=gcs-bfldr-prod&Signature=fdXKqYRODRMRz1DTOdNnt9TZvQA=",
-      "url": "https://storage-us-gcs.bfldr.com/kt5cfcmsmthw7bqx6ht5wrkq/v/1322002432/original/3401381_Half%20Moon%20Basket_B_rgb.png?Expires=1784296224&KeyName=gcs-bfldr-prod&Signature=fdXKqYRODRMRz1DTOdNnt9TZvQA="
+      "original_url": "https://storage-us-gcs.bfldr.com/kt5cfcmsmthw7bqx6ht5wrkq/v/1322002432/original/3401381_Half%20Moon%20Basket_B_rgb.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=2YZ_5qfF3-xKWMWwbV2mHkkAa3Y=",
+      "url": "https://storage-us-gcs.bfldr.com/kt5cfcmsmthw7bqx6ht5wrkq/v/1322002432/original/3401381_Half%20Moon%20Basket_B_rgb.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=2YZ_5qfF3-xKWMWwbV2mHkkAa3Y="
     },
     {
       "attachment_id": "4m3vvgvq2ng9kvswb5qxbh",
@@ -40,10 +47,12 @@
       "position": 2,
       "width": 4200,
       "height": 4200,
+      "size": 3890437,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4m3vvgvq2ng9kvswb5qxbh/3401381_Half%20Moon%20Basket_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4m3vvgvq2ng9kvswb5qxbh/v/1322002435/original/3401381_Half%20Moon%20Basket_C_rgb.png?Expires=1784296224&KeyName=gcs-bfldr-prod&Signature=Yof-Xu2sdXfyoj7aYER-95kUT2g=",
-      "url": "https://storage-us-gcs.bfldr.com/4m3vvgvq2ng9kvswb5qxbh/v/1322002435/original/3401381_Half%20Moon%20Basket_C_rgb.png?Expires=1784296224&KeyName=gcs-bfldr-prod&Signature=Yof-Xu2sdXfyoj7aYER-95kUT2g="
+      "original_url": "https://storage-us-gcs.bfldr.com/4m3vvgvq2ng9kvswb5qxbh/v/1322002435/original/3401381_Half%20Moon%20Basket_C_rgb.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=ZChG3o4AmTB1zwM9lQVgPGA82TY=",
+      "url": "https://storage-us-gcs.bfldr.com/4m3vvgvq2ng9kvswb5qxbh/v/1322002435/original/3401381_Half%20Moon%20Basket_C_rgb.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=ZChG3o4AmTB1zwM9lQVgPGA82TY="
     }
   ]
 }

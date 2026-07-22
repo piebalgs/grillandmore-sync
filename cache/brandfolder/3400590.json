@@ -1,289 +1,1067 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "3400590",
   "assets": [
     {
       "asset_id": "8xhk9b475q6bv4wm97qrxk6",
       "asset_name": "[Global] Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590",
+        "3401305",
+        "3400516",
+        "3401788",
+        "3400588"
+      ]
     },
     {
       "asset_id": "j3xc4bkgt7pxgrncm7tf2g",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590",
+        "3400588",
+        "3401788",
+        "3401305",
+        "3400516"
+      ]
     },
     {
       "asset_id": "wf98sk7bx36qks5c8t79h4n",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400588",
+        "3401788",
+        "3400590",
+        "3401305",
+        "3400516"
+      ]
     },
     {
       "asset_id": "4btgbx56tt6nh4vvjx9p369",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590",
+        "3401788",
+        "3401305",
+        "3400516",
+        "3400588"
+      ]
     },
     {
       "asset_id": "jknzgjhcw2f759nnxnffsgv",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400516",
+        "3401788",
+        "3400588",
+        "3401305",
+        "3400590"
+      ]
     },
     {
       "asset_id": "4mkmjkx7pgcgvgss4cwh96",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401788",
+        "3401305",
+        "3400590",
+        "3400588",
+        "3400516"
+      ]
     },
     {
       "asset_id": "jmncq97z974n2t3vjppbgf4v",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400588",
+        "3401788",
+        "3400590",
+        "3400516",
+        "3401305"
+      ]
     },
     {
       "asset_id": "t9sng7kp4hmhnx4jrfbmtn2p",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400588",
+        "3400590",
+        "3401788",
+        "3400516",
+        "3401305"
+      ]
     },
     {
       "asset_id": "xpkbzf7jb3pts6b27tm2bs4",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400516",
+        "3400590",
+        "3400588",
+        "3401305",
+        "3401788"
+      ]
     },
     {
       "asset_id": "tmkm5mcpwttbxwrhmrp4fjj",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401305",
+        "3400590",
+        "3400516",
+        "3401788",
+        "3400588"
+      ]
     },
     {
       "asset_id": "mmh5kq2xg3m85ncng53rgt",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400588",
+        "3401788",
+        "3400590",
+        "3401305",
+        "3400516"
+      ]
     },
     {
       "asset_id": "5hhvbcp7cwcvvrkmmg2s58t",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401305",
+        "3400516",
+        "3400588",
+        "3401788",
+        "3400590"
+      ]
     },
     {
       "asset_id": "c6bqrg4hkpj8mxsnfr2mrfgw",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400516",
+        "3400590",
+        "3400588",
+        "3401305",
+        "3401788"
+      ]
     },
     {
       "asset_id": "wx9b3w8m5js4x6p2f5jktr",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590",
+        "3400588",
+        "3400516",
+        "3401788",
+        "3401305"
+      ]
     },
     {
       "asset_id": "nhwnhw8fknjwfjq6k69pvf",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400516",
+        "3401788",
+        "3401305",
+        "3400588",
+        "3400590"
+      ]
     },
     {
       "asset_id": "9nh8rqxf8thrxwbzvhcr3q8",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401788",
+        "3400516",
+        "3400588",
+        "3400590",
+        "3401305"
+      ]
     },
     {
       "asset_id": "qsgs5n3zqmc77cbgkn5wbp",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401788",
+        "3401305",
+        "3400588",
+        "3400590",
+        "3400516"
+      ]
     },
     {
       "asset_id": "tf59rxkzpg4m78mhc43snbj",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401788",
+        "3400516",
+        "3401305",
+        "3400590",
+        "3400588"
+      ]
     },
     {
       "asset_id": "gmsrwmvw4k7jff4gfrv457p",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590",
+        "3400588",
+        "3401788",
+        "3400516",
+        "3401305"
+      ]
     },
     {
       "asset_id": "wtjp9cvb2zgbn8hrkcjh6tqt",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401788",
+        "3401305",
+        "3400590",
+        "3400516",
+        "3400588"
+      ]
     },
     {
       "asset_id": "j4pg4nqk3bnbxtx598krpsv",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401305",
+        "3400588",
+        "3401788",
+        "3400590",
+        "3400516"
+      ]
     },
     {
       "asset_id": "f8fg5thx2xfg7xjm6cbfcbgc",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400588",
+        "3401788",
+        "3400516",
+        "3401305",
+        "3400590"
+      ]
     },
     {
       "asset_id": "w8bcq354x74m7x3v9fx3rv",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401305",
+        "3401788",
+        "3400590",
+        "3400588",
+        "3400516"
+      ]
     },
     {
       "asset_id": "3jpq9wgwpm886rhqkmb983nx",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401788",
+        "3400590",
+        "3400588",
+        "3400516",
+        "3401305"
+      ]
     },
     {
       "asset_id": "bpm8qspkxhz8mwb9knbcmrj",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400516",
+        "3400588",
+        "3401305",
+        "3401788",
+        "3400590"
+      ]
     },
     {
       "asset_id": "9jjhnbkg4ktv6hc84k32ns9",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401788",
+        "3400516",
+        "3401305",
+        "3400588",
+        "3400590"
+      ]
     },
     {
       "asset_id": "2cnrnxr739677w93km23bmmg",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590",
+        "3401305",
+        "3400516",
+        "3400588",
+        "3401788"
+      ]
     },
     {
       "asset_id": "859p89rwb3kzfsj67gczfv4t",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400516",
+        "3400590",
+        "3400588",
+        "3401305",
+        "3401788"
+      ]
     },
     {
       "asset_id": "whbkr396rgzwb9h25ngr5pt",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590",
+        "3400588",
+        "3401305",
+        "3401788",
+        "3400516"
+      ]
     },
     {
       "asset_id": "44b8trb5x94fb4jb7csx9v",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401788",
+        "3400590",
+        "3400516",
+        "3400588",
+        "3401305"
+      ]
     },
     {
       "asset_id": "74qgmn9375gnfc97k9p7h",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590",
+        "3400516",
+        "3400588",
+        "3401788",
+        "3401305"
+      ]
     },
     {
       "asset_id": "529399js4n79m85p6wshxh",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400588",
+        "3400590",
+        "3401788",
+        "3400516",
+        "3401305"
+      ]
     },
     {
       "asset_id": "2f9svrrnfhf8tssttq388j5c",
       "asset_name": "Smart Probe with Grate Sensor",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400588",
+        "3401305",
+        "3400590",
+        "3400516",
+        "3401788"
+      ]
     },
     {
       "asset_id": "bpj68zq7sjgb5fcgtjjfr96",
       "asset_name": "3400590 A pkg RevA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "jfsctx9w2p39pmtw4kh5vb8",
       "asset_name": "8656454 9501452 0625 RevB EMEA OL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "6qv5pr2v839v9s5r28432zss",
       "asset_name": "[cze] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "wc5zn9ctpw87847pmg29bjnt",
       "asset_name": "[dan] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "hr9c9gk63mqwqbnwkpxn5rwj",
       "asset_name": "[dut-NL] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "gqv8bn4qqb7bvx7vbv2pxfk8",
       "asset_name": "[en-GB] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "7s8g8rt48pq7qhgfxsf76rm",
       "asset_name": "[fin] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "7j8t37f9shmc57k9zrfssvn",
       "asset_name": "[fre-FR] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "8ttf95bt8g485fs4f9sh9v5z",
       "asset_name": "[ger-DE] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "vr4k7cm6cj9z4hnzp8bvb5hb",
       "asset_name": "[hrv] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "jntgmmtkqk9sv55n6v5pgxrj",
       "asset_name": "[ita-IT] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "ngtf7kk7kpb9rqp7kv92kfr",
       "asset_name": "[no] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "3mc3tsf37q3fwb62977gx4",
       "asset_name": "[pol] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "3wpbfmrjzcb8rjjmmsq2r",
       "asset_name": "[por-PT] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "s5wtj7hjcv4jtjtf7v7v3f76",
       "asset_name": "[sk] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "np776jjfqq7hwbrj68q2xbv",
       "asset_name": "[slv] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "9875rwb8tvrnjcnqg44vfb",
       "asset_name": "[spa-ES] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "5hj5jrgjjfknpjk79752r3n",
       "asset_name": "[swe-SE] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "287c4wbjg2p9wc7rpmssgtp",
       "asset_name": "[EMEA] SMART PROBE AND GRATE SENSOR 3400590 MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400590"
+      ]
     },
     {
       "asset_id": "rqgckx4m4r8fmt24fw78qz6g",
       "asset_name": "How To: Turn off Device",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400588",
+        "3400516",
+        "3400590",
+        "3401788",
+        "3401305"
+      ]
     },
     {
       "asset_id": "qqvnwsv45jp45tkf7cmvj7cw",
       "asset_name": "How To: Maintaining Connection with the Weber connect APP",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400516",
+        "3400588",
+        "3401305",
+        "3401788",
+        "3400590"
+      ]
     },
     {
       "asset_id": "hx2z755mxw4qw2hsg9grxtv",
       "asset_name": "Weber SmartProbe GrateSensor FINAL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401305",
+        "3400516",
+        "3400590",
+        "3400588",
+        "3401788"
+      ]
     },
     {
       "asset_id": "nw64jgkv4krn5j79qgwfh9k6",
       "asset_name": "Smart Probe and Grate Sensor: Combined How To's Video",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401305",
+        "3400516",
+        "3401788",
+        "3400590",
+        "3400588"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "kf94cppz2m78sxmmvnct7q6",
+      "filename": "3400516_001_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6900,
+      "height": 5744,
+      "size": 3840384,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kf94cppz2m78sxmmvnct7q6/3400516_001_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kf94cppz2m78sxmmvnct7q6/v/1274901606/original/3400516_001_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=grx8mRkby7sRXFAFCdMR7_ptLNI=",
+      "url": "https://storage-us-gcs.bfldr.com/kf94cppz2m78sxmmvnct7q6/v/1274901606/original/3400516_001_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=grx8mRkby7sRXFAFCdMR7_ptLNI="
+    },
+    {
+      "attachment_id": "sbk6vrw2xnv4mrg9m8rqhm",
+      "filename": "3400516_002_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5278,
+      "height": 5278,
+      "size": 4731426,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sbk6vrw2xnv4mrg9m8rqhm/3400516_002_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/sbk6vrw2xnv4mrg9m8rqhm/v/1274901607/original/3400516_002_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=iFET0xgUVlPDviMqBi7pU8BC7ew=",
+      "url": "https://storage-us-gcs.bfldr.com/sbk6vrw2xnv4mrg9m8rqhm/v/1274901607/original/3400516_002_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=iFET0xgUVlPDviMqBi7pU8BC7ew="
+    },
+    {
+      "attachment_id": "fkmzmbcmj7m93cmsgfwgk63",
+      "filename": "3400516_002_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5278,
+      "height": 5278,
+      "size": 4721265,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fkmzmbcmj7m93cmsgfwgk63/3400516_002_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/fkmzmbcmj7m93cmsgfwgk63/v/1274901608/original/3400516_002_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=Rqql_BhfqTTwRe6dy6oYaRluzBo=",
+      "url": "https://storage-us-gcs.bfldr.com/fkmzmbcmj7m93cmsgfwgk63/v/1274901608/original/3400516_002_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=Rqql_BhfqTTwRe6dy6oYaRluzBo="
+    },
+    {
+      "attachment_id": "kmk59m97jx93r2626jprcs",
+      "filename": "3400516_003_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7454,
+      "height": 6669,
+      "size": 4404419,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kmk59m97jx93r2626jprcs/3400516_003_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/kmk59m97jx93r2626jprcs/v/1274901609/original/3400516_003_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=MFSUiG9d-zalp9FggDfGRqvTN5Q=",
+      "url": "https://storage-us-gcs.bfldr.com/kmk59m97jx93r2626jprcs/v/1274901609/original/3400516_003_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=MFSUiG9d-zalp9FggDfGRqvTN5Q="
+    },
+    {
+      "attachment_id": "gcm84m9fk345nr93nkh4q9vj",
+      "filename": "3400516_004_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7658,
+      "height": 6830,
+      "size": 4348907,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gcm84m9fk345nr93nkh4q9vj/3400516_004_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gcm84m9fk345nr93nkh4q9vj/v/1274901610/original/3400516_004_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=91MGmQffzyjrJONIX8FT4oFjjZA=",
+      "url": "https://storage-us-gcs.bfldr.com/gcm84m9fk345nr93nkh4q9vj/v/1274901610/original/3400516_004_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=91MGmQffzyjrJONIX8FT4oFjjZA="
+    },
+    {
+      "attachment_id": "vxq53pvz28k3kgv4k4fjngr",
+      "filename": "3400516_005_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6979,
+      "height": 6130,
+      "size": 4388176,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vxq53pvz28k3kgv4k4fjngr/3400516_005_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vxq53pvz28k3kgv4k4fjngr/v/1274901611/original/3400516_005_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=QcCy-l868o4CrPqTBwBd0K_XkXs=",
+      "url": "https://storage-us-gcs.bfldr.com/vxq53pvz28k3kgv4k4fjngr/v/1274901611/original/3400516_005_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=QcCy-l868o4CrPqTBwBd0K_XkXs="
+    },
+    {
+      "attachment_id": "cjc6wm8c33n8b6vb9zsn4k",
+      "filename": "3400516_006_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7053,
+      "height": 6830,
+      "size": 4664832,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cjc6wm8c33n8b6vb9zsn4k/3400516_006_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cjc6wm8c33n8b6vb9zsn4k/v/1274901612/original/3400516_006_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=X9FDRhRE-5kc0t8UN8QLKITvI9A=",
+      "url": "https://storage-us-gcs.bfldr.com/cjc6wm8c33n8b6vb9zsn4k/v/1274901612/original/3400516_006_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=X9FDRhRE-5kc0t8UN8QLKITvI9A="
+    },
+    {
+      "attachment_id": "sj2kkfkwq7rmxwzvp7f73m",
+      "filename": "3400516_007_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7008,
+      "height": 6080,
+      "size": 4174027,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sj2kkfkwq7rmxwzvp7f73m/3400516_007_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/sj2kkfkwq7rmxwzvp7f73m/v/1274901613/original/3400516_007_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=QeLBYzon5VnJ6wGGb2oRgeHUmUw=",
+      "url": "https://storage-us-gcs.bfldr.com/sj2kkfkwq7rmxwzvp7f73m/v/1274901613/original/3400516_007_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=QeLBYzon5VnJ6wGGb2oRgeHUmUw="
+    },
+    {
+      "attachment_id": "htgr6zxp2xxwjmgjc8sb2zgp",
+      "filename": "3400516_008_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7008,
+      "height": 6080,
+      "size": 4540575,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/htgr6zxp2xxwjmgjc8sb2zgp/3400516_008_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/htgr6zxp2xxwjmgjc8sb2zgp/v/1274901614/original/3400516_008_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=HZ0C-s2gwe0SmcTcVlw1RDOrdwY=",
+      "url": "https://storage-us-gcs.bfldr.com/htgr6zxp2xxwjmgjc8sb2zgp/v/1274901614/original/3400516_008_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=HZ0C-s2gwe0SmcTcVlw1RDOrdwY="
+    },
+    {
+      "attachment_id": "cjwpjwxj3sx7gf3th8j3779",
+      "filename": "3400516_008_SmartProbeandGrateSensor_FY2026_US_CA_C.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7008,
+      "height": 6080,
+      "size": 3749516,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cjwpjwxj3sx7gf3th8j3779/3400516_008_SmartProbeandGrateSensor_FY2026_US_CA_C.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cjwpjwxj3sx7gf3th8j3779/v/1274901615/original/3400516_008_SmartProbeandGrateSensor_FY2026_US_CA_C.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=MWplhwkdVsL-J6H6FKVOA_PsAaE=",
+      "url": "https://storage-us-gcs.bfldr.com/cjwpjwxj3sx7gf3th8j3779/v/1274901615/original/3400516_008_SmartProbeandGrateSensor_FY2026_US_CA_C.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=MWplhwkdVsL-J6H6FKVOA_PsAaE="
+    },
+    {
+      "attachment_id": "sp56fhr8b9txb94bkvtmmx4",
+      "filename": "3400516_009_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6654,
+      "height": 6830,
+      "size": 23606098,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sp56fhr8b9txb94bkvtmmx4/3400516_009_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/sp56fhr8b9txb94bkvtmmx4/v/1274901616/original/3400516_009_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=Vy4P7nOW0Ipt-LXhOHTd-BH_h18=",
+      "url": "https://storage-us-gcs.bfldr.com/sp56fhr8b9txb94bkvtmmx4/v/1274901616/original/3400516_009_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=Vy4P7nOW0Ipt-LXhOHTd-BH_h18="
+    },
+    {
+      "attachment_id": "sbx95t785858h4rx66xf2wmj",
+      "filename": "3400516_010_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6599,
+      "height": 6599,
+      "size": 22855326,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sbx95t785858h4rx66xf2wmj/3400516_010_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/sbx95t785858h4rx66xf2wmj/v/1274901617/original/3400516_010_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=46VIpwbmGTmSiAoWK3oVABspgsU=",
+      "url": "https://storage-us-gcs.bfldr.com/sbx95t785858h4rx66xf2wmj/v/1274901617/original/3400516_010_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=46VIpwbmGTmSiAoWK3oVABspgsU="
+    },
+    {
+      "attachment_id": "gbxgrrn43b6ss43ptcwqrkn",
+      "filename": "3400516_010_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6599,
+      "height": 6599,
+      "size": 4301834,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gbxgrrn43b6ss43ptcwqrkn/3400516_010_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gbxgrrn43b6ss43ptcwqrkn/v/1274901618/original/3400516_010_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=cKA2ava3Jmj4rx2x1QDtBkRuv_Y=",
+      "url": "https://storage-us-gcs.bfldr.com/gbxgrrn43b6ss43ptcwqrkn/v/1274901618/original/3400516_010_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=cKA2ava3Jmj4rx2x1QDtBkRuv_Y="
+    },
+    {
+      "attachment_id": "q4vw562fsccmx5hsxp33qnv",
+      "filename": "3400516_012_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6687,
+      "height": 6687,
+      "size": 28057633,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q4vw562fsccmx5hsxp33qnv/3400516_012_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q4vw562fsccmx5hsxp33qnv/v/1274901619/original/3400516_012_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=L4VNrDNlKgbkiOgmDMiLzW0mG44=",
+      "url": "https://storage-us-gcs.bfldr.com/q4vw562fsccmx5hsxp33qnv/v/1274901619/original/3400516_012_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=L4VNrDNlKgbkiOgmDMiLzW0mG44="
+    },
+    {
+      "attachment_id": "nbhp2kcqw9wm3vwp4sx3qf59",
+      "filename": "3400516_012_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6687,
+      "height": 6687,
+      "size": 3290081,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nbhp2kcqw9wm3vwp4sx3qf59/3400516_012_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/nbhp2kcqw9wm3vwp4sx3qf59/v/1274901620/original/3400516_012_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=TyMepUrNug_2dynm5biuZsp8K7w=",
+      "url": "https://storage-us-gcs.bfldr.com/nbhp2kcqw9wm3vwp4sx3qf59/v/1274901620/original/3400516_012_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=TyMepUrNug_2dynm5biuZsp8K7w="
+    },
+    {
+      "attachment_id": "2n5m894r8p6h8rx3tb2z9526",
+      "filename": "3400516_013_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7153,
+      "height": 6130,
+      "size": 4145904,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2n5m894r8p6h8rx3tb2z9526/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2n5m894r8p6h8rx3tb2z9526/v/1274901621/original/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=FNLGfpzXgkoQV_m2EdrUmuMAWdk=",
+      "url": "https://storage-us-gcs.bfldr.com/2n5m894r8p6h8rx3tb2z9526/v/1274901621/original/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=FNLGfpzXgkoQV_m2EdrUmuMAWdk="
+    },
+    {
+      "attachment_id": "4x2cm5wvntccmfw874ncjns",
+      "filename": "3400516_013_SmartProbeandGrateSensor_FY2026_US_CA_D.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7153,
+      "height": 6130,
+      "size": 2944017,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4x2cm5wvntccmfw874ncjns/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA_D.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/4x2cm5wvntccmfw874ncjns/v/1274901623/original/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA_D.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=gZXkzw9hq3epSqH7xq_GOLXCTkc=",
+      "url": "https://storage-us-gcs.bfldr.com/4x2cm5wvntccmfw874ncjns/v/1274901623/original/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA_D.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=gZXkzw9hq3epSqH7xq_GOLXCTkc="
+    },
+    {
+      "attachment_id": "vvswqsbpsf3cbgv8946hh2n",
+      "filename": "3400516_013_SmartProbeandGrateSensor_FY2026_US_CA_E.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7153,
+      "height": 6130,
+      "size": 3204530,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vvswqsbpsf3cbgv8946hh2n/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA_E.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vvswqsbpsf3cbgv8946hh2n/v/1274901624/original/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA_E.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=jb7Xmwj3BSLnl_-KUiKXRveBwbk=",
+      "url": "https://storage-us-gcs.bfldr.com/vvswqsbpsf3cbgv8946hh2n/v/1274901624/original/3400516_013_SmartProbeandGrateSensor_FY2026_US_CA_E.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=jb7Xmwj3BSLnl_-KUiKXRveBwbk="
+    },
+    {
+      "attachment_id": "5p7j6fpjfnhqm5rh5w63wskh",
+      "filename": "3400516_014_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4450,
+      "height": 5810,
+      "size": 2826358,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5p7j6fpjfnhqm5rh5w63wskh/3400516_014_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5p7j6fpjfnhqm5rh5w63wskh/v/1274901626/original/3400516_014_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=Hu-iBS8oF8W5iN1JXJYORU3uXV8=",
+      "url": "https://storage-us-gcs.bfldr.com/5p7j6fpjfnhqm5rh5w63wskh/v/1274901626/original/3400516_014_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=Hu-iBS8oF8W5iN1JXJYORU3uXV8="
+    },
+    {
+      "attachment_id": "3p4btcnmb6gzwkfx97h8mrpw",
+      "filename": "3400516_015_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 4590,
+      "height": 6060,
+      "size": 3545010,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3p4btcnmb6gzwkfx97h8mrpw/3400516_015_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3p4btcnmb6gzwkfx97h8mrpw/v/1274901628/original/3400516_015_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=bsUF7glKM0Xqrpf8mQ-bIcpCBbY=",
+      "url": "https://storage-us-gcs.bfldr.com/3p4btcnmb6gzwkfx97h8mrpw/v/1274901628/original/3400516_015_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=bsUF7glKM0Xqrpf8mQ-bIcpCBbY="
+    },
+    {
+      "attachment_id": "ph75b6fvzxkwjz2xkt65j",
+      "filename": "3400516_016_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8874,
+      "height": 6590,
+      "size": 5995170,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ph75b6fvzxkwjz2xkt65j/3400516_016_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ph75b6fvzxkwjz2xkt65j/v/1274901629/original/3400516_016_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=y441DnJMdyyvnXnViaWmhy_ZkbA=",
+      "url": "https://storage-us-gcs.bfldr.com/ph75b6fvzxkwjz2xkt65j/v/1274901629/original/3400516_016_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=y441DnJMdyyvnXnViaWmhy_ZkbA="
+    },
+    {
+      "attachment_id": "r6jmjw3cct5njf6vxb4g5w4c",
+      "filename": "3400516_017_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5409,
+      "height": 4968,
+      "size": 2594421,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r6jmjw3cct5njf6vxb4g5w4c/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/r6jmjw3cct5njf6vxb4g5w4c/v/1274901630/original/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=ljDOtM7YgIa3FxSgTTveEL_4BmE=",
+      "url": "https://storage-us-gcs.bfldr.com/r6jmjw3cct5njf6vxb4g5w4c/v/1274901630/original/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=ljDOtM7YgIa3FxSgTTveEL_4BmE="
+    },
+    {
+      "attachment_id": "fwqn68bpr4rm45t5jx3346",
+      "filename": "3400516_017_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5409,
+      "height": 4968,
+      "size": 2166584,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fwqn68bpr4rm45t5jx3346/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/fwqn68bpr4rm45t5jx3346/v/1274901631/original/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=0PNcl55evrvbOR7e7l4VfcttjHo=",
+      "url": "https://storage-us-gcs.bfldr.com/fwqn68bpr4rm45t5jx3346/v/1274901631/original/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=0PNcl55evrvbOR7e7l4VfcttjHo="
+    },
+    {
+      "attachment_id": "fz5s3tng4kbmmr8fjs3fw4n",
+      "filename": "3400516_017_SmartProbeandGrateSensor_FY2026_US_CA_C.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5409,
+      "height": 4968,
+      "size": 2583858,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fz5s3tng4kbmmr8fjs3fw4n/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA_C.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/fz5s3tng4kbmmr8fjs3fw4n/v/1274901632/original/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA_C.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=LlUGSULecmQxEMXukBRKzh9ZdQ4=",
+      "url": "https://storage-us-gcs.bfldr.com/fz5s3tng4kbmmr8fjs3fw4n/v/1274901632/original/3400516_017_SmartProbeandGrateSensor_FY2026_US_CA_C.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=LlUGSULecmQxEMXukBRKzh9ZdQ4="
+    },
+    {
+      "attachment_id": "23j5878zv86xfncrn5bp3",
+      "filename": "3400516_019_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 10060,
+      "height": 6710,
+      "size": 7700363,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/23j5878zv86xfncrn5bp3/3400516_019_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/23j5878zv86xfncrn5bp3/v/1274901633/original/3400516_019_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=YjQ14Dj3k-OiwPlrYrfXQkMQ634=",
+      "url": "https://storage-us-gcs.bfldr.com/23j5878zv86xfncrn5bp3/v/1274901633/original/3400516_019_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=YjQ14Dj3k-OiwPlrYrfXQkMQ634="
+    },
+    {
+      "attachment_id": "wk253n4v3vkpw3pn5qwf73c",
+      "filename": "3400516_020_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 10060,
+      "height": 6710,
+      "size": 8450252,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wk253n4v3vkpw3pn5qwf73c/3400516_020_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/wk253n4v3vkpw3pn5qwf73c/v/1274901635/original/3400516_020_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=Fv9p-aQwEvEdVAOenMyRfWRLNK8=",
+      "url": "https://storage-us-gcs.bfldr.com/wk253n4v3vkpw3pn5qwf73c/v/1274901635/original/3400516_020_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=Fv9p-aQwEvEdVAOenMyRfWRLNK8="
+    },
+    {
+      "attachment_id": "hb273tsp8g77wj2z7xfh5wb",
+      "filename": "3400516_020_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5625,
+      "height": 3751,
+      "size": 2627081,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hb273tsp8g77wj2z7xfh5wb/3400516_020_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hb273tsp8g77wj2z7xfh5wb/v/1274901636/original/3400516_020_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=foIHGEBLjezE5lGk_nRnDAAL4yY=",
+      "url": "https://storage-us-gcs.bfldr.com/hb273tsp8g77wj2z7xfh5wb/v/1274901636/original/3400516_020_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=foIHGEBLjezE5lGk_nRnDAAL4yY="
+    },
+    {
+      "attachment_id": "tb4qfstcth3fjkvkjx88vbf",
+      "filename": "3400516_021_SmartProbeandGrateSensor_FY2026_US_CA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 10060,
+      "height": 6710,
+      "size": 8316412,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tb4qfstcth3fjkvkjx88vbf/3400516_021_SmartProbeandGrateSensor_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tb4qfstcth3fjkvkjx88vbf/v/1274901637/original/3400516_021_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=cp-B8fMoa354qayfdbbhe2wMwQw=",
+      "url": "https://storage-us-gcs.bfldr.com/tb4qfstcth3fjkvkjx88vbf/v/1274901637/original/3400516_021_SmartProbeandGrateSensor_FY2026_US_CA.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=cp-B8fMoa354qayfdbbhe2wMwQw="
+    },
+    {
+      "attachment_id": "mp85c9jw682pxt49736rjwnc",
+      "filename": "3400516_021_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 10060,
+      "height": 6710,
+      "size": 7678497,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mp85c9jw682pxt49736rjwnc/3400516_021_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mp85c9jw682pxt49736rjwnc/v/1274901638/original/3400516_021_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=sqARo45zB6HR3d_jzAViNjINd8E=",
+      "url": "https://storage-us-gcs.bfldr.com/mp85c9jw682pxt49736rjwnc/v/1274901638/original/3400516_021_SmartProbeandGrateSensor_FY2026_US_CA_B.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=sqARo45zB6HR3d_jzAViNjINd8E="
+    },
+    {
+      "attachment_id": "9trnc6j3w9cjm72b8ts669",
+      "filename": "3400516_095_BULLSEYEPROBE_FY25_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5464,
+      "height": 8192,
+      "size": 25627708,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9trnc6j3w9cjm72b8ts669/3400516_095_BULLSEYEPROBE_FY25_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9trnc6j3w9cjm72b8ts669/v/1274923472/original/3400516_095_BULLSEYEPROBE_FY25_AMER.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=UVQQCKcbQkINSBFCC9pqeGLWDBk=",
+      "url": "https://storage-us-gcs.bfldr.com/9trnc6j3w9cjm72b8ts669/v/1274923472/original/3400516_095_BULLSEYEPROBE_FY25_AMER.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=UVQQCKcbQkINSBFCC9pqeGLWDBk="
+    },
+    {
+      "attachment_id": "shbf6sh729r5rrnrrtgr9h56",
+      "filename": "3400516_WASP_Probe_BA_1800x1800.png",
+      "extension": "png",
+      "position": 3,
+      "width": 1800,
+      "height": 1800,
+      "size": 257869,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/shbf6sh729r5rrnrrtgr9h56/3400516_WASP_Probe_BA_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/shbf6sh729r5rrnrrtgr9h56/v/1274901215/original/3400516_WASP_Probe_BA_1800x1800.png?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=VGZA5dPzQDZC9oXXX1AiEExH3-4=",
+      "url": "https://storage-us-gcs.bfldr.com/shbf6sh729r5rrnrrtgr9h56/v/1274901215/original/3400516_WASP_Probe_BA_1800x1800.png?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=VGZA5dPzQDZC9oXXX1AiEExH3-4="
+    },
+    {
+      "attachment_id": "bswkhx7q3rbpkzn3thv3q7c6",
+      "filename": "3400516_WASP_Probe_BB_1800x1800.png",
+      "extension": "png",
+      "position": 1,
+      "width": 1800,
+      "height": 1800,
+      "size": 475288,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bswkhx7q3rbpkzn3thv3q7c6/3400516_WASP_Probe_BB_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/bswkhx7q3rbpkzn3thv3q7c6/v/1274901216/original/3400516_WASP_Probe_BB_1800x1800.png?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=Vg53PJkE142l3ipyCdQYXWNb6Hc=",
+      "url": "https://storage-us-gcs.bfldr.com/bswkhx7q3rbpkzn3thv3q7c6/v/1274901216/original/3400516_WASP_Probe_BB_1800x1800.png?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=Vg53PJkE142l3ipyCdQYXWNb6Hc="
+    },
+    {
+      "attachment_id": "vzj9mnrxnqw3gcmn795xmw",
+      "filename": "3400516_WASP_Probe_BC_1800x1800.png",
+      "extension": "png",
+      "position": 2,
+      "width": 1800,
+      "height": 1800,
+      "size": 484299,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vzj9mnrxnqw3gcmn795xmw/3400516_WASP_Probe_BC_1800x1800.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vzj9mnrxnqw3gcmn795xmw/v/1274901217/original/3400516_WASP_Probe_BC_1800x1800.png?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=LTH1fU3jmFHc6Bw0ZqH4o4UeNkw=",
+      "url": "https://storage-us-gcs.bfldr.com/vzj9mnrxnqw3gcmn795xmw/v/1274901217/original/3400516_WASP_Probe_BC_1800x1800.png?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=LTH1fU3jmFHc6Bw0ZqH4o4UeNkw="
+    },
     {
       "attachment_id": "njtk8xvfw4rg8zmv9cvhqfm",
       "filename": "3400516_WASP_Probe_BD_rgb.png",
@@ -291,10 +1069,12 @@
       "position": 0,
       "width": 3600,
       "height": 3600,
+      "size": 943112,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/njtk8xvfw4rg8zmv9cvhqfm/3400516_WASP_Probe_BD_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/njtk8xvfw4rg8zmv9cvhqfm/v/1274901218/original/3400516_WASP_Probe_BD_rgb.png?Expires=1784296796&KeyName=gcs-bfldr-prod&Signature=hcZKAoG6HZhLsb4FRpMyxd2EmEo=",
-      "url": "https://storage-us-gcs.bfldr.com/njtk8xvfw4rg8zmv9cvhqfm/v/1274901218/original/3400516_WASP_Probe_BD_rgb.png?Expires=1784296796&KeyName=gcs-bfldr-prod&Signature=hcZKAoG6HZhLsb4FRpMyxd2EmEo="
+      "original_url": "https://storage-us-gcs.bfldr.com/njtk8xvfw4rg8zmv9cvhqfm/v/1274901218/original/3400516_WASP_Probe_BD_rgb.png?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=3lfAIzbh_0wNQ9RD4hOCF1lPsnY=",
+      "url": "https://storage-us-gcs.bfldr.com/njtk8xvfw4rg8zmv9cvhqfm/v/1274901218/original/3400516_WASP_Probe_BD_rgb.png?Expires=1784652445&KeyName=gcs-bfldr-prod&Signature=3lfAIzbh_0wNQ9RD4hOCF1lPsnY="
     },
     {
       "attachment_id": "5gk83p6ws4b7w85s7f44897",
@@ -303,10 +1083,12 @@
       "position": 0,
       "width": 8412,
       "height": 6627,
+      "size": 32233071,
+      "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5gk83p6ws4b7w85s7f44897/3400625_018_SmartHubDisplayBooster_FY26_US_CA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5gk83p6ws4b7w85s7f44897/v/1274901639/original/3400625_018_SmartHubDisplayBooster_FY26_US_CA_rgb.jpg?Expires=1784296797&KeyName=gcs-bfldr-prod&Signature=jBN8NdQhqoRlVYrpS5Is6iHszHY=",
-      "url": "https://storage-us-gcs.bfldr.com/5gk83p6ws4b7w85s7f44897/v/1274901639/original/3400625_018_SmartHubDisplayBooster_FY26_US_CA_rgb.jpg?Expires=1784296797&KeyName=gcs-bfldr-prod&Signature=jBN8NdQhqoRlVYrpS5Is6iHszHY="
+      "original_url": "https://storage-us-gcs.bfldr.com/5gk83p6ws4b7w85s7f44897/v/1274901639/original/3400625_018_SmartHubDisplayBooster_FY26_US_CA_rgb.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=3FCdEqxtaj1aasUEiBaD7w0NRMA=",
+      "url": "https://storage-us-gcs.bfldr.com/5gk83p6ws4b7w85s7f44897/v/1274901639/original/3400625_018_SmartHubDisplayBooster_FY26_US_CA_rgb.jpg?Expires=1784652446&KeyName=gcs-bfldr-prod&Signature=3FCdEqxtaj1aasUEiBaD7w0NRMA="
     }
   ]
 }

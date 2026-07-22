@@ -1,26 +1,38 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "8411",
   "assets": [
     {
       "asset_id": "pi8wj7-28fekg-462fb0",
       "asset_name": "Slide-Aside Lid Holder 8411 Product",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8411"
+      ]
     },
     {
       "asset_id": "pi8wj7-28fekg-3m83fe",
       "asset_name": "Slide-Aside Lid Holder 8411 Mood",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8411"
+      ]
     },
     {
       "asset_id": "q5upr5-tesig-60p2rz",
       "asset_name": "Slide-Aside Lid Holder 8411 Packaging",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8411"
+      ]
     },
     {
       "asset_id": "5rpwpz9chtcv7k6bbnmrqxpc",
       "asset_name": "174095 0821 RevG LR",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8411"
+      ]
     }
   ],
   "images": [
@@ -31,10 +43,12 @@
       "position": 0,
       "width": 2281,
       "height": 2311,
+      "size": 856172,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi8wj7-28fekg-c6fvyg/8411A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-c6fvyg/v/2664166/original/8411A.png?Expires=1784295746&KeyName=gcs-bfldr-prod&Signature=_TTFrVTe7CmurgPRgdcDDI4R0o4=",
-      "url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-c6fvyg/v/2664166/original/8411A.png?Expires=1784295746&KeyName=gcs-bfldr-prod&Signature=_TTFrVTe7CmurgPRgdcDDI4R0o4="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-c6fvyg/v/2664166/original/8411A.png?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=0scLeEcPLXFa_NURQbjlir9_ABw=",
+      "url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-c6fvyg/v/2664166/original/8411A.png?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=0scLeEcPLXFa_NURQbjlir9_ABw="
     },
     {
       "attachment_id": "pi8wj7-28fekg-eprjju",
@@ -43,10 +57,12 @@
       "position": 0,
       "width": 5792,
       "height": 8688,
+      "size": 22708672,
+      "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi8wj7-28fekg-eprjju/8411Y.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-eprjju/v/2664167/original/8411Y.jpg?Expires=1784295746&KeyName=gcs-bfldr-prod&Signature=JAU6bIUtTAPGAYKypLU1i8ivaAY=",
-      "url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-eprjju/v/2664167/original/8411Y.jpg?Expires=1784295746&KeyName=gcs-bfldr-prod&Signature=JAU6bIUtTAPGAYKypLU1i8ivaAY="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-eprjju/v/2664167/original/8411Y.jpg?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=m6zbzkIcrKkZUQwgilW6tZpHRr4=",
+      "url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-eprjju/v/2664167/original/8411Y.jpg?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=m6zbzkIcrKkZUQwgilW6tZpHRr4="
     }
   ]
 }

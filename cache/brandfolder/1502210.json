@@ -1,139 +1,324 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1502210",
   "assets": [
     {
       "asset_id": "pktq7wh7f63zpr7s9fxzcv",
       "asset_name": "enUS KETTLE ORIGINAL PREMIUM 57CM BLK 1502210 EU NEXUS2026 MasterCopy FINAL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210",
+        "1502492"
+      ]
     },
     {
       "asset_id": "c7w5742n98sbtm33w95jb8",
       "asset_name": "57CM Original Kettle Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "2ztzjpfcmt8vjqjm6hs64w7g",
       "asset_name": "57CM Original Kettle Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210",
+        "1502492"
+      ]
     },
     {
       "asset_id": "t8jhg3w8fmw65f42g6hkcvf",
       "asset_name": "57CM Original Kettle Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502492",
+        "1502210"
+      ]
     },
     {
       "asset_id": "j5ghrxncgmgbfw8jtwbjwp5",
       "asset_name": "57CM Original Kettle Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210",
+        "1502492"
+      ]
     },
     {
       "asset_id": "v3h9897cghbqj56r867kjsj4",
       "asset_name": "57CM Original Kettle Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210",
+        "1502492"
+      ]
     },
     {
       "asset_id": "jffwztk3hknfjbqxbs9wfj",
       "asset_name": "57IN Original Kettle Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210",
+        "1502492"
+      ]
     },
     {
       "asset_id": "6gc54vqb3nf5sb5rmzvvbgk",
       "asset_name": "57IN Original Kettle Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502492",
+        "1502210"
+      ]
     },
     {
       "asset_id": "8xp34gjbtz53fq4rjjh9wjsn",
       "asset_name": "[CS] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "cv274nnqhvsvjq7mwf45t7p",
       "asset_name": "[DA] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "c4vssh8kpksbgt79tsq7rfb",
       "asset_name": "[DE] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "sf3xn6bngb9mhg9zmtpk7jtm",
       "asset_name": "[EN-GB] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "4qmjsfhm2cfvp9gwf73wwv9f",
       "asset_name": "[ES] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "5j2qr3n8jwnxj94jvrcw77t6",
       "asset_name": "[FI] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "3qh9fs8cp9g66t4ngtmxtvb",
       "asset_name": "[FR] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "b9qvjt58kkv88vxrtjtctts3",
       "asset_name": "[HR] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "htnfg3j3tncbhkw58ppgvp8k",
       "asset_name": "[IT] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "r9mj4rkpnqxv6j5snjnjffq9",
       "asset_name": "[NL] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "bt47phmzgmsvmm2tgvkn2b",
       "asset_name": "[NO] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "kkx884frk4357rwcz445w",
       "asset_name": "[PL] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "rwt82rs6r3tknfr89z2c5h8",
       "asset_name": "[PT-PT] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "c7qbh6ctc38m2f5pn5hf33fs",
       "asset_name": "[SK] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "p8s9ghzws6xbsp7jnnjjmhp",
       "asset_name": "[SL] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "352h3bjjqqqf67qnwb8kshb",
       "asset_name": "[SV] ORIGINAL KETTLE PREMIUM 57CM BLK 1502210 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210"
+      ]
     },
     {
       "asset_id": "c8hzvz88nk33qpqp7m2z68",
       "asset_name": "[GIF] 1502210 57IN Original Kettle Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502492",
+        "1502210"
+      ]
     },
     {
       "asset_id": "pgkfjsp6ngpf93bprwbh39gh",
       "asset_name": "[EMEA/AUNZ] Dimensions",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502210",
+        "1502492"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "xrkwkc58xxjjb4rcx8nt4sst",
+      "filename": "1502210 -KETTLE 57CM ORIGINAL PREMIUM BLK EU 26.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7983,
+      "height": 5324,
+      "size": 27570295,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xrkwkc58xxjjb4rcx8nt4sst/1502210%20-KETTLE%2057CM%20ORIGINAL%20PREMIUM%20BLK%20EU%2026.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xrkwkc58xxjjb4rcx8nt4sst/v/1293961635/original/1502210%20-KETTLE%2057CM%20ORIGINAL%20PREMIUM%20BLK%20EU%2026.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=pr2pnjX0DYg5mdOyFy9mSq0cFQc=",
+      "url": "https://storage-us-gcs.bfldr.com/xrkwkc58xxjjb4rcx8nt4sst/v/1293961635/original/1502210%20-KETTLE%2057CM%20ORIGINAL%20PREMIUM%20BLK%20EU%2026.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=pr2pnjX0DYg5mdOyFy9mSq0cFQc="
+    },
+    {
+      "attachment_id": "ftv8spn3nq4f6kgh7j53bfv",
+      "filename": "1502210_078_57INOriginalKettlePremium_FY2026.gif",
+      "extension": "gif",
+      "position": 0,
+      "width": 4500,
+      "height": 2948,
+      "size": 198553174,
+      "mimetype": "image/gif",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ftv8spn3nq4f6kgh7j53bfv/1502210_078_57INOriginalKettlePremium_FY2026.gif?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ftv8spn3nq4f6kgh7j53bfv/v/1301976163/original/1502210_078_57INOriginalKettlePremium_FY2026.gif?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=Y_xYbf-Y2ucNXmdZjSsA-yrXESQ=",
+      "url": "https://storage-us-gcs.bfldr.com/ftv8spn3nq4f6kgh7j53bfv/v/1301976163/original/1502210_078_57INOriginalKettlePremium_FY2026.gif?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=Y_xYbf-Y2ucNXmdZjSsA-yrXESQ="
+    },
+    {
+      "attachment_id": "tbrfwjkqr3mtrn57ksxb65q8",
+      "filename": "1502210_078_57INOriginalKettlePremium_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 33068201,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tbrfwjkqr3mtrn57ksxb65q8/1502210_078_57INOriginalKettlePremium_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tbrfwjkqr3mtrn57ksxb65q8/v/1291149041/original/1502210_078_57INOriginalKettlePremium_FY2026_EMEA.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=CW2hu4bBEUUxS6Jc7i0TzJWR0uY=",
+      "url": "https://storage-us-gcs.bfldr.com/tbrfwjkqr3mtrn57ksxb65q8/v/1291149041/original/1502210_078_57INOriginalKettlePremium_FY2026_EMEA.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=CW2hu4bBEUUxS6Jc7i0TzJWR0uY="
+    },
+    {
+      "attachment_id": "686vxpn9j4cv53vkrf5swj5m",
+      "filename": "1502210_093_57CMORGKettlePrem_FY2026_EMEA_V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8048,
+      "height": 5368,
+      "size": 22507167,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/686vxpn9j4cv53vkrf5swj5m/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/686vxpn9j4cv53vkrf5swj5m/v/1291276057/original/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V1.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=e3L6viKpv6MlJinbdfdq2-fsn2M=",
+      "url": "https://storage-us-gcs.bfldr.com/686vxpn9j4cv53vkrf5swj5m/v/1291276057/original/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V1.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=e3L6viKpv6MlJinbdfdq2-fsn2M="
+    },
+    {
+      "attachment_id": "9w5rqpqbmsh7n8zjthcqnz",
+      "filename": "1502210_093_57CMORGKettlePrem_FY2026_EMEA_V5.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 28921822,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9w5rqpqbmsh7n8zjthcqnz/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V5.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/9w5rqpqbmsh7n8zjthcqnz/v/1291276040/original/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V5.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=wm_Nz5oNbDr0lrsVCe2xtO6kXfk=",
+      "url": "https://storage-us-gcs.bfldr.com/9w5rqpqbmsh7n8zjthcqnz/v/1291276040/original/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V5.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=wm_Nz5oNbDr0lrsVCe2xtO6kXfk="
+    },
+    {
+      "attachment_id": "vxcxkctz3wpgkf7jf6p9p4",
+      "filename": "1502210_093_57CMORGKettlePrem_FY2026_EMEA_V7.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 25444580,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vxcxkctz3wpgkf7jf6p9p4/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V7.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vxcxkctz3wpgkf7jf6p9p4/v/1291276243/original/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V7.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=mWlVf6RBRZ5zb9inQ01mBfB7r60=",
+      "url": "https://storage-us-gcs.bfldr.com/vxcxkctz3wpgkf7jf6p9p4/v/1291276243/original/1502210_093_57CMORGKettlePrem_FY2026_EMEA_V7.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=mWlVf6RBRZ5zb9inQ01mBfB7r60="
+    },
+    {
+      "attachment_id": "txmrxgtqc9khsv5jf9xknn",
+      "filename": "1502210_095_57INOriginalKettlePremium_FY2026_EMEA_V2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 23480665,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/txmrxgtqc9khsv5jf9xknn/1502210_095_57INOriginalKettlePremium_FY2026_EMEA_V2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/txmrxgtqc9khsv5jf9xknn/v/1291947193/original/1502210_095_57INOriginalKettlePremium_FY2026_EMEA_V2.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=64AkoC2989bKzCwHjbImtauXVxU=",
+      "url": "https://storage-us-gcs.bfldr.com/txmrxgtqc9khsv5jf9xknn/v/1291947193/original/1502210_095_57INOriginalKettlePremium_FY2026_EMEA_V2.jpg?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=64AkoC2989bKzCwHjbImtauXVxU="
+    },
     {
       "attachment_id": "9pv7r279js3ppsxg4bphs3v",
       "filename": "1502210_charcoal_57CM ORIGINAL KETTLE PREMIUM_a.5376_rgb.png",
@@ -141,10 +326,12 @@
       "position": 0,
       "width": 4200,
       "height": 4200,
+      "size": 3163021,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9pv7r279js3ppsxg4bphs3v/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_a.5376_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9pv7r279js3ppsxg4bphs3v/v/1293732887/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_a.5376_rgb.png?Expires=1784297961&KeyName=gcs-bfldr-prod&Signature=in4WrFoFnrW9pRmo7Vsmc17qbYg=",
-      "url": "https://storage-us-gcs.bfldr.com/9pv7r279js3ppsxg4bphs3v/v/1293732887/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_a.5376_rgb.png?Expires=1784297961&KeyName=gcs-bfldr-prod&Signature=in4WrFoFnrW9pRmo7Vsmc17qbYg="
+      "original_url": "https://storage-us-gcs.bfldr.com/9pv7r279js3ppsxg4bphs3v/v/1293732887/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_a.5376_rgb.png?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=CrymDCmkDMjDsoL-4NoQwD7fxS4=",
+      "url": "https://storage-us-gcs.bfldr.com/9pv7r279js3ppsxg4bphs3v/v/1293732887/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_a.5376_rgb.png?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=CrymDCmkDMjDsoL-4NoQwD7fxS4="
     },
     {
       "attachment_id": "gzr9x57nnhnvsqqwfm4x8hxm",
@@ -153,10 +340,12 @@
       "position": 2,
       "width": 4200,
       "height": 4200,
+      "size": 3237077,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gzr9x57nnhnvsqqwfm4x8hxm/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_b.5374_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gzr9x57nnhnvsqqwfm4x8hxm/v/1295964748/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_b.5374_rgb.png?Expires=1784297961&KeyName=gcs-bfldr-prod&Signature=Zp6vq_OvD6NSznT40GODc7VYik0=",
-      "url": "https://storage-us-gcs.bfldr.com/gzr9x57nnhnvsqqwfm4x8hxm/v/1295964748/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_b.5374_rgb.png?Expires=1784297961&KeyName=gcs-bfldr-prod&Signature=Zp6vq_OvD6NSznT40GODc7VYik0="
+      "original_url": "https://storage-us-gcs.bfldr.com/gzr9x57nnhnvsqqwfm4x8hxm/v/1295964748/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_b.5374_rgb.png?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=p_RPuvbf-dSkjpGD_iA58cnNZ34=",
+      "url": "https://storage-us-gcs.bfldr.com/gzr9x57nnhnvsqqwfm4x8hxm/v/1295964748/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_b.5374_rgb.png?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=p_RPuvbf-dSkjpGD_iA58cnNZ34="
     },
     {
       "attachment_id": "gv3m6qqg74pkwhr6s2xsx7h",
@@ -165,10 +354,26 @@
       "position": 1,
       "width": 4200,
       "height": 4200,
+      "size": 2689115,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gv3m6qqg74pkwhr6s2xsx7h/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_c.5375_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gv3m6qqg74pkwhr6s2xsx7h/v/1293732889/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_c.5375_rgb.png?Expires=1784297961&KeyName=gcs-bfldr-prod&Signature=jMMY5eFdSUTtLbdcXDEqCelP4dU=",
-      "url": "https://storage-us-gcs.bfldr.com/gv3m6qqg74pkwhr6s2xsx7h/v/1293732889/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_c.5375_rgb.png?Expires=1784297961&KeyName=gcs-bfldr-prod&Signature=jMMY5eFdSUTtLbdcXDEqCelP4dU="
+      "original_url": "https://storage-us-gcs.bfldr.com/gv3m6qqg74pkwhr6s2xsx7h/v/1293732889/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_c.5375_rgb.png?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=udn8CcyfBL7aCPjA3FAnOuFM5OI=",
+      "url": "https://storage-us-gcs.bfldr.com/gv3m6qqg74pkwhr6s2xsx7h/v/1293732889/original/1502210_charcoal_57CM%20ORIGINAL%20KETTLE%20PREMIUM_c.5375_rgb.png?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=udn8CcyfBL7aCPjA3FAnOuFM5OI="
+    },
+    {
+      "attachment_id": "7qkpbjjtmkfc5s2rxs8ckmh8",
+      "filename": "1502210_Dimensions_EMEA.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2126,
+      "height": 1001,
+      "size": 396310,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7qkpbjjtmkfc5s2rxs8ckmh8/1502210_Dimensions_EMEA.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7qkpbjjtmkfc5s2rxs8ckmh8/v/1305845143/original/1502210_Dimensions_EMEA.png?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=e4KZEG1cUfWO9Gc-wxzJwwGKQRE=",
+      "url": "https://storage-us-gcs.bfldr.com/7qkpbjjtmkfc5s2rxs8ckmh8/v/1305845143/original/1502210_Dimensions_EMEA.png?Expires=1784652237&KeyName=gcs-bfldr-prod&Signature=e4KZEG1cUfWO9Gc-wxzJwwGKQRE="
     }
   ]
 }

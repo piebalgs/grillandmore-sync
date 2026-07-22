@@ -1,34 +1,77 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "3400321",
   "assets": [
     {
       "asset_id": "n4nwrzxxp3j3t6wpsvjzjcqc",
       "asset_name": "8656461 9501454 0225 RevC OL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400321"
+      ]
     },
     {
       "asset_id": "jsmwmg376zbf9kw8tpkvggb9",
       "asset_name": "NPD MasterCopyDoc Premium Wired Food Probe",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400321"
+      ]
     },
     {
       "asset_id": "5mjxjcrg6vr78msstbqzbbjx",
       "asset_name": "Wired Premium 3 Sensor Food Probe",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400321"
+      ]
     },
     {
       "asset_id": "w4c76nfz29qh53t7gv72cj6",
       "asset_name": "Weber Smoque XL Pellet w/ Wired Prem 3 sensor Probe",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400321"
+      ]
     },
     {
       "asset_id": "vrn8wj96szq73zk4gpx4b74x",
       "asset_name": "Wired Premium 3 Sensor Food Probe",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400321"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "668cjbckbvxxfbnj4zr5gms",
+      "filename": "1500771_001_WEBERSMOQUEXL34_FY25_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5464,
+      "height": 8192,
+      "size": 25289985,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/668cjbckbvxxfbnj4zr5gms/1500771_001_WEBERSMOQUEXL34_FY25_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/668cjbckbvxxfbnj4zr5gms/v/1292430955/original/1500771_001_WEBERSMOQUEXL34_FY25_AMER.jpg?Expires=1784652079&KeyName=gcs-bfldr-prod&Signature=5TjDkMICemHZPY-IDiCU_ssvKh4=",
+      "url": "https://storage-us-gcs.bfldr.com/668cjbckbvxxfbnj4zr5gms/v/1292430955/original/1500771_001_WEBERSMOQUEXL34_FY25_AMER.jpg?Expires=1784652079&KeyName=gcs-bfldr-prod&Signature=5TjDkMICemHZPY-IDiCU_ssvKh4="
+    },
+    {
+      "attachment_id": "s6gbqgcpqt2r96c9x53558q8",
+      "filename": "3400321_096_3SENSORFOODPROBE_FY25_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5453,
+      "height": 8176,
+      "size": 25239951,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/s6gbqgcpqt2r96c9x53558q8/3400321_096_3SENSORFOODPROBE_FY25_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/s6gbqgcpqt2r96c9x53558q8/v/1278031372/original/3400321_096_3SENSORFOODPROBE_FY25_AMER.jpg?Expires=1784652079&KeyName=gcs-bfldr-prod&Signature=RsHWnV9M6pgJOzPIaw0TUEZtdas=",
+      "url": "https://storage-us-gcs.bfldr.com/s6gbqgcpqt2r96c9x53558q8/v/1278031372/original/3400321_096_3SENSORFOODPROBE_FY25_AMER.jpg?Expires=1784652079&KeyName=gcs-bfldr-prod&Signature=RsHWnV9M6pgJOzPIaw0TUEZtdas="
+    },
     {
       "attachment_id": "hrs88qzv8h3gbxxhf5k7j",
       "filename": "3400321_B_rgb.png",
@@ -36,10 +79,12 @@
       "position": 0,
       "width": 4505,
       "height": 4505,
+      "size": 2239201,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hrs88qzv8h3gbxxhf5k7j/3400321_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hrs88qzv8h3gbxxhf5k7j/v/1263104599/original/3400321_B_rgb.png?Expires=1784293707&KeyName=gcs-bfldr-prod&Signature=-1g0yLzHTn3Uo_kX45XGXOdlFu4=",
-      "url": "https://storage-us-gcs.bfldr.com/hrs88qzv8h3gbxxhf5k7j/v/1263104599/original/3400321_B_rgb.png?Expires=1784293707&KeyName=gcs-bfldr-prod&Signature=-1g0yLzHTn3Uo_kX45XGXOdlFu4="
+      "original_url": "https://storage-us-gcs.bfldr.com/hrs88qzv8h3gbxxhf5k7j/v/1263104599/original/3400321_B_rgb.png?Expires=1784652079&KeyName=gcs-bfldr-prod&Signature=N_dOpdFSCRHyKf6vzCSkd-vHLAg=",
+      "url": "https://storage-us-gcs.bfldr.com/hrs88qzv8h3gbxxhf5k7j/v/1263104599/original/3400321_B_rgb.png?Expires=1784652079&KeyName=gcs-bfldr-prod&Signature=N_dOpdFSCRHyKf6vzCSkd-vHLAg="
     },
     {
       "attachment_id": "nqntsjj7fqc9j9nss86fc84b",
@@ -48,10 +93,12 @@
       "position": 1,
       "width": 4507,
       "height": 4507,
+      "size": 2130571,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nqntsjj7fqc9j9nss86fc84b/3400321_D1_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nqntsjj7fqc9j9nss86fc84b/v/1263104600/original/3400321_D1_rgb.png?Expires=1784293707&KeyName=gcs-bfldr-prod&Signature=Q1RK7KRfs3E5ed_6soWxJYIVPeo=",
-      "url": "https://storage-us-gcs.bfldr.com/nqntsjj7fqc9j9nss86fc84b/v/1263104600/original/3400321_D1_rgb.png?Expires=1784293707&KeyName=gcs-bfldr-prod&Signature=Q1RK7KRfs3E5ed_6soWxJYIVPeo="
+      "original_url": "https://storage-us-gcs.bfldr.com/nqntsjj7fqc9j9nss86fc84b/v/1263104600/original/3400321_D1_rgb.png?Expires=1784652079&KeyName=gcs-bfldr-prod&Signature=lEo5RD7dFlJLWa5fuacVkLLiGQ4=",
+      "url": "https://storage-us-gcs.bfldr.com/nqntsjj7fqc9j9nss86fc84b/v/1263104600/original/3400321_D1_rgb.png?Expires=1784652079&KeyName=gcs-bfldr-prod&Signature=lEo5RD7dFlJLWa5fuacVkLLiGQ4="
     }
   ]
 }

@@ -23,8 +23,8 @@
       "asset_name": "[EMEA] Q1000N / Q1200N Half Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400863",
-        "3400864"
+        "3400864",
+        "3400863"
       ]
     },
     {
@@ -128,10 +128,10 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q2100N / Q2200N / Q2800N+ Half Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400137",
         "3400864",
-        "3401865",
-        "3400247"
+        "3400137",
+        "3400247",
+        "3401865"
       ]
     },
     {
@@ -139,11 +139,11 @@
       "asset_name": "Q1XXXN / Q2XXXN+ Half Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400247",
+        "3400864",
         "3400167",
         "3401865",
-        "3400863",
-        "3400864"
+        "3400247",
+        "3400863"
       ]
     },
     {
@@ -191,8 +191,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wsnqbpfhtxrzvjnr24nf54r/3400864-Q-Half-Hotplates-1-1800x1800px-3.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wsnqbpfhtxrzvjnr24nf54r/v/1262699699/original/3400864-Q-Half-Hotplates-1-1800x1800px-3.png?Expires=1784305017&KeyName=gcs-bfldr-prod&Signature=JbTXaWZ0IbM6yvDrz3iizdEiS0c=",
-      "url": "https://storage-us-gcs.bfldr.com/wsnqbpfhtxrzvjnr24nf54r/v/1262699699/original/3400864-Q-Half-Hotplates-1-1800x1800px-3.png?Expires=1784305017&KeyName=gcs-bfldr-prod&Signature=JbTXaWZ0IbM6yvDrz3iizdEiS0c="
+      "original_url": "https://storage-us-gcs.bfldr.com/wsnqbpfhtxrzvjnr24nf54r/v/1262699699/original/3400864-Q-Half-Hotplates-1-1800x1800px-3.png?Expires=1784652458&KeyName=gcs-bfldr-prod&Signature=qa_AyO-UCDeHK-3hX2AmUl-GjT4=",
+      "url": "https://storage-us-gcs.bfldr.com/wsnqbpfhtxrzvjnr24nf54r/v/1262699699/original/3400864-Q-Half-Hotplates-1-1800x1800px-3.png?Expires=1784652458&KeyName=gcs-bfldr-prod&Signature=qa_AyO-UCDeHK-3hX2AmUl-GjT4="
     },
     {
       "attachment_id": "crfrr969n7gw7kk8ssbr4g",
@@ -205,8 +205,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/crfrr969n7gw7kk8ssbr4g/3400864-Q-Half-Hotplates_A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=0q7LvWZNuPbMuwD7mAdP3Ed420Y=",
-      "url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=0q7LvWZNuPbMuwD7mAdP3Ed420Y="
+      "original_url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784652458&KeyName=gcs-bfldr-prod&Signature=ghxDXuEgAQYq13Cfz7nUelH3mAU=",
+      "url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784652458&KeyName=gcs-bfldr-prod&Signature=ghxDXuEgAQYq13Cfz7nUelH3mAU="
     },
     {
       "attachment_id": "kj9n73m7hszjnh9q6s6zhg",
@@ -219,8 +219,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kj9n73m7hszjnh9q6s6zhg/3400864-Q-Half-Hotplates_B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=K_WNE7Re-RzXmcKclV-H7_iG1jQ=",
-      "url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=K_WNE7Re-RzXmcKclV-H7_iG1jQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784652458&KeyName=gcs-bfldr-prod&Signature=slxj-0jSf0j9cwx_pK8MbuKF2Xs=",
+      "url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784652458&KeyName=gcs-bfldr-prod&Signature=slxj-0jSf0j9cwx_pK8MbuKF2Xs="
     },
     {
       "attachment_id": "hc5q99wn4jnj7w64tbh99sk",
@@ -233,8 +233,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hc5q99wn4jnj7w64tbh99sk/3400864_Griddle_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hc5q99wn4jnj7w64tbh99sk/v/1267391562/original/3400864_Griddle_EMEA_rgb.jpg?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=3CLmLClDzFD8t-04fqsaUjpTrmw=",
-      "url": "https://storage-us-gcs.bfldr.com/hc5q99wn4jnj7w64tbh99sk/v/1267391562/original/3400864_Griddle_EMEA_rgb.jpg?Expires=1784305018&KeyName=gcs-bfldr-prod&Signature=3CLmLClDzFD8t-04fqsaUjpTrmw="
+      "original_url": "https://storage-us-gcs.bfldr.com/hc5q99wn4jnj7w64tbh99sk/v/1267391562/original/3400864_Griddle_EMEA_rgb.jpg?Expires=1784652458&KeyName=gcs-bfldr-prod&Signature=E986TSMiHi6Mai4nEPOH-wQuMYM=",
+      "url": "https://storage-us-gcs.bfldr.com/hc5q99wn4jnj7w64tbh99sk/v/1267391562/original/3400864_Griddle_EMEA_rgb.jpg?Expires=1784652458&KeyName=gcs-bfldr-prod&Signature=E986TSMiHi6Mai4nEPOH-wQuMYM="
     }
   ]
 }

@@ -7,8 +7,8 @@
       "asset_name": "[EMEA] Q1000N / Q1200N Half Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400863",
-        "3400864"
+        "3400864",
+        "3400863"
       ]
     },
     {
@@ -16,8 +16,8 @@
       "asset_name": "[EMEA/AUNZ] Q1000N / Q1200N Half Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400138",
-        "3400863"
+        "3400863",
+        "3400138"
       ]
     },
     {
@@ -121,11 +121,11 @@
       "asset_name": "Q1XXXN / Q2XXXN+ Half Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400247",
+        "3400864",
         "3400167",
         "3401865",
-        "3400863",
-        "3400864"
+        "3400247",
+        "3400863"
       ]
     },
     {
@@ -173,8 +173,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w749xbkhcv8xkgmwsx9wqn8g/3400138_Griddle_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/w749xbkhcv8xkgmwsx9wqn8g/v/1267391632/original/3400138_Griddle_rgb.jpg?Expires=1784305052&KeyName=gcs-bfldr-prod&Signature=jjHqsnx3x94cLjnFieOw_aZwcME=",
-      "url": "https://storage-us-gcs.bfldr.com/w749xbkhcv8xkgmwsx9wqn8g/v/1267391632/original/3400138_Griddle_rgb.jpg?Expires=1784305052&KeyName=gcs-bfldr-prod&Signature=jjHqsnx3x94cLjnFieOw_aZwcME="
+      "original_url": "https://storage-us-gcs.bfldr.com/w749xbkhcv8xkgmwsx9wqn8g/v/1267391632/original/3400138_Griddle_rgb.jpg?Expires=1784652203&KeyName=gcs-bfldr-prod&Signature=QQqfBvbWeSC68seCcPxnDKcg5Bo=",
+      "url": "https://storage-us-gcs.bfldr.com/w749xbkhcv8xkgmwsx9wqn8g/v/1267391632/original/3400138_Griddle_rgb.jpg?Expires=1784652203&KeyName=gcs-bfldr-prod&Signature=QQqfBvbWeSC68seCcPxnDKcg5Bo="
     },
     {
       "attachment_id": "crfrr969n7gw7kk8ssbr4g",
@@ -187,8 +187,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/crfrr969n7gw7kk8ssbr4g/3400864-Q-Half-Hotplates_A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784305053&KeyName=gcs-bfldr-prod&Signature=HRHxODsG4Ybqieuo6wfZadfOn3M=",
-      "url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784305053&KeyName=gcs-bfldr-prod&Signature=HRHxODsG4Ybqieuo6wfZadfOn3M="
+      "original_url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784652203&KeyName=gcs-bfldr-prod&Signature=dFdrgBim7X-QpFx7un4v3Y_vVXg=",
+      "url": "https://storage-us-gcs.bfldr.com/crfrr969n7gw7kk8ssbr4g/v/1267392291/original/3400864-Q-Half-Hotplates_A.png?Expires=1784652203&KeyName=gcs-bfldr-prod&Signature=dFdrgBim7X-QpFx7un4v3Y_vVXg="
     },
     {
       "attachment_id": "kj9n73m7hszjnh9q6s6zhg",
@@ -201,8 +201,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kj9n73m7hszjnh9q6s6zhg/3400864-Q-Half-Hotplates_B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784305053&KeyName=gcs-bfldr-prod&Signature=VEcmyqAQCnepdIE2aiqZqUwJ8V0=",
-      "url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784305053&KeyName=gcs-bfldr-prod&Signature=VEcmyqAQCnepdIE2aiqZqUwJ8V0="
+      "original_url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784652203&KeyName=gcs-bfldr-prod&Signature=LvUqSh6qWOIgAhsM-MiNah6jEkc=",
+      "url": "https://storage-us-gcs.bfldr.com/kj9n73m7hszjnh9q6s6zhg/v/1267392292/original/3400864-Q-Half-Hotplates_B.png?Expires=1784652203&KeyName=gcs-bfldr-prod&Signature=LvUqSh6qWOIgAhsM-MiNah6jEkc="
     }
   ]
 }

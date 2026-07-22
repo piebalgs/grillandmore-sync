@@ -1,0 +1,216 @@
+{
+  "cache_version": 5,
+  "sku": "1502203",
+  "assets": [
+    {
+      "asset_id": "kv6m593cx4nfqhs3gfhgw4s",
+      "asset_name": "enUS KETTLE MASTER-TOUCH 57CM SMOKE SSGBS 1502203 EMEA NEXUS2026 MasterCopy FINAL",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "tq2773f9cfkqsrvh4nfr8gg",
+      "asset_name": "57CM Master Touch SSGBS [Smoke]",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "4wpb8wn733hzc5q4bkfm4jqx",
+      "asset_name": "22IN / 57CM Master Touch [PLATE]",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "14511601",
+        "14501001",
+        "1502483",
+        "1502482",
+        "14701004",
+        "1500230",
+        "14513601",
+        "1502204",
+        "14505601",
+        "1502203",
+        "14516001",
+        "1502205",
+        "14510601"
+      ]
+    },
+    {
+      "asset_id": "7qgjj99ms4scngxwm4xwn9c",
+      "asset_name": "[EMEA] 57CM Master Touch [Smoke]",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "t9tjg65c6n7gqg3qrhhmgfm",
+      "asset_name": "[CS] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "nbg9p4v6bnws5j5mt46bbqjh",
+      "asset_name": "[DA] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "t9s7cm8v5pbpc3k2c83vh6s",
+      "asset_name": "[DE] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "rrc63ppvf5tx4s7cmjx5qkv",
+      "asset_name": "[EN-GB] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "x7gcrjjqgxmv6cq9m5ftq7",
+      "asset_name": "[ES] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "4wbvppm97pm9gnnj3s4vg7h7",
+      "asset_name": "[FI] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "5jcztrnr4f96qffthtwrpvgj",
+      "asset_name": "[FR] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "rt8qrvr5v4vw2zfbb5cnnr76",
+      "asset_name": "[HR] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "4x696k5v9qf9hq3fgwvkk8b",
+      "asset_name": "[IT] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "k5f62hxghsss4w4rrm53v",
+      "asset_name": "[NL] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "pwcmkm8krng55rbv9jp9rf9",
+      "asset_name": "[NO] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "cbx88h9wvkxf7p7jbkq7r34",
+      "asset_name": "[PL] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "2crxcm4f44k5cf7rss682kmf",
+      "asset_name": "[PT-PT] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "jsz2ggvb7khprmmkspg36k",
+      "asset_name": "[SK] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "87sgjnrjq42w7p5c3srshbfq",
+      "asset_name": "[SL] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "wnnb6qtbbnfr2x4q6n43q5nc",
+      "asset_name": "[SV] MASTER-TOUCH 57CM SMOKE SSGBS 1502203 MasterCopy EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    },
+    {
+      "asset_id": "896ch3bvxv7b9hgsj9v72s",
+      "asset_name": "1502203 Dimensions EMEA",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502203"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "3pvtcs455cb47vsphgm",
+      "filename": "1502203_047_22MasterTouch_Smoke_FY2026.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7776,
+      "height": 5187,
+      "size": 23635063,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3pvtcs455cb47vsphgm/1502203_047_22MasterTouch_Smoke_FY2026.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/3pvtcs455cb47vsphgm/v/1293960960/original/1502203_047_22MasterTouch_Smoke_FY2026.jpg?Expires=1784652226&KeyName=gcs-bfldr-prod&Signature=4PjW2TJH7lH0boKMmT4nSt1Brzw=",
+      "url": "https://storage-us-gcs.bfldr.com/3pvtcs455cb47vsphgm/v/1293960960/original/1502203_047_22MasterTouch_Smoke_FY2026.jpg?Expires=1784652226&KeyName=gcs-bfldr-prod&Signature=4PjW2TJH7lH0boKMmT4nSt1Brzw="
+    },
+    {
+      "attachment_id": "mn958bbfjf5c693qr9cjwxw",
+      "filename": "1502203_Dimensions_EMEA.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2126,
+      "height": 1001,
+      "size": 444541,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mn958bbfjf5c693qr9cjwxw/1502203_Dimensions_EMEA.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mn958bbfjf5c693qr9cjwxw/v/1305852508/original/1502203_Dimensions_EMEA.png?Expires=1784652226&KeyName=gcs-bfldr-prod&Signature=w3jbO02cI5yj37WS20PSUCICdzE=",
+      "url": "https://storage-us-gcs.bfldr.com/mn958bbfjf5c693qr9cjwxw/v/1305852508/original/1502203_Dimensions_EMEA.png?Expires=1784652226&KeyName=gcs-bfldr-prod&Signature=w3jbO02cI5yj37WS20PSUCICdzE="
+    }
+  ]
+}

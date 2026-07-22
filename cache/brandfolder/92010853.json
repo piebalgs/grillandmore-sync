@@ -8,11 +8,11 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "92010901",
-        "92010879",
-        "92010853",
         "92010874",
+        "92010879",
+        "92010869",
         "92010894",
-        "92010869"
+        "92010853"
       ]
     },
     {
@@ -20,11 +20,11 @@
       "asset_name": "[EMEA] Lumin + Stand",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "92010879",
-        "92010853",
-        "92010894",
         "92010869",
-        "92010874"
+        "92010894",
+        "92010874",
+        "92010879",
+        "92010853"
       ]
     }
   ],
@@ -40,8 +40,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vx5gnbgxr8qw5x6rw3c7r8h/92010804A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vx5gnbgxr8qw5x6rw3c7r8h/v/1291488590/original/92010804A_rgb.png?Expires=1784319737&KeyName=gcs-bfldr-prod&Signature=edqv35rb3oQjVonPk0jfUfwmqHM=",
-      "url": "https://storage-us-gcs.bfldr.com/vx5gnbgxr8qw5x6rw3c7r8h/v/1291488590/original/92010804A_rgb.png?Expires=1784319737&KeyName=gcs-bfldr-prod&Signature=edqv35rb3oQjVonPk0jfUfwmqHM="
+      "original_url": "https://storage-us-gcs.bfldr.com/vx5gnbgxr8qw5x6rw3c7r8h/v/1291488590/original/92010804A_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=kjhCQ6oyy-28_gr5byxIU5d2MXE=",
+      "url": "https://storage-us-gcs.bfldr.com/vx5gnbgxr8qw5x6rw3c7r8h/v/1291488590/original/92010804A_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=kjhCQ6oyy-28_gr5byxIU5d2MXE="
     },
     {
       "attachment_id": "7cnnhsn2p3nqmvwh4gv8pt",
@@ -54,8 +54,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7cnnhsn2p3nqmvwh4gv8pt/92010804B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/7cnnhsn2p3nqmvwh4gv8pt/v/1291488591/original/92010804B_rgb.png?Expires=1784319737&KeyName=gcs-bfldr-prod&Signature=DW0R8AkBCso8NW7xynTdsegeIqY=",
-      "url": "https://storage-us-gcs.bfldr.com/7cnnhsn2p3nqmvwh4gv8pt/v/1291488591/original/92010804B_rgb.png?Expires=1784319737&KeyName=gcs-bfldr-prod&Signature=DW0R8AkBCso8NW7xynTdsegeIqY="
+      "original_url": "https://storage-us-gcs.bfldr.com/7cnnhsn2p3nqmvwh4gv8pt/v/1291488591/original/92010804B_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=5Q8P0BTHAPy47B8oYXwTmXN7WAk=",
+      "url": "https://storage-us-gcs.bfldr.com/7cnnhsn2p3nqmvwh4gv8pt/v/1291488591/original/92010804B_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=5Q8P0BTHAPy47B8oYXwTmXN7WAk="
     },
     {
       "attachment_id": "jb9twt9kff62fwk3mc545m",
@@ -68,8 +68,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jb9twt9kff62fwk3mc545m/92010804C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/jb9twt9kff62fwk3mc545m/v/1291488592/original/92010804C_rgb.png?Expires=1784319737&KeyName=gcs-bfldr-prod&Signature=VzE4f4yZSj67sT5ucLliwoB2SLI=",
-      "url": "https://storage-us-gcs.bfldr.com/jb9twt9kff62fwk3mc545m/v/1291488592/original/92010804C_rgb.png?Expires=1784319737&KeyName=gcs-bfldr-prod&Signature=VzE4f4yZSj67sT5ucLliwoB2SLI="
+      "original_url": "https://storage-us-gcs.bfldr.com/jb9twt9kff62fwk3mc545m/v/1291488592/original/92010804C_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=1NgBztG6hugIOAWim9LB21MTtrs=",
+      "url": "https://storage-us-gcs.bfldr.com/jb9twt9kff62fwk3mc545m/v/1291488592/original/92010804C_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=1NgBztG6hugIOAWim9LB21MTtrs="
     },
     {
       "attachment_id": "4n9mg9wbv3nmqr4bp89cw935",
@@ -82,8 +82,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4n9mg9wbv3nmqr4bp89cw935/92010901YP3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4n9mg9wbv3nmqr4bp89cw935/v/1274850289/original/92010901YP3_rgb.jpg?Expires=1784319737&KeyName=gcs-bfldr-prod&Signature=1cuThJLZ4oZ9Q44NBz6tYWJUwBE=",
-      "url": "https://storage-us-gcs.bfldr.com/4n9mg9wbv3nmqr4bp89cw935/v/1274850289/original/92010901YP3_rgb.jpg?Expires=1784319737&KeyName=gcs-bfldr-prod&Signature=1cuThJLZ4oZ9Q44NBz6tYWJUwBE="
+      "original_url": "https://storage-us-gcs.bfldr.com/4n9mg9wbv3nmqr4bp89cw935/v/1274850289/original/92010901YP3_rgb.jpg?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=6pCQjjVdW_m0WaUlGgq_s7VXo7o=",
+      "url": "https://storage-us-gcs.bfldr.com/4n9mg9wbv3nmqr4bp89cw935/v/1274850289/original/92010901YP3_rgb.jpg?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=6pCQjjVdW_m0WaUlGgq_s7VXo7o="
     }
   ]
 }

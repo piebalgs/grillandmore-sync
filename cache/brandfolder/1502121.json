@@ -1,111 +1,450 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1502121",
   "assets": [
     {
       "asset_id": "nznz3v59m57zn8rxh5b9r9",
       "asset_name": "[EMEA] Spirit E-435 LP",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502110",
+        "1502118",
+        "1502117",
+        "1502250",
+        "1502119",
+        "1502111",
+        "1502112",
+        "1502121",
+        "1502115",
+        "1502265",
+        "1502116",
+        "1502114",
+        "1502120",
+        "1502113",
+        "1502251"
+      ]
     },
     {
       "asset_id": "fhhnsqw9jnmg7r2nf8xz8n4",
       "asset_name": "en-EMEA Spirit E-435 MasterCopyDoc FINAL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502265",
+        "1502113",
+        "1502120",
+        "1502251",
+        "1502114",
+        "1502121",
+        "1502112",
+        "1502119",
+        "1502118",
+        "1502116",
+        "1502010",
+        "1502110",
+        "1502250",
+        "1502115",
+        "1502111",
+        "1502117"
+      ]
     },
     {
       "asset_id": "sghrs5v7cf8tn5twkjf77bvj",
       "asset_name": "[cze] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502111",
+        "1502010",
+        "1502118",
+        "1502115",
+        "1502120",
+        "1502116",
+        "1502117",
+        "1502119",
+        "1502114",
+        "1502112",
+        "1502265",
+        "1502110",
+        "1502121",
+        "1502113",
+        "1502251"
+      ]
     },
     {
       "asset_id": "jjxhxfvw4bc88q83pbk9hb",
       "asset_name": "[dan] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502265",
+        "1502112",
+        "1502120",
+        "1502010",
+        "1502111",
+        "1502121",
+        "1502113",
+        "1502251",
+        "1502119",
+        "1502116",
+        "1502114",
+        "1502118",
+        "1502110",
+        "1502117",
+        "1502115"
+      ]
     },
     {
       "asset_id": "t4b7vwwktm5tw3ttwrvp4gx",
       "asset_name": "[dut-NL] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502120",
+        "1502121",
+        "1502114",
+        "1502111",
+        "1502117",
+        "1502115",
+        "1502251",
+        "1502116",
+        "1502119",
+        "1502110",
+        "1502113",
+        "1502010",
+        "1502118",
+        "1502112",
+        "1502265"
+      ]
     },
     {
       "asset_id": "sp7hkp5n9xw65z32k6vsm",
       "asset_name": "[eng-GB] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502110",
+        "1502120",
+        "1502114",
+        "1502115",
+        "1502251",
+        "1502113",
+        "1502010",
+        "1502121",
+        "1502118",
+        "1502112",
+        "1502119",
+        "1502111",
+        "1502116",
+        "1502265",
+        "1502117"
+      ]
     },
     {
       "asset_id": "kjfr3k7rr6sfvx2856cvbcg8",
       "asset_name": "[fin] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502265",
+        "1502114",
+        "1502111",
+        "1502119",
+        "1502010",
+        "1502118",
+        "1502113",
+        "1502116",
+        "1502112",
+        "1502120",
+        "1502251",
+        "1502110",
+        "1502115",
+        "1502121",
+        "1502117"
+      ]
     },
     {
       "asset_id": "nw2w24kp76m99wttjnn8xtj",
       "asset_name": "[fre-FR] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502010",
+        "1502113",
+        "1502110",
+        "1502117",
+        "1502265",
+        "1502119",
+        "1502115",
+        "1502111",
+        "1502120",
+        "1502114",
+        "1502112",
+        "1502118",
+        "1502116",
+        "1502251",
+        "1502121"
+      ]
     },
     {
       "asset_id": "qpnb7tn6bhm455s7h9pwfnqm",
       "asset_name": "[ger-DE] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502112",
+        "1502115",
+        "1502111",
+        "1502113",
+        "1502265",
+        "1502251",
+        "1502120",
+        "1502121",
+        "1502118",
+        "1502110",
+        "1502114",
+        "1502116",
+        "1502117",
+        "1502119",
+        "1502010"
+      ]
     },
     {
       "asset_id": "k9m7htchjxhv639fkm6hphz",
       "asset_name": "[hrv] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502121",
+        "1502251",
+        "1502111",
+        "1502113",
+        "1502116",
+        "1502110",
+        "1502114",
+        "1502118",
+        "1502117",
+        "1502120",
+        "1502115",
+        "1502010",
+        "1502265",
+        "1502112",
+        "1502119"
+      ]
     },
     {
       "asset_id": "3n8hcwns73srx28rrc6nt34",
       "asset_name": "[ita-IT] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502117",
+        "1502111",
+        "1502110",
+        "1502265",
+        "1502116",
+        "1502112",
+        "1502121",
+        "1502120",
+        "1502114",
+        "1502113",
+        "1502119",
+        "1502118",
+        "1502115",
+        "1502010",
+        "1502251"
+      ]
     },
     {
       "asset_id": "5f7r7f6sgnf6mb57qk5cs7gg",
       "asset_name": "[no] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502112",
+        "1502010",
+        "1502119",
+        "1502116",
+        "1502114",
+        "1502265",
+        "1502121",
+        "1502113",
+        "1502117",
+        "1502120",
+        "1502111",
+        "1502115",
+        "1502251",
+        "1502110",
+        "1502118"
+      ]
     },
     {
       "asset_id": "v5k8qcrvmb75k27jpfktfmh",
       "asset_name": "[pol] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502265",
+        "1502112",
+        "1502120",
+        "1502116",
+        "1502010",
+        "1502119",
+        "1502251",
+        "1502114",
+        "1502110",
+        "1502118",
+        "1502117",
+        "1502113",
+        "1502115",
+        "1502111",
+        "1502121"
+      ]
     },
     {
       "asset_id": "3wr67jvswngtq8vqnf25pb3w",
       "asset_name": "[por-PT] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502120",
+        "1502251",
+        "1502117",
+        "1502119",
+        "1502265",
+        "1502121",
+        "1502113",
+        "1502110",
+        "1502111",
+        "1502118",
+        "1502114",
+        "1502115",
+        "1502010",
+        "1502116",
+        "1502112"
+      ]
     },
     {
       "asset_id": "vsthc3vm4fhsv3nscxkw6vh9",
       "asset_name": "[sk] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502265",
+        "1502010",
+        "1502121",
+        "1502114",
+        "1502117",
+        "1502113",
+        "1502119",
+        "1502120",
+        "1502251",
+        "1502116",
+        "1502110",
+        "1502112",
+        "1502118",
+        "1502111",
+        "1502115"
+      ]
     },
     {
       "asset_id": "xp4m5kk97kn3xfmrxvbfrgmx",
       "asset_name": "[slv] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502115",
+        "1502121",
+        "1502119",
+        "1502120",
+        "1502265",
+        "1502251",
+        "1502111",
+        "1502117",
+        "1502113",
+        "1502118",
+        "1502112",
+        "1502116",
+        "1502110",
+        "1502010",
+        "1502114"
+      ]
     },
     {
       "asset_id": "vkfcf3fnqk7jmrvfnf7jr3nv",
       "asset_name": "[spa-ES] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502121",
+        "1502110",
+        "1502118",
+        "1502010",
+        "1502112",
+        "1502116",
+        "1502117",
+        "1502265",
+        "1502119",
+        "1502114",
+        "1502120",
+        "1502113",
+        "1502111",
+        "1502115",
+        "1502251"
+      ]
     },
     {
       "asset_id": "mpm4qnpcfqknkvswv8tsbc3",
       "asset_name": "[swe-SE] Spirit E-435 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502113",
+        "1502118",
+        "1502110",
+        "1502121",
+        "1502111",
+        "1502119",
+        "1502115",
+        "1502114",
+        "1502117",
+        "1502116",
+        "1502112",
+        "1502251",
+        "1502010",
+        "1502120",
+        "1502265"
+      ]
     },
     {
       "asset_id": "csr4s6w57vvtvz57hjqnxnhk",
       "asset_name": "E435 EMEA Dimensions",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501780",
+        "1502119",
+        "1502115",
+        "1502116",
+        "1502010",
+        "1502120",
+        "1502110",
+        "1501781",
+        "1502251",
+        "1502250",
+        "1502113",
+        "1502114",
+        "1502121",
+        "1502265",
+        "1502118",
+        "1502112",
+        "1502111",
+        "1502117"
+      ]
     },
     {
       "asset_id": "k6srhgp38xmq9hb6qzw58bbg",
       "asset_name": "[CZ/SK/SL/HR] Spirit E/S-435-- Assembly Guide",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502250",
+        "1502136",
+        "1502261",
+        "1502121",
+        "8659052"
+      ]
     },
     {
       "asset_id": "tnf4sk3t86wp7p7qp338bxg",
       "asset_name": "[RU/HU/TR/EL] Spirit E/S-435-- Assembly Guide",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502121",
+        "1502136",
+        "8659053"
+      ]
     }
   ],
   "images": [
@@ -116,10 +455,12 @@
       "position": 0,
       "width": 3600,
       "height": 3600,
+      "size": 4054759,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2frrhf5n6t3h6vksnht9gtpp/1502110%20Spirit%20E-435_LP_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2frrhf5n6t3h6vksnht9gtpp/v/1279859014/original/1502110%20Spirit%20E-435_LP_A_rgb.png?Expires=1784297081&KeyName=gcs-bfldr-prod&Signature=n3OG4cIHEitQgMBQwZCPZI-WzXM=",
-      "url": "https://storage-us-gcs.bfldr.com/2frrhf5n6t3h6vksnht9gtpp/v/1279859014/original/1502110%20Spirit%20E-435_LP_A_rgb.png?Expires=1784297081&KeyName=gcs-bfldr-prod&Signature=n3OG4cIHEitQgMBQwZCPZI-WzXM="
+      "original_url": "https://storage-us-gcs.bfldr.com/2frrhf5n6t3h6vksnht9gtpp/v/1279859014/original/1502110%20Spirit%20E-435_LP_A_rgb.png?Expires=1784652171&KeyName=gcs-bfldr-prod&Signature=o8ry1crEBagEYCUTbex37ENenBw=",
+      "url": "https://storage-us-gcs.bfldr.com/2frrhf5n6t3h6vksnht9gtpp/v/1279859014/original/1502110%20Spirit%20E-435_LP_A_rgb.png?Expires=1784652171&KeyName=gcs-bfldr-prod&Signature=o8ry1crEBagEYCUTbex37ENenBw="
     },
     {
       "attachment_id": "h9v93gcsgbr5j9jzjkshsz",
@@ -128,10 +469,12 @@
       "position": 1,
       "width": 3600,
       "height": 3600,
+      "size": 3876663,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/h9v93gcsgbr5j9jzjkshsz/1502110%20Spirit%20E-435_LP_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/h9v93gcsgbr5j9jzjkshsz/v/1279859015/original/1502110%20Spirit%20E-435_LP_B_rgb.png?Expires=1784297081&KeyName=gcs-bfldr-prod&Signature=5MGipK8a6Q07L_gd5DYLwmjSelY=",
-      "url": "https://storage-us-gcs.bfldr.com/h9v93gcsgbr5j9jzjkshsz/v/1279859015/original/1502110%20Spirit%20E-435_LP_B_rgb.png?Expires=1784297081&KeyName=gcs-bfldr-prod&Signature=5MGipK8a6Q07L_gd5DYLwmjSelY="
+      "original_url": "https://storage-us-gcs.bfldr.com/h9v93gcsgbr5j9jzjkshsz/v/1279859015/original/1502110%20Spirit%20E-435_LP_B_rgb.png?Expires=1784652171&KeyName=gcs-bfldr-prod&Signature=nznxWOYOWK7SnCoT02AznAyeriA=",
+      "url": "https://storage-us-gcs.bfldr.com/h9v93gcsgbr5j9jzjkshsz/v/1279859015/original/1502110%20Spirit%20E-435_LP_B_rgb.png?Expires=1784652171&KeyName=gcs-bfldr-prod&Signature=nznxWOYOWK7SnCoT02AznAyeriA="
     },
     {
       "attachment_id": "xhrkbkrhmh2qk5wkmh769jq",
@@ -140,10 +483,12 @@
       "position": 2,
       "width": 3600,
       "height": 3600,
+      "size": 4193185,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xhrkbkrhmh2qk5wkmh769jq/1502110%20Spirit%20E-435_LP_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xhrkbkrhmh2qk5wkmh769jq/v/1279859016/original/1502110%20Spirit%20E-435_LP_C_rgb.png?Expires=1784297081&KeyName=gcs-bfldr-prod&Signature=U2u7TcH-y_MlkYnFj2neu6UisAM=",
-      "url": "https://storage-us-gcs.bfldr.com/xhrkbkrhmh2qk5wkmh769jq/v/1279859016/original/1502110%20Spirit%20E-435_LP_C_rgb.png?Expires=1784297081&KeyName=gcs-bfldr-prod&Signature=U2u7TcH-y_MlkYnFj2neu6UisAM="
+      "original_url": "https://storage-us-gcs.bfldr.com/xhrkbkrhmh2qk5wkmh769jq/v/1279859016/original/1502110%20Spirit%20E-435_LP_C_rgb.png?Expires=1784652171&KeyName=gcs-bfldr-prod&Signature=Ad4kkZEegFE5TAmwIYWzecZUjRo=",
+      "url": "https://storage-us-gcs.bfldr.com/xhrkbkrhmh2qk5wkmh769jq/v/1279859016/original/1502110%20Spirit%20E-435_LP_C_rgb.png?Expires=1784652171&KeyName=gcs-bfldr-prod&Signature=Ad4kkZEegFE5TAmwIYWzecZUjRo="
     }
   ]
 }

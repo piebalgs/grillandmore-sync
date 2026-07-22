@@ -1,99 +1,184 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "3400846",
   "assets": [
     {
       "asset_id": "m9vq23qwx9qg4qchsww9k5vk",
       "asset_name": "(dut-NL) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "f9jr6tr4g6pxxcpj8nwnvvgg",
       "asset_name": "(fre-FR) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "cnk9thgx6t48g6vk89hp69b",
       "asset_name": "Burger Press",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846",
+        "3400382"
+      ]
     },
     {
       "asset_id": "kjftnq34cjmgcq3vffjxbb",
       "asset_name": "Burger Press",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400382",
+        "3400846"
+      ]
     },
     {
       "asset_id": "wrb4t9wv6m86x4k8nsgjnb9x",
       "asset_name": "Smashed Burger Press",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6572",
+        "3400846"
+      ]
     },
     {
       "asset_id": "wmgq4c43b92hwm68cz2xq8",
       "asset_name": "(cze) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "x728snfn4nr8kstp63vht8ch",
       "asset_name": "(dan) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "8jjnmcchpsf7x4fq4sr3mr39",
       "asset_name": "(eng-GB) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "mx3k8bxjxxq758g3qsqgx2x",
       "asset_name": "(fre-FR) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "5576tm3qnghgjx7vmkpp66t",
       "asset_name": "(ger-DE) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "hfhs2xt9m9pfj7chgwnmmxbw",
       "asset_name": "(ita-IT) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "m5rgftxwxwvs35s7vqqfrw6",
       "asset_name": "(no) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "jm3tnb5m78x7q77prm79ff",
       "asset_name": "(pol) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "wpctqvvmhsptmbsq5xbb2p",
       "asset_name": "(por-PT) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "nv9tb9hn9qvf8stc24wpfpp",
       "asset_name": "(sk) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "qtjvjrm9bpxfvx28snxv6ghz",
       "asset_name": "(spa-ES) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "7qt92t96mtv76jft7c9w8xg8",
       "asset_name": "(swe-SE) Griddle Smashed Burger Press Mastercopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     },
     {
       "asset_id": "2kgw53br897xknrggxwzv6tv",
       "asset_name": "8655879 3400846GSBurgerPress KH 0125 RevB",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3400846"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "v75zmhccthmwwsppth86b",
+      "filename": "3400382_038_CHARCOALINSERT_FY25_AMER-V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5351,
+      "height": 3567,
+      "size": 3207938,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/v75zmhccthmwwsppth86b/3400382_038_CHARCOALINSERT_FY25_AMER-V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/v75zmhccthmwwsppth86b/v/1263424726/original/3400382_038_CHARCOALINSERT_FY25_AMER-V1.jpg?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=QNJEUNfftDGijFp0wyCHez6iT7c=",
+      "url": "https://storage-us-gcs.bfldr.com/v75zmhccthmwwsppth86b/v/1263424726/original/3400382_038_CHARCOALINSERT_FY25_AMER-V1.jpg?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=QNJEUNfftDGijFp0wyCHez6iT7c="
+    },
+    {
+      "attachment_id": "pmkzbr5km8ftx59t4598fv",
+      "filename": "3400382_038_CHARCOALINSERT_FY25_AMER-V2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5361,
+      "height": 3574,
+      "size": 3814978,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pmkzbr5km8ftx59t4598fv/3400382_038_CHARCOALINSERT_FY25_AMER-V2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pmkzbr5km8ftx59t4598fv/v/1263424727/original/3400382_038_CHARCOALINSERT_FY25_AMER-V2.jpg?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=6U14JqNqVkfB3PQOD-wPKmSikF0=",
+      "url": "https://storage-us-gcs.bfldr.com/pmkzbr5km8ftx59t4598fv/v/1263424727/original/3400382_038_CHARCOALINSERT_FY25_AMER-V2.jpg?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=6U14JqNqVkfB3PQOD-wPKmSikF0="
+    },
     {
       "attachment_id": "crgbqkpqmx9np89fp7spp",
       "filename": "3400846E_rgb.png",
@@ -101,10 +186,12 @@
       "position": 0,
       "width": 3600,
       "height": 3600,
+      "size": 3752172,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/crgbqkpqmx9np89fp7spp/3400846E_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/crgbqkpqmx9np89fp7spp/v/1264914965/original/3400846E_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=t5eWBJv62UbJPs9YLg-ix9mVuXM=",
-      "url": "https://storage-us-gcs.bfldr.com/crgbqkpqmx9np89fp7spp/v/1264914965/original/3400846E_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=t5eWBJv62UbJPs9YLg-ix9mVuXM="
+      "original_url": "https://storage-us-gcs.bfldr.com/crgbqkpqmx9np89fp7spp/v/1264914965/original/3400846E_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=UYHlnQDu6Ts_Yb0WC4I9xRXQd6g=",
+      "url": "https://storage-us-gcs.bfldr.com/crgbqkpqmx9np89fp7spp/v/1264914965/original/3400846E_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=UYHlnQDu6Ts_Yb0WC4I9xRXQd6g="
     },
     {
       "attachment_id": "szwhgn8wfzk6vnq73t7gnpc9",
@@ -113,10 +200,12 @@
       "position": 1,
       "width": 3600,
       "height": 3600,
+      "size": 3058315,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/szwhgn8wfzk6vnq73t7gnpc9/Stainless%20Steel%20Burger%20Press%206572%206572A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/szwhgn8wfzk6vnq73t7gnpc9/v/1279406466/original/Stainless%20Steel%20Burger%20Press%206572%206572A_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=yWnl9w5DIiJsy_BNdAHVBmehPD0=",
-      "url": "https://storage-us-gcs.bfldr.com/szwhgn8wfzk6vnq73t7gnpc9/v/1279406466/original/Stainless%20Steel%20Burger%20Press%206572%206572A_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=yWnl9w5DIiJsy_BNdAHVBmehPD0="
+      "original_url": "https://storage-us-gcs.bfldr.com/szwhgn8wfzk6vnq73t7gnpc9/v/1279406466/original/Stainless%20Steel%20Burger%20Press%206572%206572A_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=DMWY8jIpuhOJT_NXFXyKY9Gi9Y4=",
+      "url": "https://storage-us-gcs.bfldr.com/szwhgn8wfzk6vnq73t7gnpc9/v/1279406466/original/Stainless%20Steel%20Burger%20Press%206572%206572A_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=DMWY8jIpuhOJT_NXFXyKY9Gi9Y4="
     },
     {
       "attachment_id": "6nwn5zb73rq57w5kmqbzxwvp",
@@ -125,10 +214,12 @@
       "position": 2,
       "width": 3600,
       "height": 3600,
+      "size": 2956609,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6nwn5zb73rq57w5kmqbzxwvp/Stainless%20Steel%20Burger%20Press%206572%206572CA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6nwn5zb73rq57w5kmqbzxwvp/v/1279406467/original/Stainless%20Steel%20Burger%20Press%206572%206572CA_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=nX1dBqrVWMXardur3b-BksKYaBg=",
-      "url": "https://storage-us-gcs.bfldr.com/6nwn5zb73rq57w5kmqbzxwvp/v/1279406467/original/Stainless%20Steel%20Burger%20Press%206572%206572CA_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=nX1dBqrVWMXardur3b-BksKYaBg="
+      "original_url": "https://storage-us-gcs.bfldr.com/6nwn5zb73rq57w5kmqbzxwvp/v/1279406467/original/Stainless%20Steel%20Burger%20Press%206572%206572CA_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=62-D9oxFiqFzbs_NZjTZy9v3Q4w=",
+      "url": "https://storage-us-gcs.bfldr.com/6nwn5zb73rq57w5kmqbzxwvp/v/1279406467/original/Stainless%20Steel%20Burger%20Press%206572%206572CA_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=62-D9oxFiqFzbs_NZjTZy9v3Q4w="
     },
     {
       "attachment_id": "cb65vgbqjxhn96k5mnh9npm",
@@ -137,10 +228,12 @@
       "position": 3,
       "width": 3600,
       "height": 3600,
+      "size": 3026939,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cb65vgbqjxhn96k5mnh9npm/Stainless%20Steel%20Burger%20Press%206572%206572C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cb65vgbqjxhn96k5mnh9npm/v/1279406468/original/Stainless%20Steel%20Burger%20Press%206572%206572C_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=JoG3nEbd1Wu7VWc57OEsb4WTVJU=",
-      "url": "https://storage-us-gcs.bfldr.com/cb65vgbqjxhn96k5mnh9npm/v/1279406468/original/Stainless%20Steel%20Burger%20Press%206572%206572C_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=JoG3nEbd1Wu7VWc57OEsb4WTVJU="
+      "original_url": "https://storage-us-gcs.bfldr.com/cb65vgbqjxhn96k5mnh9npm/v/1279406468/original/Stainless%20Steel%20Burger%20Press%206572%206572C_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=AdANAtlCc7ihT9VvQ6M_-84V9a0=",
+      "url": "https://storage-us-gcs.bfldr.com/cb65vgbqjxhn96k5mnh9npm/v/1279406468/original/Stainless%20Steel%20Burger%20Press%206572%206572C_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=AdANAtlCc7ihT9VvQ6M_-84V9a0="
     },
     {
       "attachment_id": "4jnp8q6krnn78zmfp773twgq",
@@ -149,10 +242,12 @@
       "position": 4,
       "width": 3600,
       "height": 3600,
+      "size": 3120733,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4jnp8q6krnn78zmfp773twgq/Stainless%20Steel%20Burger%20Press%206572%206572D_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4jnp8q6krnn78zmfp773twgq/v/1279406469/original/Stainless%20Steel%20Burger%20Press%206572%206572D_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=_Fl6F27cDjlMUfU9RGl7cDpZVHs=",
-      "url": "https://storage-us-gcs.bfldr.com/4jnp8q6krnn78zmfp773twgq/v/1279406469/original/Stainless%20Steel%20Burger%20Press%206572%206572D_rgb.png?Expires=1784296225&KeyName=gcs-bfldr-prod&Signature=_Fl6F27cDjlMUfU9RGl7cDpZVHs="
+      "original_url": "https://storage-us-gcs.bfldr.com/4jnp8q6krnn78zmfp773twgq/v/1279406469/original/Stainless%20Steel%20Burger%20Press%206572%206572D_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=AGyYNPKiDVxElEdy3f70KWHw_VE=",
+      "url": "https://storage-us-gcs.bfldr.com/4jnp8q6krnn78zmfp773twgq/v/1279406469/original/Stainless%20Steel%20Burger%20Press%206572%206572D_rgb.png?Expires=1784652373&KeyName=gcs-bfldr-prod&Signature=AGyYNPKiDVxElEdy3f70KWHw_VE="
     }
   ]
 }

@@ -1,284 +1,988 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1501631",
   "assets": [
     {
       "asset_id": "27kb558ntq5jc6g7np4x6bh7",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623",
+        "1502167",
+        "1501563"
+      ]
     },
     {
       "asset_id": "68mmqwxktkmqxg7fmbbcf4b7",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502167",
+        "1501623",
+        "1501563",
+        "1501631"
+      ]
     },
     {
       "asset_id": "skmx4p636f6crxthb3h7cnn7",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502167",
+        "1501631",
+        "1501563",
+        "1501623"
+      ]
     },
     {
       "asset_id": "r73jhxnwn8jnjxpf6swcmks",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1502167",
+        "1501631",
+        "1501563"
+      ]
     },
     {
       "asset_id": "36k34xgpmkc3kjqg2vf5s5fp",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501563",
+        "1501631",
+        "1501623",
+        "1502167"
+      ]
     },
     {
       "asset_id": "w4rk972zr9kzf9xqsgv9pm",
       "asset_name": "enEMEA Performer Premium Smart 1501631,1501623​ (Take 5) 2026NPD Master Copy FINAL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "vvqt7x4vp2b2f3wc89jn87t",
       "asset_name": "Performer Premium Smart  [Plate]",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631",
+        "1501563",
+        "1502167"
+      ]
     },
     {
       "asset_id": "5psqp598bspx3kvv6sgpnbsq",
       "asset_name": "Performer Content",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502166",
+        "1502184",
+        "1501967",
+        "1501870",
+        "1501562",
+        "1502185",
+        "1501623",
+        "1502167",
+        "1501959",
+        "1501630",
+        "1501563",
+        "1501966",
+        "1501825",
+        "1501631"
+      ]
     },
     {
       "asset_id": "p745x9stz785s6f4b8rj9fs",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501563",
+        "1502167",
+        "1501623",
+        "1502185",
+        "1501631"
+      ]
     },
     {
       "asset_id": "mc8zqzbf336mh483wbbrqf6",
       "asset_name": "Performer Content",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501562",
+        "1501825",
+        "1501966",
+        "1501623",
+        "1502184",
+        "1501631",
+        "1501959",
+        "1502185",
+        "1501630",
+        "1502166",
+        "1501967",
+        "1501563",
+        "1502167",
+        "1501870"
+      ]
     },
     {
       "asset_id": "36tf5n5m9hjk9c4xjbsrk5",
       "asset_name": "[EU/AUNZ/APAC] Charcoal Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502167",
+        "1501631",
+        "1502185"
+      ]
     },
     {
       "asset_id": "gx475vmj4g3grhkj62qmz5h",
       "asset_name": "Performer Family [PLATE]",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502167",
+        "1501870",
+        "1501630",
+        "1501967",
+        "1502166",
+        "1501825",
+        "1501959",
+        "1502185",
+        "1501966",
+        "1501563",
+        "1502184",
+        "1501623",
+        "1501562",
+        "1501631"
+      ]
     },
     {
       "asset_id": "rrfgzpp27hf47vvrsw6rwfn",
       "asset_name": "Performer Smart / Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501563",
+        "1501631",
+        "1501623",
+        "1502167",
+        "1501967",
+        "1502185",
+        "1501870",
+        "1501959"
+      ]
     },
     {
       "asset_id": "2zx4fnkwjfjfc39967wqh5j9",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501563",
+        "1501623",
+        "1502167",
+        "1502185",
+        "1501631"
+      ]
     },
     {
       "asset_id": "mkftgpgbvnhc2bv76fs7q7",
       "asset_name": "Performers",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501959",
+        "1501825",
+        "1501562",
+        "1502185",
+        "1501630",
+        "1501967",
+        "1502167",
+        "1501870",
+        "1501966",
+        "1502184",
+        "1502166",
+        "1501563",
+        "1501631"
+      ]
     },
     {
       "asset_id": "tqcwbthbgnb5p5rvx5qmz55",
       "asset_name": "[EMEA] Performer Premium / Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631",
+        "1501966"
+      ]
     },
     {
       "asset_id": "kvtw4ffsj6vkwgff9665zwf",
       "asset_name": "Performer Premium / Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1502185",
+        "1502184",
+        "1501966",
+        "1502167",
+        "1502166",
+        "1501623"
+      ]
     },
     {
       "asset_id": "cj5w93wcj5q3rbrp7fvmpbw",
       "asset_name": "Performer Premium / Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502184",
+        "1502185",
+        "1501563",
+        "1501966",
+        "1501623",
+        "1502166",
+        "1501825",
+        "1502167",
+        "1501631"
+      ]
     },
     {
       "asset_id": "tsqfgxx8vkj9m7m7pgwjf9r",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501959",
+        "1501630",
+        "1501967",
+        "1502185",
+        "1501623",
+        "1501631",
+        "1502167",
+        "1502184",
+        "1502166",
+        "1501966"
+      ]
     },
     {
       "asset_id": "fkgv6cqz99w46w4mcrwbgrj",
       "asset_name": "[Celsius] Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502167",
+        "1502185",
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "g5cr6f5rbk6fgr8njthv6xj9",
       "asset_name": "[Celsius] Performer Family",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501563",
+        "1502184",
+        "1501631",
+        "1502167",
+        "1502185",
+        "1501630",
+        "1501825",
+        "1502166",
+        "1501967",
+        "1501623",
+        "1501870",
+        "1501959",
+        "1501966",
+        "1501562"
+      ]
     },
     {
       "asset_id": "8cs758f6smwx7phsmcx833",
       "asset_name": "[Celsius] Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501563",
+        "1502185",
+        "1501631",
+        "1502167"
+      ]
     },
     {
       "asset_id": "qcscmmwq4rpfjwxh4zpn634h",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1502167",
+        "1501631",
+        "1502185"
+      ]
     },
     {
       "asset_id": "7fjbkf2bwgc37zhkkjgtm9nx",
       "asset_name": "[Celsius] Performer Smart Family",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502185",
+        "1501623",
+        "1501959",
+        "1502167",
+        "1501967",
+        "1501631"
+      ]
     },
     {
       "asset_id": "cvp3nqm9cxrpwgbvvrw9vx6w",
       "asset_name": "[Celsius] Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502167",
+        "1501631",
+        "1501623",
+        "1502185"
+      ]
     },
     {
       "asset_id": "ccgjfs7872hjsx5x5qkq3t5",
       "asset_name": "[Celsius] Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502185",
+        "1501631",
+        "1502167",
+        "1501623"
+      ]
     },
     {
       "asset_id": "s7kbs8sv49wzfcsk9vqk7b3",
       "asset_name": "Performer Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501966",
+        "1501631",
+        "1502166",
+        "1501623",
+        "1502167",
+        "1501825"
+      ]
     },
     {
       "asset_id": "mbf7k6htnbw6fwckx7pccrwt",
       "asset_name": "Performer Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501966",
+        "1502166",
+        "1502167",
+        "1501825",
+        "1501631"
+      ]
     },
     {
       "asset_id": "g86xjmmr8g8zfz9xvzt4spgb",
       "asset_name": "Performer Premium",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631",
+        "1502166",
+        "1502167",
+        "1501825",
+        "1501966"
+      ]
     },
     {
       "asset_id": "c59rrrhprj53353stbxrqnr",
       "asset_name": "Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502167",
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "39bb4qtpw8k78k44bvmt4gtp",
       "asset_name": "[Celsius / GIF] 22IN Performer Premium Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623",
+        "1502166",
+        "1501563",
+        "1502167"
+      ]
     },
     {
       "asset_id": "ft7vkpm73f4n3g2hxb5rcvk4",
       "asset_name": "[cze] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "qgv8m9nbsqtsprpb3s7m2w6w",
       "asset_name": "[dan] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "2b94szp378cjkwpk4qbxsrhn",
       "asset_name": "[dut-NL] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "c6tftqn7k5hzw96skgsmj6",
       "asset_name": "[en-GB] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "xwbtfskpjkkk6bbx64b4gb5",
       "asset_name": "[fin] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "vfqpfttzt7hm988rjhxrh4f",
       "asset_name": "[fre-FR] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "k96qs7kz2n7c4hvnm4jvv57",
       "asset_name": "[ger-DE] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "k75sj6jwscqvfpx8m5hgskf",
       "asset_name": "[hrv] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "7k7kvmrsmfpp74rrsr8nq5rj",
       "asset_name": "[ita-IT] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "rrtvrb63fvbgnqmv6xjptgnw",
       "asset_name": "[no] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "5p5mqpsh4wsx3szpq5s2j",
       "asset_name": "[pol] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "cfvr8bsf9f6rtrvp5nb883ms",
       "asset_name": "[por-PT] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "6z6n73sgsrctfhj72f958b8v",
       "asset_name": "[sk] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "74hps8kttpszhg4g9zp4jv8k",
       "asset_name": "[slv] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "vs6q7c87jfhv4m6qfn84jbz",
       "asset_name": "[spa-ES] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501623"
+      ]
     },
     {
       "asset_id": "br6z99t8cqnk85hrrsgsgfg",
       "asset_name": "[swe-SE] Performer Premium Smart 1501631  (Take 5) 2026NPD MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501623",
+        "1501631"
+      ]
     },
     {
       "asset_id": "p3nrp65k72hv87sk4czjnm5",
       "asset_name": "[Celsius] How To: Use the Digital Controller",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501959",
+        "1502406",
+        "1501623",
+        "1501966",
+        "1501967",
+        "1501631",
+        "1502184",
+        "1502166",
+        "1502185",
+        "1502167",
+        "1501630"
+      ]
     },
     {
       "asset_id": "692tkbq6kftrwk6tktj43pg",
       "asset_name": "[Celsius] How To: Pair with the Weber Connect APP",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502185",
+        "1502166",
+        "1501966",
+        "1501959",
+        "1502184",
+        "1501630",
+        "1501967",
+        "1501631",
+        "1502167",
+        "1502406",
+        "1501623"
+      ]
     },
     {
       "asset_id": "pgj3g39zr7pg8t9556b55vw",
       "asset_name": "[Celsius] How To: Set a Target Tempurature",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501630",
+        "1502185",
+        "1501623",
+        "1502184",
+        "1502166",
+        "1501959",
+        "1501967",
+        "1502167",
+        "1502406",
+        "1501631",
+        "1501966"
+      ]
     },
     {
       "asset_id": "r4jw8km5zpkqxjrgk2c48r",
       "asset_name": "[Celsius] How To: Turn on Manual Mode",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501631",
+        "1501959",
+        "1501967",
+        "1501966",
+        "1502166",
+        "1501623",
+        "1502185",
+        "1501630",
+        "1502184",
+        "1502406",
+        "1502167"
+      ]
     },
     {
       "asset_id": "mts4vj55fwpfx2w453t4z7j",
       "asset_name": "[Celsius] How To: Set a Cook Timer",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501967",
+        "1502185",
+        "1502167",
+        "1501631",
+        "1502184",
+        "1501966",
+        "1501630",
+        "1502406",
+        "1502166",
+        "1501623",
+        "1501959"
+      ]
     },
     {
       "asset_id": "jcfvfn5w4p2j5fr4jt4zgrbh",
       "asset_name": "[Celsius] How To: Set a Food Probe Target Tempurature",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501966",
+        "1502167",
+        "1502184",
+        "1502185",
+        "1501623",
+        "1502406",
+        "1501959",
+        "1501967",
+        "1501631",
+        "1501630",
+        "1502166"
+      ]
     },
     {
       "asset_id": "rqq69v9jx7r3t369j83tmz",
       "asset_name": "[Celsius] How To: Stop Fan and Turn off Controller",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502406",
+        "1501623",
+        "1501967",
+        "1501966",
+        "1502166",
+        "1502167",
+        "1502184",
+        "1502185",
+        "1501959",
+        "1501631",
+        "1501630"
+      ]
     },
     {
       "asset_id": "pw5q7843339x337tpqz49",
       "asset_name": "[Celsius] Performer Smart/ Premium How To Combo Video",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501959",
+        "1501623",
+        "1501631",
+        "1501967",
+        "1502185",
+        "1502166"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "xvssjzs9kf5xqzf6mznznrpn",
+      "filename": "0000000_040_PerformerFamily_FY2026_AMER_PLATE.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7802,
+      "height": 5204,
+      "size": 30791803,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xvssjzs9kf5xqzf6mznznrpn/0000000_040_PerformerFamily_FY2026_AMER_PLATE.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xvssjzs9kf5xqzf6mznznrpn/v/1288184654/original/0000000_040_PerformerFamily_FY2026_AMER_PLATE.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=DBOm5i6qWybgZQwAJ8QxOKR6Ogg=",
+      "url": "https://storage-us-gcs.bfldr.com/xvssjzs9kf5xqzf6mznznrpn/v/1288184654/original/0000000_040_PerformerFamily_FY2026_AMER_PLATE.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=DBOm5i6qWybgZQwAJ8QxOKR6Ogg="
+    },
+    {
+      "attachment_id": "5zxwgwx6h36cc6hg83g57",
+      "filename": "0000000_040_PerformerFamily_FY2026_C.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7802,
+      "height": 5204,
+      "size": 23747888,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5zxwgwx6h36cc6hg83g57/0000000_040_PerformerFamily_FY2026_C.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5zxwgwx6h36cc6hg83g57/v/1291338966/original/0000000_040_PerformerFamily_FY2026_C.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=oyQ213oxEzRHVvvz4IkYyxl_gZY=",
+      "url": "https://storage-us-gcs.bfldr.com/5zxwgwx6h36cc6hg83g57/v/1291338966/original/0000000_040_PerformerFamily_FY2026_C.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=oyQ213oxEzRHVvvz4IkYyxl_gZY="
+    },
+    {
+      "attachment_id": "qv7jxhm6nfzmfk3wcfx",
+      "filename": "1501562_008_PerformersLIDSHOT_FY2026_GLOBAL.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7005,
+      "height": 5174,
+      "size": 15227471,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qv7jxhm6nfzmfk3wcfx/1501562_008_PerformersLIDSHOT_FY2026_GLOBAL.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qv7jxhm6nfzmfk3wcfx/v/1290172422/original/1501562_008_PerformersLIDSHOT_FY2026_GLOBAL.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=96PODhsGQtMA9iZCicjMv7gLG4w=",
+      "url": "https://storage-us-gcs.bfldr.com/qv7jxhm6nfzmfk3wcfx/v/1290172422/original/1501562_008_PerformersLIDSHOT_FY2026_GLOBAL.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=96PODhsGQtMA9iZCicjMv7gLG4w="
+    },
+    {
+      "attachment_id": "cr5mb329bp5984p8cg8q6pjv",
+      "filename": "1501563_004_22INPerformerPremiumSmart_FY2026_AMER_plate.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8173,
+      "height": 5451,
+      "size": 30143544,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cr5mb329bp5984p8cg8q6pjv/1501563_004_22INPerformerPremiumSmart_FY2026_AMER_plate.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cr5mb329bp5984p8cg8q6pjv/v/1288030807/original/1501563_004_22INPerformerPremiumSmart_FY2026_AMER_plate.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=a-3g9QoXM_GJhIdmGskVNoLm8oE=",
+      "url": "https://storage-us-gcs.bfldr.com/cr5mb329bp5984p8cg8q6pjv/v/1288030807/original/1501563_004_22INPerformerPremiumSmart_FY2026_AMER_plate.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=a-3g9QoXM_GJhIdmGskVNoLm8oE="
+    },
+    {
+      "attachment_id": "2wbj56qnwpvb6hc83rcs2v",
+      "filename": "1501563_008_PerformerPremSmart_FY2026_US_CA_MX.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7923,
+      "height": 5285,
+      "size": 24662635,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2wbj56qnwpvb6hc83rcs2v/1501563_008_PerformerPremSmart_FY2026_US_CA_MX.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2wbj56qnwpvb6hc83rcs2v/v/1277530169/original/1501563_008_PerformerPremSmart_FY2026_US_CA_MX.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=IeTPIt3jduFFnZnGbvjkOJEsxXY=",
+      "url": "https://storage-us-gcs.bfldr.com/2wbj56qnwpvb6hc83rcs2v/v/1277530169/original/1501563_008_PerformerPremSmart_FY2026_US_CA_MX.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=IeTPIt3jduFFnZnGbvjkOJEsxXY="
+    },
+    {
+      "attachment_id": "z6jq5vsjcwtr3rkmngb5pvv",
+      "filename": "1501563_008_PerformerPremSmart_FY2026_US_CA_MX_V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7923,
+      "height": 5285,
+      "size": 24441741,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/z6jq5vsjcwtr3rkmngb5pvv/1501563_008_PerformerPremSmart_FY2026_US_CA_MX_V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/z6jq5vsjcwtr3rkmngb5pvv/v/1277530170/original/1501563_008_PerformerPremSmart_FY2026_US_CA_MX_V1.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=_TX7xZVVafDSZjOJkqGmfFxuinI=",
+      "url": "https://storage-us-gcs.bfldr.com/z6jq5vsjcwtr3rkmngb5pvv/v/1277530170/original/1501563_008_PerformerPremSmart_FY2026_US_CA_MX_V1.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=_TX7xZVVafDSZjOJkqGmfFxuinI="
+    },
+    {
+      "attachment_id": "2j2q4fr6szgzmr8rgjqwjfz",
+      "filename": "1501563_008_PerformerPremSmart_FY2026_US_CA_MX_V2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7923,
+      "height": 5285,
+      "size": 24075213,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2j2q4fr6szgzmr8rgjqwjfz/1501563_008_PerformerPremSmart_FY2026_US_CA_MX_V2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2j2q4fr6szgzmr8rgjqwjfz/v/1277530171/original/1501563_008_PerformerPremSmart_FY2026_US_CA_MX_V2.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=LSj4Lvut0nFVlqqmZKGVqIomSEU=",
+      "url": "https://storage-us-gcs.bfldr.com/2j2q4fr6szgzmr8rgjqwjfz/v/1277530171/original/1501563_008_PerformerPremSmart_FY2026_US_CA_MX_V2.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=LSj4Lvut0nFVlqqmZKGVqIomSEU="
+    },
+    {
+      "attachment_id": "brvptc6hb86g5z67ghb67jv4",
+      "filename": "1501563_012_PerformerPremSmart_FY2026_US_CA_MX.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8065,
+      "height": 5379,
+      "size": 24148826,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/brvptc6hb86g5z67ghb67jv4/1501563_012_PerformerPremSmart_FY2026_US_CA_MX.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/brvptc6hb86g5z67ghb67jv4/v/1283736119/original/1501563_012_PerformerPremSmart_FY2026_US_CA_MX.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=9pRp4xZokRSEDj6sJbCUfG2_uSE=",
+      "url": "https://storage-us-gcs.bfldr.com/brvptc6hb86g5z67ghb67jv4/v/1283736119/original/1501563_012_PerformerPremSmart_FY2026_US_CA_MX.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=9pRp4xZokRSEDj6sJbCUfG2_uSE="
+    },
+    {
+      "attachment_id": "n53tnz35sx9ngtvk6pm2sgj",
+      "filename": "1501563_012_PerformerPremSmart_FY2026_US_CA_MX_V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8065,
+      "height": 5379,
+      "size": 22975237,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n53tnz35sx9ngtvk6pm2sgj/1501563_012_PerformerPremSmart_FY2026_US_CA_MX_V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/n53tnz35sx9ngtvk6pm2sgj/v/1283732556/original/1501563_012_PerformerPremSmart_FY2026_US_CA_MX_V1.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=coM04peFkKrhMx6ySvlkJp0DRlw=",
+      "url": "https://storage-us-gcs.bfldr.com/n53tnz35sx9ngtvk6pm2sgj/v/1283732556/original/1501563_012_PerformerPremSmart_FY2026_US_CA_MX_V1.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=coM04peFkKrhMx6ySvlkJp0DRlw="
+    },
+    {
+      "attachment_id": "qmrhh6r37bhhjqq7p37ktt",
+      "filename": "1501563_015_22INPerformerPremiumSmart_FY2026_Celsius.gif",
+      "extension": "gif",
+      "position": 0,
+      "width": 4500,
+      "height": 3246,
+      "size": 77778911,
+      "mimetype": "image/gif",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qmrhh6r37bhhjqq7p37ktt/1501563_015_22INPerformerPremiumSmart_FY2026_Celsius.gif?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qmrhh6r37bhhjqq7p37ktt/v/1301973283/original/1501563_015_22INPerformerPremiumSmart_FY2026_Celsius.gif?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=Gw5gxr3UCu77ABvu4qGJ9dwEz0w=",
+      "url": "https://storage-us-gcs.bfldr.com/qmrhh6r37bhhjqq7p37ktt/v/1301973283/original/1501563_015_22INPerformerPremiumSmart_FY2026_Celsius.gif?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=Gw5gxr3UCu77ABvu4qGJ9dwEz0w="
+    },
+    {
+      "attachment_id": "cw7zn7ps96swwm49pfjkjb3",
+      "filename": "1501563_031_22INPerformerPremiumSmart_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 19476041,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cw7zn7ps96swwm49pfjkjb3/1501563_031_22INPerformerPremiumSmart_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cw7zn7ps96swwm49pfjkjb3/v/1290708098/original/1501563_031_22INPerformerPremiumSmart_FY2026_AMER.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=ROzt5v3_V27OfHSiHzHImkmqYYI=",
+      "url": "https://storage-us-gcs.bfldr.com/cw7zn7ps96swwm49pfjkjb3/v/1290708098/original/1501563_031_22INPerformerPremiumSmart_FY2026_AMER.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=ROzt5v3_V27OfHSiHzHImkmqYYI="
+    },
+    {
+      "attachment_id": "jrhgfjfrrbcbnxtm9vrj7qf",
+      "filename": "1501563_037_22INPerformerPremiumSmart_FY2026_AMER_V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7623,
+      "height": 5084,
+      "size": 17199365,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jrhgfjfrrbcbnxtm9vrj7qf/1501563_037_22INPerformerPremiumSmart_FY2026_AMER_V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/jrhgfjfrrbcbnxtm9vrj7qf/v/1290709093/original/1501563_037_22INPerformerPremiumSmart_FY2026_AMER_V1.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=Rlc4yZZSDrCazTBWPyr7vekqjG0=",
+      "url": "https://storage-us-gcs.bfldr.com/jrhgfjfrrbcbnxtm9vrj7qf/v/1290709093/original/1501563_037_22INPerformerPremiumSmart_FY2026_AMER_V1.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=Rlc4yZZSDrCazTBWPyr7vekqjG0="
+    },
+    {
+      "attachment_id": "tq4t64phm4v9j9q9p44rk",
+      "filename": "1501563_041_22INPerformerSmartFamily_FY2026_AMER_PLATE.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 7982,
+      "height": 5324,
+      "size": 29637728,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tq4t64phm4v9j9q9p44rk/1501563_041_22INPerformerSmartFamily_FY2026_AMER_PLATE.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/tq4t64phm4v9j9q9p44rk/v/1290747978/original/1501563_041_22INPerformerSmartFamily_FY2026_AMER_PLATE.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=o8Mfut_1FvCL1KVo8YRU7ca55Og=",
+      "url": "https://storage-us-gcs.bfldr.com/tq4t64phm4v9j9q9p44rk/v/1290747978/original/1501563_041_22INPerformerSmartFamily_FY2026_AMER_PLATE.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=o8Mfut_1FvCL1KVo8YRU7ca55Og="
+    },
+    {
+      "attachment_id": "43s8663rv5hcmmw754xthj5",
+      "filename": "1501631_004_57CMPerformerPremiumSmart_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 27519516,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/43s8663rv5hcmmw754xthj5/1501631_004_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/43s8663rv5hcmmw754xthj5/v/1291340388/original/1501631_004_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=UUBxxxmVz_3L0QfqDSq4NLWK5rU=",
+      "url": "https://storage-us-gcs.bfldr.com/43s8663rv5hcmmw754xthj5/v/1291340388/original/1501631_004_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=UUBxxxmVz_3L0QfqDSq4NLWK5rU="
+    },
+    {
+      "attachment_id": "v475ftr68vt4tvrrxkcsfhz",
+      "filename": "1501631_010_57CMPerformerPremiumSmart_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7108,
+      "height": 5086,
+      "size": 16098628,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/v475ftr68vt4tvrrxkcsfhz/1501631_010_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/v475ftr68vt4tvrrxkcsfhz/v/1291346722/original/1501631_010_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=TThTFcGGg2bqpRE4MuTctfBIz0I=",
+      "url": "https://storage-us-gcs.bfldr.com/v475ftr68vt4tvrrxkcsfhz/v/1291346722/original/1501631_010_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=TThTFcGGg2bqpRE4MuTctfBIz0I="
+    },
+    {
+      "attachment_id": "j3hfm6zvx2b7b6x9gmv7r8",
+      "filename": "1501631_013_57CMPerformerPremiumSmart_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7108,
+      "height": 5086,
+      "size": 16347887,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j3hfm6zvx2b7b6x9gmv7r8/1501631_013_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/j3hfm6zvx2b7b6x9gmv7r8/v/1291346723/original/1501631_013_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=-ZdOp7oSPq73PxtInQMaKVyGiCU=",
+      "url": "https://storage-us-gcs.bfldr.com/j3hfm6zvx2b7b6x9gmv7r8/v/1291346723/original/1501631_013_57CMPerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=-ZdOp7oSPq73PxtInQMaKVyGiCU="
+    },
+    {
+      "attachment_id": "893n83kxr3nbsqq76mxvgn",
+      "filename": "1501631_041_57CMPerformerSmartFamily_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7982,
+      "height": 5324,
+      "size": 25464643,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/893n83kxr3nbsqq76mxvgn/1501631_041_57CMPerformerSmartFamily_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/893n83kxr3nbsqq76mxvgn/v/1291343793/original/1501631_041_57CMPerformerSmartFamily_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=7XJV6RDeBh3-ZC8zbLZdsGqFbgc=",
+      "url": "https://storage-us-gcs.bfldr.com/893n83kxr3nbsqq76mxvgn/v/1291343793/original/1501631_041_57CMPerformerSmartFamily_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=7XJV6RDeBh3-ZC8zbLZdsGqFbgc="
+    },
+    {
+      "attachment_id": "hrw3x6j4shrfncwcwhq5jcqc",
+      "filename": "1501631_106_PerformerPremiumSmart_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 24269189,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hrw3x6j4shrfncwcwhq5jcqc/1501631_106_PerformerPremiumSmart_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hrw3x6j4shrfncwcwhq5jcqc/v/1291343085/original/1501631_106_PerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=-qdCVMZCf-Uy3RAa9IMy8H51Ov4=",
+      "url": "https://storage-us-gcs.bfldr.com/hrw3x6j4shrfncwcwhq5jcqc/v/1291343085/original/1501631_106_PerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=-qdCVMZCf-Uy3RAa9IMy8H51Ov4="
+    },
+    {
+      "attachment_id": "mhkm2t9h8n5qx98w7hhx5ct",
+      "filename": "1501631_107_PerformerPremiumSmart_FY2026_EMEA_V1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 25730065,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mhkm2t9h8n5qx98w7hhx5ct/1501631_107_PerformerPremiumSmart_FY2026_EMEA_V1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mhkm2t9h8n5qx98w7hhx5ct/v/1291322836/original/1501631_107_PerformerPremiumSmart_FY2026_EMEA_V1.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=u1A_pAnKUTnFC0Xf31Zf_i5pfKQ=",
+      "url": "https://storage-us-gcs.bfldr.com/mhkm2t9h8n5qx98w7hhx5ct/v/1291322836/original/1501631_107_PerformerPremiumSmart_FY2026_EMEA_V1.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=u1A_pAnKUTnFC0Xf31Zf_i5pfKQ="
+    },
+    {
+      "attachment_id": "hqxq5jghhqmx9qbjsc48rk2v",
+      "filename": "1501631_107_PerformerPremiumSmart_FY2026_EMEA_V7.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 25475204,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hqxq5jghhqmx9qbjsc48rk2v/1501631_107_PerformerPremiumSmart_FY2026_EMEA_V7.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hqxq5jghhqmx9qbjsc48rk2v/v/1292221441/original/1501631_107_PerformerPremiumSmart_FY2026_EMEA_V7.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=CILt7S5AmivkRo8wrk9ZE2o4QOk=",
+      "url": "https://storage-us-gcs.bfldr.com/hqxq5jghhqmx9qbjsc48rk2v/v/1292221441/original/1501631_107_PerformerPremiumSmart_FY2026_EMEA_V7.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=CILt7S5AmivkRo8wrk9ZE2o4QOk="
+    },
     {
       "attachment_id": "kcnhh4xw5gnv3rkk7grqjm",
       "filename": "1501631_Charcoal_Performer Premium Smart_ A.855_rgb.png",
@@ -286,10 +990,12 @@
       "position": 0,
       "width": 5000,
       "height": 5000,
+      "size": 5534503,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kcnhh4xw5gnv3rkk7grqjm/1501631_Charcoal_Performer%20Premium%20Smart_%20A.855_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kcnhh4xw5gnv3rkk7grqjm/v/1288135000/original/1501631_Charcoal_Performer%20Premium%20Smart_%20A.855_rgb.png?Expires=1784297755&KeyName=gcs-bfldr-prod&Signature=zsE3X8yErLQm5lfBpKiA1AArR1Y=",
-      "url": "https://storage-us-gcs.bfldr.com/kcnhh4xw5gnv3rkk7grqjm/v/1288135000/original/1501631_Charcoal_Performer%20Premium%20Smart_%20A.855_rgb.png?Expires=1784297755&KeyName=gcs-bfldr-prod&Signature=zsE3X8yErLQm5lfBpKiA1AArR1Y="
+      "original_url": "https://storage-us-gcs.bfldr.com/kcnhh4xw5gnv3rkk7grqjm/v/1288135000/original/1501631_Charcoal_Performer%20Premium%20Smart_%20A.855_rgb.png?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=uVMld0fA8QP_nEG8cEDeIrM7wpQ=",
+      "url": "https://storage-us-gcs.bfldr.com/kcnhh4xw5gnv3rkk7grqjm/v/1288135000/original/1501631_Charcoal_Performer%20Premium%20Smart_%20A.855_rgb.png?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=uVMld0fA8QP_nEG8cEDeIrM7wpQ="
     },
     {
       "attachment_id": "r6p4bhr5wr9ffxwr87fh9z",
@@ -298,10 +1004,12 @@
       "position": 1,
       "width": 5000,
       "height": 5000,
+      "size": 5399737,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r6p4bhr5wr9ffxwr87fh9z/1501631_Charcoal_Performer%20Premium%20Smart_%20C.851_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/r6p4bhr5wr9ffxwr87fh9z/v/1288135002/original/1501631_Charcoal_Performer%20Premium%20Smart_%20C.851_rgb.png?Expires=1784297755&KeyName=gcs-bfldr-prod&Signature=y17IUt9VwT5_oXUpLZ8i8sOJRtY=",
-      "url": "https://storage-us-gcs.bfldr.com/r6p4bhr5wr9ffxwr87fh9z/v/1288135002/original/1501631_Charcoal_Performer%20Premium%20Smart_%20C.851_rgb.png?Expires=1784297755&KeyName=gcs-bfldr-prod&Signature=y17IUt9VwT5_oXUpLZ8i8sOJRtY="
+      "original_url": "https://storage-us-gcs.bfldr.com/r6p4bhr5wr9ffxwr87fh9z/v/1288135002/original/1501631_Charcoal_Performer%20Premium%20Smart_%20C.851_rgb.png?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=x7sxA9EW1zHYISEiNcgkscQops4=",
+      "url": "https://storage-us-gcs.bfldr.com/r6p4bhr5wr9ffxwr87fh9z/v/1288135002/original/1501631_Charcoal_Performer%20Premium%20Smart_%20C.851_rgb.png?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=x7sxA9EW1zHYISEiNcgkscQops4="
     },
     {
       "attachment_id": "r3cm2c6bb8jj5zkzn9ntbnn5",
@@ -310,10 +1018,12 @@
       "position": 2,
       "width": 5000,
       "height": 5000,
+      "size": 4203151,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r3cm2c6bb8jj5zkzn9ntbnn5/1501631_Charcoal_Performer%20Premium%20Smart_B.856_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/r3cm2c6bb8jj5zkzn9ntbnn5/v/1288135004/original/1501631_Charcoal_Performer%20Premium%20Smart_B.856_rgb.png?Expires=1784297755&KeyName=gcs-bfldr-prod&Signature=-tAivyI0cCNuDDHydmjUOUkzzHo=",
-      "url": "https://storage-us-gcs.bfldr.com/r3cm2c6bb8jj5zkzn9ntbnn5/v/1288135004/original/1501631_Charcoal_Performer%20Premium%20Smart_B.856_rgb.png?Expires=1784297755&KeyName=gcs-bfldr-prod&Signature=-tAivyI0cCNuDDHydmjUOUkzzHo="
+      "original_url": "https://storage-us-gcs.bfldr.com/r3cm2c6bb8jj5zkzn9ntbnn5/v/1288135004/original/1501631_Charcoal_Performer%20Premium%20Smart_B.856_rgb.png?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=c6NgaTH8e_wMXgHPmn5ak_WL4_4=",
+      "url": "https://storage-us-gcs.bfldr.com/r3cm2c6bb8jj5zkzn9ntbnn5/v/1288135004/original/1501631_Charcoal_Performer%20Premium%20Smart_B.856_rgb.png?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=c6NgaTH8e_wMXgHPmn5ak_WL4_4="
     },
     {
       "attachment_id": "hpv3xb2q3h2xcnsrghctf849",
@@ -322,10 +1032,110 @@
       "position": 3,
       "width": 5000,
       "height": 5000,
+      "size": 6412044,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hpv3xb2q3h2xcnsrghctf849/1501631_Charcoal_Performer%20Premium%20Smart_CA.845_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hpv3xb2q3h2xcnsrghctf849/v/1288135006/original/1501631_Charcoal_Performer%20Premium%20Smart_CA.845_rgb.png?Expires=1784297755&KeyName=gcs-bfldr-prod&Signature=N8_vcUVSumisNbfKMD2dHoXTtjw=",
-      "url": "https://storage-us-gcs.bfldr.com/hpv3xb2q3h2xcnsrghctf849/v/1288135006/original/1501631_Charcoal_Performer%20Premium%20Smart_CA.845_rgb.png?Expires=1784297755&KeyName=gcs-bfldr-prod&Signature=N8_vcUVSumisNbfKMD2dHoXTtjw="
+      "original_url": "https://storage-us-gcs.bfldr.com/hpv3xb2q3h2xcnsrghctf849/v/1288135006/original/1501631_Charcoal_Performer%20Premium%20Smart_CA.845_rgb.png?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=1DFX1tKWTmUW3cdyvdtXerAWilA=",
+      "url": "https://storage-us-gcs.bfldr.com/hpv3xb2q3h2xcnsrghctf849/v/1288135006/original/1501631_Charcoal_Performer%20Premium%20Smart_CA.845_rgb.png?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=1DFX1tKWTmUW3cdyvdtXerAWilA="
+    },
+    {
+      "attachment_id": "xx5vqkgmwhb9h86g757gvxz",
+      "filename": "1501825_011_PerformersAshBucket_FY2026_GLOBAL.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7720,
+      "height": 5149,
+      "size": 17251822,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xx5vqkgmwhb9h86g757gvxz/1501825_011_PerformersAshBucket_FY2026_GLOBAL.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xx5vqkgmwhb9h86g757gvxz/v/1291099313/original/1501825_011_PerformersAshBucket_FY2026_GLOBAL.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=et7U0sBqyw1mlDsdqTbNGbwXYno=",
+      "url": "https://storage-us-gcs.bfldr.com/xx5vqkgmwhb9h86g757gvxz/v/1291099313/original/1501825_011_PerformersAshBucket_FY2026_GLOBAL.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=et7U0sBqyw1mlDsdqTbNGbwXYno="
+    },
+    {
+      "attachment_id": "2m56zwq8rrp7x478vmb2h9v",
+      "filename": "1501825_022_22INPerformerPremium_FY2026_AMER_V2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8048,
+      "height": 5368,
+      "size": 22783553,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2m56zwq8rrp7x478vmb2h9v/1501825_022_22INPerformerPremium_FY2026_AMER_V2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/2m56zwq8rrp7x478vmb2h9v/v/1291516417/original/1501825_022_22INPerformerPremium_FY2026_AMER_V2.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=nJRifXgre0lpv1e-SefTTodU8Mo=",
+      "url": "https://storage-us-gcs.bfldr.com/2m56zwq8rrp7x478vmb2h9v/v/1291516417/original/1501825_022_22INPerformerPremium_FY2026_AMER_V2.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=nJRifXgre0lpv1e-SefTTodU8Mo="
+    },
+    {
+      "attachment_id": "n85xckxvx8spw39fhnwccps",
+      "filename": "1501825_023_22INPerformerPremium_FY2026_AMER_V7.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8021,
+      "height": 5350,
+      "size": 24483681,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n85xckxvx8spw39fhnwccps/1501825_023_22INPerformerPremium_FY2026_AMER_V7.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/n85xckxvx8spw39fhnwccps/v/1291516422/original/1501825_023_22INPerformerPremium_FY2026_AMER_V7.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=pgamBLFJIkEAl-nluut1R9VR3bE=",
+      "url": "https://storage-us-gcs.bfldr.com/n85xckxvx8spw39fhnwccps/v/1291516422/original/1501825_023_22INPerformerPremium_FY2026_AMER_V7.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=pgamBLFJIkEAl-nluut1R9VR3bE="
+    },
+    {
+      "attachment_id": "crp56kksc5mh8kr8fqtzr",
+      "filename": "1501825_023_22INPerformerPremium_FY2026_AMER_V9.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 25458692,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/crp56kksc5mh8kr8fqtzr/1501825_023_22INPerformerPremium_FY2026_AMER_V9.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/crp56kksc5mh8kr8fqtzr/v/1291516427/original/1501825_023_22INPerformerPremium_FY2026_AMER_V9.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=R9N5Nc9B5Wwl39awkLabeFTq1QQ=",
+      "url": "https://storage-us-gcs.bfldr.com/crp56kksc5mh8kr8fqtzr/v/1291516427/original/1501825_023_22INPerformerPremium_FY2026_AMER_V9.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=R9N5Nc9B5Wwl39awkLabeFTq1QQ="
+    },
+    {
+      "attachment_id": "g4pfsr86spv99nbnvv8f5g3c",
+      "filename": "1501966_108_PerformerPremiumSmart_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 22227788,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g4pfsr86spv99nbnvv8f5g3c/1501966_108_PerformerPremiumSmart_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/g4pfsr86spv99nbnvv8f5g3c/v/1291337183/original/1501966_108_PerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=0PcSrZMGg_jvGnz4bB5e3Gb6V9M=",
+      "url": "https://storage-us-gcs.bfldr.com/g4pfsr86spv99nbnvv8f5g3c/v/1291337183/original/1501966_108_PerformerPremiumSmart_FY2026_EMEA.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=0PcSrZMGg_jvGnz4bB5e3Gb6V9M="
+    },
+    {
+      "attachment_id": "mf6nfcb8s6p6hsg8pchgjf",
+      "filename": "1501966_109_PerformerPremium_FY2026_EMEA_V2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8021,
+      "height": 5350,
+      "size": 22061060,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mf6nfcb8s6p6hsg8pchgjf/1501966_109_PerformerPremium_FY2026_EMEA_V2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mf6nfcb8s6p6hsg8pchgjf/v/1291085789/original/1501966_109_PerformerPremium_FY2026_EMEA_V2.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=BgUG6SHyTkAMsy5IM8OFkGyyR7w=",
+      "url": "https://storage-us-gcs.bfldr.com/mf6nfcb8s6p6hsg8pchgjf/v/1291085789/original/1501966_109_PerformerPremium_FY2026_EMEA_V2.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=BgUG6SHyTkAMsy5IM8OFkGyyR7w="
+    },
+    {
+      "attachment_id": "xg7q5s4t33b5jhk6ggbf4gm",
+      "filename": "1501966_109_PerformerPremium_FY2026_EMEA_V3.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8021,
+      "height": 5350,
+      "size": 20900916,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xg7q5s4t33b5jhk6ggbf4gm/1501966_109_PerformerPremium_FY2026_EMEA_V3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/xg7q5s4t33b5jhk6ggbf4gm/v/1291085790/original/1501966_109_PerformerPremium_FY2026_EMEA_V3.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=4QqD716VAKS_LeAUpApdyudzt4Y=",
+      "url": "https://storage-us-gcs.bfldr.com/xg7q5s4t33b5jhk6ggbf4gm/v/1291085790/original/1501966_109_PerformerPremium_FY2026_EMEA_V3.jpg?Expires=1784652240&KeyName=gcs-bfldr-prod&Signature=4QqD716VAKS_LeAUpApdyudzt4Y="
     }
   ]
 }

@@ -129,9 +129,9 @@
       "asset_name": "Summit Premium Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3400189",
         "3400171",
-        "3400173",
-        "3400189"
+        "3400173"
       ]
     },
     {
@@ -140,8 +140,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "3400171",
-        "3400173",
-        "3400189"
+        "3400189",
+        "3400173"
       ]
     },
     {
@@ -158,8 +158,8 @@
       "asset_name": "Premium Grill Cover - Summit - PDP - Packaging Copy FINAL",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400189",
-        "3400173"
+        "3400173",
+        "3400189"
       ]
     },
     {
@@ -176,8 +176,8 @@
       "asset_name": "Premium Grill Cover - Summit Grill Center PDP - Packaging Copy FINAL",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400173",
-        "3400189"
+        "3400189",
+        "3400173"
       ]
     },
     {
@@ -201,8 +201,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4fsx5v9jwhpnwptfrk8569/3400171_YM1_cmyk.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4fsx5v9jwhpnwptfrk8569/v/1273362587/original/3400171_YM1_cmyk.jpg?Expires=1784317845&KeyName=gcs-bfldr-prod&Signature=lOL8CS6zM1TcCYLij8IEv0QDLTk=",
-      "url": "https://storage-us-gcs.bfldr.com/4fsx5v9jwhpnwptfrk8569/v/1273362587/original/3400171_YM1_cmyk.jpg?Expires=1784317845&KeyName=gcs-bfldr-prod&Signature=lOL8CS6zM1TcCYLij8IEv0QDLTk="
+      "original_url": "https://storage-us-gcs.bfldr.com/4fsx5v9jwhpnwptfrk8569/v/1273362587/original/3400171_YM1_cmyk.jpg?Expires=1784652429&KeyName=gcs-bfldr-prod&Signature=jLzwLqTdvDk-zw_afabSNLrA4Gk=",
+      "url": "https://storage-us-gcs.bfldr.com/4fsx5v9jwhpnwptfrk8569/v/1273362587/original/3400171_YM1_cmyk.jpg?Expires=1784652429&KeyName=gcs-bfldr-prod&Signature=jLzwLqTdvDk-zw_afabSNLrA4Gk="
     },
     {
       "attachment_id": "gj3jnxfgg9bxpzc9h5cgvjtk",
@@ -215,8 +215,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gj3jnxfgg9bxpzc9h5cgvjtk/3400173Y_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gj3jnxfgg9bxpzc9h5cgvjtk/v/1273362594/original/3400173Y_rgb.png?Expires=1784317845&KeyName=gcs-bfldr-prod&Signature=YFy50-PkaFskWg5JOyfzSJRvHo4=",
-      "url": "https://storage-us-gcs.bfldr.com/gj3jnxfgg9bxpzc9h5cgvjtk/v/1273362594/original/3400173Y_rgb.png?Expires=1784317845&KeyName=gcs-bfldr-prod&Signature=YFy50-PkaFskWg5JOyfzSJRvHo4="
+      "original_url": "https://storage-us-gcs.bfldr.com/gj3jnxfgg9bxpzc9h5cgvjtk/v/1273362594/original/3400173Y_rgb.png?Expires=1784652429&KeyName=gcs-bfldr-prod&Signature=m0LxPj-ZHbrCdzswfSatm13FMA0=",
+      "url": "https://storage-us-gcs.bfldr.com/gj3jnxfgg9bxpzc9h5cgvjtk/v/1273362594/original/3400173Y_rgb.png?Expires=1784652429&KeyName=gcs-bfldr-prod&Signature=m0LxPj-ZHbrCdzswfSatm13FMA0="
     }
   ]
 }

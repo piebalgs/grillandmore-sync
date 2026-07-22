@@ -1,0 +1,257 @@
+import os
+import re
+from typing import Any
+from urllib.parse import unquote, urlparse
+
+import requests
+
+from brandfolder import get_product_images, normalize_sku
+
+
+MAX_WC_IMAGES = 10
+
+
+def normalized_filename(value: Any) -> str:
+    text = str(value or "").strip()
+
+    if not text:
+        return ""
+
+    parsed = urlparse(text)
+    image_path = parsed.path if parsed.scheme else text
+    filename = unquote(os.path.basename(image_path)).strip().lower()
+
+    if not filename:
+        return ""
+
+    stem, _extension = os.path.splitext(filename)
+
+    for suffix in (
+        "-scaled",
+        "-300x300",
+        "-600x600",
+        "-768x768",
+        "-1024x1024",
+        "-1536x1536",
+        "-2048x2048",
+    ):
+        if stem.endswith(suffix):
+            stem = stem[: -len(suffix)]
+            break
+
+    stem = stem.replace("%20", " ")
+
+    stem = re.sub(
+        r"(?<=[a-z0-9])20(?=[a-z])",
+        " ",
+        stem,
+    )
+
+    return "".join(
+        character
+        for character in stem
+        if character.isalnum()
+    )
+
+
+def get_wc_images(product: dict[str, Any]) -> list[dict[str, Any]]:
+    images = product.get("images", [])
+
+    if not isinstance(images, list):
+        return []
+
+    return [
+        image
+        for image in images
+        if isinstance(image, dict)
+    ]
+
+
+def get_image_value(image: dict[str, Any]) -> str:
+    for key in (
+        "src",
+        "url",
+        "cdn_url",
+        "download_url",
+        "original_url",
+        "filename",
+        "name",
+    ):
+        value = image.get(key)
+
+        if value:
+            return str(value)
+
+    return ""
+
+
+def duplicate_count(values: list[str]) -> int:
+    cleaned = [
+        value
+        for value in values
+        if value
+    ]
+
+    return len(cleaned) - len(set(cleaned))
+
+
+def verify_product(
+    product: dict[str, Any],
+    *,
+    use_cache: bool,
+    session: requests.Session,
+) -> dict[str, Any]:
+    raw_sku = product.get("sku", "")
+    sku = normalize_sku(raw_sku)
+    name = str(product.get("name", "")).strip()
+
+    wc_images = get_wc_images(product)
+    wc_values = [
+        get_image_value(image)
+        for image in wc_images
+    ]
+    wc_names = [
+        normalized_filename(value)
+        for value in wc_values
+    ]
+
+    wc_duplicates = duplicate_count(wc_names)
+
+    if not sku:
+        return {
+            "status": "ERROR",
+            "sku": "",
+            "name": name,
+            "wc_count": len(wc_images),
+            "brandfolder_count": 0,
+            "missing_count": 0,
+            "extra_count": 0,
+            "duplicate_count": wc_duplicates,
+            "message": "Produktam nav SKU.",
+            "missing_images": "",
+            "extra_images": "",
+        }
+
+    try:
+        brandfolder_images = get_product_images(
+            sku,
+            use_cache=use_cache,
+            session=session,
+        )
+    except Exception as exc:
+        return {
+            "status": "ERROR",
+            "sku": sku,
+            "name": name,
+            "wc_count": len(wc_images),
+            "brandfolder_count": 0,
+            "missing_count": 0,
+            "extra_count": 0,
+            "duplicate_count": wc_duplicates,
+            "message": f"Brandfolder kļūda: {exc}",
+            "missing_images": "",
+            "extra_images": "",
+        }
+
+    valid_brandfolder_images = [
+        image
+        for image in brandfolder_images
+        if isinstance(image, dict)
+    ]
+
+    # WooCommerce glabā ne vairāk kā 10 produkta attēlus.
+    comparison_images = valid_brandfolder_images[:MAX_WC_IMAGES]
+
+    bf_values = [
+        get_image_value(image)
+        for image in comparison_images
+    ]
+    bf_names = [
+        normalized_filename(value)
+        for value in bf_values
+    ]
+
+    wc_set = {
+        image_name
+        for image_name in wc_names
+        if image_name
+    }
+    bf_set = {
+        image_name
+        for image_name in bf_names
+        if image_name
+    }
+
+    missing = sorted(bf_set - wc_set)
+    extra = sorted(wc_set - bf_set)
+
+    if not valid_brandfolder_images and not wc_images:
+        status = "REVIEW"
+        message = "Attēli nav ne WooCommerce, ne Brandfolder."
+
+    elif not valid_brandfolder_images:
+        status = "REVIEW"
+        message = "Brandfolder attēli nav atrasti."
+
+    elif len(wc_images) > MAX_WC_IMAGES:
+        status = "REVIEW"
+        message = (
+            f"WooCommerce ir vairāk nekā "
+            f"{MAX_WC_IMAGES} attēli."
+        )
+
+    elif wc_duplicates:
+        status = "REVIEW"
+        message = (
+            f"WooCommerce atrasti "
+            f"{wc_duplicates} attēlu dublikāti."
+        )
+
+    elif not wc_images:
+        status = "SYNC"
+        message = (
+            f"WooCommerce produktam nav attēlu; "
+            f"var ielādēt {len(comparison_images)} attēlus."
+        )
+
+    elif missing:
+        available_slots = MAX_WC_IMAGES - len(wc_images)
+
+        if len(missing) <= available_slots:
+            status = "SYNC"
+            message = (
+                f"WooCommerce trūkst {len(missing)} "
+                f"Brandfolder attēli."
+            )
+        else:
+            status = "REVIEW"
+            message = (
+                f"Trūkst {len(missing)} attēli, bet "
+                f"WooCommerce galerijā pieejamas tikai "
+                f"{available_slots} vietas."
+            )
+
+    else:
+        status = "OK"
+
+        if len(valid_brandfolder_images) > MAX_WC_IMAGES:
+            message = (
+                f"Pirmie {MAX_WC_IMAGES} Brandfolder "
+                f"attēli atbilst."
+            )
+        else:
+            message = "Attēli atbilst."
+
+    return {
+        "status": status,
+        "sku": sku,
+        "name": name,
+        "wc_count": len(wc_images),
+        "brandfolder_count": len(valid_brandfolder_images),
+        "missing_count": len(missing),
+        "extra_count": len(extra),
+        "duplicate_count": wc_duplicates,
+        "message": message,
+        "missing_images": " | ".join(missing),
+        "extra_images": " | ".join(extra),
+    }

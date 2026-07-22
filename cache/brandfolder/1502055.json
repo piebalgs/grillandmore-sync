@@ -1,117 +1,282 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1502055",
   "assets": [
     {
       "asset_id": "q9fks8bmfxt4qncnwspkf5",
       "asset_name": "47CM Bar-B-Kettle w/ Thermometer",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "9cbg4xhkbk7nfg6xckggpvgv",
       "asset_name": "enUS KETTLE BAR-B 47CM BLK 1502055 EMEA NEXUS2026 MasterCopy FINAL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "4n4fgjf5w7pjkbfz7h9bhqm",
       "asset_name": "47CM Bar-B-Kettle w/ Thermometer",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "fn9b3gsjtw5x6c24bhvmsx8c",
       "asset_name": "47CM Bar-B-Kettle w/ Thermometer",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "jvtmkwnk2mp3n7t59vqmvrxw",
       "asset_name": "47CM Bar-B-Kettle w/ Thermometer",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "bvxngrv8p3rv5n9cmhfgtkh",
       "asset_name": "[cze] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "s45mscj39rzjmqvvkvzsc6v",
       "asset_name": "[dan] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "56fbb6qrb682vgw88rt7gp8",
       "asset_name": "[dut-NL] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "k6hkjqk4tc5wmw9n4m692rkh",
       "asset_name": "[eng-GB] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "jkpqz856ppp8t7gpgx2m8p",
       "asset_name": "[fin] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "gmt3jtwk9jhpvzxwsx5cqww8",
       "asset_name": "[fre-FR] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "2qjvk4spf92bvrqxqjqzbhnf",
       "asset_name": "[ger-DE] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "8bsjr9jsp99nqfjhvcfbf2b",
       "asset_name": "[hrv] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "bkjthmhs6gvxj4qf5hfptvxp",
       "asset_name": "[ita-IT] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "nx3nrtkhgqrpcxnqvkqjq8f",
       "asset_name": "[no] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "p52ztf99p5rhj4j2c7p8jp",
       "asset_name": "[pol] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "rb87gkbsk6ft69bmn38sktt9",
       "asset_name": "[por-PT] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "k55gsmcmk5bfn648x69t3c6",
       "asset_name": "[sk] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "twrzvjwssg9vhjmgxtmjhkq",
       "asset_name": "[sl] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "knmtmv9w557kjnmb9sssk4f7",
       "asset_name": "[spa-ES] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "5qgz9rn9r938jcwsbqpcch8h",
       "asset_name": "[swe-SE] BAR-B-KETTLE 47CM BLK 1502055 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     },
     {
       "asset_id": "3h5953f4kt4zmfmfpt59n3mg",
       "asset_name": "1502055 Dimensions 47 BAR B",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502055"
+      ]
     }
   ],
-  "images": []
+  "images": [
+    {
+      "attachment_id": "fmwtm7r5h9bxxm8g3vjthmn",
+      "filename": "1502055_058_47BarBKettle_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7843,
+      "height": 5231,
+      "size": 26736793,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fmwtm7r5h9bxxm8g3vjthmn/1502055_058_47BarBKettle_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/fmwtm7r5h9bxxm8g3vjthmn/v/1291911491/original/1502055_058_47BarBKettle_FY2026_EMEA.jpg?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=7LoO1jzLiG2MvSoqSRhH_-zFp10=",
+      "url": "https://storage-us-gcs.bfldr.com/fmwtm7r5h9bxxm8g3vjthmn/v/1291911491/original/1502055_058_47BarBKettle_FY2026_EMEA.jpg?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=7LoO1jzLiG2MvSoqSRhH_-zFp10="
+    },
+    {
+      "attachment_id": "hcwj2wxz79s734b3243bvtpw",
+      "filename": "1502055_058_47BarBKettle_FY2026_EMEA_D1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 30595345,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hcwj2wxz79s734b3243bvtpw/1502055_058_47BarBKettle_FY2026_EMEA_D1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hcwj2wxz79s734b3243bvtpw/v/1291911496/original/1502055_058_47BarBKettle_FY2026_EMEA_D1.jpg?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=EBhGo8U7ULpmsSztLr4Gf2TbrYY=",
+      "url": "https://storage-us-gcs.bfldr.com/hcwj2wxz79s734b3243bvtpw/v/1291911496/original/1502055_058_47BarBKettle_FY2026_EMEA_D1.jpg?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=EBhGo8U7ULpmsSztLr4Gf2TbrYY="
+    },
+    {
+      "attachment_id": "gx8jw6t9ps95nr3gjn7j4qhh",
+      "filename": "1502055_058_47BarBKettle_FY2026_EMEA_D.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 24861972,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gx8jw6t9ps95nr3gjn7j4qhh/1502055_058_47BarBKettle_FY2026_EMEA_D.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gx8jw6t9ps95nr3gjn7j4qhh/v/1291911492/original/1502055_058_47BarBKettle_FY2026_EMEA_D.jpg?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=a5-8fFVPdz6rdEK4IYBc0Ydv8lM=",
+      "url": "https://storage-us-gcs.bfldr.com/gx8jw6t9ps95nr3gjn7j4qhh/v/1291911492/original/1502055_058_47BarBKettle_FY2026_EMEA_D.jpg?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=a5-8fFVPdz6rdEK4IYBc0Ydv8lM="
+    },
+    {
+      "attachment_id": "j99kth8nhc9vq4psvrk4p",
+      "filename": "1502055_charcoal_47CM BAR-B_a.5249.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4200,
+      "height": 4200,
+      "size": 3168580,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j99kth8nhc9vq4psvrk4p/1502055_charcoal_47CM%20BAR-B_a.5249.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/j99kth8nhc9vq4psvrk4p/v/1281083618/original/1502055_charcoal_47CM%20BAR-B_a.5249.png?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=MGES9qYfe8fZA8XhEdxVc_hydC8=",
+      "url": "https://storage-us-gcs.bfldr.com/j99kth8nhc9vq4psvrk4p/v/1281083618/original/1502055_charcoal_47CM%20BAR-B_a.5249.png?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=MGES9qYfe8fZA8XhEdxVc_hydC8="
+    },
+    {
+      "attachment_id": "b6sxpn3hqb7rr3gkb74wqgmr",
+      "filename": "1502055_charcoal_47CM BAR-B_b.5248.png",
+      "extension": "png",
+      "position": 1,
+      "width": 4200,
+      "height": 4200,
+      "size": 3065971,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/b6sxpn3hqb7rr3gkb74wqgmr/1502055_charcoal_47CM%20BAR-B_b.5248.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/b6sxpn3hqb7rr3gkb74wqgmr/v/1281083619/original/1502055_charcoal_47CM%20BAR-B_b.5248.png?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=ZvU5SDfLdD94xThftHpZaXrl2hI=",
+      "url": "https://storage-us-gcs.bfldr.com/b6sxpn3hqb7rr3gkb74wqgmr/v/1281083619/original/1502055_charcoal_47CM%20BAR-B_b.5248.png?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=ZvU5SDfLdD94xThftHpZaXrl2hI="
+    },
+    {
+      "attachment_id": "hrvzj6t6s3x5pgbn3c7h26ht",
+      "filename": "1502055_charcoal_47CM BAR-B_c.5250.png",
+      "extension": "png",
+      "position": 2,
+      "width": 4200,
+      "height": 4200,
+      "size": 2939089,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hrvzj6t6s3x5pgbn3c7h26ht/1502055_charcoal_47CM%20BAR-B_c.5250.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/hrvzj6t6s3x5pgbn3c7h26ht/v/1281083621/original/1502055_charcoal_47CM%20BAR-B_c.5250.png?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=NBNby7fKgYm6lTdj-UBfRaNlCc8=",
+      "url": "https://storage-us-gcs.bfldr.com/hrvzj6t6s3x5pgbn3c7h26ht/v/1281083621/original/1502055_charcoal_47CM%20BAR-B_c.5250.png?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=NBNby7fKgYm6lTdj-UBfRaNlCc8="
+    },
+    {
+      "attachment_id": "5s543ssb582jmkchr9p9hk6p",
+      "filename": "1502055_Dimensions_47_BAR_B.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2126,
+      "height": 1001,
+      "size": 391936,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5s543ssb582jmkchr9p9hk6p/1502055_Dimensions_47_BAR_B.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/5s543ssb582jmkchr9p9hk6p/v/1305854512/original/1502055_Dimensions_47_BAR_B.png?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=42MSnjnldGzf_51iWiUipKgFEPY=",
+      "url": "https://storage-us-gcs.bfldr.com/5s543ssb582jmkchr9p9hk6p/v/1305854512/original/1502055_Dimensions_47_BAR_B.png?Expires=1784652212&KeyName=gcs-bfldr-prod&Signature=42MSnjnldGzf_51iWiUipKgFEPY="
+    }
+  ]
 }

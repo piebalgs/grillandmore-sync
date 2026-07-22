@@ -7,14 +7,14 @@
       "asset_name": "Slate 43CM RR Griddle  1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500251",
-        "1500207",
-        "1500231",
-        "1500991",
-        "1501042",
         "1500564",
+        "1501042",
+        "1500540",
+        "1500231",
+        "1500251",
         "1501161",
-        "1500540"
+        "1500207",
+        "1500991"
       ]
     },
     {
@@ -22,13 +22,13 @@
       "asset_name": "Slate 43CM RR Griddle  1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500207",
-        "1500991",
-        "1500231",
-        "1500564",
-        "1501161",
         "1501042",
+        "1500207",
+        "1500564",
+        "1500231",
         "1500540",
+        "1500991",
+        "1501161",
         "1500251"
       ]
     },
@@ -38,13 +38,13 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1500991",
-        "1500207",
-        "1500251",
-        "1500564",
-        "1501161",
-        "1500231",
         "1500540",
-        "1501042"
+        "1501161",
+        "1501042",
+        "1500564",
+        "1500207",
+        "1500231",
+        "1500251"
       ]
     },
     {
@@ -53,13 +53,13 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1500564",
-        "1500251",
         "1500231",
-        "1500207",
-        "1501161",
+        "1500251",
         "1501042",
-        "1500991",
-        "1500540"
+        "1501161",
+        "1500540",
+        "1500207",
+        "1500991"
       ]
     },
     {
@@ -67,14 +67,14 @@
       "asset_name": "Slate 43CM RR Griddle  1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1500231",
         "1501042",
         "1500207",
-        "1501161",
-        "1500540",
-        "1500231",
-        "1500251",
         "1500564",
-        "1500991"
+        "1500991",
+        "1501161",
+        "1500251",
+        "1500540"
       ]
     },
     {
@@ -82,14 +82,14 @@
       "asset_name": "Slate 43CM RR Griddle  1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501042",
-        "1500564",
         "1500231",
+        "1500207",
+        "1501042",
         "1500991",
         "1500251",
-        "1500540",
         "1501161",
-        "1500207"
+        "1500540",
+        "1500564"
       ]
     },
     {
@@ -97,12 +97,12 @@
       "asset_name": "[EMEA] Slate 43cm Premium Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500231",
         "1500564",
-        "1500251",
-        "1500207",
+        "1501161",
+        "1500231",
         "1500540",
-        "1501161"
+        "1500207",
+        "1500251"
       ]
     },
     {
@@ -110,12 +110,12 @@
       "asset_name": "CZE Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1500540",
+        "1500207",
+        "1501161",
         "1500564",
         "1500231",
-        "1501161",
-        "1500540",
-        "1500251",
-        "1500207"
+        "1500251"
       ]
     },
     {
@@ -123,12 +123,12 @@
       "asset_name": "DAN Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500564",
-        "1501161",
-        "1500207",
         "1500251",
         "1500540",
-        "1500231"
+        "1500564",
+        "1500231",
+        "1501161",
+        "1500207"
       ]
     },
     {
@@ -136,12 +136,12 @@
       "asset_name": "DE Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500564",
-        "1501161",
-        "1500207",
+        "1500251",
         "1500540",
-        "1500231",
-        "1500251"
+        "1500564",
+        "1500207",
+        "1501161",
+        "1500231"
       ]
     },
     {
@@ -149,12 +149,12 @@
       "asset_name": "EMEA SLATE GRIDDLE 43CM ENVIROMENT 0762 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500207",
-        "1501161",
         "1500564",
         "1500540",
-        "1500231",
-        "1500251"
+        "1501161",
+        "1500251",
+        "1500207",
+        "1500231"
       ]
     },
     {
@@ -162,12 +162,12 @@
       "asset_name": "EMEA SLATE GRIDDLE 43CM ENVIROMENT 0762 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500207",
-        "1500251",
+        "1500540",
         "1501161",
-        "1500231",
         "1500564",
-        "1500540"
+        "1500251",
+        "1500207",
+        "1500231"
       ]
     },
     {
@@ -175,12 +175,12 @@
       "asset_name": "EMEA SLATE GRIDDLE 43CM ENVIROMENT 0763 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
         "1500207",
-        "1500564",
-        "1500540",
         "1500231",
-        "1500251"
+        "1500540",
+        "1501161",
+        "1500251",
+        "1500564"
       ]
     },
     {
@@ -188,12 +188,12 @@
       "asset_name": "EMEA SLATE GRIDDLE 43CM ENVIROMENT 0763 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
-        "1500231",
-        "1500207",
-        "1500251",
         "1500540",
-        "1500564"
+        "1500251",
+        "1501161",
+        "1500564",
+        "1500207",
+        "1500231"
       ]
     },
     {
@@ -203,10 +203,10 @@
       "skus": [
         "1500564",
         "1500231",
-        "1500251",
-        "1501161",
         "1500540",
-        "1500207"
+        "1500251",
+        "1500207",
+        "1501161"
       ]
     },
     {
@@ -214,16 +214,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500251",
-        "1500991",
-        "1501161",
-        "1500231",
         "1500531",
-        "1500207",
         "1500540",
+        "1500231",
         "1501042",
+        "1500991",
+        "1500012",
+        "1500207",
         "1500564",
-        "1500012"
+        "1500251",
+        "1501161"
       ]
     },
     {
@@ -231,16 +231,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500231",
-        "1500251",
-        "1500207",
-        "1500564",
         "1501042",
+        "1500231",
+        "1500564",
         "1500540",
-        "1500012",
-        "1500531",
+        "1501161",
+        "1500251",
         "1500991",
-        "1501161"
+        "1500207",
+        "1500012",
+        "1500531"
       ]
     },
     {
@@ -248,16 +248,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1500540",
+        "1500564",
         "1500251",
-        "1500991",
-        "1501042",
+        "1500231",
         "1501161",
+        "1500531",
+        "1501042",
         "1500012",
         "1500207",
-        "1500540",
-        "1500531",
-        "1500564",
-        "1500231"
+        "1500991"
       ]
     },
     {
@@ -265,16 +265,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501042",
-        "1500251",
-        "1501161",
-        "1500207",
         "1500991",
         "1500540",
-        "1500231",
         "1500564",
+        "1500012",
+        "1500231",
+        "1501161",
         "1500531",
-        "1500012"
+        "1501042",
+        "1500207",
+        "1500251"
       ]
     },
     {
@@ -282,16 +282,16 @@
       "asset_name": "Slate Griddle 43CM / 17IN Knob 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501042",
         "1500564",
-        "1500531",
-        "1500540",
         "1501161",
+        "1500540",
+        "1500012",
         "1500231",
-        "1500991",
-        "1500207",
         "1500251",
-        "1500012"
+        "1500207",
+        "1500991",
+        "1501042",
+        "1500531"
       ]
     },
     {
@@ -299,12 +299,12 @@
       "asset_name": "ENGB Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500207",
+        "1501161",
         "1500564",
-        "1500540",
-        "1500231",
         "1500251",
-        "1501161"
+        "1500540",
+        "1500207",
+        "1500231"
       ]
     },
     {
@@ -313,11 +313,11 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1500540",
-        "1500207",
-        "1500564",
         "1500231",
         "1500251",
-        "1501161"
+        "1500564",
+        "1501161",
+        "1500207"
       ]
     },
     {
@@ -327,10 +327,10 @@
       "skus": [
         "1500231",
         "1500207",
-        "1501161",
-        "1500540",
+        "1500251",
         "1500564",
-        "1500251"
+        "1501161",
+        "1500540"
       ]
     },
     {
@@ -340,10 +340,10 @@
       "skus": [
         "1500251",
         "1501161",
-        "1500540",
-        "1500207",
         "1500231",
-        "1500564"
+        "1500564",
+        "1500207",
+        "1500540"
       ]
     },
     {
@@ -351,12 +351,12 @@
       "asset_name": "IT Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
         "1500207",
-        "1500540",
+        "1500231",
         "1500564",
         "1500251",
-        "1500231"
+        "1501161",
+        "1500540"
       ]
     },
     {
@@ -364,12 +364,12 @@
       "asset_name": "NL Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
+        "1500207",
+        "1500564",
         "1500231",
         "1500540",
         "1500251",
-        "1500207",
-        "1500564"
+        "1501161"
       ]
     },
     {
@@ -377,12 +377,12 @@
       "asset_name": "NO Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500251",
-        "1501161",
-        "1500540",
-        "1500564",
         "1500231",
-        "1500207"
+        "1501161",
+        "1500251",
+        "1500564",
+        "1500207",
+        "1500540"
       ]
     },
     {
@@ -391,11 +391,11 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501161",
-        "1500207",
-        "1500231",
         "1500564",
         "1500540",
-        "1500251"
+        "1500251",
+        "1500231",
+        "1500207"
       ]
     },
     {
@@ -403,12 +403,12 @@
       "asset_name": "NPD MasterCopyDoc Weber Griddle - 43cm EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
-        "1500231",
-        "1500251",
-        "1500564",
         "1500207",
-        "1500540"
+        "1500251",
+        "1500540",
+        "1501161",
+        "1500564",
+        "1500231"
       ]
     },
     {
@@ -416,12 +416,12 @@
       "asset_name": "PL Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1500540",
+        "1500231",
         "1500251",
         "1500564",
-        "1500540",
         "1500207",
-        "1501161",
-        "1500231"
+        "1501161"
       ]
     },
     {
@@ -429,12 +429,12 @@
       "asset_name": "PT Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
-        "1500231",
-        "1500540",
+        "1500564",
         "1500207",
+        "1501161",
         "1500251",
-        "1500564"
+        "1500231",
+        "1500540"
       ]
     },
     {
@@ -442,11 +442,11 @@
       "asset_name": "SE Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500564",
-        "1501161",
-        "1500231",
-        "1500540",
         "1500251",
+        "1500540",
+        "1500564",
+        "1500231",
+        "1501161",
         "1500207"
       ]
     },
@@ -455,11 +455,11 @@
       "asset_name": "SK Weber SLATE 43cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1500231",
         "1500207",
         "1500540",
-        "1500231",
-        "1501161",
         "1500564",
+        "1501161",
         "1500251"
       ]
     },
@@ -468,16 +468,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500251",
         "1500540",
-        "1500564",
-        "1500012",
         "1500207",
-        "1500231",
-        "1500531",
-        "1501161",
         "1500991",
-        "1501042"
+        "1500231",
+        "1500012",
+        "1500531",
+        "1501042",
+        "1500564",
+        "1501161",
+        "1500251"
       ]
     },
     {
@@ -486,15 +486,15 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1500231",
-        "1500207",
-        "1500012",
-        "1500564",
-        "1501042",
         "1500540",
-        "1501161",
         "1500531",
+        "1500564",
         "1500251",
-        "1500991"
+        "1501161",
+        "1501042",
+        "1500991",
+        "1500012",
+        "1500207"
       ]
     },
     {
@@ -502,16 +502,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500991",
+        "1501161",
         "1500012",
-        "1500251",
+        "1501042",
+        "1500991",
         "1500207",
         "1500564",
         "1500231",
-        "1501042",
+        "1500251",
         "1500531",
-        "1500540",
-        "1501161"
+        "1500540"
       ]
     },
     {
@@ -519,16 +519,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500012",
-        "1500564",
         "1500531",
-        "1501161",
-        "1500207",
-        "1501042",
-        "1500251",
+        "1500012",
         "1500540",
-        "1500231",
-        "1500991"
+        "1500251",
+        "1501161",
+        "1501042",
+        "1500207",
+        "1500564",
+        "1500991",
+        "1500231"
       ]
     },
     {
@@ -536,16 +536,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500251",
+        "1500564",
+        "1501042",
+        "1500991",
+        "1500207",
         "1500540",
         "1500531",
         "1501161",
-        "1500564",
         "1500012",
         "1500231",
-        "1500991",
-        "1500207",
-        "1501042"
+        "1500251"
       ]
     },
     {
@@ -553,16 +553,16 @@
       "asset_name": "Slate 43CM/ 17IN Tabletop Griddle 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
-        "1500251",
-        "1501042",
         "1500991",
         "1500564",
-        "1500207",
+        "1500251",
         "1500012",
-        "1500540",
+        "1500207",
+        "1501161",
         "1500531",
-        "1500231"
+        "1500231",
+        "1501042",
+        "1500540"
       ]
     },
     {
@@ -570,8 +570,8 @@
       "asset_name": "[NO-no] GP43 Premium Griddle--Owners Guide",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
-        "8655155"
+        "8655155",
+        "1501161"
       ]
     },
     {
@@ -579,8 +579,8 @@
       "asset_name": "[DA-da] GP43 Premium Griddle--Owners Guide",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "8655156",
-        "1501161"
+        "1501161",
+        "8655156"
       ]
     },
     {
@@ -588,8 +588,8 @@
       "asset_name": "[FI-fi] GP43 Premium Griddle--Owners Guide",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "8655157",
-        "1501161"
+        "1501161",
+        "8655157"
       ]
     },
     {
@@ -597,8 +597,8 @@
       "asset_name": "[SV-sv] GP43 Premium Griddle--Owners Guide",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
-        "8655158"
+        "8655158",
+        "1501161"
       ]
     },
     {
@@ -606,8 +606,8 @@
       "asset_name": "[PL-pl] GP43 Premium Griddle--Owners Guide",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501161",
-        "8655159"
+        "8655159",
+        "1501161"
       ]
     },
     {
@@ -641,8 +641,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/x5t923sckc89jck9s5fqnksw/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_1x1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/x5t923sckc89jck9s5fqnksw/v/1276696694/original/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=4I6y8WpVsDyFt-lVxUMFv8j2SlQ=",
-      "url": "https://storage-us-gcs.bfldr.com/x5t923sckc89jck9s5fqnksw/v/1276696694/original/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=4I6y8WpVsDyFt-lVxUMFv8j2SlQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/x5t923sckc89jck9s5fqnksw/v/1276696694/original/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=gUjdAe2oZ7vcLn-8tdaPF7luYfw=",
+      "url": "https://storage-us-gcs.bfldr.com/x5t923sckc89jck9s5fqnksw/v/1276696694/original/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=gUjdAe2oZ7vcLn-8tdaPF7luYfw="
     },
     {
       "attachment_id": "gbvxb8jkxppbtfjjm6pc26nt",
@@ -655,8 +655,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gbvxb8jkxppbtfjjm6pc26nt/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_16x9.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gbvxb8jkxppbtfjjm6pc26nt/v/1276696693/original/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_16x9.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=IjIWImeSWpYIMQzdmochvyDietU=",
-      "url": "https://storage-us-gcs.bfldr.com/gbvxb8jkxppbtfjjm6pc26nt/v/1276696693/original/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_16x9.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=IjIWImeSWpYIMQzdmochvyDietU="
+      "original_url": "https://storage-us-gcs.bfldr.com/gbvxb8jkxppbtfjjm6pc26nt/v/1276696693/original/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_16x9.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=LdT2EGsAfvr5Bp_0egvoMt3G9vI=",
+      "url": "https://storage-us-gcs.bfldr.com/gbvxb8jkxppbtfjjm6pc26nt/v/1276696693/original/1500012_TRAVELER_17_GRIDDLE_ENVIROMENT_1705_16x9.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=LdT2EGsAfvr5Bp_0egvoMt3G9vI="
     },
     {
       "attachment_id": "wk99h6r37jxcv2b7q8wr32z",
@@ -669,8 +669,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wk99h6r37jxcv2b7q8wr32z/1500012_TRAVELER_17_GRIDDLE_FOOD_1656_1x1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wk99h6r37jxcv2b7q8wr32z/v/1276696709/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1656_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=khfAc2CmnHQ4wWQIYuqlTMymVDM=",
-      "url": "https://storage-us-gcs.bfldr.com/wk99h6r37jxcv2b7q8wr32z/v/1276696709/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1656_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=khfAc2CmnHQ4wWQIYuqlTMymVDM="
+      "original_url": "https://storage-us-gcs.bfldr.com/wk99h6r37jxcv2b7q8wr32z/v/1276696709/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1656_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=6azg4jOGhCFcBUUPeFdATdEEiYE=",
+      "url": "https://storage-us-gcs.bfldr.com/wk99h6r37jxcv2b7q8wr32z/v/1276696709/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1656_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=6azg4jOGhCFcBUUPeFdATdEEiYE="
     },
     {
       "attachment_id": "738ckss3vhrgscvc8wjq49p",
@@ -683,8 +683,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/738ckss3vhrgscvc8wjq49p/1500012_TRAVELER_17_GRIDDLE_FOOD_1666_1x1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/738ckss3vhrgscvc8wjq49p/v/1276696710/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1666_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=AEr6BycVC_ZE0dyjHN335s8Qk3g=",
-      "url": "https://storage-us-gcs.bfldr.com/738ckss3vhrgscvc8wjq49p/v/1276696710/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1666_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=AEr6BycVC_ZE0dyjHN335s8Qk3g="
+      "original_url": "https://storage-us-gcs.bfldr.com/738ckss3vhrgscvc8wjq49p/v/1276696710/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1666_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=ERrTGIyfODcQ1lrV8A6POrrS1gk=",
+      "url": "https://storage-us-gcs.bfldr.com/738ckss3vhrgscvc8wjq49p/v/1276696710/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1666_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=ERrTGIyfODcQ1lrV8A6POrrS1gk="
     },
     {
       "attachment_id": "sj2qbwxf9gk53nsqrnpzrk67",
@@ -697,8 +697,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sj2qbwxf9gk53nsqrnpzrk67/1500012_TRAVELER_17_GRIDDLE_FOOD_1677_1x1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/sj2qbwxf9gk53nsqrnpzrk67/v/1276696711/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1677_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=XXw4EtVsI9I8_MjJ5zNr5uFK3gg=",
-      "url": "https://storage-us-gcs.bfldr.com/sj2qbwxf9gk53nsqrnpzrk67/v/1276696711/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1677_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=XXw4EtVsI9I8_MjJ5zNr5uFK3gg="
+      "original_url": "https://storage-us-gcs.bfldr.com/sj2qbwxf9gk53nsqrnpzrk67/v/1276696711/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1677_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=1n3C9k9Ilrl6FWi1mkGcSWaJdW0=",
+      "url": "https://storage-us-gcs.bfldr.com/sj2qbwxf9gk53nsqrnpzrk67/v/1276696711/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1677_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=1n3C9k9Ilrl6FWi1mkGcSWaJdW0="
     },
     {
       "attachment_id": "tstqs44bfgmckpng5sb9jbjf",
@@ -711,8 +711,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tstqs44bfgmckpng5sb9jbjf/1500012_TRAVELER_17_GRIDDLE_FOOD_1689_1x1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tstqs44bfgmckpng5sb9jbjf/v/1276696713/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1689_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=PF9XMWWjv3lWtozsXXCm4aDvJ_E=",
-      "url": "https://storage-us-gcs.bfldr.com/tstqs44bfgmckpng5sb9jbjf/v/1276696713/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1689_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=PF9XMWWjv3lWtozsXXCm4aDvJ_E="
+      "original_url": "https://storage-us-gcs.bfldr.com/tstqs44bfgmckpng5sb9jbjf/v/1276696713/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1689_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=M7PegRthmkd5TsRx22DcEjO3iWM=",
+      "url": "https://storage-us-gcs.bfldr.com/tstqs44bfgmckpng5sb9jbjf/v/1276696713/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1689_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=M7PegRthmkd5TsRx22DcEjO3iWM="
     },
     {
       "attachment_id": "5424w7fzprgfqt7hfpvqwkbg",
@@ -725,8 +725,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5424w7fzprgfqt7hfpvqwkbg/1500012_TRAVELER_17_GRIDDLE_FOOD_1700_1x1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5424w7fzprgfqt7hfpvqwkbg/v/1276696714/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1700_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=54ZBXbpItL0U1zpBCfE2k5BTkmw=",
-      "url": "https://storage-us-gcs.bfldr.com/5424w7fzprgfqt7hfpvqwkbg/v/1276696714/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1700_1x1.jpg?Expires=1784316537&KeyName=gcs-bfldr-prod&Signature=54ZBXbpItL0U1zpBCfE2k5BTkmw="
+      "original_url": "https://storage-us-gcs.bfldr.com/5424w7fzprgfqt7hfpvqwkbg/v/1276696714/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1700_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=qdfI2TLuhZ12CqspXyHAXHaGXC0=",
+      "url": "https://storage-us-gcs.bfldr.com/5424w7fzprgfqt7hfpvqwkbg/v/1276696714/original/1500012_TRAVELER_17_GRIDDLE_FOOD_1700_1x1.jpg?Expires=1784652201&KeyName=gcs-bfldr-prod&Signature=qdfI2TLuhZ12CqspXyHAXHaGXC0="
     },
     {
       "attachment_id": "q98pjwhwgk5nwbg6cmfk5mjg",
@@ -739,8 +739,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q98pjwhwgk5nwbg6cmfk5mjg/1500207_NoTank_AB_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q98pjwhwgk5nwbg6cmfk5mjg/v/1272905945/original/1500207_NoTank_AB_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=KcWA5BP_zCi0GaoOBv4PCDxqbLo=",
-      "url": "https://storage-us-gcs.bfldr.com/q98pjwhwgk5nwbg6cmfk5mjg/v/1272905945/original/1500207_NoTank_AB_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=KcWA5BP_zCi0GaoOBv4PCDxqbLo="
+      "original_url": "https://storage-us-gcs.bfldr.com/q98pjwhwgk5nwbg6cmfk5mjg/v/1272905945/original/1500207_NoTank_AB_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=RIbmDPDIQpMgwltwYMAbmjzIq6g=",
+      "url": "https://storage-us-gcs.bfldr.com/q98pjwhwgk5nwbg6cmfk5mjg/v/1272905945/original/1500207_NoTank_AB_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=RIbmDPDIQpMgwltwYMAbmjzIq6g="
     },
     {
       "attachment_id": "v3pptnx7r997xg37wwxchx",
@@ -753,8 +753,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/v3pptnx7r997xg37wwxchx/1500207_NoTank_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/v3pptnx7r997xg37wwxchx/v/1272905946/original/1500207_NoTank_A_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=ObLDox5ASWfGgnHIcNqyWHc2ESs=",
-      "url": "https://storage-us-gcs.bfldr.com/v3pptnx7r997xg37wwxchx/v/1272905946/original/1500207_NoTank_A_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=ObLDox5ASWfGgnHIcNqyWHc2ESs="
+      "original_url": "https://storage-us-gcs.bfldr.com/v3pptnx7r997xg37wwxchx/v/1272905946/original/1500207_NoTank_A_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=ZS2DchtXKMJRDC_-zwg27e6OQ4I=",
+      "url": "https://storage-us-gcs.bfldr.com/v3pptnx7r997xg37wwxchx/v/1272905946/original/1500207_NoTank_A_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=ZS2DchtXKMJRDC_-zwg27e6OQ4I="
     },
     {
       "attachment_id": "sntvbhxrctt9jcq5hct9hfh",
@@ -767,8 +767,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sntvbhxrctt9jcq5hct9hfh/1500207_NoTank_BB_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/sntvbhxrctt9jcq5hct9hfh/v/1272905947/original/1500207_NoTank_BB_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=BgtMrXauxw_qr40qVW8VJTTP434=",
-      "url": "https://storage-us-gcs.bfldr.com/sntvbhxrctt9jcq5hct9hfh/v/1272905947/original/1500207_NoTank_BB_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=BgtMrXauxw_qr40qVW8VJTTP434="
+      "original_url": "https://storage-us-gcs.bfldr.com/sntvbhxrctt9jcq5hct9hfh/v/1272905947/original/1500207_NoTank_BB_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=eWFjq-gfp8j9H8lkGmMJgqTElY8=",
+      "url": "https://storage-us-gcs.bfldr.com/sntvbhxrctt9jcq5hct9hfh/v/1272905947/original/1500207_NoTank_BB_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=eWFjq-gfp8j9H8lkGmMJgqTElY8="
     },
     {
       "attachment_id": "vjhc5nqc9vb6bghcf9pp8jnc",
@@ -781,8 +781,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vjhc5nqc9vb6bghcf9pp8jnc/1500207_NoTank_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vjhc5nqc9vb6bghcf9pp8jnc/v/1272905948/original/1500207_NoTank_B_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=4mF2_PTwFr-8fPO962OTOOPWWuo=",
-      "url": "https://storage-us-gcs.bfldr.com/vjhc5nqc9vb6bghcf9pp8jnc/v/1272905948/original/1500207_NoTank_B_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=4mF2_PTwFr-8fPO962OTOOPWWuo="
+      "original_url": "https://storage-us-gcs.bfldr.com/vjhc5nqc9vb6bghcf9pp8jnc/v/1272905948/original/1500207_NoTank_B_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=PKGU-3Vr2AjAQ1EmUpAzS-yVXwA=",
+      "url": "https://storage-us-gcs.bfldr.com/vjhc5nqc9vb6bghcf9pp8jnc/v/1272905948/original/1500207_NoTank_B_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=PKGU-3Vr2AjAQ1EmUpAzS-yVXwA="
     },
     {
       "attachment_id": "rjtn85jhbb9mxsqhwwqxn7n",
@@ -795,8 +795,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rjtn85jhbb9mxsqhwwqxn7n/1500207_NoTank_CB_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rjtn85jhbb9mxsqhwwqxn7n/v/1272905949/original/1500207_NoTank_CB_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=ly4PBw0YNBVVv1cC-XlSzE4HnRE=",
-      "url": "https://storage-us-gcs.bfldr.com/rjtn85jhbb9mxsqhwwqxn7n/v/1272905949/original/1500207_NoTank_CB_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=ly4PBw0YNBVVv1cC-XlSzE4HnRE="
+      "original_url": "https://storage-us-gcs.bfldr.com/rjtn85jhbb9mxsqhwwqxn7n/v/1272905949/original/1500207_NoTank_CB_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=1qZuV4GoEwfFEl9VhoJxMGaUuBM=",
+      "url": "https://storage-us-gcs.bfldr.com/rjtn85jhbb9mxsqhwwqxn7n/v/1272905949/original/1500207_NoTank_CB_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=1qZuV4GoEwfFEl9VhoJxMGaUuBM="
     },
     {
       "attachment_id": "bcjg3g53s3zgw3757vf44cq",
@@ -809,8 +809,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bcjg3g53s3zgw3757vf44cq/1500207_NoTank_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bcjg3g53s3zgw3757vf44cq/v/1272905951/original/1500207_NoTank_C_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=l1_jpmNC0fPjCbaAPJ41xyM3h_k=",
-      "url": "https://storage-us-gcs.bfldr.com/bcjg3g53s3zgw3757vf44cq/v/1272905951/original/1500207_NoTank_C_rgb.png?Expires=1784316536&KeyName=gcs-bfldr-prod&Signature=l1_jpmNC0fPjCbaAPJ41xyM3h_k="
+      "original_url": "https://storage-us-gcs.bfldr.com/bcjg3g53s3zgw3757vf44cq/v/1272905951/original/1500207_NoTank_C_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=qgKY8V8seF5dwHWvGNzDd-Ilw7s=",
+      "url": "https://storage-us-gcs.bfldr.com/bcjg3g53s3zgw3757vf44cq/v/1272905951/original/1500207_NoTank_C_rgb.png?Expires=1784652200&KeyName=gcs-bfldr-prod&Signature=qgKY8V8seF5dwHWvGNzDd-Ilw7s="
     }
   ]
 }

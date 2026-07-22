@@ -1,109 +1,183 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1502061",
   "assets": [
     {
       "asset_id": "3pwn4pkr7k6kj7g5fbcgkr4z",
       "asset_name": "enUS KETTLE COMPACT 57CM BLK 1502061 EMEA NEXUS2026 MasterCopy FINAL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "cxnxpkqz67grbqh7w3fjj4p8",
       "asset_name": "57CM Compact Kettle",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "k89q2r6t5qwkzv7kn93t68z",
       "asset_name": "[EMEA] 57CM Compact Kettle",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "fzvz36stvf8rctcjs6rnvk7",
       "asset_name": "[CS] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "t5cbbgk8f6t478s6cgp6w3n",
       "asset_name": "[DA] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "8w2rs68ptv9h48bjh6b4gv2",
       "asset_name": "[DE] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "k8s848f9qw8mkm35hr664",
       "asset_name": "[EN-GB] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "q4xscxcwcrkhkh643px3s4n",
       "asset_name": "[ES] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "kjjc9qtrkx8swgfx33vms2t",
       "asset_name": "[FI] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "cbgwfjrrscmvpbp9r9pk4n",
       "asset_name": "[FR FR] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "hbkszbz3xmvwp6swmthqgrz",
       "asset_name": "[HR] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "v48kqwmk7m7zqh4rrm6kxx2z",
       "asset_name": "[IT] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "m4nmgwxtt9xsq7grrzswmvqg",
       "asset_name": "[NL] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "t8thhns9ktcwntcq3kg4j6m6",
       "asset_name": "[NO] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "h38jvhpbfcvcsng86q56h72j",
       "asset_name": "[PL] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "jfjbhq9hwbx6fmpjbwgk7z5f",
       "asset_name": "[PT-PT] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "j4fbwxwcw4wjr6vvvt33x2c",
       "asset_name": "[SK] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "bmfp8cqkj943kpr8tmjcc5x9",
       "asset_name": "[SL] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "5wwj6pqr5qq24678qs9jm",
       "asset_name": "[SV] COMPACT KETTLE 57CM BLK 1502061 MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     },
     {
       "asset_id": "s62qcsr7v9pxq7gr6c67gqrw",
       "asset_name": "1502061 Dimensions 57 Compact EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502061"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "mwvx45bmv5c252vk9trctfq",
+      "filename": "1502061_059_57CMCompactKettle_FY2026_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 7630,
+      "height": 5385,
+      "size": 24639315,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mwvx45bmv5c252vk9trctfq/1502061_059_57CMCompactKettle_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mwvx45bmv5c252vk9trctfq/v/1302690435/original/1502061_059_57CMCompactKettle_FY2026_EMEA.jpg?Expires=1784652221&KeyName=gcs-bfldr-prod&Signature=L_pzhH5YmbQHuFaIhssGjGSxFxU=",
+      "url": "https://storage-us-gcs.bfldr.com/mwvx45bmv5c252vk9trctfq/v/1302690435/original/1502061_059_57CMCompactKettle_FY2026_EMEA.jpg?Expires=1784652221&KeyName=gcs-bfldr-prod&Signature=L_pzhH5YmbQHuFaIhssGjGSxFxU="
+    },
     {
       "attachment_id": "6m9fnc9rkjfpfc7png3rb83",
       "filename": "1502061_charcoal_57CM COMPACT KETTLE_a.5373_rgb.png",
@@ -111,10 +185,12 @@
       "position": 0,
       "width": 4200,
       "height": 4200,
+      "size": 3438867,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6m9fnc9rkjfpfc7png3rb83/1502061_charcoal_57CM%20COMPACT%20KETTLE_a.5373_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6m9fnc9rkjfpfc7png3rb83/v/1284679629/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_a.5373_rgb.png?Expires=1784298022&KeyName=gcs-bfldr-prod&Signature=QHA2meXH0-1r-FVwaJPKi1AqSkU=",
-      "url": "https://storage-us-gcs.bfldr.com/6m9fnc9rkjfpfc7png3rb83/v/1284679629/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_a.5373_rgb.png?Expires=1784298022&KeyName=gcs-bfldr-prod&Signature=QHA2meXH0-1r-FVwaJPKi1AqSkU="
+      "original_url": "https://storage-us-gcs.bfldr.com/6m9fnc9rkjfpfc7png3rb83/v/1284679629/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_a.5373_rgb.png?Expires=1784652221&KeyName=gcs-bfldr-prod&Signature=NJigPpwBAjbmz8ZMRS0HCfBD5MM=",
+      "url": "https://storage-us-gcs.bfldr.com/6m9fnc9rkjfpfc7png3rb83/v/1284679629/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_a.5373_rgb.png?Expires=1784652221&KeyName=gcs-bfldr-prod&Signature=NJigPpwBAjbmz8ZMRS0HCfBD5MM="
     },
     {
       "attachment_id": "59xncw8kt2k2494qgn6mgn8",
@@ -123,10 +199,12 @@
       "position": 1,
       "width": 4200,
       "height": 4200,
+      "size": 3594510,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/59xncw8kt2k2494qgn6mgn8/1502061_charcoal_57CM%20COMPACT%20KETTLE_b.5371_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/59xncw8kt2k2494qgn6mgn8/v/1284679631/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_b.5371_rgb.png?Expires=1784298022&KeyName=gcs-bfldr-prod&Signature=Y6Xz1bujXxfSuz5goCHjJJcMtZk=",
-      "url": "https://storage-us-gcs.bfldr.com/59xncw8kt2k2494qgn6mgn8/v/1284679631/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_b.5371_rgb.png?Expires=1784298022&KeyName=gcs-bfldr-prod&Signature=Y6Xz1bujXxfSuz5goCHjJJcMtZk="
+      "original_url": "https://storage-us-gcs.bfldr.com/59xncw8kt2k2494qgn6mgn8/v/1284679631/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_b.5371_rgb.png?Expires=1784652221&KeyName=gcs-bfldr-prod&Signature=ynwEZEAOhYQaCHjCCcfv3ItSR_E=",
+      "url": "https://storage-us-gcs.bfldr.com/59xncw8kt2k2494qgn6mgn8/v/1284679631/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_b.5371_rgb.png?Expires=1784652221&KeyName=gcs-bfldr-prod&Signature=ynwEZEAOhYQaCHjCCcfv3ItSR_E="
     },
     {
       "attachment_id": "pt4htzqrvw6hcf8598m9qr4r",
@@ -135,10 +213,26 @@
       "position": 2,
       "width": 4200,
       "height": 4200,
+      "size": 3239295,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pt4htzqrvw6hcf8598m9qr4r/1502061_charcoal_57CM%20COMPACT%20KETTLE_c.5372_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pt4htzqrvw6hcf8598m9qr4r/v/1284679632/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_c.5372_rgb.png?Expires=1784298022&KeyName=gcs-bfldr-prod&Signature=CLU7u6AEeljL3cLWTbDyxTwsxsE=",
-      "url": "https://storage-us-gcs.bfldr.com/pt4htzqrvw6hcf8598m9qr4r/v/1284679632/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_c.5372_rgb.png?Expires=1784298022&KeyName=gcs-bfldr-prod&Signature=CLU7u6AEeljL3cLWTbDyxTwsxsE="
+      "original_url": "https://storage-us-gcs.bfldr.com/pt4htzqrvw6hcf8598m9qr4r/v/1284679632/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_c.5372_rgb.png?Expires=1784652221&KeyName=gcs-bfldr-prod&Signature=l_JlTIrwlPW_TIY3LOCgnxiarAQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pt4htzqrvw6hcf8598m9qr4r/v/1284679632/original/1502061_charcoal_57CM%20COMPACT%20KETTLE_c.5372_rgb.png?Expires=1784652221&KeyName=gcs-bfldr-prod&Signature=l_JlTIrwlPW_TIY3LOCgnxiarAQ="
+    },
+    {
+      "attachment_id": "s3prwjjvjmk5nvzpht7q4v",
+      "filename": "1502061_Dimensions_57_Compact_EMEA.png",
+      "extension": "png",
+      "position": 0,
+      "width": 2126,
+      "height": 1001,
+      "size": 420675,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/s3prwjjvjmk5nvzpht7q4v/1502061_Dimensions_57_Compact_EMEA.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/s3prwjjvjmk5nvzpht7q4v/v/1305854160/original/1502061_Dimensions_57_Compact_EMEA.png?Expires=1784652222&KeyName=gcs-bfldr-prod&Signature=8xCY6F6ixHjkWFiRXCA9KBzIOnA=",
+      "url": "https://storage-us-gcs.bfldr.com/s3prwjjvjmk5nvzpht7q4v/v/1305854160/original/1502061_Dimensions_57_Compact_EMEA.png?Expires=1784652222&KeyName=gcs-bfldr-prod&Signature=8xCY6F6ixHjkWFiRXCA9KBzIOnA="
     }
   ]
 }

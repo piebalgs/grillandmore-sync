@@ -1,21 +1,30 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "3401333",
   "assets": [
     {
       "asset_id": "rtwr5qhhtx47t59h45zhxc",
       "asset_name": "Griddle Butter Roller",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401333"
+      ]
     },
     {
       "asset_id": "7gfqf9hc3zfbsgrwpmfjnz",
       "asset_name": "Griddle Butter Roller",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401333"
+      ]
     },
     {
       "asset_id": "m978gbfhtz2654cxspsck5bx",
       "asset_name": "enGLOBAL Griddle Butter Roller 3401333 26NPDACCESSORIES MasterCopyDoc FINAL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401333"
+      ]
     }
   ],
   "images": [
@@ -26,10 +35,12 @@
       "position": 0,
       "width": 3000,
       "height": 3000,
+      "size": 3004652,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/74sqqj5cvk8f83rnht8trp/3401333-Butter_Roller_Accesssory_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/74sqqj5cvk8f83rnht8trp/v/1267594503/original/3401333-Butter_Roller_Accesssory_A_rgb.png?Expires=1784296222&KeyName=gcs-bfldr-prod&Signature=Ip9GNhD3WU6BiOPWHlIsW3EvttM=",
-      "url": "https://storage-us-gcs.bfldr.com/74sqqj5cvk8f83rnht8trp/v/1267594503/original/3401333-Butter_Roller_Accesssory_A_rgb.png?Expires=1784296222&KeyName=gcs-bfldr-prod&Signature=Ip9GNhD3WU6BiOPWHlIsW3EvttM="
+      "original_url": "https://storage-us-gcs.bfldr.com/74sqqj5cvk8f83rnht8trp/v/1267594503/original/3401333-Butter_Roller_Accesssory_A_rgb.png?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=SDujxnovu6WGXEuxt5JxhMRLm9o=",
+      "url": "https://storage-us-gcs.bfldr.com/74sqqj5cvk8f83rnht8trp/v/1267594503/original/3401333-Butter_Roller_Accesssory_A_rgb.png?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=SDujxnovu6WGXEuxt5JxhMRLm9o="
     },
     {
       "attachment_id": "37456f8n7vcwvq8n98qrvb8q",
@@ -38,10 +49,12 @@
       "position": 1,
       "width": 3000,
       "height": 3000,
+      "size": 4155658,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/37456f8n7vcwvq8n98qrvb8q/3401333-Butter_Roller_Accesssory_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/37456f8n7vcwvq8n98qrvb8q/v/1267594504/original/3401333-Butter_Roller_Accesssory_B_rgb.png?Expires=1784296222&KeyName=gcs-bfldr-prod&Signature=j08WcXXAKdKGIEvpzW9BYPAI2cg=",
-      "url": "https://storage-us-gcs.bfldr.com/37456f8n7vcwvq8n98qrvb8q/v/1267594504/original/3401333-Butter_Roller_Accesssory_B_rgb.png?Expires=1784296222&KeyName=gcs-bfldr-prod&Signature=j08WcXXAKdKGIEvpzW9BYPAI2cg="
+      "original_url": "https://storage-us-gcs.bfldr.com/37456f8n7vcwvq8n98qrvb8q/v/1267594504/original/3401333-Butter_Roller_Accesssory_B_rgb.png?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=VD75R0g7V9WiW7UpDJacx-XsY2k=",
+      "url": "https://storage-us-gcs.bfldr.com/37456f8n7vcwvq8n98qrvb8q/v/1267594504/original/3401333-Butter_Roller_Accesssory_B_rgb.png?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=VD75R0g7V9WiW7UpDJacx-XsY2k="
     },
     {
       "attachment_id": "n7w75cvhxj5qn8q76vjspfmx",
@@ -50,10 +63,82 @@
       "position": 2,
       "width": 3000,
       "height": 3000,
+      "size": 2909517,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n7w75cvhxj5qn8q76vjspfmx/3401333-Butter_Roller_Accesssory_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/n7w75cvhxj5qn8q76vjspfmx/v/1267594506/original/3401333-Butter_Roller_Accesssory_C_rgb.png?Expires=1784296222&KeyName=gcs-bfldr-prod&Signature=bgZJ47zpPctM4k9Q7ZNQB63UuNY=",
-      "url": "https://storage-us-gcs.bfldr.com/n7w75cvhxj5qn8q76vjspfmx/v/1267594506/original/3401333-Butter_Roller_Accesssory_C_rgb.png?Expires=1784296222&KeyName=gcs-bfldr-prod&Signature=bgZJ47zpPctM4k9Q7ZNQB63UuNY="
+      "original_url": "https://storage-us-gcs.bfldr.com/n7w75cvhxj5qn8q76vjspfmx/v/1267594506/original/3401333-Butter_Roller_Accesssory_C_rgb.png?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=DknZDSYZqgM6oB0hecDzDFOUKwQ=",
+      "url": "https://storage-us-gcs.bfldr.com/n7w75cvhxj5qn8q76vjspfmx/v/1267594506/original/3401333-Butter_Roller_Accesssory_C_rgb.png?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=DknZDSYZqgM6oB0hecDzDFOUKwQ="
+    },
+    {
+      "attachment_id": "gvqvxz77jmrmfswm3bsf6869",
+      "filename": "3401333_008_Griddle Butter Roller_FY26_Global.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8064,
+      "height": 5376,
+      "size": 20804343,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gvqvxz77jmrmfswm3bsf6869/3401333_008_Griddle%20Butter%20Roller_FY26_Global.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/gvqvxz77jmrmfswm3bsf6869/v/1271953926/original/3401333_008_Griddle%20Butter%20Roller_FY26_Global.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=hc63XCA7oZ0peaiITmJ5GeJ3GtQ=",
+      "url": "https://storage-us-gcs.bfldr.com/gvqvxz77jmrmfswm3bsf6869/v/1271953926/original/3401333_008_Griddle%20Butter%20Roller_FY26_Global.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=hc63XCA7oZ0peaiITmJ5GeJ3GtQ="
+    },
+    {
+      "attachment_id": "c4bbf2rqjxhpwh4bm2529hw",
+      "filename": "3401333_009_Griddle Butter Roller_FY26_Global.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 8064,
+      "height": 5376,
+      "size": 21342037,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/c4bbf2rqjxhpwh4bm2529hw/3401333_009_Griddle%20Butter%20Roller_FY26_Global.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/c4bbf2rqjxhpwh4bm2529hw/v/1271953927/original/3401333_009_Griddle%20Butter%20Roller_FY26_Global.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=PRCrX6mmUxTpKTpH6N6esA7QdLc=",
+      "url": "https://storage-us-gcs.bfldr.com/c4bbf2rqjxhpwh4bm2529hw/v/1271953927/original/3401333_009_Griddle%20Butter%20Roller_FY26_Global.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=PRCrX6mmUxTpKTpH6N6esA7QdLc="
+    },
+    {
+      "attachment_id": "vkqkfpfqzv4vv2vfz2xfx94",
+      "filename": "3401333_009_Griddle Butter Roller_FY26_Global_ALT1.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 8064,
+      "height": 5376,
+      "size": 22240310,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vkqkfpfqzv4vv2vfz2xfx94/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/vkqkfpfqzv4vv2vfz2xfx94/v/1271953928/original/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT1.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=tXHWf1gjtrfUFn3djPuxpmLrWIs=",
+      "url": "https://storage-us-gcs.bfldr.com/vkqkfpfqzv4vv2vfz2xfx94/v/1271953928/original/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT1.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=tXHWf1gjtrfUFn3djPuxpmLrWIs="
+    },
+    {
+      "attachment_id": "97tctr444bpp3px5qc948mtv",
+      "filename": "3401333_009_Griddle Butter Roller_FY26_Global_ALT2.jpg",
+      "extension": "jpg",
+      "position": 3,
+      "width": 8064,
+      "height": 5376,
+      "size": 21030781,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/97tctr444bpp3px5qc948mtv/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/97tctr444bpp3px5qc948mtv/v/1271953930/original/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT2.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=6Ns2dpmRYDfgxssxevdPAO2CO6Y=",
+      "url": "https://storage-us-gcs.bfldr.com/97tctr444bpp3px5qc948mtv/v/1271953930/original/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT2.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=6Ns2dpmRYDfgxssxevdPAO2CO6Y="
+    },
+    {
+      "attachment_id": "km59vrms9sxnxpcvqqhprfwj",
+      "filename": "3401333_009_Griddle Butter Roller_FY26_Global_ALT3.jpg",
+      "extension": "jpg",
+      "position": 4,
+      "width": 8064,
+      "height": 5376,
+      "size": 21275369,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/km59vrms9sxnxpcvqqhprfwj/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/km59vrms9sxnxpcvqqhprfwj/v/1271953931/original/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT3.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=LIZjnSqanpq-9EdGXL4PuT6pmUs=",
+      "url": "https://storage-us-gcs.bfldr.com/km59vrms9sxnxpcvqqhprfwj/v/1271953931/original/3401333_009_Griddle%20Butter%20Roller_FY26_Global_ALT3.jpg?Expires=1784652430&KeyName=gcs-bfldr-prod&Signature=LIZjnSqanpq-9EdGXL4PuT6pmUs="
     }
   ]
 }

@@ -1,87 +1,23 @@
 from __future__ import annotations
 
-from typing import Any, Callable
+import sys
+from typing import Any
 
-from src import supplier, woocommerce
+from src import woocommerce
+from src.product_loaders import (
+    load_supplier_products,
+    load_woocommerce_products,
+)
 from src.sync_common import (
     SyncRunnerConfig,
-    exit_with_sync_result,
     normalize_sku,
+    run_sync,
 )
 from src.sync_engine import (
     ComparisonResult,
     ProductChange,
     compare_products,
 )
-
-
-def resolve_callable(
-    module: Any,
-    possible_names: tuple[str, ...],
-    description: str,
-) -> Callable[..., Any]:
-    """
-    Atrod modulī pirmo pieejamo funkciju no norādītajiem nosaukumiem.
-
-    Tas saglabā savietojamību arī tad, ja produktu ielādes funkcijas
-    nosaukums dažādās projekta versijās nedaudz atšķiras.
-    """
-    for name in possible_names:
-        candidate = getattr(module, name, None)
-
-        if callable(candidate):
-            return candidate
-
-    searched_names = ", ".join(possible_names)
-
-    raise RuntimeError(
-        f"Modulī {module.__name__} neatradu funkciju: {description}. "
-        f"Meklētie nosaukumi: {searched_names}."
-    )
-
-
-def load_supplier_products() -> list[dict[str, Any]]:
-    """
-    Ielādē visus piegādātāja produktus.
-    """
-    loader = resolve_callable(
-        module=supplier,
-        possible_names=(
-            "load_products",
-            "load_supplier_products",
-            "get_products",
-        ),
-        description="piegādātāja produktu ielādei",
-    )
-
-    products = loader()
-
-    if products is None:
-        return []
-
-    return list(products)
-
-
-def load_woocommerce_products() -> list[dict[str, Any]]:
-    """
-    Ielādē visus WooCommerce produktus.
-    """
-    loader = resolve_callable(
-        module=woocommerce,
-        possible_names=(
-            "load_products",
-            "load_woocommerce_products",
-            "get_products",
-        ),
-        description="WooCommerce produktu ielādei",
-    )
-
-    products = loader()
-
-    if products is None:
-        return []
-
-    return list(products)
 
 
 def select_stock_changes(
@@ -116,7 +52,10 @@ def print_stock_change(
 
     print()
     print(f"[{index}/{total}] {action} SKU {change.sku}")
-    print(f"  Produkts:              {change.name or 'bez nosaukuma'}")
+    print(
+        f"  Produkts:              "
+        f"{change.name or 'bez nosaukuma'}"
+    )
     print(
         "  WooCommerce atlikums: "
         f"{format_stock(change.stock_old)}"
@@ -138,7 +77,8 @@ def update_stock(change: ProductChange) -> dict[str, Any]:
 
     if change.stock_new is None:
         raise ValueError(
-            f"SKU {change.sku}: jaunais noliktavas atlikums nav pieejams."
+            f"SKU {change.sku}: jaunais noliktavas atlikums "
+            "nav pieejams."
         )
 
     return woocommerce.update_product_stock(
@@ -233,13 +173,24 @@ def build_config() -> SyncRunnerConfig:
     )
 
 
-def main() -> None:
+def run() -> int:
     """
-    Palaiž WooCommerce atlikumu sinhronizāciju.
+    Palaiž atlikumu sinhronizāciju un atgriež rezultāta kodu.
+
+    0 — sinhronizācija pabeigta bez kļūdām.
+    1 — sinhronizācijas laikā radās kļūda.
+    130 — darbību pārtrauca lietotājs.
     """
-    exit_with_sync_result(
+    return run_sync(
         config=build_config(),
     )
+
+
+def main() -> None:
+    """
+    Palaiž atlikumu sinhronizāciju kā termināļa komandu.
+    """
+    sys.exit(run())
 
 
 if __name__ == "__main__":

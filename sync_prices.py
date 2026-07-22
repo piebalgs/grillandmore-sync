@@ -2,88 +2,31 @@ from __future__ import annotations
 
 import sys
 from decimal import Decimal
-from typing import Any, Callable
+from typing import Any
 
-from src import supplier, woocommerce
+from src import woocommerce
 from src.pricing import format_price
-from src.sync_common import SyncRunnerConfig, exit_with_sync_result, normalize_sku
-from src.sync_engine import ComparisonResult, ProductChange, compare_products
-
-
-def resolve_callable(
-    module: Any,
-    possible_names: tuple[str, ...],
-    description: str,
-) -> Callable[..., Any]:
-    """
-    Atrod modulī pirmo pieejamo funkciju no norādītajiem nosaukumiem.
-
-    Tas ļauj saglabāt savietojamību, ja produktu ielādes funkcijas
-    nosaukums dažādās projekta versijās nedaudz atšķiras.
-    """
-    for name in possible_names:
-        candidate = getattr(module, name, None)
-
-        if callable(candidate):
-            return candidate
-
-    searched_names = ", ".join(possible_names)
-
-    raise RuntimeError(
-        f"Modulī {module.__name__} neatradu funkciju: {description}. "
-        f"Meklētie nosaukumi: {searched_names}."
-    )
-
-
-def load_supplier_products() -> list[dict[str, Any]]:
-    """
-    Ielādē visus piegādātāja produktus.
-    """
-    loader = resolve_callable(
-        module=supplier,
-        possible_names=(
-            "load_products",
-            "load_supplier_products",
-            "get_products",
-        ),
-        description="piegādātāja produktu ielādei",
-    )
-
-    products = loader()
-
-    if products is None:
-        return []
-
-    return list(products)
-
-
-def load_woocommerce_products() -> list[dict[str, Any]]:
-    """
-    Ielādē visus WooCommerce produktus.
-    """
-    loader = resolve_callable(
-        module=woocommerce,
-        possible_names=(
-            "load_products",
-            "load_woocommerce_products",
-            "get_products",
-        ),
-        description="WooCommerce produktu ielādei",
-    )
-
-    products = loader()
-
-    if products is None:
-        return []
-
-    return list(products)
+from src.product_loaders import (
+    load_supplier_products,
+    load_woocommerce_products,
+)
+from src.sync_common import (
+    SyncRunnerConfig,
+    normalize_sku,
+    run_sync,
+)
+from src.sync_engine import (
+    ComparisonResult,
+    ProductChange,
+    compare_products,
+)
 
 
 def select_price_changes(
     result: ComparisonResult,
 ) -> list[ProductChange]:
     """
-    No pilnā salīdzinājuma rezultāta atlasa tikai cenu izmaiņas.
+    No pilnā produktu salīdzinājuma atlasa tikai cenu izmaiņas.
     """
     return result.price_changes
 
@@ -194,7 +137,7 @@ def print_unchanged_products(
 
 def build_config() -> SyncRunnerConfig:
     """
-    Izveido cenu sinhronizācijas konfigurāciju SyncRunner frameworkam.
+    Izveido cenu sinhronizācijas konfigurāciju.
     """
     return SyncRunnerConfig(
         name="WooCommerce cenu sinhronizācija",
@@ -216,13 +159,20 @@ def build_config() -> SyncRunnerConfig:
     )
 
 
-def main() -> None:
+def run() -> int:
     """
-    Palaiž cenu sinhronizāciju.
+    Palaiž cenu sinhronizāciju un atgriež rezultāta kodu.
     """
-    exit_with_sync_result(
+    return run_sync(
         config=build_config(),
     )
+
+
+def main() -> None:
+    """
+    Palaiž cenu sinhronizāciju kā termināļa komandu.
+    """
+    sys.exit(run())
 
 
 if __name__ == "__main__":

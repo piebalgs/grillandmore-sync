@@ -1,126 +1,198 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "3401323",
   "assets": [
     {
       "asset_id": "w7bsxbpb86kjnptwq86tcvp",
       "asset_name": "Weber Works Tool Holster",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "2mbch46j3pf5kwmtxptjcjvm",
       "asset_name": "WW Tool Holster",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "wp4c5wtw9zj8c45cxqf5p6m",
       "asset_name": "WW Tool Holster",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "hr9m5fjmrxhhhrsnrnh5pnk",
       "asset_name": "WW Tool Holster",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "7rxqjzhxrg57rf4k4xb3v2j",
       "asset_name": "WW Tool Holster",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "bh5wp9tq4c7b6nss86ww4zc9",
       "asset_name": "WW Tool Holster",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "ch6hzjhp92wb8sm4bww4jz",
       "asset_name": "ENUS WeberWorksToolHolder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "mfgxncnq7phbxhpx67hgp53",
       "asset_name": "[cze] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "c5w3kq4h7fthp48cbc7pjggf",
       "asset_name": "[dan] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "q5w8m52z5j6zcmnmnffh3jw",
       "asset_name": "[dut-NL] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "vgsf43z8csz4q8zwzpfksx6",
       "asset_name": "[eng-GB] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "v74jcrwqm5nrwsgk9fk9m",
       "asset_name": "[fin] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "h6b8t4m96ktfn4qc8xkt3q",
       "asset_name": "[fre-FR] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "gtvpn7mp52wfq2xnc4shw2c",
       "asset_name": "[ger-DE] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "4jqvx38zcs7qfw635mwwzfr",
       "asset_name": "[hrv] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "xzmg5qfz7cjhmh8vnhkvq3b8",
       "asset_name": "[ita-IT] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "s78w8k38kjkx3srhsztkcv3j",
       "asset_name": "[no] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "nz3t5tg75svj4r8fsh4xfhn",
       "asset_name": "[pol] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "95xs8jrng5ksj56gb76c5vz",
       "asset_name": "[por-PT] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "mgmfmztsq8b9p4vmjrkrbq",
       "asset_name": "[sk] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "x8g5cw49j576jrbt4644cfn",
       "asset_name": "[slv] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "9zkv66gfw4hs5s9g36jkz86",
       "asset_name": "[spa-ES] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "vw933h4p89rvhcmxrf3w8nff",
       "asset_name": "[swe-SE] Weber Works Tool Holder MasterCopy",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     },
     {
       "asset_id": "sngkkh2qfmq67rh5xrqwh9j",
       "asset_name": "8658140 9501719 0126 RevD KH OL",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "3401323"
+      ]
     }
   ],
   "images": [
@@ -131,10 +203,12 @@
       "position": 0,
       "width": 3000,
       "height": 3000,
+      "size": 1355605,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kqv9prz89kh2w74wwhr5fwp/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kqv9prz89kh2w74wwhr5fwp/v/1293766187/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_A_rgb.png?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=wAb_NagspTgeRNMGhIbGaX75c5o=",
-      "url": "https://storage-us-gcs.bfldr.com/kqv9prz89kh2w74wwhr5fwp/v/1293766187/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_A_rgb.png?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=wAb_NagspTgeRNMGhIbGaX75c5o="
+      "original_url": "https://storage-us-gcs.bfldr.com/kqv9prz89kh2w74wwhr5fwp/v/1293766187/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_A_rgb.png?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=Hqudam-7rVmEFAE4iy0qrmC2jhs=",
+      "url": "https://storage-us-gcs.bfldr.com/kqv9prz89kh2w74wwhr5fwp/v/1293766187/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_A_rgb.png?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=Hqudam-7rVmEFAE4iy0qrmC2jhs="
     },
     {
       "attachment_id": "cjqz8wcsbm258q7z69cwqtj",
@@ -143,10 +217,12 @@
       "position": 1,
       "width": 3000,
       "height": 3000,
+      "size": 1808495,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cjqz8wcsbm258q7z69cwqtj/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cjqz8wcsbm258q7z69cwqtj/v/1293766189/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_B_rgb.png?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=uV60ehV7cYHT7W-bcUP5luUsxtg=",
-      "url": "https://storage-us-gcs.bfldr.com/cjqz8wcsbm258q7z69cwqtj/v/1293766189/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_B_rgb.png?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=uV60ehV7cYHT7W-bcUP5luUsxtg="
+      "original_url": "https://storage-us-gcs.bfldr.com/cjqz8wcsbm258q7z69cwqtj/v/1293766189/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_B_rgb.png?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=xjcJ4Y4Rq_F6fDXMNNI5GK1wYD8=",
+      "url": "https://storage-us-gcs.bfldr.com/cjqz8wcsbm258q7z69cwqtj/v/1293766189/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_B_rgb.png?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=xjcJ4Y4Rq_F6fDXMNNI5GK1wYD8="
     },
     {
       "attachment_id": "4f34jkv4snc69b8p9rwbgg6j",
@@ -155,10 +231,12 @@
       "position": 2,
       "width": 3000,
       "height": 3000,
+      "size": 1041508,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4f34jkv4snc69b8p9rwbgg6j/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4f34jkv4snc69b8p9rwbgg6j/v/1293766191/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_C_rgb.png?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=_k8fr28u9mnBIbrQRSLPhoCtt6I=",
-      "url": "https://storage-us-gcs.bfldr.com/4f34jkv4snc69b8p9rwbgg6j/v/1293766191/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_C_rgb.png?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=_k8fr28u9mnBIbrQRSLPhoCtt6I="
+      "original_url": "https://storage-us-gcs.bfldr.com/4f34jkv4snc69b8p9rwbgg6j/v/1293766191/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_C_rgb.png?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=uAGZOwc8_cfQmSELlPLPiFVNVrU=",
+      "url": "https://storage-us-gcs.bfldr.com/4f34jkv4snc69b8p9rwbgg6j/v/1293766191/original/3401323-%20WEBER%20WORKS%20TOOL%20HOLSTER_C_rgb.png?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=uAGZOwc8_cfQmSELlPLPiFVNVrU="
     },
     {
       "attachment_id": "nqcbnpfbps4xspgvqjxb6v",
@@ -167,10 +245,12 @@
       "position": 0,
       "width": 7899,
       "height": 5266,
+      "size": 22012424,
+      "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nqcbnpfbps4xspgvqjxb6v/3401323_001_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nqcbnpfbps4xspgvqjxb6v/v/1293773960/original/3401323_001_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=dDfO4phmtAnge3BFYgZWRpJQxEg=",
-      "url": "https://storage-us-gcs.bfldr.com/nqcbnpfbps4xspgvqjxb6v/v/1293773960/original/3401323_001_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=dDfO4phmtAnge3BFYgZWRpJQxEg="
+      "original_url": "https://storage-us-gcs.bfldr.com/nqcbnpfbps4xspgvqjxb6v/v/1293773960/original/3401323_001_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=HKSkk46vu-oFMVfTOOkPb8fukqE=",
+      "url": "https://storage-us-gcs.bfldr.com/nqcbnpfbps4xspgvqjxb6v/v/1293773960/original/3401323_001_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=HKSkk46vu-oFMVfTOOkPb8fukqE="
     },
     {
       "attachment_id": "szsknchkvt9f69nj5585rr",
@@ -179,10 +259,12 @@
       "position": 0,
       "width": 7899,
       "height": 5266,
+      "size": 22802255,
+      "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/szsknchkvt9f69nj5585rr/3401323_001_WW%20Tool%20Holster_FY26_Global_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/szsknchkvt9f69nj5585rr/v/1293776002/original/3401323_001_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=g4qe_GcEse7sVovk-73JE2UZTsY=",
-      "url": "https://storage-us-gcs.bfldr.com/szsknchkvt9f69nj5585rr/v/1293776002/original/3401323_001_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=g4qe_GcEse7sVovk-73JE2UZTsY="
+      "original_url": "https://storage-us-gcs.bfldr.com/szsknchkvt9f69nj5585rr/v/1293776002/original/3401323_001_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=RH1zoASW7UJcMRT6I0BCDWZLoeM=",
+      "url": "https://storage-us-gcs.bfldr.com/szsknchkvt9f69nj5585rr/v/1293776002/original/3401323_001_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=RH1zoASW7UJcMRT6I0BCDWZLoeM="
     },
     {
       "attachment_id": "rqzm87z3vh6ctrq53sgcw",
@@ -191,10 +273,12 @@
       "position": 0,
       "width": 7899,
       "height": 5266,
+      "size": 24216275,
+      "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rqzm87z3vh6ctrq53sgcw/3401323_002_WW%20Tool%20Holster_FY26_Global_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rqzm87z3vh6ctrq53sgcw/v/1293776518/original/3401323_002_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=GBYRTtfrfGxEklinkdNIcnK0UAc=",
-      "url": "https://storage-us-gcs.bfldr.com/rqzm87z3vh6ctrq53sgcw/v/1293776518/original/3401323_002_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=GBYRTtfrfGxEklinkdNIcnK0UAc="
+      "original_url": "https://storage-us-gcs.bfldr.com/rqzm87z3vh6ctrq53sgcw/v/1293776518/original/3401323_002_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=MRbOnIZz9z1dw0cbmDseGfKOnSg=",
+      "url": "https://storage-us-gcs.bfldr.com/rqzm87z3vh6ctrq53sgcw/v/1293776518/original/3401323_002_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=MRbOnIZz9z1dw0cbmDseGfKOnSg="
     },
     {
       "attachment_id": "tb6jbmmm6fchj9qjwtbn32h",
@@ -203,10 +287,12 @@
       "position": 0,
       "width": 7899,
       "height": 5266,
+      "size": 24554503,
+      "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tb6jbmmm6fchj9qjwtbn32h/3401323_003_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tb6jbmmm6fchj9qjwtbn32h/v/1293776759/original/3401323_003_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=9zV-G3XoSKFftvuCPs49Pmoqfio=",
-      "url": "https://storage-us-gcs.bfldr.com/tb6jbmmm6fchj9qjwtbn32h/v/1293776759/original/3401323_003_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=9zV-G3XoSKFftvuCPs49Pmoqfio="
+      "original_url": "https://storage-us-gcs.bfldr.com/tb6jbmmm6fchj9qjwtbn32h/v/1293776759/original/3401323_003_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=cDK6aj7OydLRTrgvPw6-PWKElKA=",
+      "url": "https://storage-us-gcs.bfldr.com/tb6jbmmm6fchj9qjwtbn32h/v/1293776759/original/3401323_003_WW%20Tool%20Holster_FY26_Global_ALT_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=cDK6aj7OydLRTrgvPw6-PWKElKA="
     },
     {
       "attachment_id": "j6ppk9p4hf8cmrbtvbb6v755",
@@ -215,10 +301,12 @@
       "position": 0,
       "width": 7899,
       "height": 5266,
+      "size": 24711958,
+      "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j6ppk9p4hf8cmrbtvbb6v755/3401323_003_WW%20Tool%20Holster_FY26_Global_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/j6ppk9p4hf8cmrbtvbb6v755/v/1293776895/original/3401323_003_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=1iPfgFJhQPI8jBXy6jGBBNc45sg=",
-      "url": "https://storage-us-gcs.bfldr.com/j6ppk9p4hf8cmrbtvbb6v755/v/1293776895/original/3401323_003_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784296123&KeyName=gcs-bfldr-prod&Signature=1iPfgFJhQPI8jBXy6jGBBNc45sg="
+      "original_url": "https://storage-us-gcs.bfldr.com/j6ppk9p4hf8cmrbtvbb6v755/v/1293776895/original/3401323_003_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=H0WKyw8y02ns10gCEi5YQK3QpiM=",
+      "url": "https://storage-us-gcs.bfldr.com/j6ppk9p4hf8cmrbtvbb6v755/v/1293776895/original/3401323_003_WW%20Tool%20Holster_FY26_Global_rgb.jpg?Expires=1784652451&KeyName=gcs-bfldr-prod&Signature=H0WKyw8y02ns10gCEi5YQK3QpiM="
     }
   ]
 }

@@ -127,8 +127,8 @@
       "asset_name": "[AUNZ/EMEA] Weber Family Q3200N+ Rotisserie",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400244",
-        "3400860"
+        "3400860",
+        "3400244"
       ]
     },
     {
@@ -161,8 +161,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nm64tv997grg7fbtn525hnmw/3400244_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nm64tv997grg7fbtn525hnmw/v/1273786964/original/3400244_C_rgb.png?Expires=1784303025&KeyName=gcs-bfldr-prod&Signature=bPN1CUhOaSZu-U1ES9Ai5l8n7Ds=",
-      "url": "https://storage-us-gcs.bfldr.com/nm64tv997grg7fbtn525hnmw/v/1273786964/original/3400244_C_rgb.png?Expires=1784303025&KeyName=gcs-bfldr-prod&Signature=bPN1CUhOaSZu-U1ES9Ai5l8n7Ds="
+      "original_url": "https://storage-us-gcs.bfldr.com/nm64tv997grg7fbtn525hnmw/v/1273786964/original/3400244_C_rgb.png?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=9kN1miT-d5-jTxEgSuWO_3E_KL0=",
+      "url": "https://storage-us-gcs.bfldr.com/nm64tv997grg7fbtn525hnmw/v/1273786964/original/3400244_C_rgb.png?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=9kN1miT-d5-jTxEgSuWO_3E_KL0="
     },
     {
       "attachment_id": "bmgmfns6qjbvpqb47p6v2hkg",
@@ -175,8 +175,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bmgmfns6qjbvpqb47p6v2hkg/3400244_M_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bmgmfns6qjbvpqb47p6v2hkg/v/1273786966/original/3400244_M_EMEA_rgb.jpg?Expires=1784303025&KeyName=gcs-bfldr-prod&Signature=fpt2GFdL60kPjMjqrSSpQEdBsCg=",
-      "url": "https://storage-us-gcs.bfldr.com/bmgmfns6qjbvpqb47p6v2hkg/v/1273786966/original/3400244_M_EMEA_rgb.jpg?Expires=1784303025&KeyName=gcs-bfldr-prod&Signature=fpt2GFdL60kPjMjqrSSpQEdBsCg="
+      "original_url": "https://storage-us-gcs.bfldr.com/bmgmfns6qjbvpqb47p6v2hkg/v/1273786966/original/3400244_M_EMEA_rgb.jpg?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=bY93QKOUFbViz8-8kwH6zta_VJw=",
+      "url": "https://storage-us-gcs.bfldr.com/bmgmfns6qjbvpqb47p6v2hkg/v/1273786966/original/3400244_M_EMEA_rgb.jpg?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=bY93QKOUFbViz8-8kwH6zta_VJw="
     }
   ]
 }

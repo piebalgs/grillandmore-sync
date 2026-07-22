@@ -1,274 +1,1145 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1501662",
   "assets": [
     {
       "asset_id": "fgmh5n45858gttzwjj33h5",
       "asset_name": "[EMEA] Lumin Smart/Compact- Setup Frozen",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502042",
+        "1500695",
+        "1500700",
+        "1500691",
+        "1502052",
+        "1501662",
+        "1500708",
+        "1502019",
+        "1500701",
+        "1500690",
+        "1502047",
+        "1500705",
+        "1502053",
+        "1500683",
+        "1502043",
+        "1501663",
+        "1500707",
+        "1500696",
+        "1500702",
+        "1502039",
+        "1501643",
+        "1501670",
+        "1500693",
+        "1500699",
+        "1500703",
+        "1501664",
+        "1501665",
+        "1501659",
+        "1502060",
+        "1501642",
+        "1500684",
+        "1502015",
+        "1502018",
+        "1500706",
+        "1501671",
+        "1500694",
+        "1500704",
+        "1502014",
+        "1500682",
+        "1502046",
+        "1500692",
+        "1501658",
+        "1500679",
+        "1500685"
+      ]
     },
     {
       "asset_id": "pt5j946cm7mb86chj9ngp7x",
       "asset_name": "[EMEA] Lumin Smart/Compact- Setup to Sear",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502042",
+        "1500704",
+        "1500707",
+        "1500702",
+        "1501658",
+        "1500693",
+        "1501670",
+        "1501659",
+        "1500701",
+        "1500708",
+        "1500695",
+        "1502047",
+        "1500679",
+        "1500682",
+        "1500685",
+        "1500699",
+        "1502015",
+        "1501643",
+        "1501663",
+        "1502060",
+        "1501664",
+        "1502039",
+        "1502046",
+        "1500696",
+        "1502053",
+        "1500691",
+        "1501665",
+        "1502043",
+        "1500703",
+        "1502052",
+        "1502014",
+        "1500684",
+        "1500700",
+        "1500705",
+        "1500690",
+        "1500694",
+        "1500683",
+        "1500692",
+        "1501662",
+        "1501671",
+        "1502018",
+        "1502019",
+        "1501642",
+        "1500706"
+      ]
     },
     {
       "asset_id": "cc8mggfhcfjvvvwn9gqh7w5",
       "asset_name": "[EMEA] Lumin Smart/Compact- Setup Smoke",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501671",
+        "1502014",
+        "1500685",
+        "1500690",
+        "1500701",
+        "1502042",
+        "1500704",
+        "1501665",
+        "1502018",
+        "1502060",
+        "1502019",
+        "1500703",
+        "1501643",
+        "1501670",
+        "1502047",
+        "1500694",
+        "1501664",
+        "1500707",
+        "1502046",
+        "1500699",
+        "1501662",
+        "1500693",
+        "1501659",
+        "1500695",
+        "1500679",
+        "1500684",
+        "1500708",
+        "1500683",
+        "1500696",
+        "1500700",
+        "1502052",
+        "1502053",
+        "1500682",
+        "1501663",
+        "1502039",
+        "1502015",
+        "1501642",
+        "1501658",
+        "1500702",
+        "1500706",
+        "1502043",
+        "1500705",
+        "1500691",
+        "1500692"
+      ]
     },
     {
       "asset_id": "ssbp5qsv8tsk4vbk46t7pkv7",
       "asset_name": "[EMEA] Lumin Smart/Compact- Setup to Steam",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500693",
+        "1500696",
+        "1500682",
+        "1500704",
+        "1502014",
+        "1501664",
+        "1501670",
+        "1501659",
+        "1500695",
+        "1500708",
+        "1500691",
+        "1500684",
+        "1502043",
+        "1500700",
+        "1500694",
+        "1502018",
+        "1500683",
+        "1502052",
+        "1501658",
+        "1502046",
+        "1500706",
+        "1501643",
+        "1500701",
+        "1500679",
+        "1502042",
+        "1500705",
+        "1502047",
+        "1501662",
+        "1500690",
+        "1500699",
+        "1500702",
+        "1500703",
+        "1502053",
+        "1500692",
+        "1500685",
+        "1500707",
+        "1502039",
+        "1501642",
+        "1501671",
+        "1501665",
+        "1502015",
+        "1501663",
+        "1502060",
+        "1502019"
+      ]
     },
     {
       "asset_id": "hvtgc69pjph6vhfk96mcct8q",
       "asset_name": "[EMEA] How to Pair Lumin Smart/Compact",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501665",
+        "1501663",
+        "1500700",
+        "1500707",
+        "1500692",
+        "1500685",
+        "1501670",
+        "1501664",
+        "1501642",
+        "1500684",
+        "1500706",
+        "1501643",
+        "1500683",
+        "1500702",
+        "1500691",
+        "1500701",
+        "1500699",
+        "1502047",
+        "1501658",
+        "1500693",
+        "1502043",
+        "1502014",
+        "1500679",
+        "1501659",
+        "1500694",
+        "1502039",
+        "1500696",
+        "1500690",
+        "1502042",
+        "1502060",
+        "1502046",
+        "1502053",
+        "1502015",
+        "1500703",
+        "1501662",
+        "1502052",
+        "1500704",
+        "1500682",
+        "1500695",
+        "1502019",
+        "1500705",
+        "1500708",
+        "1501671",
+        "1502018"
+      ]
     },
     {
       "asset_id": "pvqk8x4vqtpnwwfpfm4gvjh",
       "asset_name": "[EMEA] How to set a Lumin Smart/Compact food probe target temperature",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500693",
+        "1501642",
+        "1501665",
+        "1500701",
+        "1500705",
+        "1502014",
+        "1501670",
+        "1502046",
+        "1502053",
+        "1502047",
+        "1500692",
+        "1500684",
+        "1501664",
+        "1500682",
+        "1500699",
+        "1500704",
+        "1500690",
+        "1500696",
+        "1502060",
+        "1501659",
+        "1500707",
+        "1500706",
+        "1500691",
+        "1500683",
+        "1501663",
+        "1500702",
+        "1502042",
+        "1500700",
+        "1501671",
+        "1502052",
+        "1502039",
+        "1502018",
+        "1502015",
+        "1502043",
+        "1502019",
+        "1500685",
+        "1501658",
+        "1501662",
+        "1500694",
+        "1500703",
+        "1501643",
+        "1500708",
+        "1500679",
+        "1500695"
+      ]
     },
     {
       "asset_id": "frv7hk28j9srpgjbm3hntpm",
       "asset_name": "[EMEA] How to set the Lumin Smart/Compact timer",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501642",
+        "1502043",
+        "1501664",
+        "1500706",
+        "1500701",
+        "1500704",
+        "1501663",
+        "1500703",
+        "1500692",
+        "1500691",
+        "1500699",
+        "1500685",
+        "1502019",
+        "1500696",
+        "1501659",
+        "1500707",
+        "1501665",
+        "1500695",
+        "1500683",
+        "1501658",
+        "1501670",
+        "1502015",
+        "1500682",
+        "1500694",
+        "1500684",
+        "1502060",
+        "1502018",
+        "1500705",
+        "1501662",
+        "1500700",
+        "1500702",
+        "1500690",
+        "1502042",
+        "1502052",
+        "1502053",
+        "1502039",
+        "1500693",
+        "1500708",
+        "1502046",
+        "1502047",
+        "1501643",
+        "1501671",
+        "1500679",
+        "1502014"
+      ]
     },
     {
       "asset_id": "xxfntvbwvvtqh9wb49v6m9m",
       "asset_name": "[EMEA] How to use the Lumin Smart/Compact Smart controller",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501662",
+        "1500699",
+        "1501658",
+        "1501663",
+        "1500702",
+        "1500694",
+        "1502014",
+        "1500693",
+        "1500703",
+        "1502052",
+        "1500706",
+        "1502042",
+        "1500691",
+        "1502047",
+        "1502039",
+        "1502060",
+        "1501670",
+        "1500685",
+        "1500692",
+        "1501659",
+        "1502046",
+        "1501665",
+        "1500684",
+        "1501642",
+        "1500682",
+        "1501643",
+        "1500690",
+        "1500705",
+        "1500700",
+        "1501671",
+        "1500701",
+        "1502043",
+        "1500679",
+        "1501664",
+        "1500696",
+        "1500683",
+        "1500708",
+        "1500695",
+        "1502053",
+        "1502019",
+        "1502018",
+        "1502015",
+        "1500707",
+        "1500704"
+      ]
     },
     {
       "asset_id": "hnf6z8tv5s5cm3zr773786j",
       "asset_name": "[EMEA] How to set Lumin Smart/Compact Temp",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1500682",
+        "1500691",
+        "1500707",
+        "1502053",
+        "1501658",
+        "1502039",
+        "1501665",
+        "1500694",
+        "1500696",
+        "1500693",
+        "1501671",
+        "1500685",
+        "1501662",
+        "1500700",
+        "1502046",
+        "1502018",
+        "1500695",
+        "1501659",
+        "1501670",
+        "1500684",
+        "1501643",
+        "1502060",
+        "1500708",
+        "1500705",
+        "1502052",
+        "1502015",
+        "1502047",
+        "1502043",
+        "1500701",
+        "1500704",
+        "1500690",
+        "1500692",
+        "1500679",
+        "1501663",
+        "1500703",
+        "1500683",
+        "1500706",
+        "1501664",
+        "1501642",
+        "1500702",
+        "1502042",
+        "1500699",
+        "1502014",
+        "1502019"
+      ]
     },
     {
       "asset_id": "5brg695kww7vr9wb8gtq",
       "asset_name": "[EMEA] Lumin Smart + Fixed Stand",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501658",
+        "1501662",
+        "1501670",
+        "1501642",
+        "1501664"
+      ]
     },
     {
       "asset_id": "p6h97nm3bb3vh4xb3jjpmkw",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502046",
+        "1502042",
+        "1502052",
+        "1501642",
+        "1501664",
+        "1501662",
+        "1501658",
+        "1502014",
+        "1502039",
+        "1502018"
+      ]
     },
     {
       "asset_id": "77bs7b2v78fmxbrpcqpx6m29",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502046",
+        "1502042",
+        "1502052",
+        "1502018",
+        "1501664",
+        "1502039",
+        "1501642",
+        "1501658",
+        "1501662",
+        "1502014"
+      ]
     },
     {
       "asset_id": "2xn9b2rnkm33kx3rh25vnxb",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501662",
+        "1501664",
+        "1501658",
+        "1501642",
+        "1502046",
+        "1502042",
+        "1502014",
+        "1502039",
+        "1502052",
+        "1502018"
+      ]
     },
     {
       "asset_id": "t5pgrqbscpmqfxr6cp6556px",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501658",
+        "1502046",
+        "1501642",
+        "1502018",
+        "1501662",
+        "1502042",
+        "1502052",
+        "1502014",
+        "1502039",
+        "1501664"
+      ]
     },
     {
       "asset_id": "v84s6swrgj78393rm98cpk2p",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502039",
+        "1502042",
+        "1502018",
+        "1501642",
+        "1502046",
+        "1501664",
+        "1501662",
+        "1501658",
+        "1502014",
+        "1502052"
+      ]
     },
     {
       "asset_id": "f7jcrrp7qrwpm93hxfp8hf9",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502042",
+        "1501642",
+        "1501662",
+        "1501658",
+        "1502039",
+        "1502046",
+        "1502014",
+        "1502052",
+        "1501664",
+        "1502018"
+      ]
     },
     {
       "asset_id": "3f8n4n8tvxtccg786v3pf97",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502014",
+        "1501664",
+        "1501658",
+        "1502042",
+        "1502052",
+        "1502018",
+        "1502046",
+        "1501662",
+        "1501642",
+        "1502039"
+      ]
     },
     {
       "asset_id": "vt4hrvtmqx44cx37fthrr4kt",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501642",
+        "1502018",
+        "1502046",
+        "1501658",
+        "1502039",
+        "1502042",
+        "1501664",
+        "1501662",
+        "1502014",
+        "1502052"
+      ]
     },
     {
       "asset_id": "mfbzqgv9sgbc2tjrmwt9v4kh",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501662",
+        "1502052",
+        "1501642",
+        "1501658",
+        "1501664",
+        "1502014",
+        "1502042",
+        "1502046",
+        "1502039",
+        "1502018"
+      ]
     },
     {
       "asset_id": "6bv3f24rg95gj4xfvmxbkg8",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502039",
+        "1502014",
+        "1501658",
+        "1502052",
+        "1501642",
+        "1502018",
+        "1501662",
+        "1501664",
+        "1502046",
+        "1502042"
+      ]
     },
     {
       "asset_id": "457svb63w5vkhkvfsghccz",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502014",
+        "1501658",
+        "1501664",
+        "1502018",
+        "1502046",
+        "1502052",
+        "1501642",
+        "1501662",
+        "1502042",
+        "1502039"
+      ]
     },
     {
       "asset_id": "bjr4v9kx5cn997rsr56bp74",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501662",
+        "1501658",
+        "1502039",
+        "1502052",
+        "1502014",
+        "1501642",
+        "1502046",
+        "1502042",
+        "1502018",
+        "1501664"
+      ]
     },
     {
       "asset_id": "2vf69h9f73nt2q684p2ccv",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501662",
+        "1502046",
+        "1502014",
+        "1502042",
+        "1501642",
+        "1502052",
+        "1502039",
+        "1501658",
+        "1501664",
+        "1502018"
+      ]
     },
     {
       "asset_id": "27hvqr636j38x2b3ctmnz6j",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502046",
+        "1502018",
+        "1502039",
+        "1501662",
+        "1502052",
+        "1501664",
+        "1501642",
+        "1501658",
+        "1502014",
+        "1502042"
+      ]
     },
     {
       "asset_id": "bh4rbn974kgb5v3mbz8c79qv",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502052",
+        "1502014",
+        "1502046",
+        "1501658",
+        "1501642",
+        "1501662",
+        "1502042",
+        "1502039",
+        "1502018",
+        "1501664"
+      ]
     },
     {
       "asset_id": "9x9rgng88hfrvr86k9p4fqs",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502052",
+        "1502018",
+        "1501658",
+        "1501662",
+        "1502046",
+        "1502042",
+        "1501642",
+        "1502039",
+        "1502014",
+        "1501664"
+      ]
     },
     {
       "asset_id": "5gmthx8q3hkrsrs4q83mn5w",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502039",
+        "1502046",
+        "1501662",
+        "1501642",
+        "1502042",
+        "1502052",
+        "1501658",
+        "1501664",
+        "1502018",
+        "1502014"
+      ]
     },
     {
       "asset_id": "gkg8mwj4s79pcn3p7br8rx29",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502042",
+        "1502046",
+        "1502014",
+        "1501642",
+        "1501664",
+        "1502052",
+        "1502039",
+        "1501658",
+        "1501662",
+        "1502018"
+      ]
     },
     {
       "asset_id": "sccg58tp2mqgffh7kznb8ffh",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502039",
+        "1501662",
+        "1501642",
+        "1501658",
+        "1502052",
+        "1502042",
+        "1502046",
+        "1501664",
+        "1502018",
+        "1502014"
+      ]
     },
     {
       "asset_id": "3jn5p325jw77sj7r9whcbxpr",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502039",
+        "1502052",
+        "1501662",
+        "1501664",
+        "1501658",
+        "1502042",
+        "1501642",
+        "1502046",
+        "1502014",
+        "1502018"
+      ]
     },
     {
       "asset_id": "g3287vq8ngxb6xfsmr3x5pc",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502046",
+        "1501664",
+        "1501662",
+        "1502052",
+        "1502039",
+        "1502018",
+        "1501658",
+        "1502014",
+        "1502042",
+        "1501642"
+      ]
     },
     {
       "asset_id": "bxcn3qgx5m75kx3t4zs4tq89",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502052",
+        "1501662",
+        "1501664",
+        "1502042",
+        "1502046",
+        "1502014",
+        "1502018",
+        "1501658",
+        "1502039",
+        "1501642"
+      ]
     },
     {
       "asset_id": "njhbq9rmrfm8q82n9qrnvbjv",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502039",
+        "1501662",
+        "1501658",
+        "1502042",
+        "1502018",
+        "1502046",
+        "1502014",
+        "1501664",
+        "1502052",
+        "1501642"
+      ]
     },
     {
       "asset_id": "x3k35xf9p48xjj8fjfmnftm",
       "asset_name": "[EMEA] Lumin Smart",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1502018",
+        "1502039",
+        "1502014",
+        "1501664",
+        "1502042",
+        "1501662",
+        "1501658",
+        "1502052",
+        "1501642",
+        "1502046"
+      ]
     },
     {
       "asset_id": "6qhwzx98tfrsnj5cj64nzc6",
       "asset_name": "(en-US) Lumin Smart Electric Grill with Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501658",
+        "1500703",
+        "1500696",
+        "1501664",
+        "1500691",
+        "1500706",
+        "1501642",
+        "1501662",
+        "1501670",
+        "1500685"
+      ]
     },
     {
       "asset_id": "257hnvhz7n2bskbhfnv9gpr",
       "asset_name": "enEMEA Lumin SMART Electric Grill With Stand MasterCopyDoc FY26 FINAL[24]",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501670",
+        "1501664",
+        "1501642",
+        "1501658",
+        "1501662"
+      ]
     },
     {
       "asset_id": "m96zrpq32kb3g6qct3gswftm",
       "asset_name": "[cze] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501664",
+        "1501662",
+        "1501670",
+        "1501658",
+        "1501642"
+      ]
     },
     {
       "asset_id": "xr5p96rbss74bssmwm5h9m6",
       "asset_name": "[dan] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501658",
+        "1501662",
+        "1501642",
+        "1501670",
+        "1501664"
+      ]
     },
     {
       "asset_id": "rk7vggn3whfkjqssbh2z9s",
       "asset_name": "[dut-NL] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501670",
+        "1501664",
+        "1501658",
+        "1501642",
+        "1501662"
+      ]
     },
     {
       "asset_id": "w3xmcc5gw78hknh7tbbbf4t",
       "asset_name": "[en-GB] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501670",
+        "1501658",
+        "1501642",
+        "1501662",
+        "1501664"
+      ]
     },
     {
       "asset_id": "sjxmxrq8v9jvcwjqjks75bsf",
       "asset_name": "[fin] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501658",
+        "1501670",
+        "1501642",
+        "1501662",
+        "1501664"
+      ]
     },
     {
       "asset_id": "snnxg7bhwwt4ff4qxj4thkvx",
       "asset_name": "[fre-FR] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501664",
+        "1501662",
+        "1501658",
+        "1501670",
+        "1501642"
+      ]
     },
     {
       "asset_id": "skcfp8c7kf8j9ngvv6pt638",
       "asset_name": "[ger-DE] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501664",
+        "1501662",
+        "1501658",
+        "1501670",
+        "1501642"
+      ]
     },
     {
       "asset_id": "n5fmj79mv955wg3k86bb335n",
       "asset_name": "[hrv] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501664",
+        "1501658",
+        "1501642",
+        "1501670",
+        "1501662"
+      ]
     },
     {
       "asset_id": "7fvcc8npjbfrwxfbcc3g3svg",
       "asset_name": "[ita-IT] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501670",
+        "1501642",
+        "1501662",
+        "1501658",
+        "1501664"
+      ]
     },
     {
       "asset_id": "n8s3wqjb93jfb4r3b7m9j8k",
       "asset_name": "[no] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501658",
+        "1501662",
+        "1501670",
+        "1501664",
+        "1501642"
+      ]
     },
     {
       "asset_id": "nzhft93z5kgp3vmw6bt3z8f",
       "asset_name": "[pol] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501642",
+        "1501670",
+        "1501658",
+        "1501664",
+        "1501662"
+      ]
     },
     {
       "asset_id": "jzcq9wrtcq2gnpqjhtch9wk",
       "asset_name": "[por-PT] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501664",
+        "1501662",
+        "1501658",
+        "1501670",
+        "1501642"
+      ]
     },
     {
       "asset_id": "3bv9377479fbhzq9vjvskmsk",
       "asset_name": "[sk] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501670",
+        "1501664",
+        "1501662",
+        "1501658",
+        "1501642"
+      ]
     },
     {
       "asset_id": "p3vsjm7q9385bb9kw67cpw",
       "asset_name": "[slv] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501658",
+        "1501642",
+        "1501664",
+        "1501670",
+        "1501662"
+      ]
     },
     {
       "asset_id": "trrj7tr9zfxjc5qnp7v7q54",
       "asset_name": "[spa-ES] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501658",
+        "1501670",
+        "1501642",
+        "1501664",
+        "1501662"
+      ]
     },
     {
       "asset_id": "fbx69xr4whrthxp3f9bmbhs7",
       "asset_name": "[swe-SV] Lumin Smart Electric Grill With Stand MasterCopy EMEA",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501662",
+        "1501664",
+        "1501658",
+        "1501670",
+        "1501642"
+      ]
     },
     {
       "asset_id": "rrn4hjj869w7xzwhs4chcgkk",
       "asset_name": "[EMEA] Lumin Smart + Fixed Stand",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501662"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "qwvz5q2b7xhxgvcn8hjrrb7f",
+      "filename": "6612_017_LUMINW_STAND_GRIDDLEINSERT_FY25_EMEA.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5887,
+      "height": 3925,
+      "size": 4050297,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qwvz5q2b7xhxgvcn8hjrrb7f/6612_017_LUMINW_STAND_GRIDDLEINSERT_FY25_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qwvz5q2b7xhxgvcn8hjrrb7f/v/1279200542/original/6612_017_LUMINW_STAND_GRIDDLEINSERT_FY25_EMEA.jpg?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=NTExPG1vcS32szSSnFLaMi8otOw=",
+      "url": "https://storage-us-gcs.bfldr.com/qwvz5q2b7xhxgvcn8hjrrb7f/v/1279200542/original/6612_017_LUMINW_STAND_GRIDDLEINSERT_FY25_EMEA.jpg?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=NTExPG1vcS32szSSnFLaMi8otOw="
+    },
+    {
+      "attachment_id": "79vtcb2j8hfc5wtcrtw2rmc",
+      "filename": "1501662_LifeStyle.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8192,
+      "height": 5464,
+      "size": 41764583,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/79vtcb2j8hfc5wtcrtw2rmc/1501662_LifeStyle.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/79vtcb2j8hfc5wtcrtw2rmc/v/1355795404/original/1501662_LifeStyle.jpg?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=mpNITxgAK1sdWZgINUAh29ZUMjg=",
+      "url": "https://storage-us-gcs.bfldr.com/79vtcb2j8hfc5wtcrtw2rmc/v/1355795404/original/1501662_LifeStyle.jpg?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=mpNITxgAK1sdWZgINUAh29ZUMjg="
+    },
     {
       "attachment_id": "xx3w8vvnrjwkk2t4m2stpw",
       "filename": "1501662_LUMIN SMART_EMEA_ON STAND_LID OPEN WITH ACCS_rgb.png",
@@ -276,10 +1147,12 @@
       "position": 3,
       "width": 5000,
       "height": 5000,
+      "size": 3644920,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xx3w8vvnrjwkk2t4m2stpw/1501662_LUMIN%20SMART_EMEA_ON%20STAND_LID%20OPEN%20WITH%20ACCS_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xx3w8vvnrjwkk2t4m2stpw/v/1278528354/original/1501662_LUMIN%20SMART_EMEA_ON%20STAND_LID%20OPEN%20WITH%20ACCS_rgb.png?Expires=1784293761&KeyName=gcs-bfldr-prod&Signature=1CP2q-fO-JxMH93mbn0PtlhaPyY=",
-      "url": "https://storage-us-gcs.bfldr.com/xx3w8vvnrjwkk2t4m2stpw/v/1278528354/original/1501662_LUMIN%20SMART_EMEA_ON%20STAND_LID%20OPEN%20WITH%20ACCS_rgb.png?Expires=1784293761&KeyName=gcs-bfldr-prod&Signature=1CP2q-fO-JxMH93mbn0PtlhaPyY="
+      "original_url": "https://storage-us-gcs.bfldr.com/xx3w8vvnrjwkk2t4m2stpw/v/1278528354/original/1501662_LUMIN%20SMART_EMEA_ON%20STAND_LID%20OPEN%20WITH%20ACCS_rgb.png?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=l-jg3qaBokQaEfmOwlLzBEQEnOQ=",
+      "url": "https://storage-us-gcs.bfldr.com/xx3w8vvnrjwkk2t4m2stpw/v/1278528354/original/1501662_LUMIN%20SMART_EMEA_ON%20STAND_LID%20OPEN%20WITH%20ACCS_rgb.png?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=l-jg3qaBokQaEfmOwlLzBEQEnOQ="
     },
     {
       "attachment_id": "bx3mqkwbv96f76qq5fgggpv",
@@ -288,10 +1161,12 @@
       "position": 0,
       "width": 4800,
       "height": 4800,
+      "size": 3116295,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bx3mqkwbv96f76qq5fgggpv/1501662_LuminfixedstandsmartLumin_A_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bx3mqkwbv96f76qq5fgggpv/v/1276009646/original/1501662_LuminfixedstandsmartLumin_A_EMEA_rgb.png?Expires=1784293761&KeyName=gcs-bfldr-prod&Signature=gkpKnWwzLWGbn0hpH0NVwINcNOA=",
-      "url": "https://storage-us-gcs.bfldr.com/bx3mqkwbv96f76qq5fgggpv/v/1276009646/original/1501662_LuminfixedstandsmartLumin_A_EMEA_rgb.png?Expires=1784293761&KeyName=gcs-bfldr-prod&Signature=gkpKnWwzLWGbn0hpH0NVwINcNOA="
+      "original_url": "https://storage-us-gcs.bfldr.com/bx3mqkwbv96f76qq5fgggpv/v/1276009646/original/1501662_LuminfixedstandsmartLumin_A_EMEA_rgb.png?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=J1EXvEoJiPhAiZY8dwFWoEZTxjw=",
+      "url": "https://storage-us-gcs.bfldr.com/bx3mqkwbv96f76qq5fgggpv/v/1276009646/original/1501662_LuminfixedstandsmartLumin_A_EMEA_rgb.png?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=J1EXvEoJiPhAiZY8dwFWoEZTxjw="
     },
     {
       "attachment_id": "67ck2bqmpcbzcjp8npjbkjg",
@@ -300,10 +1175,12 @@
       "position": 1,
       "width": 4800,
       "height": 4800,
+      "size": 3226555,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/67ck2bqmpcbzcjp8npjbkjg/1501662_LuminfixedstandsmartLumin_B_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/67ck2bqmpcbzcjp8npjbkjg/v/1276009647/original/1501662_LuminfixedstandsmartLumin_B_EMEA_rgb.png?Expires=1784293761&KeyName=gcs-bfldr-prod&Signature=PFs4oyQ1XRJaD-ZF1MLwnly3Ovg=",
-      "url": "https://storage-us-gcs.bfldr.com/67ck2bqmpcbzcjp8npjbkjg/v/1276009647/original/1501662_LuminfixedstandsmartLumin_B_EMEA_rgb.png?Expires=1784293761&KeyName=gcs-bfldr-prod&Signature=PFs4oyQ1XRJaD-ZF1MLwnly3Ovg="
+      "original_url": "https://storage-us-gcs.bfldr.com/67ck2bqmpcbzcjp8npjbkjg/v/1276009647/original/1501662_LuminfixedstandsmartLumin_B_EMEA_rgb.png?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=7HcjjNXca7PuzGKBSEQviMz6iEc=",
+      "url": "https://storage-us-gcs.bfldr.com/67ck2bqmpcbzcjp8npjbkjg/v/1276009647/original/1501662_LuminfixedstandsmartLumin_B_EMEA_rgb.png?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=7HcjjNXca7PuzGKBSEQviMz6iEc="
     },
     {
       "attachment_id": "835p2sw83fjjz35tnxthg8f",
@@ -312,10 +1189,12 @@
       "position": 2,
       "width": 4800,
       "height": 4800,
+      "size": 2911245,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/835p2sw83fjjz35tnxthg8f/1501662_LuminfixedstandsmartLumin_C_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/835p2sw83fjjz35tnxthg8f/v/1276009648/original/1501662_LuminfixedstandsmartLumin_C_EMEA_rgb.png?Expires=1784293761&KeyName=gcs-bfldr-prod&Signature=-Yi1NBM7bKsLYPmzT_j3IbPvBd0=",
-      "url": "https://storage-us-gcs.bfldr.com/835p2sw83fjjz35tnxthg8f/v/1276009648/original/1501662_LuminfixedstandsmartLumin_C_EMEA_rgb.png?Expires=1784293761&KeyName=gcs-bfldr-prod&Signature=-Yi1NBM7bKsLYPmzT_j3IbPvBd0="
+      "original_url": "https://storage-us-gcs.bfldr.com/835p2sw83fjjz35tnxthg8f/v/1276009648/original/1501662_LuminfixedstandsmartLumin_C_EMEA_rgb.png?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=6T2VPGdyfEJpUsyGy_2GigNQo0Q=",
+      "url": "https://storage-us-gcs.bfldr.com/835p2sw83fjjz35tnxthg8f/v/1276009648/original/1501662_LuminfixedstandsmartLumin_C_EMEA_rgb.png?Expires=1784652362&KeyName=gcs-bfldr-prod&Signature=6T2VPGdyfEJpUsyGy_2GigNQo0Q="
     }
   ]
 }

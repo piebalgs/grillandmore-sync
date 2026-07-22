@@ -7,18 +7,18 @@
       "asset_name": "Slate 56cm Premium Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500229",
-        "1500252",
-        "1500237",
-        "1501460",
-        "1500570",
         "1500232",
-        "1501470",
-        "1500541",
-        "1500208",
-        "1500565",
+        "1500229",
+        "1500237",
+        "1500571",
         "1500244",
-        "1500571"
+        "1500252",
+        "1501460",
+        "1500565",
+        "1500208",
+        "1500541",
+        "1501470",
+        "1500570"
       ]
     },
     {
@@ -26,17 +26,17 @@
       "asset_name": "CZE Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500208",
-        "1500570",
-        "1500252",
-        "1500541",
-        "1501470",
-        "1500244",
+        "1500237",
         "1500571",
         "1500229",
+        "1500208",
         "1501460",
-        "1500237",
-        "1500232"
+        "1500232",
+        "1500570",
+        "1501470",
+        "1500541",
+        "1500244",
+        "1500252"
       ]
     },
     {
@@ -44,17 +44,17 @@
       "asset_name": "DAN Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500252",
-        "1500232",
-        "1500208",
-        "1500541",
+        "1500229",
         "1500244",
-        "1500570",
-        "1501460",
+        "1500252",
         "1500237",
         "1500571",
-        "1500229",
-        "1501470"
+        "1500208",
+        "1500541",
+        "1501470",
+        "1500232",
+        "1501460",
+        "1500570"
       ]
     },
     {
@@ -63,16 +63,16 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1500237",
-        "1500570",
-        "1500252",
-        "1501470",
-        "1500571",
-        "1500229",
+        "1500244",
         "1500208",
-        "1500541",
+        "1501470",
         "1501460",
+        "1500229",
+        "1500570",
         "1500232",
-        "1500244"
+        "1500252",
+        "1500541",
+        "1500571"
       ]
     },
     {
@@ -80,18 +80,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM ENVIROMENT 0766 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500229",
-        "1500244",
-        "1500252",
-        "1500570",
-        "1500571",
-        "1501460",
         "1500237",
         "1500232",
         "1500565",
-        "1501470",
+        "1500244",
+        "1500571",
         "1500208",
-        "1500541"
+        "1501460",
+        "1500541",
+        "1501470",
+        "1500252",
+        "1500229",
+        "1500570"
       ]
     },
     {
@@ -99,18 +99,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM ENVIROMENT 0766 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501470",
-        "1500252",
-        "1500232",
-        "1500570",
-        "1500237",
         "1500565",
-        "1500244",
-        "1500571",
         "1500229",
         "1500208",
+        "1500244",
+        "1500232",
+        "1500571",
+        "1501470",
+        "1500252",
+        "1500237",
+        "1501460",
         "1500541",
-        "1501460"
+        "1500570"
       ]
     },
     {
@@ -118,18 +118,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM ENVIROMENT 0767 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500252",
         "1500229",
+        "1500208",
         "1500571",
-        "1501470",
+        "1500565",
+        "1500244",
+        "1500232",
         "1500570",
-        "1500237",
         "1500541",
         "1501460",
-        "1500232",
-        "1500208",
-        "1500244",
-        "1500565"
+        "1501470",
+        "1500252",
+        "1500237"
       ]
     },
     {
@@ -137,18 +137,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM ENVIROMENT 0767 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500244",
         "1500571",
-        "1500229",
-        "1501470",
-        "1500232",
-        "1500565",
-        "1500208",
-        "1500252",
-        "1500541",
-        "1500237",
         "1500570",
-        "1501460"
+        "1501470",
+        "1500208",
+        "1500244",
+        "1500232",
+        "1500252",
+        "1501460",
+        "1500565",
+        "1500229",
+        "1500237",
+        "1500541"
       ]
     },
     {
@@ -156,18 +156,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM ENVIROMENT 0772 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1500232",
         "1500244",
+        "1500252",
+        "1501470",
         "1500570",
+        "1500565",
+        "1500541",
+        "1501460",
         "1500237",
         "1500208",
-        "1501470",
-        "1501460",
-        "1500232",
-        "1500252",
-        "1500565",
         "1500571",
-        "1500229",
-        "1500541"
+        "1500229"
       ]
     },
     {
@@ -175,17 +175,17 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM ENVIROMENT 0772 9x16",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500571",
-        "1500570",
-        "1500252",
-        "1500232",
-        "1501460",
-        "1500237",
-        "1500208",
-        "1501470",
-        "1500244",
         "1500541",
+        "1500232",
+        "1501470",
+        "1500570",
+        "1500571",
+        "1500208",
+        "1500252",
+        "1500237",
         "1500229",
+        "1500244",
+        "1501460",
         "1500565"
       ]
     },
@@ -194,18 +194,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM FOOD 0959 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500541",
-        "1500232",
-        "1500237",
-        "1501470",
+        "1500229",
+        "1500208",
         "1501460",
+        "1500232",
+        "1501470",
+        "1500237",
         "1500565",
+        "1500570",
         "1500252",
         "1500244",
-        "1500208",
-        "1500571",
-        "1500570",
-        "1500229"
+        "1500541",
+        "1500571"
       ]
     },
     {
@@ -213,18 +213,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM FOOD 0959 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500229",
+        "1500570",
+        "1500541",
+        "1500252",
+        "1501460",
         "1500208",
         "1500565",
         "1500237",
-        "1500541",
+        "1500229",
         "1500571",
         "1500232",
         "1501470",
-        "1501460",
-        "1500244",
-        "1500570",
-        "1500252"
+        "1500244"
       ]
     },
     {
@@ -232,18 +232,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM FOOD 1013 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500244",
-        "1500232",
-        "1500237",
         "1501470",
-        "1500571",
-        "1500570",
         "1500541",
         "1500252",
-        "1500565",
-        "1500229",
         "1500208",
-        "1501460"
+        "1500565",
+        "1500237",
+        "1500229",
+        "1501460",
+        "1500232",
+        "1500571",
+        "1500244",
+        "1500570"
       ]
     },
     {
@@ -251,18 +251,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM FOOD 1013 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501470",
-        "1500571",
         "1500237",
-        "1500229",
-        "1500208",
-        "1500570",
-        "1500252",
-        "1501460",
+        "1500565",
         "1500541",
         "1500244",
-        "1500565",
-        "1500232"
+        "1500232",
+        "1500571",
+        "1500229",
+        "1500570",
+        "1501460",
+        "1500208",
+        "1500252",
+        "1501470"
       ]
     },
     {
@@ -271,16 +271,16 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501470",
-        "1500229",
-        "1500237",
-        "1500571",
-        "1500541",
-        "1500570",
-        "1500208",
-        "1500252",
         "1501460",
+        "1500237",
+        "1500252",
         "1500565",
+        "1500229",
         "1500244",
+        "1500541",
+        "1500208",
+        "1500570",
+        "1500571",
         "1500232"
       ]
     },
@@ -289,18 +289,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM FOOD 1016 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500571",
-        "1500237",
         "1500252",
         "1500570",
-        "1501470",
+        "1500237",
+        "1500541",
         "1501460",
-        "1500565",
-        "1500244",
-        "1500232",
         "1500229",
+        "1500571",
         "1500208",
-        "1500541"
+        "1500565",
+        "1500232",
+        "1501470",
+        "1500244"
       ]
     },
     {
@@ -308,18 +308,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM FOOD 1021 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500237",
-        "1500565",
-        "1500208",
-        "1501470",
-        "1501460",
-        "1500571",
-        "1500541",
         "1500229",
-        "1500252",
-        "1500570",
+        "1500237",
         "1500232",
-        "1500244"
+        "1500565",
+        "1500252",
+        "1501470",
+        "1500244",
+        "1500571",
+        "1500208",
+        "1500570",
+        "1500541",
+        "1501460"
       ]
     },
     {
@@ -327,18 +327,18 @@
       "asset_name": "EMEA SLATE GRIDDLE 56CM FOOD 1021 1x1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500252",
-        "1500237",
         "1501460",
-        "1500570",
-        "1500565",
-        "1500244",
-        "1500571",
-        "1500208",
-        "1500232",
-        "1500541",
         "1501470",
-        "1500229"
+        "1500208",
+        "1500244",
+        "1500232",
+        "1500252",
+        "1500565",
+        "1500229",
+        "1500570",
+        "1500541",
+        "1500237",
+        "1500571"
       ]
     },
     {
@@ -346,17 +346,17 @@
       "asset_name": "ENGB Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500232",
-        "1501470",
         "1500208",
-        "1500237",
         "1500229",
-        "1500244",
+        "1500237",
         "1500571",
-        "1500541",
+        "1501470",
+        "1500244",
+        "1500570",
         "1501460",
+        "1500232",
         "1500252",
-        "1500570"
+        "1500541"
       ]
     },
     {
@@ -364,17 +364,17 @@
       "asset_name": "ES Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1500252",
         "1500571",
-        "1501460",
+        "1500570",
+        "1500541",
         "1500229",
         "1500237",
-        "1500244",
-        "1500541",
+        "1500232",
+        "1501460",
         "1501470",
-        "1500208",
-        "1500252",
-        "1500570",
-        "1500232"
+        "1500244",
+        "1500208"
       ]
     },
     {
@@ -382,17 +382,17 @@
       "asset_name": "FIN Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500244",
-        "1500570",
-        "1501470",
-        "1500541",
         "1500232",
+        "1500237",
         "1500252",
         "1500571",
+        "1500208",
         "1500229",
-        "1500237",
+        "1500570",
+        "1501470",
         "1501460",
-        "1500208"
+        "1500244",
+        "1500541"
       ]
     },
     {
@@ -400,17 +400,17 @@
       "asset_name": "FR Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500570",
-        "1500208",
-        "1500237",
-        "1500252",
+        "1500571",
         "1500244",
-        "1500541",
+        "1500252",
         "1501470",
-        "1500232",
+        "1500541",
+        "1500208",
         "1501460",
+        "1500237",
+        "1500570",
         "1500229",
-        "1500571"
+        "1500232"
       ]
     },
     {
@@ -418,17 +418,17 @@
       "asset_name": "IT Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500244",
-        "1500232",
         "1500208",
+        "1500232",
         "1500229",
-        "1501460",
-        "1501470",
-        "1500541",
-        "1500252",
-        "1500570",
         "1500237",
-        "1500571"
+        "1500571",
+        "1500541",
+        "1500570",
+        "1501470",
+        "1500244",
+        "1500252",
+        "1501460"
       ]
     },
     {
@@ -436,17 +436,17 @@
       "asset_name": "NL Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500244",
-        "1501460",
-        "1500252",
-        "1500208",
-        "1500541",
-        "1500232",
-        "1500237",
-        "1500570",
-        "1500571",
         "1501470",
-        "1500229"
+        "1500232",
+        "1500541",
+        "1501460",
+        "1500244",
+        "1500571",
+        "1500237",
+        "1500208",
+        "1500229",
+        "1500570",
+        "1500252"
       ]
     },
     {
@@ -454,17 +454,17 @@
       "asset_name": "NO Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501460",
-        "1500571",
-        "1500237",
+        "1500232",
+        "1500541",
         "1500252",
+        "1500237",
+        "1500571",
+        "1500244",
         "1500229",
         "1500570",
         "1501470",
-        "1500244",
-        "1500541",
         "1500208",
-        "1500232"
+        "1501460"
       ]
     },
     {
@@ -472,17 +472,17 @@
       "asset_name": "NPD MasterCopyDoc Weber Griddle - 56cm EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501470",
-        "1500571",
-        "1500541",
-        "1500252",
-        "1501460",
-        "1500244",
-        "1500229",
         "1500232",
+        "1501470",
+        "1500229",
+        "1500244",
+        "1500252",
+        "1500571",
         "1500570",
-        "1500237",
-        "1500208"
+        "1501460",
+        "1500208",
+        "1500541",
+        "1500237"
       ]
     },
     {
@@ -490,16 +490,16 @@
       "asset_name": "NPD MasterCopyDoc Weber Griddle - 56cm EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500252",
-        "1501460",
-        "1500237",
-        "1500229",
-        "1500208",
-        "1500232",
         "1500570",
-        "1500571",
         "1501470",
+        "1500252",
         "1500541",
+        "1500237",
+        "1500208",
+        "1500229",
+        "1500571",
+        "1500232",
+        "1501460",
         "1500244"
       ]
     },
@@ -508,17 +508,17 @@
       "asset_name": "PL Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500541",
-        "1500571",
-        "1500252",
-        "1500244",
-        "1500570",
-        "1500208",
         "1501470",
-        "1500232",
+        "1500571",
+        "1500208",
+        "1500541",
+        "1500252",
         "1500237",
+        "1500244",
+        "1500229",
         "1501460",
-        "1500229"
+        "1500570",
+        "1500232"
       ]
     },
     {
@@ -526,17 +526,17 @@
       "asset_name": "PT Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500570",
-        "1500541",
-        "1500208",
-        "1500237",
-        "1500252",
-        "1501460",
-        "1500229",
-        "1500232",
-        "1501470",
         "1500244",
-        "1500571"
+        "1500570",
+        "1500571",
+        "1501460",
+        "1500232",
+        "1500208",
+        "1500229",
+        "1500237",
+        "1500541",
+        "1500252",
+        "1501470"
       ]
     },
     {
@@ -545,15 +545,15 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1500232",
-        "1501460",
-        "1500244",
-        "1500570",
-        "1500571",
         "1500229",
-        "1500208",
-        "1500541",
-        "1501470",
+        "1501460",
         "1500237",
+        "1500570",
+        "1501470",
+        "1500208",
+        "1500244",
+        "1500541",
+        "1500571",
         "1500252"
       ]
     },
@@ -562,17 +562,17 @@
       "asset_name": "SK Weber SLATE 56cm MasterCopy met",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500229",
-        "1500237",
+        "1500208",
+        "1500541",
         "1500571",
         "1501460",
-        "1501470",
+        "1500570",
+        "1500229",
         "1500244",
+        "1501470",
         "1500232",
         "1500252",
-        "1500541",
-        "1500208",
-        "1500570"
+        "1500237"
       ]
     },
     {
@@ -581,21 +581,21 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1500208",
-        "1500252",
-        "1500565",
-        "1500207",
-        "1500540",
-        "1500564",
-        "1500571",
-        "1500541",
-        "1500251",
-        "8652560",
         "1500244",
+        "1500251",
+        "1500565",
         "1500229",
-        "1500570",
+        "1500232",
+        "8652560",
         "1500231",
+        "1500540",
+        "1500541",
         "1500237",
-        "1500232"
+        "1500252",
+        "1500571",
+        "1500207",
+        "1500570",
+        "1500564"
       ]
     },
     {
@@ -612,8 +612,8 @@
       "asset_name": "[DA-da] GP56 Premium Griddle-- Owners Guide",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "8652579",
-        "1500570"
+        "1500570",
+        "8652579"
       ]
     },
     {
@@ -647,8 +647,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/39jsmn5sw6n57pts64ns2p/1500244_AB_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/39jsmn5sw6n57pts64ns2p/v/1272904605/original/1500244_AB_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=0ZuKE5LNqNl-2Yn7mAriAUk1_Yg=",
-      "url": "https://storage-us-gcs.bfldr.com/39jsmn5sw6n57pts64ns2p/v/1272904605/original/1500244_AB_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=0ZuKE5LNqNl-2Yn7mAriAUk1_Yg="
+      "original_url": "https://storage-us-gcs.bfldr.com/39jsmn5sw6n57pts64ns2p/v/1272904605/original/1500244_AB_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=OpOl08JiACuGF6LoSDewjg5D7pI=",
+      "url": "https://storage-us-gcs.bfldr.com/39jsmn5sw6n57pts64ns2p/v/1272904605/original/1500244_AB_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=OpOl08JiACuGF6LoSDewjg5D7pI="
     },
     {
       "attachment_id": "wbxfsj37rvs3b4q5qgpvhm3n",
@@ -661,8 +661,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wbxfsj37rvs3b4q5qgpvhm3n/1500244_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wbxfsj37rvs3b4q5qgpvhm3n/v/1272904606/original/1500244_A_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=TiuA0LCrFUJnkg2xLkHA5G69GQk=",
-      "url": "https://storage-us-gcs.bfldr.com/wbxfsj37rvs3b4q5qgpvhm3n/v/1272904606/original/1500244_A_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=TiuA0LCrFUJnkg2xLkHA5G69GQk="
+      "original_url": "https://storage-us-gcs.bfldr.com/wbxfsj37rvs3b4q5qgpvhm3n/v/1272904606/original/1500244_A_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=Sbsy2w8QPT1VerAHd5OR3pxmsvk=",
+      "url": "https://storage-us-gcs.bfldr.com/wbxfsj37rvs3b4q5qgpvhm3n/v/1272904606/original/1500244_A_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=Sbsy2w8QPT1VerAHd5OR3pxmsvk="
     },
     {
       "attachment_id": "qmv5xvf6x4b6qpmshkmkq49",
@@ -675,8 +675,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qmv5xvf6x4b6qpmshkmkq49/1500244_B2_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qmv5xvf6x4b6qpmshkmkq49/v/1272904607/original/1500244_B2_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=cVyxfwG8RLwLz7jRB-fP4Ia6S1o=",
-      "url": "https://storage-us-gcs.bfldr.com/qmv5xvf6x4b6qpmshkmkq49/v/1272904607/original/1500244_B2_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=cVyxfwG8RLwLz7jRB-fP4Ia6S1o="
+      "original_url": "https://storage-us-gcs.bfldr.com/qmv5xvf6x4b6qpmshkmkq49/v/1272904607/original/1500244_B2_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=CkG8wa04Tyidq0CubG3uS8DILk0=",
+      "url": "https://storage-us-gcs.bfldr.com/qmv5xvf6x4b6qpmshkmkq49/v/1272904607/original/1500244_B2_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=CkG8wa04Tyidq0CubG3uS8DILk0="
     },
     {
       "attachment_id": "ggbfq59xjs96q6kxnqpr7mfn",
@@ -689,8 +689,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ggbfq59xjs96q6kxnqpr7mfn/1500244_BB2_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ggbfq59xjs96q6kxnqpr7mfn/v/1272904609/original/1500244_BB2_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=Rvp1LY1YFVrTMwoYsUuFloUPfHw=",
-      "url": "https://storage-us-gcs.bfldr.com/ggbfq59xjs96q6kxnqpr7mfn/v/1272904609/original/1500244_BB2_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=Rvp1LY1YFVrTMwoYsUuFloUPfHw="
+      "original_url": "https://storage-us-gcs.bfldr.com/ggbfq59xjs96q6kxnqpr7mfn/v/1272904609/original/1500244_BB2_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=XJMkv4TN5HXUCqK30OUKm4lU_VY=",
+      "url": "https://storage-us-gcs.bfldr.com/ggbfq59xjs96q6kxnqpr7mfn/v/1272904609/original/1500244_BB2_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=XJMkv4TN5HXUCqK30OUKm4lU_VY="
     },
     {
       "attachment_id": "g4qm2f49c9nrx9ggcrfrv923",
@@ -703,8 +703,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g4qm2f49c9nrx9ggcrfrv923/1500244_BB_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/g4qm2f49c9nrx9ggcrfrv923/v/1272904610/original/1500244_BB_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=BQsFmjxMsHp4Fy9ozcuAT6cqexI=",
-      "url": "https://storage-us-gcs.bfldr.com/g4qm2f49c9nrx9ggcrfrv923/v/1272904610/original/1500244_BB_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=BQsFmjxMsHp4Fy9ozcuAT6cqexI="
+      "original_url": "https://storage-us-gcs.bfldr.com/g4qm2f49c9nrx9ggcrfrv923/v/1272904610/original/1500244_BB_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=K15I-GbPqZ5C1JFV-gZ3wR34cfo=",
+      "url": "https://storage-us-gcs.bfldr.com/g4qm2f49c9nrx9ggcrfrv923/v/1272904610/original/1500244_BB_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=K15I-GbPqZ5C1JFV-gZ3wR34cfo="
     },
     {
       "attachment_id": "qhbtq8nffm55pk2nbcbjt5jf",
@@ -717,8 +717,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qhbtq8nffm55pk2nbcbjt5jf/1500244_B_rgb%201.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qhbtq8nffm55pk2nbcbjt5jf/v/1272904611/original/1500244_B_rgb%201.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=PezdlTd4oSUk1CKx0rIJDCMAmGM=",
-      "url": "https://storage-us-gcs.bfldr.com/qhbtq8nffm55pk2nbcbjt5jf/v/1272904611/original/1500244_B_rgb%201.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=PezdlTd4oSUk1CKx0rIJDCMAmGM="
+      "original_url": "https://storage-us-gcs.bfldr.com/qhbtq8nffm55pk2nbcbjt5jf/v/1272904611/original/1500244_B_rgb%201.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=yeBL5KNtJJl9rsfSGqdjnfpbMdw=",
+      "url": "https://storage-us-gcs.bfldr.com/qhbtq8nffm55pk2nbcbjt5jf/v/1272904611/original/1500244_B_rgb%201.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=yeBL5KNtJJl9rsfSGqdjnfpbMdw="
     },
     {
       "attachment_id": "2r4zcjpntrshpb2986k5j35g",
@@ -731,8 +731,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2r4zcjpntrshpb2986k5j35g/1500244_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2r4zcjpntrshpb2986k5j35g/v/1272904612/original/1500244_B_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=v9512mcP42mVZQHsDq1IK0-WgkU=",
-      "url": "https://storage-us-gcs.bfldr.com/2r4zcjpntrshpb2986k5j35g/v/1272904612/original/1500244_B_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=v9512mcP42mVZQHsDq1IK0-WgkU="
+      "original_url": "https://storage-us-gcs.bfldr.com/2r4zcjpntrshpb2986k5j35g/v/1272904612/original/1500244_B_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=xOZpXaDWkuCvNob9sVVEKrmLs4k=",
+      "url": "https://storage-us-gcs.bfldr.com/2r4zcjpntrshpb2986k5j35g/v/1272904612/original/1500244_B_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=xOZpXaDWkuCvNob9sVVEKrmLs4k="
     },
     {
       "attachment_id": "bxm7449f9768rhv8xjtkq",
@@ -745,8 +745,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bxm7449f9768rhv8xjtkq/1500244_CB_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bxm7449f9768rhv8xjtkq/v/1272904613/original/1500244_CB_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=JJa5Zf0601orIms99ogjP8OP3nw=",
-      "url": "https://storage-us-gcs.bfldr.com/bxm7449f9768rhv8xjtkq/v/1272904613/original/1500244_CB_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=JJa5Zf0601orIms99ogjP8OP3nw="
+      "original_url": "https://storage-us-gcs.bfldr.com/bxm7449f9768rhv8xjtkq/v/1272904613/original/1500244_CB_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=sbgGvMKMwTEshZIsrP0ZO-prhDA=",
+      "url": "https://storage-us-gcs.bfldr.com/bxm7449f9768rhv8xjtkq/v/1272904613/original/1500244_CB_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=sbgGvMKMwTEshZIsrP0ZO-prhDA="
     },
     {
       "attachment_id": "9cxmct6tnm7f8gqk2xcggf",
@@ -759,8 +759,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9cxmct6tnm7f8gqk2xcggf/1500244_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9cxmct6tnm7f8gqk2xcggf/v/1272904614/original/1500244_C_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=Y22FLaWMXco4hO7CNeeILz48DgY=",
-      "url": "https://storage-us-gcs.bfldr.com/9cxmct6tnm7f8gqk2xcggf/v/1272904614/original/1500244_C_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=Y22FLaWMXco4hO7CNeeILz48DgY="
+      "original_url": "https://storage-us-gcs.bfldr.com/9cxmct6tnm7f8gqk2xcggf/v/1272904614/original/1500244_C_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=tLu-cP5RKotmnYyUBpaS71vrbWk=",
+      "url": "https://storage-us-gcs.bfldr.com/9cxmct6tnm7f8gqk2xcggf/v/1272904614/original/1500244_C_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=tLu-cP5RKotmnYyUBpaS71vrbWk="
     },
     {
       "attachment_id": "54ft4tgjfq83gw28hc6nrkkk",
@@ -773,8 +773,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/54ft4tgjfq83gw28hc6nrkkk/1500244_D_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/54ft4tgjfq83gw28hc6nrkkk/v/1272904615/original/1500244_D_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=2i6k8az2itRzNBZb9ZMbMyYr5Mw=",
-      "url": "https://storage-us-gcs.bfldr.com/54ft4tgjfq83gw28hc6nrkkk/v/1272904615/original/1500244_D_rgb.png?Expires=1784316448&KeyName=gcs-bfldr-prod&Signature=2i6k8az2itRzNBZb9ZMbMyYr5Mw="
+      "original_url": "https://storage-us-gcs.bfldr.com/54ft4tgjfq83gw28hc6nrkkk/v/1272904615/original/1500244_D_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=wwCWryMBdgrQ88NF6hQSwUN43g4=",
+      "url": "https://storage-us-gcs.bfldr.com/54ft4tgjfq83gw28hc6nrkkk/v/1272904615/original/1500244_D_rgb.png?Expires=1784652202&KeyName=gcs-bfldr-prod&Signature=wwCWryMBdgrQ88NF6hQSwUN43g4="
     }
   ]
 }

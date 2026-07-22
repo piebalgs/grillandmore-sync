@@ -1,164 +1,722 @@
 {
-  "cache_version": 2,
+  "cache_version": 5,
   "sku": "1501743",
   "assets": [
     {
       "asset_id": "355wmh3pqb6653n7ghtbqmj",
       "asset_name": "[EMEA] Weber Traveler WW LP",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501743",
+        "1501744",
+        "1501734",
+        "1501732",
+        "1501742",
+        "1501746",
+        "1501733",
+        "1501745"
+      ]
     },
     {
       "asset_id": "p3gxp7c5hn3mvhwjhgwvbppb",
       "asset_name": "EMEA TRAVELER GRILL MASTER COPY",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501734",
+        "1501745",
+        "1501732",
+        "1501744",
+        "1501742",
+        "1501733",
+        "1501743",
+        "1501746"
+      ]
     },
     {
       "asset_id": "wj8jcnmkcm2vhqf376tkgmps",
       "asset_name": "Weber Traveler WW [PLATE]",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501696",
+        "1501740",
+        "1501744",
+        "1501718",
+        "1501760",
+        "1501761",
+        "1501719",
+        "1501746",
+        "1501742",
+        "1501733",
+        "1501745",
+        "1501734",
+        "1501743",
+        "1501732"
+      ]
     },
     {
       "asset_id": "4n3mkgf237k74mg5v8hcvts",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501745",
+        "1501718",
+        "1501734",
+        "1501761",
+        "1501743",
+        "1501742",
+        "1501760",
+        "1501746",
+        "1501733",
+        "1501696",
+        "1501740",
+        "3400518",
+        "1501719",
+        "1501732",
+        "1501744"
+      ]
     },
     {
       "asset_id": "wgj65wcxxtczhk5mnwx5x",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501733",
+        "1501734",
+        "1501743",
+        "1501732",
+        "1501761",
+        "1501742",
+        "1501719",
+        "1501760",
+        "1501696",
+        "1501746",
+        "1501718",
+        "1501744",
+        "1501740",
+        "1501745"
+      ]
     },
     {
       "asset_id": "q34k967rh5tmcmgnmkhz8mfc",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501718",
+        "1501733",
+        "1501744",
+        "1501745",
+        "1501732",
+        "1501742",
+        "1501760",
+        "1501719",
+        "1501696",
+        "1501734",
+        "1501746",
+        "1501743",
+        "1501761",
+        "1501740"
+      ]
     },
     {
       "asset_id": "cgqk84nf979wxtjkbr6zgcj3",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501734",
+        "1501740",
+        "1501719",
+        "1501718",
+        "1501761",
+        "1501696",
+        "1501743",
+        "1501732",
+        "1501745",
+        "1501742",
+        "1501760",
+        "1501733",
+        "1501746",
+        "1501744"
+      ]
     },
     {
       "asset_id": "2tf65ktmn4f96jct77jf6bw",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501746",
+        "1501744",
+        "1501696",
+        "1501760",
+        "1501740",
+        "1501734",
+        "1501743",
+        "3400074",
+        "1501733",
+        "1501719",
+        "1501718",
+        "1501732",
+        "1501742",
+        "7034",
+        "1501761",
+        "1501745"
+      ]
     },
     {
       "asset_id": "cp583xztmtjr6mn43k3376",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501740",
+        "1501743",
+        "7034",
+        "1501746",
+        "1501732",
+        "1501760",
+        "3400074",
+        "1501734",
+        "1501744",
+        "1501718",
+        "1501761",
+        "1501733",
+        "1501696",
+        "1501719",
+        "1501745",
+        "1501742"
+      ]
     },
     {
       "asset_id": "nw8jmp2fxc3h7xqvxs48tgmt",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501732",
+        "1501742",
+        "1501734",
+        "1501743",
+        "3400074",
+        "1501733",
+        "1501740",
+        "1501744",
+        "1501746",
+        "1501745",
+        "7034",
+        "1501760",
+        "1501761",
+        "1501718",
+        "1501719",
+        "1501696"
+      ]
     },
     {
       "asset_id": "mnjf4s9fwwfkzmt5m4x8ns5",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501696",
+        "1501732",
+        "1501734",
+        "1501746",
+        "1501744",
+        "1501719",
+        "1501718",
+        "1501743",
+        "1501733",
+        "1501760",
+        "1501740",
+        "1501761",
+        "1501745",
+        "1501742"
+      ]
     },
     {
       "asset_id": "45mk7rpqqkb8kxwp44xpnsp",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501696",
+        "1501746",
+        "1501745",
+        "1501734",
+        "1501718",
+        "1501761",
+        "1501742",
+        "1501733",
+        "1501732",
+        "1501760",
+        "1501744",
+        "1501743",
+        "1501719",
+        "1501740",
+        "7034"
+      ]
     },
     {
       "asset_id": "5b35fxfxsb5swtcr5g5sbkmf",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501696",
+        "1501760",
+        "1501734",
+        "1501719",
+        "1501745",
+        "1501746",
+        "1501742",
+        "1501732",
+        "1501740",
+        "1501744",
+        "1501761",
+        "1501743",
+        "1501718",
+        "1501733"
+      ]
     },
     {
       "asset_id": "jv9k2h2rcrktstvt4x5h3zbx",
       "asset_name": "Weber Traveler WW",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501746",
+        "1501696",
+        "1501743",
+        "1501733",
+        "1501745",
+        "1501760",
+        "1501740",
+        "1501718",
+        "1501744",
+        "1501761",
+        "1501719",
+        "1501734",
+        "1501742",
+        "1501732"
+      ]
     },
     {
       "asset_id": "5rj7kh5xgt7vjw4mqjbvc6n",
       "asset_name": "[cze] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501746",
+        "1501745",
+        "1501732",
+        "1501734",
+        "1501733",
+        "1501742",
+        "1501744",
+        "1501743"
+      ]
     },
     {
       "asset_id": "5nm4gbc3rjg6x7fm5c4rnwg",
       "asset_name": "[dan] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501734",
+        "1501745",
+        "1501733",
+        "1501732",
+        "1501742",
+        "1501743",
+        "1501746",
+        "1501744"
+      ]
     },
     {
       "asset_id": "qjn5jjgmsps3pxcxfcxs7b",
       "asset_name": "[dut-NL] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501745",
+        "1501743",
+        "1501742",
+        "1501732",
+        "1501733",
+        "1501734",
+        "1501744",
+        "1501746"
+      ]
     },
     {
       "asset_id": "hsxq2b242t26chr7spjs2tck",
       "asset_name": "[eng-GB] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501732",
+        "1501744",
+        "1501746",
+        "1501734",
+        "1501743",
+        "1501742",
+        "1501745",
+        "1501733"
+      ]
     },
     {
       "asset_id": "9nrf6zmr65p8rgj694vwkmj",
       "asset_name": "[fin] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501742",
+        "1501744",
+        "1501733",
+        "1501734",
+        "1501732",
+        "1501745",
+        "1501746",
+        "1501743"
+      ]
     },
     {
       "asset_id": "98vng4h8g6jh433jb2sww",
       "asset_name": "[fre-FR] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501733",
+        "1501734",
+        "1501742",
+        "1501744",
+        "1501743",
+        "1501732",
+        "1501745",
+        "1501746"
+      ]
     },
     {
       "asset_id": "kvxh4wgnm88zq3gvh9mrv2m",
       "asset_name": "[ger-DE] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501745",
+        "1501734",
+        "1501742",
+        "1501743",
+        "1501733",
+        "1501746",
+        "1501732",
+        "1501744"
+      ]
     },
     {
       "asset_id": "f82bvw9fbnjp6rstsfj5m8z",
       "asset_name": "[hrv] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501744",
+        "1501734",
+        "1501742",
+        "1501743",
+        "1501746",
+        "1501745",
+        "1501732",
+        "1501733"
+      ]
     },
     {
       "asset_id": "xf76rb5fgk5rtm83brs7qp59",
       "asset_name": "[ita-IT] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501733",
+        "1501744",
+        "1501732",
+        "1501743",
+        "1501734",
+        "1501746",
+        "1501742",
+        "1501745"
+      ]
     },
     {
       "asset_id": "75hhptwqq6tjmx2vtv5f8m",
       "asset_name": "[no] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501742",
+        "1501743",
+        "1501746",
+        "1501733",
+        "1501745",
+        "1501744",
+        "1501734",
+        "1501732"
+      ]
     },
     {
       "asset_id": "sp2qc8jgcm678tgtrkpxxwxx",
       "asset_name": "[pol] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501742",
+        "1501733",
+        "1501732",
+        "1501744",
+        "1501734",
+        "1501743",
+        "1501746",
+        "1501745"
+      ]
     },
     {
       "asset_id": "np4qgvn8jnw63qkrjjj9fcs",
       "asset_name": "[por-PT] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501733",
+        "1501744",
+        "1501732",
+        "1501742",
+        "1501745",
+        "1501746",
+        "1501734",
+        "1501743"
+      ]
     },
     {
       "asset_id": "2xvwfgr889bcch8cm4p87h",
       "asset_name": "[sk] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501732",
+        "1501743",
+        "1501745",
+        "1501733",
+        "1501746",
+        "1501744",
+        "1501742",
+        "1501734"
+      ]
     },
     {
       "asset_id": "cp4h2w3vs758tk6ncm7bcm9",
       "asset_name": "[slv] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501745",
+        "1501746",
+        "1501733",
+        "1501734",
+        "1501732",
+        "1501742",
+        "1501744",
+        "1501743"
+      ]
     },
     {
       "asset_id": "qvkw3nq6xzx7kmrk7qt59brx",
       "asset_name": "[spa-ES] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501732",
+        "1501744",
+        "1501734",
+        "1501742",
+        "1501743",
+        "1501733",
+        "1501745",
+        "1501746"
+      ]
     },
     {
       "asset_id": "bfn7cp8fkxhbghhz8gpb6p",
       "asset_name": "[swe-SE] WEBER TRAVELER GRILL MasterCopy EMEA (1)",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501745",
+        "1501746",
+        "1501732",
+        "1501733",
+        "1501734",
+        "1501743",
+        "1501744",
+        "1501742"
+      ]
     },
     {
       "asset_id": "m8fmnrfss7qwcfhr96btjwf",
       "asset_name": "Traveler EMEA Dimensions",
-      "cdn_key": "XBRZ2A26"
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501742",
+        "1501746",
+        "1501732",
+        "1501733",
+        "1501744",
+        "1501734",
+        "1501745",
+        "1501743"
+      ]
     }
   ],
   "images": [
+    {
+      "attachment_id": "k8xzp9j53s4kfb645hthwm",
+      "filename": "1501740_024_TravelerWW_FY2026_AMER_PLATE.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6582,
+      "height": 4388,
+      "size": 26012459,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k8xzp9j53s4kfb645hthwm/1501740_024_TravelerWW_FY2026_AMER_PLATE.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/k8xzp9j53s4kfb645hthwm/v/1289709003/original/1501740_024_TravelerWW_FY2026_AMER_PLATE.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=SaXjx3CmoQUHN_Jacm0USJlO8Fg=",
+      "url": "https://storage-us-gcs.bfldr.com/k8xzp9j53s4kfb645hthwm/v/1289709003/original/1501740_024_TravelerWW_FY2026_AMER_PLATE.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=SaXjx3CmoQUHN_Jacm0USJlO8Fg="
+    },
+    {
+      "attachment_id": "ftrqvm8cpz28ttqv3c4wmb77",
+      "filename": "1501740_029_TravelerWW_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6582,
+      "height": 4388,
+      "size": 14256350,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ftrqvm8cpz28ttqv3c4wmb77/1501740_029_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ftrqvm8cpz28ttqv3c4wmb77/v/1289709007/original/1501740_029_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=02AplcAa1N45toQ7NoMT6O31uOU=",
+      "url": "https://storage-us-gcs.bfldr.com/ftrqvm8cpz28ttqv3c4wmb77/v/1289709007/original/1501740_029_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=02AplcAa1N45toQ7NoMT6O31uOU="
+    },
+    {
+      "attachment_id": "6sx6kr2n3hrjng76vpmvtxcr",
+      "filename": "1501740_034_TravelerWW_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6582,
+      "height": 4388,
+      "size": 15179883,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6sx6kr2n3hrjng76vpmvtxcr/1501740_034_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/6sx6kr2n3hrjng76vpmvtxcr/v/1289709008/original/1501740_034_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=KfcHRuLTtpn6_doa5NkirGs7a7w=",
+      "url": "https://storage-us-gcs.bfldr.com/6sx6kr2n3hrjng76vpmvtxcr/v/1289709008/original/1501740_034_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=KfcHRuLTtpn6_doa5NkirGs7a7w="
+    },
+    {
+      "attachment_id": "7h63w44kvg4gmzjg9xcfsgkg",
+      "filename": "1501740_035_TravelerWW_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6582,
+      "height": 4388,
+      "size": 15344323,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7h63w44kvg4gmzjg9xcfsgkg/1501740_035_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/7h63w44kvg4gmzjg9xcfsgkg/v/1289709009/original/1501740_035_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=q09mLfMdPR7RK9RUSARJJfpb4qs=",
+      "url": "https://storage-us-gcs.bfldr.com/7h63w44kvg4gmzjg9xcfsgkg/v/1289709009/original/1501740_035_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=q09mLfMdPR7RK9RUSARJJfpb4qs="
+    },
+    {
+      "attachment_id": "ch56g7hkpw65swt7t72prsjf",
+      "filename": "1501740_039_TravelerWW_FY2026_AMER (3).jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8400,
+      "height": 5600,
+      "size": 33683348,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ch56g7hkpw65swt7t72prsjf/1501740_039_TravelerWW_FY2026_AMER%20%283%29.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/ch56g7hkpw65swt7t72prsjf/v/1300357526/original/1501740_039_TravelerWW_FY2026_AMER%20(3).jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=i_YB5KJecc40SwJeC5NHmOb325g=",
+      "url": "https://storage-us-gcs.bfldr.com/ch56g7hkpw65swt7t72prsjf/v/1300357526/original/1501740_039_TravelerWW_FY2026_AMER%20(3).jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=i_YB5KJecc40SwJeC5NHmOb325g="
+    },
+    {
+      "attachment_id": "qmj34bzrbq6j55678t6hqkb",
+      "filename": "1501740_040_TravelerWW_FY2026_AMER_ALT3.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8400,
+      "height": 5600,
+      "size": 23179979,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qmj34bzrbq6j55678t6hqkb/1501740_040_TravelerWW_FY2026_AMER_ALT3.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/qmj34bzrbq6j55678t6hqkb/v/1290162733/original/1501740_040_TravelerWW_FY2026_AMER_ALT3.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=ynQqH6vheFxtLb7lWIKiiztLLcc=",
+      "url": "https://storage-us-gcs.bfldr.com/qmj34bzrbq6j55678t6hqkb/v/1290162733/original/1501740_040_TravelerWW_FY2026_AMER_ALT3.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=ynQqH6vheFxtLb7lWIKiiztLLcc="
+    },
+    {
+      "attachment_id": "w58k7cqvk2x88jqb7ssn8k4",
+      "filename": "1501740_041_TravelerWW_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8228,
+      "height": 5485,
+      "size": 30645651,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w58k7cqvk2x88jqb7ssn8k4/1501740_041_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/w58k7cqvk2x88jqb7ssn8k4/v/1289709010/original/1501740_041_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=9hoGnppiCsfdmO1zRxYPdDKTqIg=",
+      "url": "https://storage-us-gcs.bfldr.com/w58k7cqvk2x88jqb7ssn8k4/v/1289709010/original/1501740_041_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=9hoGnppiCsfdmO1zRxYPdDKTqIg="
+    },
+    {
+      "attachment_id": "q959cptpjmxhnxgnjbwswcc",
+      "filename": "1501740_042_TravelerWW_FY2026_AMER (3).jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8400,
+      "height": 5600,
+      "size": 33367255,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q959cptpjmxhnxgnjbwswcc/1501740_042_TravelerWW_FY2026_AMER%20%283%29.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/q959cptpjmxhnxgnjbwswcc/v/1300358019/original/1501740_042_TravelerWW_FY2026_AMER%20(3).jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=FiB86iRy6c_kG9TNDazjsLaRMIQ=",
+      "url": "https://storage-us-gcs.bfldr.com/q959cptpjmxhnxgnjbwswcc/v/1300358019/original/1501740_042_TravelerWW_FY2026_AMER%20(3).jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=FiB86iRy6c_kG9TNDazjsLaRMIQ="
+    },
+    {
+      "attachment_id": "cxwk5zcqkqwgfxqbqz3899cm",
+      "filename": "1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8228,
+      "height": 5485,
+      "size": 27156471,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cxwk5zcqkqwgfxqbqz3899cm/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=r0HwaP-SiYDyCb3kOC-Fd2osmdw=",
+      "url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=r0HwaP-SiYDyCb3kOC-Fd2osmdw="
+    },
+    {
+      "attachment_id": "pw3t9jsvr58hk9qjqftpcc8c",
+      "filename": "1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8228,
+      "height": 5485,
+      "size": 23982352,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pw3t9jsvr58hk9qjqftpcc8c/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=HvIxzmnx1e86Ie_EY2DFopDU03g=",
+      "url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=HvIxzmnx1e86Ie_EY2DFopDU03g="
+    },
+    {
+      "attachment_id": "cwsrng968n5hv5m6cw89vjk",
+      "filename": "1501740_044_TravelerWW_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 8400,
+      "height": 5600,
+      "size": 24714566,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cwsrng968n5hv5m6cw89vjk/1501740_044_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=-G8Xu50M-oRT7ENz2Cn1PPSLdcA=",
+      "url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=-G8Xu50M-oRT7ENz2Cn1PPSLdcA="
+    },
+    {
+      "attachment_id": "mc3krsm8w7f6qb5pwg7m8kqc",
+      "filename": "1501740_045_Traveler_FY2026_AMER.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6582,
+      "height": 4388,
+      "size": 20572721,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mc3krsm8w7f6qb5pwg7m8kqc/1501740_045_Traveler_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/mc3krsm8w7f6qb5pwg7m8kqc/v/1289709015/original/1501740_045_Traveler_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=xyN8arE5KANox_e1RVOhlgMrLeY=",
+      "url": "https://storage-us-gcs.bfldr.com/mc3krsm8w7f6qb5pwg7m8kqc/v/1289709015/original/1501740_045_Traveler_FY2026_AMER.jpg?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=xyN8arE5KANox_e1RVOhlgMrLeY="
+    },
     {
       "attachment_id": "vcxxktwwsw3jkt2s4pc8f33m",
       "filename": "1501740_Gas_TRAVELER WW LP BLK US_CA_Mrgb_BC_rgb.png",
@@ -166,10 +724,12 @@
       "position": 3,
       "width": 4000,
       "height": 4001,
+      "size": 1254846,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vcxxktwwsw3jkt2s4pc8f33m/1501740_Gas_TRAVELER%20WW%20LP%20BLK%20US_CA_Mrgb_BC_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vcxxktwwsw3jkt2s4pc8f33m/v/1276154157/original/1501740_Gas_TRAVELER%20WW%20LP%20BLK%20US_CA_Mrgb_BC_rgb.png?Expires=1784297562&KeyName=gcs-bfldr-prod&Signature=aUt7TBEKNBxwZFHgMTVKQ7XoMgo=",
-      "url": "https://storage-us-gcs.bfldr.com/vcxxktwwsw3jkt2s4pc8f33m/v/1276154157/original/1501740_Gas_TRAVELER%20WW%20LP%20BLK%20US_CA_Mrgb_BC_rgb.png?Expires=1784297562&KeyName=gcs-bfldr-prod&Signature=aUt7TBEKNBxwZFHgMTVKQ7XoMgo="
+      "original_url": "https://storage-us-gcs.bfldr.com/vcxxktwwsw3jkt2s4pc8f33m/v/1276154157/original/1501740_Gas_TRAVELER%20WW%20LP%20BLK%20US_CA_Mrgb_BC_rgb.png?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=4IgSHgHshnnigLjLmood4nFsRE8=",
+      "url": "https://storage-us-gcs.bfldr.com/vcxxktwwsw3jkt2s4pc8f33m/v/1276154157/original/1501740_Gas_TRAVELER%20WW%20LP%20BLK%20US_CA_Mrgb_BC_rgb.png?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=4IgSHgHshnnigLjLmood4nFsRE8="
     },
     {
       "attachment_id": "6h54nr9ng7r2p4vxj2p8xq",
@@ -178,10 +738,12 @@
       "position": 0,
       "width": 4000,
       "height": 4000,
+      "size": 2967005,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6h54nr9ng7r2p4vxj2p8xq/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6h54nr9ng7r2p4vxj2p8xq/v/1270507516/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_A_rgb.png?Expires=1784297562&KeyName=gcs-bfldr-prod&Signature=G4IVKR0cjI4Ro0WV4EjGPkg48lQ=",
-      "url": "https://storage-us-gcs.bfldr.com/6h54nr9ng7r2p4vxj2p8xq/v/1270507516/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_A_rgb.png?Expires=1784297562&KeyName=gcs-bfldr-prod&Signature=G4IVKR0cjI4Ro0WV4EjGPkg48lQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/6h54nr9ng7r2p4vxj2p8xq/v/1270507516/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_A_rgb.png?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=AhfpDZnRKohWD4o2TAi3lx_mZp0=",
+      "url": "https://storage-us-gcs.bfldr.com/6h54nr9ng7r2p4vxj2p8xq/v/1270507516/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_A_rgb.png?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=AhfpDZnRKohWD4o2TAi3lx_mZp0="
     },
     {
       "attachment_id": "pb5nc5wxrqg9nmf76bwnpzw",
@@ -190,10 +752,12 @@
       "position": 1,
       "width": 4000,
       "height": 4000,
+      "size": 2875548,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pb5nc5wxrqg9nmf76bwnpzw/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pb5nc5wxrqg9nmf76bwnpzw/v/1270507531/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_B_rgb.png?Expires=1784297562&KeyName=gcs-bfldr-prod&Signature=SZ4EKL7VFTFQ5ixiD8ONmuEGtmI=",
-      "url": "https://storage-us-gcs.bfldr.com/pb5nc5wxrqg9nmf76bwnpzw/v/1270507531/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_B_rgb.png?Expires=1784297562&KeyName=gcs-bfldr-prod&Signature=SZ4EKL7VFTFQ5ixiD8ONmuEGtmI="
+      "original_url": "https://storage-us-gcs.bfldr.com/pb5nc5wxrqg9nmf76bwnpzw/v/1270507531/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_B_rgb.png?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=Vh9Czh1qneM-YeNIAgGhEYKRGKQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pb5nc5wxrqg9nmf76bwnpzw/v/1270507531/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_B_rgb.png?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=Vh9Czh1qneM-YeNIAgGhEYKRGKQ="
     },
     {
       "attachment_id": "mfch9zt5ghtx5wgt8g9tw8wt",
@@ -202,10 +766,12 @@
       "position": 2,
       "width": 4000,
       "height": 4000,
+      "size": 2907623,
+      "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mfch9zt5ghtx5wgt8g9tw8wt/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mfch9zt5ghtx5wgt8g9tw8wt/v/1270507538/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_C_rgb.png?Expires=1784297562&KeyName=gcs-bfldr-prod&Signature=G_qQgk_lDgoHOhkoHU3I_udCKm8=",
-      "url": "https://storage-us-gcs.bfldr.com/mfch9zt5ghtx5wgt8g9tw8wt/v/1270507538/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_C_rgb.png?Expires=1784297562&KeyName=gcs-bfldr-prod&Signature=G_qQgk_lDgoHOhkoHU3I_udCKm8="
+      "original_url": "https://storage-us-gcs.bfldr.com/mfch9zt5ghtx5wgt8g9tw8wt/v/1270507538/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_C_rgb.png?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=nKoQ8T1XLstFnGzAaPxGfR4cj-c=",
+      "url": "https://storage-us-gcs.bfldr.com/mfch9zt5ghtx5wgt8g9tw8wt/v/1270507538/original/1501742_Gas_TRAVELER%20WW%20LP%20BLK%20EMEA_C_rgb.png?Expires=1784652199&KeyName=gcs-bfldr-prod&Signature=nKoQ8T1XLstFnGzAaPxGfR4cj-c="
     }
   ]
 }

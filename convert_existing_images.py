@@ -2,11 +2,19 @@
 
 from __future__ import annotations
 
+"""
+convert_existing_images.py
+Version: 1.2.0
+Project: GrillAndMore Sync
+
+Changes:
+- Reuse one uploaded WebP for repeated WooCommerce Media IDs.
+- Preserve the original product gallery order and duplicate references.
+- Report reused WebP references in the migration summary.
+"""
+
 import argparse
-import csv
 import time
-from collections import Counter
-from datetime import datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import unquote, urlparse
@@ -19,13 +27,10 @@ from src.image_processor import (
     process_remote_image,
 )
 from src.image_sync import (
-    WC_URL,
     ImageSyncError,
     put_product_image_ids,
-    request_with_retry,
     upload_media_file,
     validate_configuration,
-    wordpress_auth,
 )
 from src.woocommerce import load_products
 
@@ -33,9 +38,6 @@ from src.woocommerce import load_products
 CONVERTIBLE_EXTENSIONS = {".png", ".jpg", ".jpeg"}
 WEBP_EXTENSION = ".webp"
 PRODUCT_PAUSE_SECONDS = 3
-
-PROJECT_ROOT = Path(__file__).resolve().parent
-LOG_PATH = PROJECT_ROOT / "logs" / "webp_cleanup.log"
 
 
 def filename_from_url(url: Any) -> str:
@@ -159,35 +161,24 @@ def classify_images(
     return webp, convertible, unsupported
 
 
-def load_and_select_products(
+def selected_products(
     *,
-    brand: str,
+    brand: str | None,
+    exclude_brand: str | None,
     offset: int,
     limit: int | None,
-) -> tuple[
-    list[dict[str, Any]],
-    int,
-    Counter[int],
-]:
-    products = [
-        product
-        for product in load_products()
-        if isinstance(product, dict)
-    ]
-
-    reference_counts: Counter[int] = Counter()
-
-    for product in products:
-        for image in get_product_images(product):
-            image_id = image.get("id")
-
-            if image_id:
-                reference_counts[int(image_id)] += 1
+) -> tuple[list[dict[str, Any]], int]:
+    products = load_products()
 
     matching = [
         product
         for product in products
-        if product_has_brand(product, brand)
+        if isinstance(product, dict)
+        and (not brand or product_has_brand(product, brand))
+        and (
+            not exclude_brand
+            or not product_has_brand(product, exclude_brand)
+        )
     ]
 
     matching.sort(
@@ -200,132 +191,36 @@ def load_and_select_products(
     total = len(matching)
 
     if limit is None:
-        selected = matching[offset:]
-    else:
-        selected = matching[offset:offset + limit]
+        return matching[offset:], total
 
-    return selected, total, reference_counts
-
-
-def append_cleanup_log(
-    *,
-    product_id: int,
-    sku: str,
-    old_media_id: int,
-    new_media_id: int,
-    old_filename: str,
-    status: str,
-    details: str = "",
-) -> None:
-    LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
-
-    write_header = not LOG_PATH.exists()
-
-    with LOG_PATH.open(
-        "a",
-        encoding="utf-8",
-        newline="",
-    ) as log_file:
-        writer = csv.writer(log_file, delimiter="\t")
-
-        if write_header:
-            writer.writerow(
-                [
-                    "timestamp",
-                    "product_id",
-                    "sku",
-                    "old_media_id",
-                    "new_media_id",
-                    "old_filename",
-                    "status",
-                    "details",
-                ]
-            )
-
-        writer.writerow(
-            [
-                datetime.now().astimezone().isoformat(timespec="seconds"),
-                product_id,
-                sku,
-                old_media_id,
-                new_media_id,
-                old_filename,
-                status,
-                details,
-            ]
-        )
-
-
-def verify_product_image_ids(
-    updated_product: dict[str, Any],
-    expected_ids: list[int],
-) -> None:
-    updated_images = updated_product.get("images", [])
-
-    if not isinstance(updated_images, list):
-        raise ImageSyncError(
-            "WooCommerce produkta atbildē nav korekta attēlu saraksta."
-        )
-
-    actual_ids = [
-        int(image["id"])
-        for image in updated_images
-        if isinstance(image, dict) and image.get("id")
-    ]
-
-    if actual_ids != expected_ids:
-        raise ImageSyncError(
-            "WooCommerce galerijas pārbaude neizdevās. "
-            f"Sagaidīts: {expected_ids}; saņemts: {actual_ids}."
-        )
-
-
-def delete_media_item(media_id: int) -> None:
-    endpoint = (
-        f"{WC_URL}/wp-json/wp/v2/media/{media_id}"
-    )
-
-    request_with_retry(
-        method="DELETE",
-        url=endpoint,
-        request_name=f"Media dzēšana {media_id}",
-        acceptable_statuses={200},
-        auth=wordpress_auth(),
-        params={"force": "true"},
-        timeout=(30, 120),
-    )
+    return matching[offset:offset + limit], total
 
 
 def migrate_product(
     product: dict[str, Any],
     *,
     download_session: requests.Session,
-    delete_old: bool,
-    reference_counts: Counter[int],
-) -> tuple[int, int, int, int]:
-    product_id_raw = product.get("id")
+) -> tuple[int, int, int]:
+    product_id = product.get("id")
 
-    if not product_id_raw:
+    if not product_id:
         raise ImageSyncError(
             "WooCommerce produktam nav ID."
         )
 
-    product_id = int(product_id_raw)
-    sku = str(product.get("sku") or "").strip()
     images = get_product_images(product)
-
     replacement_ids: list[int] = []
+
     converted_count = 0
     retained_count = 0
-    deleted_count = 0
-    skipped_shared_count = 0
-
+    reused_count = 0
     newly_uploaded_ids: list[int] = []
-    replacements: list[dict[str, Any]] = []
+    processed_media: dict[int, int] = {}
 
     try:
         for position, image in enumerate(images, start=1):
-            image_id = image.get("id")
+            raw_image_id = image.get("id")
+            image_id = int(raw_image_id) if raw_image_id else None
             source_url = str(
                 image.get("src")
                 or ""
@@ -334,15 +229,34 @@ def migrate_product(
             extension = image_extension(image)
             original_filename = image_filename(image)
 
+            if (
+                extension in CONVERTIBLE_EXTENSIONS
+                and image_id is not None
+                and image_id in processed_media
+            ):
+                reused_media_id = processed_media[image_id]
+                replacement_ids.append(reused_media_id)
+                reused_count += 1
+
+                print(
+                    f"    [{position}/{len(images)}] "
+                    f"{original_filename}"
+                )
+                print(
+                    f"      ↺ Media ID {image_id} jau apstrādāts; "
+                    f"atkārtoti izmantots WebP Media ID {reused_media_id}."
+                )
+                continue
+
             if extension == WEBP_EXTENSION:
                 if image_id:
-                    replacement_ids.append(int(image_id))
+                    replacement_ids.append(image_id)
                     retained_count += 1
                 continue
 
             if extension not in CONVERTIBLE_EXTENSIONS:
                 if image_id:
-                    replacement_ids.append(int(image_id))
+                    replacement_ids.append(image_id)
                     retained_count += 1
 
                 print(
@@ -351,17 +265,10 @@ def migrate_product(
                 )
                 continue
 
-            if not image_id:
-                raise ImageSyncError(
-                    f"Vecajam attēlam {original_filename} nav Media ID."
-                )
-
             if not source_url:
                 raise ImageSyncError(
                     f"Attēlam {original_filename} nav URL."
                 )
-
-            old_media_id = int(image_id)
 
             alt_text = str(
                 image.get("alt")
@@ -404,17 +311,12 @@ def migrate_product(
 
             new_media_id = int(media["id"])
 
+            if image_id is not None:
+                processed_media[image_id] = new_media_id
+
             newly_uploaded_ids.append(new_media_id)
             replacement_ids.append(new_media_id)
             converted_count += 1
-
-            replacements.append(
-                {
-                    "old_media_id": old_media_id,
-                    "new_media_id": new_media_id,
-                    "old_filename": original_filename,
-                }
-            )
 
             print(
                 f"      ✓ Jaunais Media Library ID: "
@@ -427,108 +329,23 @@ def migrate_product(
                 "sākotnējam galerijas garumam."
             )
 
-        updated_product = put_product_image_ids(
-            product_id=product_id,
+        put_product_image_ids(
+            product_id=int(product_id),
             image_ids=replacement_ids,
         )
 
-        verify_product_image_ids(
-            updated_product,
-            replacement_ids,
-        )
-
         print(
-            "    ✓ Produkta galerija atjaunināta un pārbaudīta; "
+            "    ✓ Produkta galerija atjaunināta; "
             "attēlu secība saglabāta."
         )
 
-        for replacement in replacements:
-            old_media_id = int(replacement["old_media_id"])
-            new_media_id = int(replacement["new_media_id"])
-            old_filename = str(replacement["old_filename"])
-
-            reference_counts[old_media_id] -= 1
-            reference_counts[new_media_id] += 1
-
-            if not delete_old:
-                continue
-
-            if reference_counts[old_media_id] > 0:
-                skipped_shared_count += 1
-
-                details = (
-                    "Vecais attēls netika dzēsts, jo tas joprojām "
-                    f"izmantots {reference_counts[old_media_id]} citā "
-                    "produkta attēlu pozīcijā."
-                )
-
-                append_cleanup_log(
-                    product_id=product_id,
-                    sku=sku,
-                    old_media_id=old_media_id,
-                    new_media_id=new_media_id,
-                    old_filename=old_filename,
-                    status="SKIPPED_SHARED",
-                    details=details,
-                )
-
-                print(
-                    f"      ⚠ Vecais Media ID {old_media_id} "
-                    "netika dzēsts — tas tiek izmantots citur."
-                )
-                continue
-
-            try:
-                delete_media_item(old_media_id)
-                deleted_count += 1
-
-                append_cleanup_log(
-                    product_id=product_id,
-                    sku=sku,
-                    old_media_id=old_media_id,
-                    new_media_id=new_media_id,
-                    old_filename=old_filename,
-                    status="DELETED",
-                )
-
-                print(
-                    f"      ✓ Vecais Media ID {old_media_id} izdzēsts."
-                )
-
-            except (
-                ImageSyncError,
-                requests.RequestException,
-                OSError,
-                ValueError,
-                TypeError,
-            ) as error:
-                append_cleanup_log(
-                    product_id=product_id,
-                    sku=sku,
-                    old_media_id=old_media_id,
-                    new_media_id=new_media_id,
-                    old_filename=old_filename,
-                    status="DELETE_ERROR",
-                    details=str(error),
-                )
-
-                print(
-                    f"      ⚠ Veco Media ID {old_media_id} "
-                    f"neizdevās izdzēst: {error}"
-                )
-
-        return (
-            converted_count,
-            retained_count,
-            deleted_count,
-            skipped_shared_count,
-        )
+        return converted_count, retained_count, reused_count
 
     except Exception:
         if newly_uploaded_ids:
             print(
-                "    ⚠ Produkts netika pilnībā pabeigts, bet "
-                "Media Library var būt palikuši šie jaunie ID: "
+                "    ⚠ Produkts netika mainīts, bet Media Library "
+                "var būt palikuši šie jaunie, nepiesaistītie ID: "
                 + ", ".join(str(value) for value in newly_uploaded_ids)
             )
         raise
@@ -536,16 +353,23 @@ def migrate_product(
 
 def print_header(
     *,
-    brand: str,
+    brand: str | None,
+    exclude_brand: str | None,
     offset: int,
     limit: int | None,
     apply: bool,
-    delete_old: bool,
 ) -> None:
     print("\n" + "=" * 72)
     print("WOOCOMMERCE MEDIA LIBRARY → WEBP MIGRĀCIJA")
     print("=" * 72)
-    print(f"Zīmols:          {brand}")
+    if brand:
+        filter_text = brand
+    elif exclude_brand:
+        filter_text = f"visi, izņemot {exclude_brand}"
+    else:
+        filter_text = "visi zīmoli"
+
+    print(f"Zīmola filtrs:   {filter_text}")
     print(f"Offset:          {offset}")
     print(
         "Limits:          "
@@ -554,10 +378,6 @@ def print_header(
     print(
         "Režīms:          "
         + ("APPLY — reālas izmaiņas" if apply else "DRY RUN")
-    )
-    print(
-        "Veco failu dzēšana: "
-        + ("JĀ" if delete_old else "NĒ")
     )
     print("=" * 72)
 
@@ -570,10 +390,16 @@ def main() -> None:
         )
     )
 
-    parser.add_argument(
+    brand_group = parser.add_mutually_exclusive_group(required=True)
+
+    brand_group.add_argument(
         "--brand",
-        required=True,
-        help='WooCommerce zīmols, piemēram, "Weber".',
+        help='Apstrādāt tikai norādīto zīmolu, piemēram, "Weber".',
+    )
+
+    brand_group.add_argument(
+        "--exclude-brand",
+        help='Apstrādāt visus produktus, izņemot norādīto zīmolu.',
     )
 
     parser.add_argument(
@@ -596,15 +422,6 @@ def main() -> None:
         help="Reāli augšupielādēt WebP un mainīt produktus.",
     )
 
-    parser.add_argument(
-        "--delete-old",
-        action="store_true",
-        help=(
-            "Pēc veiksmīgas galerijas nomaiņas neatgriezeniski "
-            "izdzēst vecos PNG/JPG Media Library failus."
-        ),
-    )
-
     args = parser.parse_args()
 
     if args.offset < 0:
@@ -613,27 +430,21 @@ def main() -> None:
     if args.limit is not None and args.limit < 1:
         parser.error("--limit jābūt vismaz 1.")
 
-    if args.delete_old and not args.apply:
-        parser.error(
-            "--delete-old drīkst izmantot tikai kopā ar --apply."
-        )
-
     print_header(
         brand=args.brand,
+        exclude_brand=args.exclude_brand,
         offset=args.offset,
         limit=args.limit,
         apply=args.apply,
-        delete_old=args.delete_old,
     )
 
     started_at = time.monotonic()
 
-    products, total_matching, reference_counts = (
-        load_and_select_products(
-            brand=args.brand,
-            offset=args.offset,
-            limit=args.limit,
-        )
+    products, total_matching = selected_products(
+        brand=args.brand,
+        exclude_brand=args.exclude_brand,
+        offset=args.offset,
+        limit=args.limit,
     )
 
     products_with_conversion = 0
@@ -643,15 +454,14 @@ def main() -> None:
     unsupported_images = 0
     converted_images = 0
     retained_images = 0
-    deleted_images = 0
-    shared_images_not_deleted = 0
+    reused_images = 0
     errors = 0
 
     download_session = requests.Session()
     download_session.headers.update(
         {
             "User-Agent": (
-                "GrillAndMore-Sync/0.5 "
+                "GrillAndMore-Sync/0.4 "
                 "(Media Library WebP migration)"
             ),
             "Accept": "image/*,*/*;q=0.8",
@@ -699,35 +509,22 @@ def main() -> None:
 
             if not args.apply:
                 for image in convertible:
-                    action = "pārveidot"
-                    if args.delete_old:
-                        action += " un veco failu dzēst"
-
                     print(
                         "    PLĀNOTS: "
                         f"{image_filename(image)} → "
-                        f"{Path(image_filename(image)).stem}.webp "
-                        f"({action})"
+                        f"{Path(image_filename(image)).stem}.webp"
                     )
                 continue
 
             try:
-                (
-                    converted,
-                    retained,
-                    deleted,
-                    skipped_shared,
-                ) = migrate_product(
+                converted, retained, reused = migrate_product(
                     product,
                     download_session=download_session,
-                    delete_old=args.delete_old,
-                    reference_counts=reference_counts,
                 )
 
                 converted_images += converted
                 retained_images += retained
-                deleted_images += deleted
-                shared_images_not_deleted += skipped_shared
+                reused_images += reused
 
                 time.sleep(PRODUCT_PAUSE_SECONDS)
 
@@ -751,7 +548,12 @@ def main() -> None:
     print("\n" + "=" * 72)
     print("WEBP MIGRĀCIJAS KOPSAVILKUMS")
     print("=" * 72)
-    print(f"Zīmols:                       {args.brand}")
+    if args.brand:
+        filter_text = args.brand
+    else:
+        filter_text = f"visi, izņemot {args.exclude_brand}"
+
+    print(f"Zīmola filtrs:                {filter_text}")
     print(f"Zīmola produkti kopā:         {total_matching}")
     print(f"Atlasīti produkti:            {len(products)}")
     print(f"Produkti ar PNG/JPG:          {products_with_conversion}")
@@ -762,9 +564,8 @@ def main() -> None:
 
     if args.apply:
         print(f"Pārveidoti WebP attēli:       {converted_images}")
+        print(f"Atkārtoti izmantoti WebP:     {reused_images}")
         print(f"Saglabāti esošie attēli:      {retained_images}")
-        print(f"Izdzēsti vecie PNG/JPG:       {deleted_images}")
-        print(f"Koplietoti, tādēļ nedzēsti:   {shared_images_not_deleted}")
 
     print(f"Kļūdas:                       {errors}")
     print(f"Izpildes laiks:               {minutes:02d}:{seconds:02d}")
@@ -784,8 +585,12 @@ def main() -> None:
         print("\nŠī paša diapazona reālai palaišanai:")
         command = (
             "python3 convert_existing_images.py "
-            f'--brand "{args.brand}" '
-            f"--offset {args.offset}"
+            + (
+                f'--brand "{args.brand}" '
+                if args.brand
+                else f'--exclude-brand "{args.exclude_brand}" '
+            )
+            + f"--offset {args.offset}"
         )
 
         if args.limit is not None:
@@ -794,17 +599,10 @@ def main() -> None:
         command += " --apply"
         print(command)
     else:
-        if args.delete_old:
-            print(
-                "\nAPPLY pabeigts. Pēc veiksmīgas nomaiņas vecie "
-                "PNG/JPG faili tika dzēsti, ja tie netika izmantoti citur."
-            )
-            print(f"Dzēšanas žurnāls: {LOG_PATH}")
-        else:
-            print(
-                "\nAPPLY pabeigts. Vecie PNG/JPG Media Library faili "
-                "netika dzēsti."
-            )
+        print(
+            "\nAPPLY pabeigts. Vecie PNG/JPG Media Library faili "
+            "netika dzēsti."
+        )
 
 
 if __name__ == "__main__":

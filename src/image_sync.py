@@ -15,19 +15,22 @@ from src.brandfolder import (
     create_session as create_brandfolder_session,
 )
 from src.brandfolder import get_product_images
+from src.media_audit import verify_product
+from src.media.planner import (
+    deduplicate_brandfolder_images,
+    existing_woocommerce_keys,
+    filename_from_url,
+    image_key,
+    image_priority,
+    normalize_filename,
+    normalize_sku,
+    prepare_image_update,
+    safe_position,
+)
 from src.image_processor import (
     describe_processed_image,
     process_remote_image,
 )
-from src.image_utils import (
-    deduplicate_brandfolder_images,
-    display_filename,
-    existing_woocommerce_keys,
-    filename_from_url,
-    image_key,
-    normalize_sku,
-)
-from src.media_audit import verify_product
 from src.woocommerce import get_product_by_sku, load_products
 
 
@@ -72,7 +75,6 @@ class ImageSyncError(RuntimeError):
     """WooCommerce vai WordPress attēlu sinhronizācijas kļūda."""
 
 
-
 def find_product_by_sku(
     products: list[dict[str, Any]],
     sku: str,
@@ -84,113 +86,6 @@ def find_product_by_sku(
             return product
 
     return None
-
-
-def prepare_image_update(
-    product: dict[str, Any],
-    raw_brandfolder_images: list[dict[str, Any]],
-) -> dict[str, Any]:
-    """
-    Sagatavo attēlu sinhronizācijas plānu.
-
-    Noteikumi:
-      - esošie WooCommerce attēli netiek dzēsti;
-      - esošā secība un galvenais attēls tiek saglabāti;
-      - Brandfolder attēli tiek prioritizēti;
-      - galerijā kopā nepievienojam vairāk par 10 attēliem;
-      - ja produktam jau ir 10 vai vairāk attēlu, jauni netiek pievienoti.
-    """
-    existing_raw = product.get("images", [])
-
-    existing_images = (
-        existing_raw
-        if isinstance(existing_raw, list)
-        else []
-    )
-
-    brandfolder_images = deduplicate_brandfolder_images(
-        raw_brandfolder_images
-    )
-
-    woo_keys = existing_woocommerce_keys(
-        existing_images
-    )
-
-    already_present: list[dict[str, Any]] = []
-    all_missing_images: list[dict[str, Any]] = []
-
-    for image in brandfolder_images:
-        key = image_key(image)
-
-        if not key:
-            continue
-
-        if key in woo_keys:
-            already_present.append(image)
-        else:
-            all_missing_images.append(image)
-
-    available_slots = max(
-        0,
-        MAX_IMAGES_PER_PRODUCT - len(existing_images),
-    )
-
-    missing_images = all_missing_images[:available_slots]
-    skipped_due_to_limit = all_missing_images[available_slots:]
-
-    payload_images: list[dict[str, Any]] = []
-
-    # Esošos attēlus saglabājam tādā pašā secībā.
-    for image in existing_images:
-        if not isinstance(image, dict):
-            continue
-
-        image_id = image.get("id")
-
-        if image_id:
-            payload_images.append(
-                {
-                    "id": int(image_id),
-                }
-            )
-
-    # Jaunos attēlus pievienojam prioritārā secībā,
-    # bet tikai līdz kopējam galerijas limitam.
-    for image in missing_images:
-        filename = str(
-            image.get("filename") or ""
-        ).strip()
-
-        url = str(
-            image.get("url") or ""
-        ).strip()
-
-        if not url:
-            continue
-
-        payload_images.append(
-            {
-                "src": url,
-                "name": filename,
-                "alt": (
-                    Path(filename).stem
-                    if filename
-                    else ""
-                ),
-            }
-        )
-
-    return {
-        "max_images": MAX_IMAGES_PER_PRODUCT,
-        "available_slots": available_slots,
-        "existing_images": existing_images,
-        "brandfolder_images": brandfolder_images,
-        "already_present": already_present,
-        "all_missing_images": all_missing_images,
-        "missing_images": missing_images,
-        "skipped_due_to_limit": skipped_due_to_limit,
-        "payload_images": payload_images,
-    }
 
 
 def validate_configuration() -> None:
@@ -629,6 +524,16 @@ def update_product_images(
     return last_product
 
 
+def display_filename(
+    image: dict[str, Any],
+) -> str:
+    return str(
+        image.get("filename")
+        or image.get("name")
+        or filename_from_url(image.get("src"))
+        or ""
+    )
+
 
 def print_image_list(
     title: str,
@@ -738,6 +643,7 @@ def process_product(
         "sku": sku,
         "name": name,
         "audit_status": "ERROR",
+        "verify_status": "NOT_RUN",
         "action": "ERROR",
         "message": "",
     }
@@ -880,13 +786,53 @@ def process_product(
         else 0
     )
 
-    result["action"] = "UPDATED"
+    print(
+        f"  UPDATE: OK — WooCommerce tagad ir "
+        f"{updated_count} attēli."
+    )
+    print("  VERIFY: pārbauda rezultātu...")
+
+    try:
+        verify_audit = verify_product(
+            updated_product,
+            use_cache=use_cache,
+            session=session,
+        )
+    except Exception as exc:
+        result["verify_status"] = "ERROR"
+        result["action"] = "VERIFY_FAILED"
+        result["message"] = (
+            "Atjaunināšana izdevās, bet verifikācijas laikā "
+            f"radās kļūda: {exc}"
+        )
+        print(f"  ❌ VERIFY: ERROR — {exc}")
+        return result
+
+    verify_status = str(verify_audit["status"])
+    result["verify_status"] = verify_status
+
+    if verify_status == "OK":
+        result["action"] = "UPDATED"
+        result["message"] = (
+            "Sinhronizācija un verifikācija pabeigta; "
+            f"WooCommerce tagad ir {updated_count} attēli."
+        )
+        print("  ✅ VERIFY: PASSED")
+        return result
+
+    result["action"] = "VERIFY_FAILED"
     result["message"] = (
-        f"Sinhronizācija pabeigta; "
-        f"WooCommerce tagad ir {updated_count} attēli."
+        "Pēc atjaunināšanas audits joprojām rāda "
+        f"{verify_status}: {verify_audit['message']}"
     )
 
-    print(f"  ✅ {result['message']}")
+    print(
+        f"  ❌ VERIFY: FAILED — statuss {verify_status}"
+    )
+    print_audit_result(
+        verify_audit,
+        verbose=True,
+    )
     return result
 
 
@@ -920,7 +866,10 @@ def sync_one_product(
             verbose=verbose,
         )
 
-    return result["action"] == "UPDATED"
+    return (
+        result["action"] == "UPDATED"
+        and result["verify_status"] == "OK"
+    )
 
 
 def parse_args() -> argparse.Namespace:
@@ -1112,6 +1061,14 @@ def main() -> int:
         f"{action_counts.get('UPDATED', 0)}"
     )
     print(
+        f"Verify passed:    "
+        f"{sum(1 for item in results if item.get('verify_status') == 'OK')}"
+    )
+    print(
+        f"Verify failed:    "
+        f"{action_counts.get('VERIFY_FAILED', 0)}"
+    )
+    print(
         f"Dry run SYNC:     "
         f"{action_counts.get('DRY_RUN', 0)}"
     )
@@ -1128,7 +1085,11 @@ def main() -> int:
         f"{action_counts.get('ERROR', 0)}"
     )
 
-    return 1 if action_counts.get("ERROR", 0) else 0
+    failed_count = (
+        action_counts.get("ERROR", 0)
+        + action_counts.get("VERIFY_FAILED", 0)
+    )
+    return 1 if failed_count else 0
 
 
 if __name__ == "__main__":

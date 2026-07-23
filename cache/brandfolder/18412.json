@@ -1,7 +1,25 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "18412",
   "assets": [
+    {
+      "asset_id": "gcgpc553hhk6mmprx6whm7b",
+      "asset_name": "Pizza Stone 18412 EMEA Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18413",
+        "18412"
+      ]
+    },
+    {
+      "asset_id": "bvnmmk6zrznb3jhf7kr9gt",
+      "asset_name": "Pizza Stone 18412 EMEA Packaging",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18413",
+        "18412"
+      ]
+    },
     {
       "asset_id": "rmkqjw94cn3pkbf997xwtrf",
       "asset_name": "18412 0122 RevB LR",
@@ -11,5 +29,20 @@
       ]
     }
   ],
-  "images": []
+  "images": [
+    {
+      "attachment_id": "5gnf3c6qqg9wnwgbqwwb4jjv",
+      "filename": "18412C_rgb.png",
+      "extension": "png",
+      "position": 0,
+      "width": 4000,
+      "height": 4000,
+      "size": 3688155,
+      "mimetype": "image/png",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5gnf3c6qqg9wnwgbqwwb4jjv/18412C_rgb.png?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/5gnf3c6qqg9wnwgbqwwb4jjv/v/1020056641/original/18412C_rgb.png",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/5gnf3c6qqg9wnwgbqwwb4jjv/v/1020056641/original/18412C_rgb.png"
+    }
+  ]
 }

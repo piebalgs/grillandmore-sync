@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6609",
   "assets": [
     {
@@ -7,7 +7,9 @@
       "asset_name": "Pulse Griddle 6609 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6609"
+        "6609",
+        "2000",
+        "1000"
       ]
     },
     {
@@ -15,7 +17,9 @@
       "asset_name": "Pulse Griddle 6609 Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6609"
+        "6609",
+        "1000",
+        "2000"
       ]
     },
     {
@@ -23,7 +27,9 @@
       "asset_name": "Pulse Griddle 6609 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6609"
+        "6609",
+        "2000",
+        "1000"
       ]
     },
     {
@@ -31,7 +37,10 @@
       "asset_name": "DE Pulse Plancha & Griddle Grilltipps Video",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6609"
+        "6609",
+        "82010004",
+        "17059",
+        "2000"
       ]
     },
     {
@@ -39,7 +48,10 @@
       "asset_name": "(Subtitles) DE Pulse Plancha Griddle Grilltipps Video",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6609"
+        "6609",
+        "82010004",
+        "17059",
+        "2000"
       ]
     },
     {
@@ -63,8 +75,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgv2t8-2z90ww-fz6s4a/6609A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-fz6s4a/v/2532681/original/6609A.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=hGPHdXW5eEh8Ut8cdE4QLVNVkPo=",
-      "url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-fz6s4a/v/2532681/original/6609A.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=hGPHdXW5eEh8Ut8cdE4QLVNVkPo="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-fz6s4a/v/2532681/original/6609A.png?Expires=1784897465&KeyName=gcs-bfldr-prod&Signature=Z_eWrOyJ-OzRzWF_S1fyzzSvn4k=",
+      "url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-fz6s4a/v/2532681/original/6609A.png?Expires=1784897465&KeyName=gcs-bfldr-prod&Signature=Z_eWrOyJ-OzRzWF_S1fyzzSvn4k="
     },
     {
       "attachment_id": "pgv2t8-2z90ww-6x9b1h",
@@ -77,8 +89,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgv2t8-2z90ww-6x9b1h/6609B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-6x9b1h/v/2532682/original/6609B.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=VCztL-Wvglb6IO89Teu_7g3Svd8=",
-      "url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-6x9b1h/v/2532682/original/6609B.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=VCztL-Wvglb6IO89Teu_7g3Svd8="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-6x9b1h/v/2532682/original/6609B.png?Expires=1784897465&KeyName=gcs-bfldr-prod&Signature=vy71vnRtavQdl9iei8FrbRjFuyY=",
+      "url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-6x9b1h/v/2532682/original/6609B.png?Expires=1784897465&KeyName=gcs-bfldr-prod&Signature=vy71vnRtavQdl9iei8FrbRjFuyY="
     },
     {
       "attachment_id": "pgv2t8-2z90ww-10u9r9",
@@ -91,8 +103,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgv2t8-2z90ww-10u9r9/6609C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-10u9r9/v/2532683/original/6609C.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=E_6JE5k_RTgJdoI9KqIseZmnyFI=",
-      "url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-10u9r9/v/2532683/original/6609C.png?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=E_6JE5k_RTgJdoI9KqIseZmnyFI="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-10u9r9/v/2532683/original/6609C.png?Expires=1784897465&KeyName=gcs-bfldr-prod&Signature=jskh23fNc2wz5szq6eOI1w3ENoI=",
+      "url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-10u9r9/v/2532683/original/6609C.png?Expires=1784897465&KeyName=gcs-bfldr-prod&Signature=jskh23fNc2wz5szq6eOI1w3ENoI="
     },
     {
       "attachment_id": "pgv2t8-2z90ww-6px9y7",
@@ -105,8 +117,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgv2t8-2z90ww-6px9y7/6609Y1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-6px9y7/v/2635048/original/6609Y1.jpg?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=tBrySjZeIDlyzSr9zFCjT8vokzA=",
-      "url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-6px9y7/v/2635048/original/6609Y1.jpg?Expires=1784652400&KeyName=gcs-bfldr-prod&Signature=tBrySjZeIDlyzSr9zFCjT8vokzA="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-6px9y7/v/2635048/original/6609Y1.jpg?Expires=1784897465&KeyName=gcs-bfldr-prod&Signature=bMQWK0x00qscdOKSGgAM-nyMuUE=",
+      "url": "https://storage-us-gcs.bfldr.com/pgv2t8-2z90ww-6px9y7/v/2635048/original/6609Y1.jpg?Expires=1784897465&KeyName=gcs-bfldr-prod&Signature=bMQWK0x00qscdOKSGgAM-nyMuUE="
     }
   ]
 }

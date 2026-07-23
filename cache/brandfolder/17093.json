@@ -1,6 +1,16 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17093",
-  "assets": [],
+  "assets": [
+    {
+      "asset_id": "plwadx-chs0t4-4v01sz",
+      "asset_name": "Premium Salt and Pepper Mill Set 17093 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17275",
+        "17093"
+      ]
+    }
+  ],
   "images": []
 }

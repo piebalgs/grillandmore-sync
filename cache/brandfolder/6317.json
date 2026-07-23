@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6317",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Grill Tongs 6317 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6317"
+        "6317",
+        "2021"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Grill Tongs 6317 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6317"
+        "6317",
+        "2021"
       ]
     },
     {
@@ -23,7 +25,40 @@
       "asset_name": "Grill Tongs 6317 Food",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6317"
+        "6317",
+        "2021"
+      ]
+    },
+    {
+      "asset_id": "mqnwpp7j96h57wfpwr89r4g",
+      "asset_name": "Grill Tools 6317/6318/6319 Food",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6319",
+        "2021",
+        "6317",
+        "6318"
+      ]
+    },
+    {
+      "asset_id": "5bvf7zkkcmph9jxvxzxrs7tm",
+      "asset_name": "2021 Grilling Tools Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6772",
+        "6764",
+        "6771",
+        "6319",
+        "6770",
+        "6318",
+        "6768",
+        "6762",
+        "6760",
+        "6769",
+        "6761",
+        "2021",
+        "6317",
+        "6763"
       ]
     },
     {
@@ -31,8 +66,8 @@
       "asset_name": "Value Tools Spatula Tongs Set of 2",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6317",
         "6318",
+        "6317",
         "3401326"
       ]
     },
@@ -43,8 +78,8 @@
       "skus": [
         "6318",
         "3400713",
-        "3401327",
-        "6317"
+        "6317",
+        "3401327"
       ]
     },
     {
@@ -57,6 +92,48 @@
     }
   ],
   "images": [
+    {
+      "attachment_id": "w7hh7wmtg38hchsb6bnq6n",
+      "filename": "2021_Grilling_Tools_Slate_1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 9290326,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w7hh7wmtg38hchsb6bnq6n/2021_Grilling_Tools_Slate_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/w7hh7wmtg38hchsb6bnq6n/v/53130191/original/2021_Grilling_Tools_Slate_1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/w7hh7wmtg38hchsb6bnq6n/v/53130191/original/2021_Grilling_Tools_Slate_1_rgb.jpg"
+    },
+    {
+      "attachment_id": "bxrc665943hp2s7gpm66hgbr",
+      "filename": "2021_Grilling_Tools_Wood_2_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 10482451,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bxrc665943hp2s7gpm66hgbr/2021_Grilling_Tools_Wood_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/bxrc665943hp2s7gpm66hgbr/v/53130193/original/2021_Grilling_Tools_Wood_2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/bxrc665943hp2s7gpm66hgbr/v/53130193/original/2021_Grilling_Tools_Wood_2_rgb.jpg"
+    },
+    {
+      "attachment_id": "bqg8f3wmvk5phvjs69j6vc7",
+      "filename": "2021_Grilling_Tools_Wood_3_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 11338161,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bqg8f3wmvk5phvjs69j6vc7/2021_Grilling_Tools_Wood_3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/bqg8f3wmvk5phvjs69j6vc7/v/53130194/original/2021_Grilling_Tools_Wood_3_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/bqg8f3wmvk5phvjs69j6vc7/v/53130194/original/2021_Grilling_Tools_Wood_3_rgb.jpg"
+    },
     {
       "attachment_id": "vb77ph398tnf2rkpj9ffsjqn",
       "filename": "6317A_rgb.png",
@@ -128,6 +205,34 @@
       "url": "https://assets2.brandfolder.io/bf-boulder-prod/hj6nfmffvprfvz4gcwt9hfcq/v/52522341/original/6317Y1_rgb.jpg"
     },
     {
+      "attachment_id": "3jmfx3ct5sfvg6wjxbf8tc5",
+      "filename": "6317_6318_6319Y1_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 2493,
+      "size": 4926466,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3jmfx3ct5sfvg6wjxbf8tc5/6317_6318_6319Y1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/3jmfx3ct5sfvg6wjxbf8tc5/v/52564829/original/6317_6318_6319Y1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/3jmfx3ct5sfvg6wjxbf8tc5/v/52564829/original/6317_6318_6319Y1_rgb.jpg"
+    },
+    {
+      "attachment_id": "b65xxs6rskr3964m7npkwzvt",
+      "filename": "6317_6318_6319Y2_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 2968,
+      "size": 6641702,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/b65xxs6rskr3964m7npkwzvt/6317_6318_6319Y2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/b65xxs6rskr3964m7npkwzvt/v/52565113/original/6317_6318_6319Y2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/b65xxs6rskr3964m7npkwzvt/v/52565113/original/6317_6318_6319Y2_rgb.jpg"
+    },
+    {
       "attachment_id": "szmmkc29392kv9tn4npcw8t",
       "filename": "3401326-VALUE TOOLS SPATULA TONGS SET OF 2_A_rgb.png",
       "extension": "png",
@@ -138,8 +243,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/szmmkc29392kv9tn4npcw8t/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/szmmkc29392kv9tn4npcw8t/v/1268255335/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_A_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=r54R0i95v9fJXz3mDnBWyZW1roA=",
-      "url": "https://storage-us-gcs.bfldr.com/szmmkc29392kv9tn4npcw8t/v/1268255335/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_A_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=r54R0i95v9fJXz3mDnBWyZW1roA="
+      "original_url": "https://storage-us-gcs.bfldr.com/szmmkc29392kv9tn4npcw8t/v/1268255335/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_A_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=Mvblou_UGjrTVs9qR4ZU4m_lZWo=",
+      "url": "https://storage-us-gcs.bfldr.com/szmmkc29392kv9tn4npcw8t/v/1268255335/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_A_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=Mvblou_UGjrTVs9qR4ZU4m_lZWo="
     },
     {
       "attachment_id": "c9kwjqxrh9xh8gw4sg45vvb",
@@ -152,8 +257,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/c9kwjqxrh9xh8gw4sg45vvb/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/c9kwjqxrh9xh8gw4sg45vvb/v/1268255336/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_B_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=O1UqBkJZIEuCituJjZYbOtHdvZ0=",
-      "url": "https://storage-us-gcs.bfldr.com/c9kwjqxrh9xh8gw4sg45vvb/v/1268255336/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_B_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=O1UqBkJZIEuCituJjZYbOtHdvZ0="
+      "original_url": "https://storage-us-gcs.bfldr.com/c9kwjqxrh9xh8gw4sg45vvb/v/1268255336/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_B_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=oSRuRu7c_SlXM90Zul8kZ_yFo3M=",
+      "url": "https://storage-us-gcs.bfldr.com/c9kwjqxrh9xh8gw4sg45vvb/v/1268255336/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_B_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=oSRuRu7c_SlXM90Zul8kZ_yFo3M="
     },
     {
       "attachment_id": "cw4t98z9v4mvhpz6v47zn4",
@@ -166,8 +271,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cw4t98z9v4mvhpz6v47zn4/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cw4t98z9v4mvhpz6v47zn4/v/1268255337/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_C_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=JxkFBqnGrY0o9VYpQA3waaBP3XI=",
-      "url": "https://storage-us-gcs.bfldr.com/cw4t98z9v4mvhpz6v47zn4/v/1268255337/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_C_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=JxkFBqnGrY0o9VYpQA3waaBP3XI="
+      "original_url": "https://storage-us-gcs.bfldr.com/cw4t98z9v4mvhpz6v47zn4/v/1268255337/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_C_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=_PcOd1tug2Q-wMc0FHvFXboiYe8=",
+      "url": "https://storage-us-gcs.bfldr.com/cw4t98z9v4mvhpz6v47zn4/v/1268255337/original/3401326-VALUE%20TOOLS%20SPATULA%20TONGS%20SET%20OF%202_C_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=_PcOd1tug2Q-wMc0FHvFXboiYe8="
     },
     {
       "attachment_id": "pt7jr9n6pt988b6wsb8zkkj8",
@@ -180,8 +285,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pt7jr9n6pt988b6wsb8zkkj8/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pt7jr9n6pt988b6wsb8zkkj8/v/1268258161/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_A_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=xENeQqZcP-cl8gdiFjzYt7GbPbY=",
-      "url": "https://storage-us-gcs.bfldr.com/pt7jr9n6pt988b6wsb8zkkj8/v/1268258161/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_A_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=xENeQqZcP-cl8gdiFjzYt7GbPbY="
+      "original_url": "https://storage-us-gcs.bfldr.com/pt7jr9n6pt988b6wsb8zkkj8/v/1268258161/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_A_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=X3zml0NlLMzdc7TCrcNbTpOaS7Y=",
+      "url": "https://storage-us-gcs.bfldr.com/pt7jr9n6pt988b6wsb8zkkj8/v/1268258161/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_A_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=X3zml0NlLMzdc7TCrcNbTpOaS7Y="
     },
     {
       "attachment_id": "sj6f8zptch5cvhh7bq5qsbs",
@@ -194,8 +299,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sj6f8zptch5cvhh7bq5qsbs/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/sj6f8zptch5cvhh7bq5qsbs/v/1268258162/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_B_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=OYkB8AY5TFDJWXON4471jvmEJjo=",
-      "url": "https://storage-us-gcs.bfldr.com/sj6f8zptch5cvhh7bq5qsbs/v/1268258162/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_B_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=OYkB8AY5TFDJWXON4471jvmEJjo="
+      "original_url": "https://storage-us-gcs.bfldr.com/sj6f8zptch5cvhh7bq5qsbs/v/1268258162/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_B_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=H_2_nalPyezSkzZY4qA5kfRriuQ=",
+      "url": "https://storage-us-gcs.bfldr.com/sj6f8zptch5cvhh7bq5qsbs/v/1268258162/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_B_rgb.png?Expires=1784897327&KeyName=gcs-bfldr-prod&Signature=H_2_nalPyezSkzZY4qA5kfRriuQ="
     },
     {
       "attachment_id": "2pxh9shwgt65cnxjz27tmm",
@@ -208,8 +313,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2pxh9shwgt65cnxjz27tmm/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2pxh9shwgt65cnxjz27tmm/v/1268258163/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_C_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=dd3PSsLuwdh45xrsArNdCVwMH78=",
-      "url": "https://storage-us-gcs.bfldr.com/2pxh9shwgt65cnxjz27tmm/v/1268258163/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_C_rgb.png?Expires=1784652346&KeyName=gcs-bfldr-prod&Signature=dd3PSsLuwdh45xrsArNdCVwMH78="
+      "original_url": "https://storage-us-gcs.bfldr.com/2pxh9shwgt65cnxjz27tmm/v/1268258163/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_C_rgb.png?Expires=1784897328&KeyName=gcs-bfldr-prod&Signature=cuB7yirXsikgnrkW3vO98PXf6gM=",
+      "url": "https://storage-us-gcs.bfldr.com/2pxh9shwgt65cnxjz27tmm/v/1268258163/original/3401327-VALUE%20TOOLS%20SET%20OF%203%20SPTLA%20TNG%2012IN%20BRSH_C_rgb.png?Expires=1784897328&KeyName=gcs-bfldr-prod&Signature=cuB7yirXsikgnrkW3vO98PXf6gM="
     }
   ]
 }

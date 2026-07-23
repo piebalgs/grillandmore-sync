@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401421",
   "assets": [
     {
@@ -7,9 +7,9 @@
       "asset_name": "Performer Premium and Performer Premium Smart Grill Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401382",
+        "3401421",
         "1501825",
-        "3401421"
+        "3401382"
       ]
     },
     {
@@ -169,8 +169,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pcqbr5cts7hj683w6rkfv83f/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pcqbr5cts7hj683w6rkfv83f/v/1277876603/original/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=7q9pcpFk85i8o6aFCQ5dNZRB-1A=",
-      "url": "https://storage-us-gcs.bfldr.com/pcqbr5cts7hj683w6rkfv83f/v/1277876603/original/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=7q9pcpFk85i8o6aFCQ5dNZRB-1A="
+      "original_url": "https://storage-us-gcs.bfldr.com/pcqbr5cts7hj683w6rkfv83f/v/1277876603/original/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784897441&KeyName=gcs-bfldr-prod&Signature=XJVfwH-xZOqSbG39dNBoQRyKnpU=",
+      "url": "https://storage-us-gcs.bfldr.com/pcqbr5cts7hj683w6rkfv83f/v/1277876603/original/3401382_019_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784897441&KeyName=gcs-bfldr-prod&Signature=XJVfwH-xZOqSbG39dNBoQRyKnpU="
     },
     {
       "attachment_id": "f4j7j7436jbp2xgnfr7fkz5n",
@@ -183,8 +183,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f4j7j7436jbp2xgnfr7fkz5n/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/f4j7j7436jbp2xgnfr7fkz5n/v/1277876604/original/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=UfzrDhBT_3S178K-aIlpJ9OMMDY=",
-      "url": "https://storage-us-gcs.bfldr.com/f4j7j7436jbp2xgnfr7fkz5n/v/1277876604/original/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=UfzrDhBT_3S178K-aIlpJ9OMMDY="
+      "original_url": "https://storage-us-gcs.bfldr.com/f4j7j7436jbp2xgnfr7fkz5n/v/1277876604/original/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784897441&KeyName=gcs-bfldr-prod&Signature=7sqScQsa_Byqnb1pdzkY_kAAIpU=",
+      "url": "https://storage-us-gcs.bfldr.com/f4j7j7436jbp2xgnfr7fkz5n/v/1277876604/original/3401382_020_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784897441&KeyName=gcs-bfldr-prod&Signature=7sqScQsa_Byqnb1pdzkY_kAAIpU="
     },
     {
       "attachment_id": "nbtz2tms8zn9pkkcnkg43mx5",
@@ -197,8 +197,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nbtz2tms8zn9pkkcnkg43mx5/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nbtz2tms8zn9pkkcnkg43mx5/v/1277876606/original/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=1Cn0Xs74h-PTBiJPG6PMSHnfKKE=",
-      "url": "https://storage-us-gcs.bfldr.com/nbtz2tms8zn9pkkcnkg43mx5/v/1277876606/original/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784652390&KeyName=gcs-bfldr-prod&Signature=1Cn0Xs74h-PTBiJPG6PMSHnfKKE="
+      "original_url": "https://storage-us-gcs.bfldr.com/nbtz2tms8zn9pkkcnkg43mx5/v/1277876606/original/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784897441&KeyName=gcs-bfldr-prod&Signature=vvnLFXhOODbK_08xpBfVt6_7_As=",
+      "url": "https://storage-us-gcs.bfldr.com/nbtz2tms8zn9pkkcnkg43mx5/v/1277876606/original/3401382_021_PerformerPrem_Cover_FY2026_AMER_rgb.png?Expires=1784897441&KeyName=gcs-bfldr-prod&Signature=vvnLFXhOODbK_08xpBfVt6_7_As="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401363",
   "assets": [
     {
@@ -16,8 +16,8 @@
       "asset_name": "Griddle Squeeze Bottle Set of 2",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6782",
-        "3401363"
+        "3401363",
+        "6782"
       ]
     },
     {
@@ -33,26 +33,26 @@
       "asset_name": "Slate 71CM Premium",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501793",
-        "1501758",
-        "3400423",
-        "1501756",
-        "3401364",
-        "3400519",
-        "6669",
-        "1501790",
-        "1501791",
         "3401363",
-        "1501789",
+        "1501790",
         "1501757",
+        "3400423",
+        "1501789",
         "1501801",
-        "1501794",
-        "1501800",
-        "1501759",
         "1501779",
-        "6670",
+        "3400519",
+        "1501756",
+        "1501759",
+        "1501758",
+        "1501800",
+        "1501793",
+        "6669",
+        "1501792",
         "1501795",
-        "1501792"
+        "1501794",
+        "1501791",
+        "3401364",
+        "6670"
       ]
     },
     {
@@ -204,8 +204,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8vhvk5thq7wqrwmx8q9f5b/6782B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8vhvk5thq7wqrwmx8q9f5b/v/1269093613/original/6782B_rgb.png?Expires=1784652353&KeyName=gcs-bfldr-prod&Signature=DlISwM4uZ_AkDkFY_d-3qFcKbW0=",
-      "url": "https://storage-us-gcs.bfldr.com/8vhvk5thq7wqrwmx8q9f5b/v/1269093613/original/6782B_rgb.png?Expires=1784652353&KeyName=gcs-bfldr-prod&Signature=DlISwM4uZ_AkDkFY_d-3qFcKbW0="
+      "original_url": "https://storage-us-gcs.bfldr.com/8vhvk5thq7wqrwmx8q9f5b/v/1269093613/original/6782B_rgb.png?Expires=1784897341&KeyName=gcs-bfldr-prod&Signature=uHDBQPrLskTfJluRIAqN6qIyKXM=",
+      "url": "https://storage-us-gcs.bfldr.com/8vhvk5thq7wqrwmx8q9f5b/v/1269093613/original/6782B_rgb.png?Expires=1784897341&KeyName=gcs-bfldr-prod&Signature=uHDBQPrLskTfJluRIAqN6qIyKXM="
     },
     {
       "attachment_id": "grb6g8k3mjm8qwpngqfnxnx",
@@ -218,8 +218,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/grb6g8k3mjm8qwpngqfnxnx/6782FB1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/grb6g8k3mjm8qwpngqfnxnx/v/1269093626/original/6782FB1_rgb.jpg?Expires=1784652353&KeyName=gcs-bfldr-prod&Signature=fFdRocbHxpz_-81yLeGCSr8cOe8=",
-      "url": "https://storage-us-gcs.bfldr.com/grb6g8k3mjm8qwpngqfnxnx/v/1269093626/original/6782FB1_rgb.jpg?Expires=1784652353&KeyName=gcs-bfldr-prod&Signature=fFdRocbHxpz_-81yLeGCSr8cOe8="
+      "original_url": "https://storage-us-gcs.bfldr.com/grb6g8k3mjm8qwpngqfnxnx/v/1269093626/original/6782FB1_rgb.jpg?Expires=1784897341&KeyName=gcs-bfldr-prod&Signature=lovg0kv1OPLpDk-a5KKvNsfWjjg=",
+      "url": "https://storage-us-gcs.bfldr.com/grb6g8k3mjm8qwpngqfnxnx/v/1269093626/original/6782FB1_rgb.jpg?Expires=1784897341&KeyName=gcs-bfldr-prod&Signature=lovg0kv1OPLpDk-a5KKvNsfWjjg="
     },
     {
       "attachment_id": "k68bvvwzqh9jr6jmbqckhw88",
@@ -232,8 +232,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k68bvvwzqh9jr6jmbqckhw88/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784652353&KeyName=gcs-bfldr-prod&Signature=kB8dyuIisco8tlPs_Qf6duJ2jfI=",
-      "url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784652353&KeyName=gcs-bfldr-prod&Signature=kB8dyuIisco8tlPs_Qf6duJ2jfI="
+      "original_url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784897341&KeyName=gcs-bfldr-prod&Signature=Z0pw-YoU8K2s7c5Wdc1eraHCpZ4=",
+      "url": "https://storage-us-gcs.bfldr.com/k68bvvwzqh9jr6jmbqckhw88/v/1294495944/original/1501789_019B_%20Slate71CM%20Prem_FY2026_EMEA.jpg?Expires=1784897341&KeyName=gcs-bfldr-prod&Signature=Z0pw-YoU8K2s7c5Wdc1eraHCpZ4="
     }
   ]
 }

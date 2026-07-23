@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401051",
   "assets": [
     {
@@ -31,8 +31,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hwgkqhgg8ccqp4s5t99q3w/3401051_PelletFuel_GrillBlend_Back_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hwgkqhgg8ccqp4s5t99q3w/v/1266872892/original/3401051_PelletFuel_GrillBlend_Back_1800x1800.png?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=cNqFSqQHYPFM472wugI4VUWp3yo=",
-      "url": "https://storage-us-gcs.bfldr.com/hwgkqhgg8ccqp4s5t99q3w/v/1266872892/original/3401051_PelletFuel_GrillBlend_Back_1800x1800.png?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=cNqFSqQHYPFM472wugI4VUWp3yo="
+      "original_url": "https://storage-us-gcs.bfldr.com/hwgkqhgg8ccqp4s5t99q3w/v/1266872892/original/3401051_PelletFuel_GrillBlend_Back_1800x1800.png?Expires=1784897500&KeyName=gcs-bfldr-prod&Signature=dsQHvJYE7i_GH7EVYM2lKvOB4ps=",
+      "url": "https://storage-us-gcs.bfldr.com/hwgkqhgg8ccqp4s5t99q3w/v/1266872892/original/3401051_PelletFuel_GrillBlend_Back_1800x1800.png?Expires=1784897500&KeyName=gcs-bfldr-prod&Signature=dsQHvJYE7i_GH7EVYM2lKvOB4ps="
     },
     {
       "attachment_id": "99q42zk4vmqkcs7hv4mxfc",
@@ -45,8 +45,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/99q42zk4vmqkcs7hv4mxfc/3401051_PelletFuel_GrillBlend_Front_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/99q42zk4vmqkcs7hv4mxfc/v/1266872895/original/3401051_PelletFuel_GrillBlend_Front_1800x1800.png?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=nYvf6B2m2f70dYWo022GXAICHXo=",
-      "url": "https://storage-us-gcs.bfldr.com/99q42zk4vmqkcs7hv4mxfc/v/1266872895/original/3401051_PelletFuel_GrillBlend_Front_1800x1800.png?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=nYvf6B2m2f70dYWo022GXAICHXo="
+      "original_url": "https://storage-us-gcs.bfldr.com/99q42zk4vmqkcs7hv4mxfc/v/1266872895/original/3401051_PelletFuel_GrillBlend_Front_1800x1800.png?Expires=1784897500&KeyName=gcs-bfldr-prod&Signature=VmjvomHcBjE0kJUAiqBU17yIN34=",
+      "url": "https://storage-us-gcs.bfldr.com/99q42zk4vmqkcs7hv4mxfc/v/1266872895/original/3401051_PelletFuel_GrillBlend_Front_1800x1800.png?Expires=1784897500&KeyName=gcs-bfldr-prod&Signature=VmjvomHcBjE0kJUAiqBU17yIN34="
     }
   ]
 }

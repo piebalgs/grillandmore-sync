@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400867",
   "assets": [
     {
@@ -15,12 +15,12 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400866",
-        "3401864",
-        "3400867",
         "3400247",
-        "3400139",
-        "3400166"
+        "3400166",
+        "3400867",
+        "3401864",
+        "3400866",
+        "3400139"
       ]
     },
     {
@@ -28,12 +28,12 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400866",
-        "3400139",
         "3400247",
         "3400166",
-        "3400867",
-        "3401864"
+        "3400866",
+        "3401864",
+        "3400139",
+        "3400867"
       ]
     },
     {
@@ -41,12 +41,12 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400139",
+        "3400866",
         "3400867",
-        "3400247",
         "3401864",
-        "3400166",
-        "3400866"
+        "3400247",
+        "3400139",
+        "3400166"
       ]
     },
     {
@@ -54,12 +54,12 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400866",
-        "3400867",
-        "3400247",
         "3401864",
+        "3400867",
+        "3400166",
+        "3400247",
         "3400139",
-        "3400166"
+        "3400866"
       ]
     },
     {
@@ -67,11 +67,11 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400248",
-        "3400867",
         "3401864",
-        "3400139",
-        "3400866"
+        "3400867",
+        "3400248",
+        "3400866",
+        "3400139"
       ]
     },
     {
@@ -79,6 +79,11 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3401864",
+        "3400867",
+        "3400247",
+        "3400866",
+        "3400139",
         "1500375",
         "1500376",
         "1500377",
@@ -95,12 +100,7 @@
         "28640024",
         "3400047",
         "3400048",
-        "3400867",
-        "3400247",
-        "3400139",
-        "3400166",
-        "3401864",
-        "3400866"
+        "3400166"
       ]
     },
     {
@@ -108,6 +108,11 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3401864",
+        "3400166",
+        "3400867",
+        "3400139",
+        "3400247",
         "1500375",
         "1500376",
         "1500377",
@@ -124,12 +129,7 @@
         "28640024",
         "3400047",
         "3400048",
-        "3401864",
-        "3400867",
-        "3400166",
-        "3400866",
-        "3400139",
-        "3400247"
+        "3400866"
       ]
     },
     {
@@ -137,12 +137,11 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400867",
-        "3400166",
-        "3400247",
         "3400866",
+        "3400247",
+        "3400166",
+        "3400867",
         "3400139",
-        "3401864",
         "1500375",
         "1500376",
         "1500377",
@@ -158,7 +157,8 @@
         "28660024",
         "28640024",
         "3400047",
-        "3400048"
+        "3400048",
+        "3401864"
       ]
     },
     {
@@ -166,22 +166,22 @@
       "asset_name": "[EMEA/AUNZ/AMER] Q1XXXN / Q2XXXN+ Full Griddle",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1500376",
         "1500375",
-        "3401864",
-        "1500394",
-        "1500391",
-        "3400166",
         "1500390",
-        "1500377",
-        "3400867",
+        "1500393",
+        "3401864",
+        "1500391",
         "1500378",
         "3400139",
-        "1500379",
         "3400866",
+        "1500394",
+        "3400867",
+        "3400166",
         "1500392",
         "3400247",
-        "1500376",
-        "1500393"
+        "1500379",
+        "1500377"
       ]
     },
     {
@@ -205,8 +205,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rtrr2r2v93bpxztm8vkbprgh/3400866A_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rtrr2r2v93bpxztm8vkbprgh/v/1267424536/original/3400866A_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=zRwSxLoboXrG1UZz9NHM43DHGUw=",
-      "url": "https://storage-us-gcs.bfldr.com/rtrr2r2v93bpxztm8vkbprgh/v/1267424536/original/3400866A_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=zRwSxLoboXrG1UZz9NHM43DHGUw="
+      "original_url": "https://storage-us-gcs.bfldr.com/rtrr2r2v93bpxztm8vkbprgh/v/1267424536/original/3400866A_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=UuFUKyQX47KDtSRXnMOQe89b60k=",
+      "url": "https://storage-us-gcs.bfldr.com/rtrr2r2v93bpxztm8vkbprgh/v/1267424536/original/3400866A_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=UuFUKyQX47KDtSRXnMOQe89b60k="
     },
     {
       "attachment_id": "xrg59x4p5kbb55xm7qtc4j",
@@ -219,8 +219,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xrg59x4p5kbb55xm7qtc4j/3400866B_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xrg59x4p5kbb55xm7qtc4j/v/1267424539/original/3400866B_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=0IneDYeMxP6zHYgsUGIZ-bj5FoQ=",
-      "url": "https://storage-us-gcs.bfldr.com/xrg59x4p5kbb55xm7qtc4j/v/1267424539/original/3400866B_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=0IneDYeMxP6zHYgsUGIZ-bj5FoQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/xrg59x4p5kbb55xm7qtc4j/v/1267424539/original/3400866B_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=GG_SQZN9Rx6DfRm9P5UKqizUApY=",
+      "url": "https://storage-us-gcs.bfldr.com/xrg59x4p5kbb55xm7qtc4j/v/1267424539/original/3400866B_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=GG_SQZN9Rx6DfRm9P5UKqizUApY="
     },
     {
       "attachment_id": "gt44bws47m3jgttbwwbgb",
@@ -233,8 +233,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gt44bws47m3jgttbwwbgb/3400866C_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gt44bws47m3jgttbwwbgb/v/1267424541/original/3400866C_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=icEyxiKPjepvMcb7_6u9UsyEtC4=",
-      "url": "https://storage-us-gcs.bfldr.com/gt44bws47m3jgttbwwbgb/v/1267424541/original/3400866C_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=icEyxiKPjepvMcb7_6u9UsyEtC4="
+      "original_url": "https://storage-us-gcs.bfldr.com/gt44bws47m3jgttbwwbgb/v/1267424541/original/3400866C_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=o9fu9SpxEl7SkMS8gEDI_Qwof2k=",
+      "url": "https://storage-us-gcs.bfldr.com/gt44bws47m3jgttbwwbgb/v/1267424541/original/3400866C_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=o9fu9SpxEl7SkMS8gEDI_Qwof2k="
     },
     {
       "attachment_id": "qjr75z9g8zb7vt4p9rv62r",
@@ -247,8 +247,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qjr75z9g8zb7vt4p9rv62r/3400866_Griddle1_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qjr75z9g8zb7vt4p9rv62r/v/1267424343/original/3400866_Griddle1_EMEA_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=ZCiX8t7-wSIyiafVxMlrYzq4azI=",
-      "url": "https://storage-us-gcs.bfldr.com/qjr75z9g8zb7vt4p9rv62r/v/1267424343/original/3400866_Griddle1_EMEA_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=ZCiX8t7-wSIyiafVxMlrYzq4azI="
+      "original_url": "https://storage-us-gcs.bfldr.com/qjr75z9g8zb7vt4p9rv62r/v/1267424343/original/3400866_Griddle1_EMEA_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=CisFJw_f5HrL8IHX6WBrHA921zU=",
+      "url": "https://storage-us-gcs.bfldr.com/qjr75z9g8zb7vt4p9rv62r/v/1267424343/original/3400866_Griddle1_EMEA_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=CisFJw_f5HrL8IHX6WBrHA921zU="
     },
     {
       "attachment_id": "4n5ncwgm3km6bv34t9bjnt",
@@ -261,8 +261,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4n5ncwgm3km6bv34t9bjnt/3400866_Griddle2_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4n5ncwgm3km6bv34t9bjnt/v/1267424344/original/3400866_Griddle2_EMEA_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=8UXJgFS6I-LAVSSRQaxWLfpfD7Y=",
-      "url": "https://storage-us-gcs.bfldr.com/4n5ncwgm3km6bv34t9bjnt/v/1267424344/original/3400866_Griddle2_EMEA_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=8UXJgFS6I-LAVSSRQaxWLfpfD7Y="
+      "original_url": "https://storage-us-gcs.bfldr.com/4n5ncwgm3km6bv34t9bjnt/v/1267424344/original/3400866_Griddle2_EMEA_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=wD_foSutdXfd5U0FR_KGAf8ZN5w=",
+      "url": "https://storage-us-gcs.bfldr.com/4n5ncwgm3km6bv34t9bjnt/v/1267424344/original/3400866_Griddle2_EMEA_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=wD_foSutdXfd5U0FR_KGAf8ZN5w="
     },
     {
       "attachment_id": "bh8926fbk8zjtjsq4jq57jp",
@@ -275,8 +275,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bh8926fbk8zjtjsq4jq57jp/3400867_Griddle_EMEA_ALT_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bh8926fbk8zjtjsq4jq57jp/v/1267423723/original/3400867_Griddle_EMEA_ALT_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=yrzSQuBp8eHBGPn23qOu3e8JX04=",
-      "url": "https://storage-us-gcs.bfldr.com/bh8926fbk8zjtjsq4jq57jp/v/1267423723/original/3400867_Griddle_EMEA_ALT_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=yrzSQuBp8eHBGPn23qOu3e8JX04="
+      "original_url": "https://storage-us-gcs.bfldr.com/bh8926fbk8zjtjsq4jq57jp/v/1267423723/original/3400867_Griddle_EMEA_ALT_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=BJe32u36jbjOr5c34g9nBQMigTE=",
+      "url": "https://storage-us-gcs.bfldr.com/bh8926fbk8zjtjsq4jq57jp/v/1267423723/original/3400867_Griddle_EMEA_ALT_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=BJe32u36jbjOr5c34g9nBQMigTE="
     },
     {
       "attachment_id": "5bfpcxwms9pbqrq33s5h86vq",
@@ -289,8 +289,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5bfpcxwms9pbqrq33s5h86vq/3400867_Griddle_EMEA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5bfpcxwms9pbqrq33s5h86vq/v/1267423725/original/3400867_Griddle_EMEA_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=Unn39wC0Noh8SUIqPfZ_WRFj_cU=",
-      "url": "https://storage-us-gcs.bfldr.com/5bfpcxwms9pbqrq33s5h86vq/v/1267423725/original/3400867_Griddle_EMEA_rgb.jpg?Expires=1784652308&KeyName=gcs-bfldr-prod&Signature=Unn39wC0Noh8SUIqPfZ_WRFj_cU="
+      "original_url": "https://storage-us-gcs.bfldr.com/5bfpcxwms9pbqrq33s5h86vq/v/1267423725/original/3400867_Griddle_EMEA_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=jLdTdc13HWaL2axlbUIKk6HmAaM=",
+      "url": "https://storage-us-gcs.bfldr.com/5bfpcxwms9pbqrq33s5h86vq/v/1267423725/original/3400867_Griddle_EMEA_rgb.jpg?Expires=1784897221&KeyName=gcs-bfldr-prod&Signature=jLdTdc13HWaL2axlbUIKk6HmAaM="
     }
   ]
 }

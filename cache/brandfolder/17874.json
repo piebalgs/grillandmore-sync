@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17874",
   "assets": [
     {
@@ -31,8 +31,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/py1e9l-1exdjk-4fr6xu/20250514_Weber%20Q%20%20%20Pulse%20cleaner%20v2.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/py1e9l-1exdjk-4fr6xu/v/1274483602/original/20250514_Weber%20Q%20Pulse%20cleaner%20v2.png?Expires=1784652282&KeyName=gcs-bfldr-prod&Signature=qvrRlytZQZBUlPWJ-4AW8MspYnc=",
-      "url": "https://storage-us-gcs.bfldr.com/py1e9l-1exdjk-4fr6xu/v/1274483602/original/20250514_Weber%20Q%20Pulse%20cleaner%20v2.png?Expires=1784652282&KeyName=gcs-bfldr-prod&Signature=qvrRlytZQZBUlPWJ-4AW8MspYnc="
+      "original_url": "https://storage-us-gcs.bfldr.com/py1e9l-1exdjk-4fr6xu/v/1274483602/original/20250514_Weber%20Q%20Pulse%20cleaner%20v2.png?Expires=1784897179&KeyName=gcs-bfldr-prod&Signature=VPGp5WmsLnM4g2P-mLmAfb0cdRQ=",
+      "url": "https://storage-us-gcs.bfldr.com/py1e9l-1exdjk-4fr6xu/v/1274483602/original/20250514_Weber%20Q%20Pulse%20cleaner%20v2.png?Expires=1784897179&KeyName=gcs-bfldr-prod&Signature=VPGp5WmsLnM4g2P-mLmAfb0cdRQ="
     }
   ]
 }

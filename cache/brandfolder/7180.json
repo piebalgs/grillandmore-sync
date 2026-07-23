@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7180",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Premium Grill Cover 7180 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7180"
+        "7180",
+        "1000"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Premium Grill Cover 7180 Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7180"
+        "7180",
+        "1000"
       ]
     },
     {
@@ -23,7 +25,8 @@
       "asset_name": "Premium Grill Cover 7180 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7180"
+        "7180",
+        "1000"
       ]
     },
     {
@@ -47,8 +50,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi57r6-dmkijs-9ntf4e/7180B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-9ntf4e/v/2647393/original/7180B.png?Expires=1784652265&KeyName=gcs-bfldr-prod&Signature=rIbdFXArPVbTTBagZ0t293_E43A=",
-      "url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-9ntf4e/v/2647393/original/7180B.png?Expires=1784652265&KeyName=gcs-bfldr-prod&Signature=rIbdFXArPVbTTBagZ0t293_E43A="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-9ntf4e/v/2647393/original/7180B.png?Expires=1784897146&KeyName=gcs-bfldr-prod&Signature=xy_AF4KixuOlZ7uC-9Ng1S_NMBQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-9ntf4e/v/2647393/original/7180B.png?Expires=1784897146&KeyName=gcs-bfldr-prod&Signature=xy_AF4KixuOlZ7uC-9Ng1S_NMBQ="
     },
     {
       "attachment_id": "pi57r6-dmkijs-b6rxo3",
@@ -61,8 +64,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi57r6-dmkijs-b6rxo3/7180S1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-b6rxo3/v/2647658/original/7180S1.jpg?Expires=1784652265&KeyName=gcs-bfldr-prod&Signature=ZbPB0gdrwSXLU9CnYM3DATcoFgA=",
-      "url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-b6rxo3/v/2647658/original/7180S1.jpg?Expires=1784652265&KeyName=gcs-bfldr-prod&Signature=ZbPB0gdrwSXLU9CnYM3DATcoFgA="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-b6rxo3/v/2647658/original/7180S1.jpg?Expires=1784897146&KeyName=gcs-bfldr-prod&Signature=l-PBROdRVApIVKjST_SJ0hBaoi0=",
+      "url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-b6rxo3/v/2647658/original/7180S1.jpg?Expires=1784897146&KeyName=gcs-bfldr-prod&Signature=l-PBROdRVApIVKjST_SJ0hBaoi0="
     },
     {
       "attachment_id": "pi57r6-dmkijs-ch2mf1",
@@ -75,8 +78,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi57r6-dmkijs-ch2mf1/7180Y1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-ch2mf1/v/2647394/original/7180Y1.jpg?Expires=1784652265&KeyName=gcs-bfldr-prod&Signature=doH_c_W0pxoCty0Us4sf9hWX6p4=",
-      "url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-ch2mf1/v/2647394/original/7180Y1.jpg?Expires=1784652265&KeyName=gcs-bfldr-prod&Signature=doH_c_W0pxoCty0Us4sf9hWX6p4="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-ch2mf1/v/2647394/original/7180Y1.jpg?Expires=1784897146&KeyName=gcs-bfldr-prod&Signature=_7WArFAy-X7Xvy3KOeLcDxoSDFM=",
+      "url": "https://storage-us-gcs.bfldr.com/pi57r6-dmkijs-ch2mf1/v/2647394/original/7180Y1.jpg?Expires=1784897146&KeyName=gcs-bfldr-prod&Signature=_7WArFAy-X7Xvy3KOeLcDxoSDFM="
     }
   ]
 }

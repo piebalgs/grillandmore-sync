@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400861",
   "assets": [
     {
@@ -7,9 +7,9 @@
       "asset_name": "[EMEA/AUNZ/AMER] Grill N Go Handle Light Q1000N/2000N",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400168",
+        "3400249",
         "3400861",
-        "3400249"
+        "3400168"
       ]
     },
     {
@@ -17,9 +17,9 @@
       "asset_name": "[EMEA/AUNZ/AMER] Grill N Go Handle Light Q1000N/2000N",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3400249",
         "3400861",
-        "3400168",
-        "3400249"
+        "3400168"
       ]
     },
     {
@@ -43,8 +43,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/49jn66pqsbxfxkwp554wzp/3400168A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/49jn66pqsbxfxkwp554wzp/v/1273784211/original/3400168A_rgb.png?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=BcVFJ5HuifshthV5EbYM6F30hCc=",
-      "url": "https://storage-us-gcs.bfldr.com/49jn66pqsbxfxkwp554wzp/v/1273784211/original/3400168A_rgb.png?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=BcVFJ5HuifshthV5EbYM6F30hCc="
+      "original_url": "https://storage-us-gcs.bfldr.com/49jn66pqsbxfxkwp554wzp/v/1273784211/original/3400168A_rgb.png?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=2IHylOGBc_VisY2r7QSSr64G2bY=",
+      "url": "https://storage-us-gcs.bfldr.com/49jn66pqsbxfxkwp554wzp/v/1273784211/original/3400168A_rgb.png?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=2IHylOGBc_VisY2r7QSSr64G2bY="
     },
     {
       "attachment_id": "kqsxfrcz986p9jvzxx9nxq46",
@@ -57,8 +57,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kqsxfrcz986p9jvzxx9nxq46/3400168C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kqsxfrcz986p9jvzxx9nxq46/v/1273784212/original/3400168C_rgb.png?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=OYeshjxaDg3Uo3SAT4OOKgbC95E=",
-      "url": "https://storage-us-gcs.bfldr.com/kqsxfrcz986p9jvzxx9nxq46/v/1273784212/original/3400168C_rgb.png?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=OYeshjxaDg3Uo3SAT4OOKgbC95E="
+      "original_url": "https://storage-us-gcs.bfldr.com/kqsxfrcz986p9jvzxx9nxq46/v/1273784212/original/3400168C_rgb.png?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=GRH8UYBC9m7MYqjhhFtGRHOHdS0=",
+      "url": "https://storage-us-gcs.bfldr.com/kqsxfrcz986p9jvzxx9nxq46/v/1273784212/original/3400168C_rgb.png?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=GRH8UYBC9m7MYqjhhFtGRHOHdS0="
     },
     {
       "attachment_id": "pvvc4hg3rvrc2nxb7qsfmsqz",
@@ -71,8 +71,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pvvc4hg3rvrc2nxb7qsfmsqz/3400168D_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pvvc4hg3rvrc2nxb7qsfmsqz/v/1273784214/original/3400168D_rgb.png?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=H8MpAbOG2wFPkTRoWEG85aVM2dw=",
-      "url": "https://storage-us-gcs.bfldr.com/pvvc4hg3rvrc2nxb7qsfmsqz/v/1273784214/original/3400168D_rgb.png?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=H8MpAbOG2wFPkTRoWEG85aVM2dw="
+      "original_url": "https://storage-us-gcs.bfldr.com/pvvc4hg3rvrc2nxb7qsfmsqz/v/1273784214/original/3400168D_rgb.png?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=zgoJSjtvx0GixZp_teVKWM8yXTY=",
+      "url": "https://storage-us-gcs.bfldr.com/pvvc4hg3rvrc2nxb7qsfmsqz/v/1273784214/original/3400168D_rgb.png?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=zgoJSjtvx0GixZp_teVKWM8yXTY="
     },
     {
       "attachment_id": "56k9trmq76q5k8k38jj7vpp",
@@ -85,8 +85,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/56k9trmq76q5k8k38jj7vpp/3400168E_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/56k9trmq76q5k8k38jj7vpp/v/1273784215/original/3400168E_rgb.png?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=h6dmz5Drv3ZldKj7Qrj_IvezRj0=",
-      "url": "https://storage-us-gcs.bfldr.com/56k9trmq76q5k8k38jj7vpp/v/1273784215/original/3400168E_rgb.png?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=h6dmz5Drv3ZldKj7Qrj_IvezRj0="
+      "original_url": "https://storage-us-gcs.bfldr.com/56k9trmq76q5k8k38jj7vpp/v/1273784215/original/3400168E_rgb.png?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=fHvAE1rhDcl9WgHVUwYR2Vzn3gg=",
+      "url": "https://storage-us-gcs.bfldr.com/56k9trmq76q5k8k38jj7vpp/v/1273784215/original/3400168E_rgb.png?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=fHvAE1rhDcl9WgHVUwYR2Vzn3gg="
     },
     {
       "attachment_id": "p5g3869chq7qr7np2npt2z",
@@ -99,8 +99,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p5g3869chq7qr7np2npt2z/3400168Y_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/p5g3869chq7qr7np2npt2z/v/1273784217/original/3400168Y_rgb.jpg?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=HmSq7PLyOfnfxtuouAO66AaCLQE=",
-      "url": "https://storage-us-gcs.bfldr.com/p5g3869chq7qr7np2npt2z/v/1273784217/original/3400168Y_rgb.jpg?Expires=1784652099&KeyName=gcs-bfldr-prod&Signature=HmSq7PLyOfnfxtuouAO66AaCLQE="
+      "original_url": "https://storage-us-gcs.bfldr.com/p5g3869chq7qr7np2npt2z/v/1273784217/original/3400168Y_rgb.jpg?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=jCgPG8JBtbAbttugKnOZMv3DE00=",
+      "url": "https://storage-us-gcs.bfldr.com/p5g3869chq7qr7np2npt2z/v/1273784217/original/3400168Y_rgb.jpg?Expires=1784896872&KeyName=gcs-bfldr-prod&Signature=jCgPG8JBtbAbttugKnOZMv3DE00="
     }
   ]
 }

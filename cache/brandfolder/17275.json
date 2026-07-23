@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17275",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Premium Salt Mill 17087 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "17275"
+        "17275",
+        "17087"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Premium Pepper Mill 17090 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "17275"
+        "17275",
+        "17090"
       ]
     },
     {
@@ -23,7 +25,8 @@
       "asset_name": "Premium Salt and Pepper Mill Set 17093 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "17275"
+        "17275",
+        "17093"
       ]
     },
     {
@@ -47,8 +50,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwadx-chs0t4-9ot7h9/17087D.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-9ot7h9/v/3023132/original/17087D.png?Expires=1784652398&KeyName=gcs-bfldr-prod&Signature=DqWaz-DEgLyDQ14oAjA9Eq53VCM=",
-      "url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-9ot7h9/v/3023132/original/17087D.png?Expires=1784652398&KeyName=gcs-bfldr-prod&Signature=DqWaz-DEgLyDQ14oAjA9Eq53VCM="
+      "original_url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-9ot7h9/v/3023132/original/17087D.png?Expires=1784897463&KeyName=gcs-bfldr-prod&Signature=AWBiTG9YEJwoSpL7Pb6gdawpXUM=",
+      "url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-9ot7h9/v/3023132/original/17087D.png?Expires=1784897463&KeyName=gcs-bfldr-prod&Signature=AWBiTG9YEJwoSpL7Pb6gdawpXUM="
     },
     {
       "attachment_id": "plwadx-chs0t4-1veqj1",
@@ -61,8 +64,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwadx-chs0t4-1veqj1/17090D.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-1veqj1/v/3023133/original/17090D.png?Expires=1784652398&KeyName=gcs-bfldr-prod&Signature=giNf_YgnXBaqAhX8Y_q5x4pf8BE=",
-      "url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-1veqj1/v/3023133/original/17090D.png?Expires=1784652398&KeyName=gcs-bfldr-prod&Signature=giNf_YgnXBaqAhX8Y_q5x4pf8BE="
+      "original_url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-1veqj1/v/3023133/original/17090D.png?Expires=1784897463&KeyName=gcs-bfldr-prod&Signature=wgFo0sYtF51-OHIqrOemHtV17lU=",
+      "url": "https://storage-us-gcs.bfldr.com/plwadx-chs0t4-1veqj1/v/3023133/original/17090D.png?Expires=1784897463&KeyName=gcs-bfldr-prod&Signature=wgFo0sYtF51-OHIqrOemHtV17lU="
     }
   ]
 }

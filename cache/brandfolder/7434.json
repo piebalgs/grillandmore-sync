@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7434",
   "assets": [
     {
@@ -23,8 +23,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi8x7k-8oo0tk-3lzugx/7434A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi8x7k-8oo0tk-3lzugx/v/2664305/original/7434A.png?Expires=1784812021&KeyName=gcs-bfldr-prod&Signature=Ut8lqQISv62_yzvUJydwJyojl-s=",
-      "url": "https://storage-us-gcs.bfldr.com/pi8x7k-8oo0tk-3lzugx/v/2664305/original/7434A.png?Expires=1784812021&KeyName=gcs-bfldr-prod&Signature=Ut8lqQISv62_yzvUJydwJyojl-s="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi8x7k-8oo0tk-3lzugx/v/2664305/original/7434A.png?Expires=1784897286&KeyName=gcs-bfldr-prod&Signature=iFlhrnx8x1haNhE0xOmdYX4UEm0=",
+      "url": "https://storage-us-gcs.bfldr.com/pi8x7k-8oo0tk-3lzugx/v/2664305/original/7434A.png?Expires=1784897286&KeyName=gcs-bfldr-prod&Signature=iFlhrnx8x1haNhE0xOmdYX4UEm0="
     }
   ]
 }

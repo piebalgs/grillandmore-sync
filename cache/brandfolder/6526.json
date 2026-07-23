@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6526",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Q Patio Cart 6526 Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6526"
+        "6526",
+        "2000"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Q Patio Cart 6526 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6526"
+        "6526",
+        "2000"
       ]
     },
     {
@@ -39,8 +41,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgutfd-ewqw88-ca406y/6526Y1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgutfd-ewqw88-ca406y/v/2531167/original/6526Y1.jpg?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=WdCL67rz2WJnSBIOoNy2zhfAne4=",
-      "url": "https://storage-us-gcs.bfldr.com/pgutfd-ewqw88-ca406y/v/2531167/original/6526Y1.jpg?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=WdCL67rz2WJnSBIOoNy2zhfAne4="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgutfd-ewqw88-ca406y/v/2531167/original/6526Y1.jpg?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=MYsAxa-34Gl1tiAUQ68QIXqCWtc=",
+      "url": "https://storage-us-gcs.bfldr.com/pgutfd-ewqw88-ca406y/v/2531167/original/6526Y1.jpg?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=MYsAxa-34Gl1tiAUQ68QIXqCWtc="
     },
     {
       "attachment_id": "5vwcfq8b54s77qbbkqsn5f",
@@ -53,8 +55,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5vwcfq8b54s77qbbkqsn5f/6526_170421_234240.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5vwcfq8b54s77qbbkqsn5f/v/1313379136/original/6526_170421_234240.png?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=C2vNRzNwE0gv9yf7ddAqaGie9M0=",
-      "url": "https://storage-us-gcs.bfldr.com/5vwcfq8b54s77qbbkqsn5f/v/1313379136/original/6526_170421_234240.png?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=C2vNRzNwE0gv9yf7ddAqaGie9M0="
+      "original_url": "https://storage-us-gcs.bfldr.com/5vwcfq8b54s77qbbkqsn5f/v/1313379136/original/6526_170421_234240.png?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=wc7slOyK4KX4KFNtm0UfA1uZT2I=",
+      "url": "https://storage-us-gcs.bfldr.com/5vwcfq8b54s77qbbkqsn5f/v/1313379136/original/6526_170421_234240.png?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=wc7slOyK4KX4KFNtm0UfA1uZT2I="
     }
   ]
 }

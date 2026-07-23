@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6562",
   "assets": [
     {
@@ -7,6 +7,15 @@
       "asset_name": "Large Q Roasting Shield 6562 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "6562"
+      ]
+    },
+    {
+      "asset_id": "phxtkp-7q7in4-ajlai7",
+      "asset_name": "Large Q Roasting Shield 6562 Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6564",
         "6562"
       ]
     },
@@ -39,8 +48,22 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phxtkp-7q7in4-sbwiu/6562A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-sbwiu/v/2632246/original/6562A.png?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=vz7SXzaWZgP6Uw0U5xxID3GvwwU=",
-      "url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-sbwiu/v/2632246/original/6562A.png?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=vz7SXzaWZgP6Uw0U5xxID3GvwwU="
+      "original_url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-sbwiu/v/2632246/original/6562A.png?Expires=1784897211&KeyName=gcs-bfldr-prod&Signature=sgFde_VC3fnZDiFv6OCweTQb8CE=",
+      "url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-sbwiu/v/2632246/original/6562A.png?Expires=1784897211&KeyName=gcs-bfldr-prod&Signature=sgFde_VC3fnZDiFv6OCweTQb8CE="
+    },
+    {
+      "attachment_id": "phxtkp-7q7in4-5pu93d",
+      "filename": "6562Y1.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 6371,
+      "height": 9557,
+      "size": 26569948,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phxtkp-7q7in4-5pu93d/6562Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-5pu93d/v/2632248/original/6562Y1.jpg?Expires=1784897211&KeyName=gcs-bfldr-prod&Signature=hClGWRlELktZchtDnuawS-wVydA=",
+      "url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-5pu93d/v/2632248/original/6562Y1.jpg?Expires=1784897211&KeyName=gcs-bfldr-prod&Signature=hClGWRlELktZchtDnuawS-wVydA="
     },
     {
       "attachment_id": "phxtkp-7q7in4-anw1f0",
@@ -53,8 +76,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/phxtkp-7q7in4-anw1f0/6562M1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-anw1f0/v/2632247/original/6562M1.jpg?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=1Kkz_k7hUr5svJgeETiDDfVHsBk=",
-      "url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-anw1f0/v/2632247/original/6562M1.jpg?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=1Kkz_k7hUr5svJgeETiDDfVHsBk="
+      "original_url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-anw1f0/v/2632247/original/6562M1.jpg?Expires=1784897211&KeyName=gcs-bfldr-prod&Signature=TVAFbHr1rEIA1HyzJAng6Ob2pT4=",
+      "url": "https://storage-us-gcs.bfldr.com/phxtkp-7q7in4-anw1f0/v/2632247/original/6562M1.jpg?Expires=1784897211&KeyName=gcs-bfldr-prod&Signature=TVAFbHr1rEIA1HyzJAng6Ob2pT4="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7194",
   "assets": [
     {
@@ -7,8 +7,8 @@
       "asset_name": "7757/7194 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7757",
-        "7194"
+        "7194",
+        "7757"
       ]
     },
     {
@@ -25,10 +25,10 @@
       "asset_name": "Genesis 3B Cover 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501950",
-        "1501885",
+        "7757",
         "7194",
-        "7757"
+        "1501950",
+        "1501885"
       ]
     },
     {
@@ -108,8 +108,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nns63vt87vstk5nj5ffwcgqj/1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nns63vt87vstk5nj5ffwcgqj/v/1263426470/original/1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg?Expires=1784652093&KeyName=gcs-bfldr-prod&Signature=kMu1W4_j0OV1DvHCIpKD1EHWX0w=",
-      "url": "https://storage-us-gcs.bfldr.com/nns63vt87vstk5nj5ffwcgqj/v/1263426470/original/1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg?Expires=1784652093&KeyName=gcs-bfldr-prod&Signature=kMu1W4_j0OV1DvHCIpKD1EHWX0w="
+      "original_url": "https://storage-us-gcs.bfldr.com/nns63vt87vstk5nj5ffwcgqj/v/1263426470/original/1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg?Expires=1784896864&KeyName=gcs-bfldr-prod&Signature=Gryp2bnkpQDM6-6HLl7Cq4xwxJw=",
+      "url": "https://storage-us-gcs.bfldr.com/nns63vt87vstk5nj5ffwcgqj/v/1263426470/original/1501073_YM_GENESISCOVER_0705_FY25_EMEA_16x9.jpg?Expires=1784896864&KeyName=gcs-bfldr-prod&Signature=Gryp2bnkpQDM6-6HLl7Cq4xwxJw="
     }
   ]
 }

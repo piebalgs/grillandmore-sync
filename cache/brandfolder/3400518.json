@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400518",
   "assets": [
     {
@@ -97,11 +97,11 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "3400518",
-        "1501883",
-        "1501942",
-        "1501950",
         "1501884",
-        "1501885"
+        "1501885",
+        "1501942",
+        "1501883",
+        "1501950"
       ]
     },
     {
@@ -110,10 +110,10 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "3400518",
-        "1501885",
         "1501942",
         "1501950",
         "1501883",
+        "1501885",
         "1501884"
       ]
     },
@@ -122,12 +122,12 @@
       "asset_name": "3400518 Genesis WW Flex Light EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501884",
-        "1501950",
         "3400518",
         "1501883",
+        "1501885",
         "1501942",
-        "1501885"
+        "1501950",
+        "1501884"
       ]
     },
     {
@@ -135,12 +135,12 @@
       "asset_name": "3400518 Genesis WW Flex Light EMEA 16x9",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1501885",
         "1501942",
-        "3400518",
         "1501950",
         "1501883",
-        "1501884",
-        "1501885"
+        "3400518",
+        "1501884"
       ]
     },
     {
@@ -148,9 +148,9 @@
       "asset_name": "Weber Works Caddy with Tray Lid",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3400518",
         "3400128",
-        "3400665",
-        "3400518"
+        "3400665"
       ]
     },
     {
@@ -270,8 +270,8 @@
       "asset_name": "Pellet WW Side Table w/ Flexible Light",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400665",
-        "3400518"
+        "3400518",
+        "3400665"
       ]
     },
     {
@@ -281,19 +281,19 @@
       "skus": [
         "1501745",
         "1501718",
-        "1501734",
-        "1501761",
-        "1501743",
-        "1501742",
-        "1501760",
         "1501746",
-        "1501733",
-        "1501696",
         "1501740",
-        "3400518",
+        "1501761",
+        "1501733",
+        "1501743",
         "1501719",
         "1501732",
-        "1501744"
+        "1501744",
+        "1501760",
+        "1501742",
+        "1501734",
+        "1501696",
+        "3400518"
       ]
     }
   ],
@@ -309,8 +309,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ftrqvm8cpz28ttqv3c4wmb77/1501740_029_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ftrqvm8cpz28ttqv3c4wmb77/v/1289709007/original/1501740_029_TravelerWW_FY2026_AMER.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=35ePPDOiEE4DBlm8sp4Kz9dD0W8=",
-      "url": "https://storage-us-gcs.bfldr.com/ftrqvm8cpz28ttqv3c4wmb77/v/1289709007/original/1501740_029_TravelerWW_FY2026_AMER.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=35ePPDOiEE4DBlm8sp4Kz9dD0W8="
+      "original_url": "https://storage-us-gcs.bfldr.com/ftrqvm8cpz28ttqv3c4wmb77/v/1289709007/original/1501740_029_TravelerWW_FY2026_AMER.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=4gDtqRzo4LmZdb4RrobIDQK3K90=",
+      "url": "https://storage-us-gcs.bfldr.com/ftrqvm8cpz28ttqv3c4wmb77/v/1289709007/original/1501740_029_TravelerWW_FY2026_AMER.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=4gDtqRzo4LmZdb4RrobIDQK3K90="
     },
     {
       "attachment_id": "xc9kg3sn5jgngxt2vxz29",
@@ -323,8 +323,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xc9kg3sn5jgngxt2vxz29/3400518_067_FLEXIBLELIGHT_FY25_AMER%20.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xc9kg3sn5jgngxt2vxz29/v/1279139094/original/3400518_067_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=2vBeau1SN8M3Y5wJ3nJy5hYO0H8=",
-      "url": "https://storage-us-gcs.bfldr.com/xc9kg3sn5jgngxt2vxz29/v/1279139094/original/3400518_067_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=2vBeau1SN8M3Y5wJ3nJy5hYO0H8="
+      "original_url": "https://storage-us-gcs.bfldr.com/xc9kg3sn5jgngxt2vxz29/v/1279139094/original/3400518_067_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=4OISCbJ3LXzImLz_10K9gkKTJfw=",
+      "url": "https://storage-us-gcs.bfldr.com/xc9kg3sn5jgngxt2vxz29/v/1279139094/original/3400518_067_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=4OISCbJ3LXzImLz_10K9gkKTJfw="
     },
     {
       "attachment_id": "pqwh4pn9pvxfqhpkg5ktn3nv",
@@ -337,8 +337,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pqwh4pn9pvxfqhpkg5ktn3nv/3400518_071_FLEXIBLELIGHT_FY25_AMER%20.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pqwh4pn9pvxfqhpkg5ktn3nv/v/1267602081/original/3400518_071_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=hC4aeT0Oqm9Vgup-fG_TFZtnpeo=",
-      "url": "https://storage-us-gcs.bfldr.com/pqwh4pn9pvxfqhpkg5ktn3nv/v/1267602081/original/3400518_071_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=hC4aeT0Oqm9Vgup-fG_TFZtnpeo="
+      "original_url": "https://storage-us-gcs.bfldr.com/pqwh4pn9pvxfqhpkg5ktn3nv/v/1267602081/original/3400518_071_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=0shdD3b60VGANENbbY32JFy8sak=",
+      "url": "https://storage-us-gcs.bfldr.com/pqwh4pn9pvxfqhpkg5ktn3nv/v/1267602081/original/3400518_071_FLEXIBLELIGHT_FY25_AMER%20.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=0shdD3b60VGANENbbY32JFy8sak="
     },
     {
       "attachment_id": "27b59hvp4k3gqrrf9fxzxt",
@@ -351,8 +351,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/27b59hvp4k3gqrrf9fxzxt/3400518_A1_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/27b59hvp4k3gqrrf9fxzxt/v/1267669657/original/3400518_A1_rgb.png?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=xQNHJD0Xu0EJEJcv4ch3-nw8xaw=",
-      "url": "https://storage-us-gcs.bfldr.com/27b59hvp4k3gqrrf9fxzxt/v/1267669657/original/3400518_A1_rgb.png?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=xQNHJD0Xu0EJEJcv4ch3-nw8xaw="
+      "original_url": "https://storage-us-gcs.bfldr.com/27b59hvp4k3gqrrf9fxzxt/v/1267669657/original/3400518_A1_rgb.png?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=sTjzy0d4c-dHI0alsiwGe6aGTBM=",
+      "url": "https://storage-us-gcs.bfldr.com/27b59hvp4k3gqrrf9fxzxt/v/1267669657/original/3400518_A1_rgb.png?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=sTjzy0d4c-dHI0alsiwGe6aGTBM="
     },
     {
       "attachment_id": "39qht8pz5h2gckqwnrrqm7b",
@@ -365,8 +365,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/39qht8pz5h2gckqwnrrqm7b/3400518_A2_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/39qht8pz5h2gckqwnrrqm7b/v/1267669658/original/3400518_A2_rgb.png?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=4MXBrLaGDQp-IukY5CAnCmUVCh8=",
-      "url": "https://storage-us-gcs.bfldr.com/39qht8pz5h2gckqwnrrqm7b/v/1267669658/original/3400518_A2_rgb.png?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=4MXBrLaGDQp-IukY5CAnCmUVCh8="
+      "original_url": "https://storage-us-gcs.bfldr.com/39qht8pz5h2gckqwnrrqm7b/v/1267669658/original/3400518_A2_rgb.png?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=kA_NYbVQdV1cgNnV64_1IAT1VOo=",
+      "url": "https://storage-us-gcs.bfldr.com/39qht8pz5h2gckqwnrrqm7b/v/1267669658/original/3400518_A2_rgb.png?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=kA_NYbVQdV1cgNnV64_1IAT1VOo="
     },
     {
       "attachment_id": "27rshk773bfgh4fr65m65bhb",
@@ -379,8 +379,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/27rshk773bfgh4fr65m65bhb/3400518_C1_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/27rshk773bfgh4fr65m65bhb/v/1267669659/original/3400518_C1_rgb.png?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=pKEJ1HcrP9LluJhIRlJ14AdbMK0=",
-      "url": "https://storage-us-gcs.bfldr.com/27rshk773bfgh4fr65m65bhb/v/1267669659/original/3400518_C1_rgb.png?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=pKEJ1HcrP9LluJhIRlJ14AdbMK0="
+      "original_url": "https://storage-us-gcs.bfldr.com/27rshk773bfgh4fr65m65bhb/v/1267669659/original/3400518_C1_rgb.png?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=RQOUjI7_O4IDiUI9seYg5mGmSf8=",
+      "url": "https://storage-us-gcs.bfldr.com/27rshk773bfgh4fr65m65bhb/v/1267669659/original/3400518_C1_rgb.png?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=RQOUjI7_O4IDiUI9seYg5mGmSf8="
     },
     {
       "attachment_id": "g52nc3ng3c8nfmcn3zb3h985",
@@ -393,8 +393,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g52nc3ng3c8nfmcn3zb3h985/3400518_C2_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/g52nc3ng3c8nfmcn3zb3h985/v/1267669660/original/3400518_C2_rgb.png?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=1ruBAo1xj-C3g8e8wZF0ZpEolLE=",
-      "url": "https://storage-us-gcs.bfldr.com/g52nc3ng3c8nfmcn3zb3h985/v/1267669660/original/3400518_C2_rgb.png?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=1ruBAo1xj-C3g8e8wZF0ZpEolLE="
+      "original_url": "https://storage-us-gcs.bfldr.com/g52nc3ng3c8nfmcn3zb3h985/v/1267669660/original/3400518_C2_rgb.png?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=WzWo75AwC8X7JFR7n-R0oX6RYMY=",
+      "url": "https://storage-us-gcs.bfldr.com/g52nc3ng3c8nfmcn3zb3h985/v/1267669660/original/3400518_C2_rgb.png?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=WzWo75AwC8X7JFR7n-R0oX6RYMY="
     },
     {
       "attachment_id": "vbpxgvq2tw6s5r7qhhwr97",
@@ -407,8 +407,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vbpxgvq2tw6s5r7qhhwr97/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vbpxgvq2tw6s5r7qhhwr97/v/1263925292/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=kCJGez98zux7fswvsPKKpfKejcw=",
-      "url": "https://storage-us-gcs.bfldr.com/vbpxgvq2tw6s5r7qhhwr97/v/1263925292/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=kCJGez98zux7fswvsPKKpfKejcw="
+      "original_url": "https://storage-us-gcs.bfldr.com/vbpxgvq2tw6s5r7qhhwr97/v/1263925292/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=zTZBwSBJ1T1tW65ylANC7OPy8Vw=",
+      "url": "https://storage-us-gcs.bfldr.com/vbpxgvq2tw6s5r7qhhwr97/v/1263925292/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=zTZBwSBJ1T1tW65ylANC7OPy8Vw="
     },
     {
       "attachment_id": "hz4xrmq5wfrgrbphvt3g2bw",
@@ -421,8 +421,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hz4xrmq5wfrgrbphvt3g2bw/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874_16x9.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hz4xrmq5wfrgrbphvt3g2bw/v/1263925293/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874_16x9.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=RWqvDIQe-JXpLPCHSYvZQq7JrWw=",
-      "url": "https://storage-us-gcs.bfldr.com/hz4xrmq5wfrgrbphvt3g2bw/v/1263925293/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874_16x9.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=RWqvDIQe-JXpLPCHSYvZQq7JrWw="
+      "original_url": "https://storage-us-gcs.bfldr.com/hz4xrmq5wfrgrbphvt3g2bw/v/1263925293/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874_16x9.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=RT3BZc_IIbHNDoXEpMcwna7H2zU=",
+      "url": "https://storage-us-gcs.bfldr.com/hz4xrmq5wfrgrbphvt3g2bw/v/1263925293/original/3400518_WW%20FLEX%20LIGHT_YM_DAY_EMEA_GENESIS_201_E-315W%20KITANA_0874_16x9.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=RT3BZc_IIbHNDoXEpMcwna7H2zU="
     },
     {
       "attachment_id": "5k5njr6pnn7kmfbw4nt8kjv",
@@ -435,8 +435,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5k5njr6pnn7kmfbw4nt8kjv/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5k5njr6pnn7kmfbw4nt8kjv/v/1263925294/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=Z13ZuxitbyFO_ASvGMp3KqAVF5k=",
-      "url": "https://storage-us-gcs.bfldr.com/5k5njr6pnn7kmfbw4nt8kjv/v/1263925294/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=Z13ZuxitbyFO_ASvGMp3KqAVF5k="
+      "original_url": "https://storage-us-gcs.bfldr.com/5k5njr6pnn7kmfbw4nt8kjv/v/1263925294/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=trZLvs3W5HgqmAHnucQfdf2z7nk=",
+      "url": "https://storage-us-gcs.bfldr.com/5k5njr6pnn7kmfbw4nt8kjv/v/1263925294/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=trZLvs3W5HgqmAHnucQfdf2z7nk="
     },
     {
       "attachment_id": "pcjcv57z3h7hkgpcwcm69mr3",
@@ -449,8 +449,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pcjcv57z3h7hkgpcwcm69mr3/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447_16x9.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pcjcv57z3h7hkgpcwcm69mr3/v/1263925295/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447_16x9.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=SWmQ7vXuEP10G8ncljmp60wcaE4=",
-      "url": "https://storage-us-gcs.bfldr.com/pcjcv57z3h7hkgpcwcm69mr3/v/1263925295/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447_16x9.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=SWmQ7vXuEP10G8ncljmp60wcaE4="
+      "original_url": "https://storage-us-gcs.bfldr.com/pcjcv57z3h7hkgpcwcm69mr3/v/1263925295/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447_16x9.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=SEZtxs0gT3g0vl3uMET66ugeu-w=",
+      "url": "https://storage-us-gcs.bfldr.com/pcjcv57z3h7hkgpcwcm69mr3/v/1263925295/original/3400518_WW%20FLEX%20LIGHT_YM_NIGHT_EMEA%20GENESIS_507_E-315W%20KITANA_5447_16x9.jpg?Expires=1784897568&KeyName=gcs-bfldr-prod&Signature=SEZtxs0gT3g0vl3uMET66ugeu-w="
     },
     {
       "attachment_id": "tp6p3ffxrjnksw246h7qvft",
@@ -463,8 +463,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tp6p3ffxrjnksw246h7qvft/3400518_WW_YM_Night_EMEA_6235.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tp6p3ffxrjnksw246h7qvft/v/1267669958/original/3400518_WW_YM_Night_EMEA_6235.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=-nXHlUqORNMban8pNZ7XN2uorQY=",
-      "url": "https://storage-us-gcs.bfldr.com/tp6p3ffxrjnksw246h7qvft/v/1267669958/original/3400518_WW_YM_Night_EMEA_6235.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=-nXHlUqORNMban8pNZ7XN2uorQY="
+      "original_url": "https://storage-us-gcs.bfldr.com/tp6p3ffxrjnksw246h7qvft/v/1267669958/original/3400518_WW_YM_Night_EMEA_6235.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=HlHSIaUll7amOXQKA3n4QLePefs=",
+      "url": "https://storage-us-gcs.bfldr.com/tp6p3ffxrjnksw246h7qvft/v/1267669958/original/3400518_WW_YM_Night_EMEA_6235.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=HlHSIaUll7amOXQKA3n4QLePefs="
     },
     {
       "attachment_id": "tbpz5f979wss89b8jt258j",
@@ -477,8 +477,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tbpz5f979wss89b8jt258j/3400518_WW_YM_Night_EMEA_6236.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tbpz5f979wss89b8jt258j/v/1267669960/original/3400518_WW_YM_Night_EMEA_6236.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=wQqgqzlSQewOkp2bQdROD88FRDU=",
-      "url": "https://storage-us-gcs.bfldr.com/tbpz5f979wss89b8jt258j/v/1267669960/original/3400518_WW_YM_Night_EMEA_6236.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=wQqgqzlSQewOkp2bQdROD88FRDU="
+      "original_url": "https://storage-us-gcs.bfldr.com/tbpz5f979wss89b8jt258j/v/1267669960/original/3400518_WW_YM_Night_EMEA_6236.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=x0r20E-0gIsxe1ea9W8HDF-ugWM=",
+      "url": "https://storage-us-gcs.bfldr.com/tbpz5f979wss89b8jt258j/v/1267669960/original/3400518_WW_YM_Night_EMEA_6236.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=x0r20E-0gIsxe1ea9W8HDF-ugWM="
     },
     {
       "attachment_id": "hb2s3c6q5k39hnwwm87g6j",
@@ -491,8 +491,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hb2s3c6q5k39hnwwm87g6j/3400518_WW_YM_Night_EMEA_6256.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hb2s3c6q5k39hnwwm87g6j/v/1267669961/original/3400518_WW_YM_Night_EMEA_6256.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=h-eCx51dDUTmCxad0065550F8to=",
-      "url": "https://storage-us-gcs.bfldr.com/hb2s3c6q5k39hnwwm87g6j/v/1267669961/original/3400518_WW_YM_Night_EMEA_6256.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=h-eCx51dDUTmCxad0065550F8to="
+      "original_url": "https://storage-us-gcs.bfldr.com/hb2s3c6q5k39hnwwm87g6j/v/1267669961/original/3400518_WW_YM_Night_EMEA_6256.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=r7TPdCR0qonvcX98-xKvcHZongY=",
+      "url": "https://storage-us-gcs.bfldr.com/hb2s3c6q5k39hnwwm87g6j/v/1267669961/original/3400518_WW_YM_Night_EMEA_6256.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=r7TPdCR0qonvcX98-xKvcHZongY="
     },
     {
       "attachment_id": "6nwb7cmjwb4zqm9v6crvjks",
@@ -505,8 +505,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6nwb7cmjwb4zqm9v6crvjks/3400518_WW_YM_Night_EMEA_6257.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6nwb7cmjwb4zqm9v6crvjks/v/1267669962/original/3400518_WW_YM_Night_EMEA_6257.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=uDxNBXgh66rAbk0k4JVLzbLQGPg=",
-      "url": "https://storage-us-gcs.bfldr.com/6nwb7cmjwb4zqm9v6crvjks/v/1267669962/original/3400518_WW_YM_Night_EMEA_6257.jpg?Expires=1784652450&KeyName=gcs-bfldr-prod&Signature=uDxNBXgh66rAbk0k4JVLzbLQGPg="
+      "original_url": "https://storage-us-gcs.bfldr.com/6nwb7cmjwb4zqm9v6crvjks/v/1267669962/original/3400518_WW_YM_Night_EMEA_6257.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=dJ0oH9EXdGMut_0A5Zzn1wslwuk=",
+      "url": "https://storage-us-gcs.bfldr.com/6nwb7cmjwb4zqm9v6crvjks/v/1267669962/original/3400518_WW_YM_Night_EMEA_6257.jpg?Expires=1784897569&KeyName=gcs-bfldr-prod&Signature=dJ0oH9EXdGMut_0A5Zzn1wslwuk="
     }
   ]
 }

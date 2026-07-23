@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6617",
   "assets": [
     {
@@ -16,8 +16,8 @@
       "asset_name": "6619 1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6619",
-        "6617"
+        "6617",
+        "6619"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f8k5ck74b7m88jntg74cg/6617_1.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/f8k5ck74b7m88jntg74cg/v/1279322773/original/6617_1.png?Expires=1784652367&KeyName=gcs-bfldr-prod&Signature=xirptthc96xwKrk3sgu0JyVgL1A=",
-      "url": "https://storage-us-gcs.bfldr.com/f8k5ck74b7m88jntg74cg/v/1279322773/original/6617_1.png?Expires=1784652367&KeyName=gcs-bfldr-prod&Signature=xirptthc96xwKrk3sgu0JyVgL1A="
+      "original_url": "https://storage-us-gcs.bfldr.com/f8k5ck74b7m88jntg74cg/v/1279322773/original/6617_1.png?Expires=1784897381&KeyName=gcs-bfldr-prod&Signature=BLzIe7nXuKmceISwC_0GrpPcleQ=",
+      "url": "https://storage-us-gcs.bfldr.com/f8k5ck74b7m88jntg74cg/v/1279322773/original/6617_1.png?Expires=1784897381&KeyName=gcs-bfldr-prod&Signature=BLzIe7nXuKmceISwC_0GrpPcleQ="
     },
     {
       "attachment_id": "9pg8nk3tphj8gw3fxxw3f8hv",
@@ -55,8 +55,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9pg8nk3tphj8gw3fxxw3f8hv/6619_1.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9pg8nk3tphj8gw3fxxw3f8hv/v/1279322775/original/6619_1.png?Expires=1784652367&KeyName=gcs-bfldr-prod&Signature=VuKI_gnocUonUvpPjeFAeahGQV8=",
-      "url": "https://storage-us-gcs.bfldr.com/9pg8nk3tphj8gw3fxxw3f8hv/v/1279322775/original/6619_1.png?Expires=1784652367&KeyName=gcs-bfldr-prod&Signature=VuKI_gnocUonUvpPjeFAeahGQV8="
+      "original_url": "https://storage-us-gcs.bfldr.com/9pg8nk3tphj8gw3fxxw3f8hv/v/1279322775/original/6619_1.png?Expires=1784897381&KeyName=gcs-bfldr-prod&Signature=uuhZ4hf2ygJWMlk0ivZmjGf8fk4=",
+      "url": "https://storage-us-gcs.bfldr.com/9pg8nk3tphj8gw3fxxw3f8hv/v/1279322775/original/6619_1.png?Expires=1784897381&KeyName=gcs-bfldr-prod&Signature=uuhZ4hf2ygJWMlk0ivZmjGf8fk4="
     }
   ]
 }

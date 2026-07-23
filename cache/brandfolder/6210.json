@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6210",
   "assets": [
     {
@@ -31,8 +31,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapro-c4w9lc-dwk80z/6210A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dwk80z/v/3471654/original/6210A.png?Expires=1784652302&KeyName=gcs-bfldr-prod&Signature=xP_H5MEy-cQs57vV-22jJKvj7LU=",
-      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dwk80z/v/3471654/original/6210A.png?Expires=1784652302&KeyName=gcs-bfldr-prod&Signature=xP_H5MEy-cQs57vV-22jJKvj7LU="
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dwk80z/v/3471654/original/6210A.png?Expires=1784897208&KeyName=gcs-bfldr-prod&Signature=78MKwAtEbEmqU6kXAw0N0rnN_Ng=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dwk80z/v/3471654/original/6210A.png?Expires=1784897208&KeyName=gcs-bfldr-prod&Signature=78MKwAtEbEmqU6kXAw0N0rnN_Ng="
     },
     {
       "attachment_id": "ppapro-c4w9lc-dew2xd",
@@ -45,8 +45,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapro-c4w9lc-dew2xd/6210B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dew2xd/v/3471655/original/6210B.png?Expires=1784652302&KeyName=gcs-bfldr-prod&Signature=78uYc4xkb3UEdyVnaboyhvsN_o4=",
-      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dew2xd/v/3471655/original/6210B.png?Expires=1784652302&KeyName=gcs-bfldr-prod&Signature=78uYc4xkb3UEdyVnaboyhvsN_o4="
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dew2xd/v/3471655/original/6210B.png?Expires=1784897208&KeyName=gcs-bfldr-prod&Signature=YWJPzHtFlY0S-m6Fk1KOjqbS4Kg=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dew2xd/v/3471655/original/6210B.png?Expires=1784897208&KeyName=gcs-bfldr-prod&Signature=YWJPzHtFlY0S-m6Fk1KOjqbS4Kg="
     },
     {
       "attachment_id": "ppapro-c4w9lc-dpd5e2",
@@ -59,8 +59,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ppapro-c4w9lc-dpd5e2/6210C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dpd5e2/v/3471656/original/6210C.png?Expires=1784652302&KeyName=gcs-bfldr-prod&Signature=5M2bVbPTIPbxIScn3O3iugwAgL0=",
-      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dpd5e2/v/3471656/original/6210C.png?Expires=1784652302&KeyName=gcs-bfldr-prod&Signature=5M2bVbPTIPbxIScn3O3iugwAgL0="
+      "original_url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dpd5e2/v/3471656/original/6210C.png?Expires=1784897208&KeyName=gcs-bfldr-prod&Signature=9D1Ap3RgG6zz1MKYcNthCGGEwng=",
+      "url": "https://storage-us-gcs.bfldr.com/ppapro-c4w9lc-dpd5e2/v/3471656/original/6210C.png?Expires=1784897208&KeyName=gcs-bfldr-prod&Signature=9D1Ap3RgG6zz1MKYcNthCGGEwng="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6764",
   "assets": [
     {
@@ -8,7 +8,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "6772",
-        "6764"
+        "6764",
+        "2021"
       ]
     },
     {
@@ -16,8 +17,9 @@
       "asset_name": "Precision Tool Set 6764/6772 Food",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "6772",
         "6764",
-        "6772"
+        "2021"
       ]
     },
     {
@@ -25,8 +27,9 @@
       "asset_name": "Precision Tool Set 6772 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "6772",
         "6764",
-        "6772"
+        "2021"
       ]
     },
     {
@@ -34,8 +37,20 @@
       "asset_name": "2021 Grilling Tools Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "6772",
         "6764",
-        "6772"
+        "6771",
+        "6319",
+        "6770",
+        "6318",
+        "6768",
+        "6762",
+        "6760",
+        "6769",
+        "6761",
+        "2021",
+        "6317",
+        "6763"
       ]
     },
     {

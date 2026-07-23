@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401334",
   "assets": [
     {
@@ -175,8 +175,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xsvc6gvtk33b9bb84rgtmq/3401334-Griddle%20Chopper_Accesssory_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xsvc6gvtk33b9bb84rgtmq/v/1267594684/original/3401334-Griddle%20Chopper_Accesssory_A_rgb.png?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=SOfIE6phJhC4X1zGng0DI5bQlvY=",
-      "url": "https://storage-us-gcs.bfldr.com/xsvc6gvtk33b9bb84rgtmq/v/1267594684/original/3401334-Griddle%20Chopper_Accesssory_A_rgb.png?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=SOfIE6phJhC4X1zGng0DI5bQlvY="
+      "original_url": "https://storage-us-gcs.bfldr.com/xsvc6gvtk33b9bb84rgtmq/v/1267594684/original/3401334-Griddle%20Chopper_Accesssory_A_rgb.png?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=rt2m_Khz_8USh08OKtv9Mj1_JQw=",
+      "url": "https://storage-us-gcs.bfldr.com/xsvc6gvtk33b9bb84rgtmq/v/1267594684/original/3401334-Griddle%20Chopper_Accesssory_A_rgb.png?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=rt2m_Khz_8USh08OKtv9Mj1_JQw="
     },
     {
       "attachment_id": "mgx3k3hbm47tv8hn93s7v38",
@@ -189,8 +189,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mgx3k3hbm47tv8hn93s7v38/3401334-Griddle%20Chopper_Accesssory_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mgx3k3hbm47tv8hn93s7v38/v/1267594685/original/3401334-Griddle%20Chopper_Accesssory_B_rgb.png?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=iVUjSNkE9zLWUA5zZOobnAhjYqo=",
-      "url": "https://storage-us-gcs.bfldr.com/mgx3k3hbm47tv8hn93s7v38/v/1267594685/original/3401334-Griddle%20Chopper_Accesssory_B_rgb.png?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=iVUjSNkE9zLWUA5zZOobnAhjYqo="
+      "original_url": "https://storage-us-gcs.bfldr.com/mgx3k3hbm47tv8hn93s7v38/v/1267594685/original/3401334-Griddle%20Chopper_Accesssory_B_rgb.png?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=1b9Y0hfArbNjCPLDNj1aLQpw--Y=",
+      "url": "https://storage-us-gcs.bfldr.com/mgx3k3hbm47tv8hn93s7v38/v/1267594685/original/3401334-Griddle%20Chopper_Accesssory_B_rgb.png?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=1b9Y0hfArbNjCPLDNj1aLQpw--Y="
     },
     {
       "attachment_id": "qr9sqrmms7th73czhc542x",
@@ -203,8 +203,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qr9sqrmms7th73czhc542x/3401334-Griddle%20Chopper_Accesssory_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qr9sqrmms7th73czhc542x/v/1267594686/original/3401334-Griddle%20Chopper_Accesssory_C_rgb.png?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=z4XbJB8gFp7UI-YiVOFiAI9Ts74=",
-      "url": "https://storage-us-gcs.bfldr.com/qr9sqrmms7th73czhc542x/v/1267594686/original/3401334-Griddle%20Chopper_Accesssory_C_rgb.png?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=z4XbJB8gFp7UI-YiVOFiAI9Ts74="
+      "original_url": "https://storage-us-gcs.bfldr.com/qr9sqrmms7th73czhc542x/v/1267594686/original/3401334-Griddle%20Chopper_Accesssory_C_rgb.png?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=MgJV-3rMi8rkdGfMzLbhgvBt0II=",
+      "url": "https://storage-us-gcs.bfldr.com/qr9sqrmms7th73czhc542x/v/1267594686/original/3401334-Griddle%20Chopper_Accesssory_C_rgb.png?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=MgJV-3rMi8rkdGfMzLbhgvBt0II="
     },
     {
       "attachment_id": "x4xp6t6pc5vvhsqjt5xxjznr",
@@ -217,8 +217,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/x4xp6t6pc5vvhsqjt5xxjznr/3401334_010_Griddle%20Chopper%20Roller_FY26_Global.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/x4xp6t6pc5vvhsqjt5xxjznr/v/1270158469/original/3401334_010_Griddle%20Chopper%20Roller_FY26_Global.jpg?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=UP2jryh8QtsTDdvjkFvUme2Er_A=",
-      "url": "https://storage-us-gcs.bfldr.com/x4xp6t6pc5vvhsqjt5xxjznr/v/1270158469/original/3401334_010_Griddle%20Chopper%20Roller_FY26_Global.jpg?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=UP2jryh8QtsTDdvjkFvUme2Er_A="
+      "original_url": "https://storage-us-gcs.bfldr.com/x4xp6t6pc5vvhsqjt5xxjznr/v/1270158469/original/3401334_010_Griddle%20Chopper%20Roller_FY26_Global.jpg?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=_A9vgvtUj2QStJjmE1iglXNZFb4=",
+      "url": "https://storage-us-gcs.bfldr.com/x4xp6t6pc5vvhsqjt5xxjznr/v/1270158469/original/3401334_010_Griddle%20Chopper%20Roller_FY26_Global.jpg?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=_A9vgvtUj2QStJjmE1iglXNZFb4="
     },
     {
       "attachment_id": "vh793q59s5nfx4tzbqk72ntn",
@@ -231,8 +231,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vh793q59s5nfx4tzbqk72ntn/3401334_011_Griddle%20Chopper%20Roller_FY26_Global.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vh793q59s5nfx4tzbqk72ntn/v/1270158471/original/3401334_011_Griddle%20Chopper%20Roller_FY26_Global.jpg?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=1_h6PtUv19LqyNDowyYXymFSgKg=",
-      "url": "https://storage-us-gcs.bfldr.com/vh793q59s5nfx4tzbqk72ntn/v/1270158471/original/3401334_011_Griddle%20Chopper%20Roller_FY26_Global.jpg?Expires=1784652459&KeyName=gcs-bfldr-prod&Signature=1_h6PtUv19LqyNDowyYXymFSgKg="
+      "original_url": "https://storage-us-gcs.bfldr.com/vh793q59s5nfx4tzbqk72ntn/v/1270158471/original/3401334_011_Griddle%20Chopper%20Roller_FY26_Global.jpg?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=d7nWUtIgA9LVUtIZn0NJIrWmw8A=",
+      "url": "https://storage-us-gcs.bfldr.com/vh793q59s5nfx4tzbqk72ntn/v/1270158471/original/3401334_011_Griddle%20Chopper%20Roller_FY26_Global.jpg?Expires=1784897593&KeyName=gcs-bfldr-prod&Signature=d7nWUtIgA9LVUtIZn0NJIrWmw8A="
     }
   ]
 }

@@ -1,14 +1,27 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7683",
   "assets": [
+    {
+      "asset_id": "jz4qrwvp6znv9tkjcq5mshrm",
+      "asset_name": "Weber Genesis Food/Features Videos",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "N/A",
+        "7673",
+        "7670",
+        "7680",
+        "2022",
+        "7683"
+      ]
+    },
     {
       "asset_id": "gxjpgqvr78fqcmtx86brxt",
       "asset_name": "Weber Crafted Grilling Basket",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7683",
-        "7673"
+        "7673",
+        "7683"
       ]
     },
     {
@@ -16,32 +29,32 @@
       "asset_name": "Weber Crafted Overview Video",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7856",
-        "7674",
         "7677",
-        "7683",
-        "7675",
-        "7685",
-        "7607",
-        "7672",
-        "7680",
-        "7606",
-        "7673",
-        "7682",
         "7860",
+        "7671",
+        "7607",
         "7849",
-        "3400843",
-        "7688",
-        "7686",
         "7681",
         "7687",
-        "7671",
-        "7678",
         "7852",
-        "7854",
-        "7670",
+        "7678",
+        "7853",
+        "7675",
+        "7683",
         "7684",
-        "7853"
+        "7672",
+        "7670",
+        "7688",
+        "7685",
+        "7606",
+        "7674",
+        "7686",
+        "7854",
+        "3400843",
+        "7682",
+        "7673",
+        "7680",
+        "7856"
       ]
     },
     {
@@ -50,8 +63,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "7683",
-        "1500010",
-        "7673"
+        "7673",
+        "1500010"
       ]
     },
     {
@@ -59,9 +72,9 @@
       "asset_name": "Weber Crafted Grilling Basket",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7673",
+        "7683",
         "1500010",
-        "7683"
+        "7673"
       ]
     },
     {
@@ -69,8 +82,8 @@
       "asset_name": "Weber Crafted Grilling Basket",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7673",
-        "7683"
+        "7683",
+        "7673"
       ]
     },
     {
@@ -87,8 +100,8 @@
       "asset_name": "Weber Crafted Grilling Basket",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7683",
-        "7673"
+        "7673",
+        "7683"
       ]
     },
     {
@@ -96,8 +109,8 @@
       "asset_name": "Weber Crafted Grilling Basket",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7673",
-        "7683"
+        "7683",
+        "7673"
       ]
     },
     {
@@ -105,8 +118,8 @@
       "asset_name": "Weber Crafted Grilling Basket",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7673",
-        "7683"
+        "7683",
+        "7673"
       ]
     },
     {
@@ -114,8 +127,8 @@
       "asset_name": "Weber Crafted Grilling Basket Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7673",
-        "7683"
+        "7683",
+        "7673"
       ]
     },
     {
@@ -123,8 +136,8 @@
       "asset_name": "Weber Crafted Grilling Basket",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7683",
-        "7673"
+        "7673",
+        "7683"
       ]
     },
     {
@@ -132,8 +145,8 @@
       "asset_name": "Weber Crafted Grilling Basket",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7683",
-        "7673"
+        "7673",
+        "7683"
       ]
     },
     {
@@ -166,8 +179,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7wnbv5msg8thqptw72smzhn/7673-7683%20YM1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/7wnbv5msg8thqptw72smzhn/v/1279524916/original/7673-7683%20YM1.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=AACrQuac9UarSr2zUc0UgqZrm1s=",
-      "url": "https://storage-us-gcs.bfldr.com/7wnbv5msg8thqptw72smzhn/v/1279524916/original/7673-7683%20YM1.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=AACrQuac9UarSr2zUc0UgqZrm1s="
+      "original_url": "https://storage-us-gcs.bfldr.com/7wnbv5msg8thqptw72smzhn/v/1279524916/original/7673-7683%20YM1.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=7xl1pSjEdnC5eBxWdZcUB9_psZk=",
+      "url": "https://storage-us-gcs.bfldr.com/7wnbv5msg8thqptw72smzhn/v/1279524916/original/7673-7683%20YM1.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=7xl1pSjEdnC5eBxWdZcUB9_psZk="
     },
     {
       "attachment_id": "bk7x7ztg8xjgph382mtwq5j3",
@@ -180,8 +193,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bk7x7ztg8xjgph382mtwq5j3/7673-7683%20YM2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bk7x7ztg8xjgph382mtwq5j3/v/1279524918/original/7673-7683%20YM2.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=je9kE6ncUjCcnnoqEXYHvCq74L4=",
-      "url": "https://storage-us-gcs.bfldr.com/bk7x7ztg8xjgph382mtwq5j3/v/1279524918/original/7673-7683%20YM2.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=je9kE6ncUjCcnnoqEXYHvCq74L4="
+      "original_url": "https://storage-us-gcs.bfldr.com/bk7x7ztg8xjgph382mtwq5j3/v/1279524918/original/7673-7683%20YM2.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=BF7RlsWVZx1wsaalziIC_Wyynog=",
+      "url": "https://storage-us-gcs.bfldr.com/bk7x7ztg8xjgph382mtwq5j3/v/1279524918/original/7673-7683%20YM2.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=BF7RlsWVZx1wsaalziIC_Wyynog="
     },
     {
       "attachment_id": "h897qmhnnqffj2njq3g7",
@@ -194,8 +207,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/h897qmhnnqffj2njq3g7/7673-7683%20YM3.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/h897qmhnnqffj2njq3g7/v/1279524920/original/7673-7683%20YM3.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=7ildvLJ1VD7MjtzhQONI6KNThvo=",
-      "url": "https://storage-us-gcs.bfldr.com/h897qmhnnqffj2njq3g7/v/1279524920/original/7673-7683%20YM3.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=7ildvLJ1VD7MjtzhQONI6KNThvo="
+      "original_url": "https://storage-us-gcs.bfldr.com/h897qmhnnqffj2njq3g7/v/1279524920/original/7673-7683%20YM3.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=Aj7G4SDqdSr0GaofvdWCQD_mbMU=",
+      "url": "https://storage-us-gcs.bfldr.com/h897qmhnnqffj2njq3g7/v/1279524920/original/7673-7683%20YM3.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=Aj7G4SDqdSr0GaofvdWCQD_mbMU="
     },
     {
       "attachment_id": "jmpx4g8s6t577krzt445wk39",
@@ -222,8 +235,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9hwn8nmz4g29q6rncj9mw8w/1500010_017_GenesisE315_FY2026_AMER_ALT.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9hwn8nmz4g29q6rncj9mw8w/v/1279522331/original/1500010_017_GenesisE315_FY2026_AMER_ALT.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=SggkMHkprkPALvjf4yczLJgK9rU=",
-      "url": "https://storage-us-gcs.bfldr.com/9hwn8nmz4g29q6rncj9mw8w/v/1279522331/original/1500010_017_GenesisE315_FY2026_AMER_ALT.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=SggkMHkprkPALvjf4yczLJgK9rU="
+      "original_url": "https://storage-us-gcs.bfldr.com/9hwn8nmz4g29q6rncj9mw8w/v/1279522331/original/1500010_017_GenesisE315_FY2026_AMER_ALT.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=muGmRFm8G_R-dz4HINNaHA4jqaY=",
+      "url": "https://storage-us-gcs.bfldr.com/9hwn8nmz4g29q6rncj9mw8w/v/1279522331/original/1500010_017_GenesisE315_FY2026_AMER_ALT.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=muGmRFm8G_R-dz4HINNaHA4jqaY="
     },
     {
       "attachment_id": "p7kgj9w7j83ffmbfvrssnjk",
@@ -236,8 +249,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p7kgj9w7j83ffmbfvrssnjk/1500010_017_GenesisE315_FY2026_AMER_ALT_V1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/p7kgj9w7j83ffmbfvrssnjk/v/1279522332/original/1500010_017_GenesisE315_FY2026_AMER_ALT_V1.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=yc7or72daHTj0eRSSuxTLZF80GI=",
-      "url": "https://storage-us-gcs.bfldr.com/p7kgj9w7j83ffmbfvrssnjk/v/1279522332/original/1500010_017_GenesisE315_FY2026_AMER_ALT_V1.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=yc7or72daHTj0eRSSuxTLZF80GI="
+      "original_url": "https://storage-us-gcs.bfldr.com/p7kgj9w7j83ffmbfvrssnjk/v/1279522332/original/1500010_017_GenesisE315_FY2026_AMER_ALT_V1.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=11WVc999_z8TC9uNXKeC-WrcN-Q=",
+      "url": "https://storage-us-gcs.bfldr.com/p7kgj9w7j83ffmbfvrssnjk/v/1279522332/original/1500010_017_GenesisE315_FY2026_AMER_ALT_V1.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=11WVc999_z8TC9uNXKeC-WrcN-Q="
     },
     {
       "attachment_id": "fwzvrv7qtbgw7xp3kk5x5",
@@ -250,8 +263,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fwzvrv7qtbgw7xp3kk5x5/Grilling%20Basket%207673%207683%20Product%207673A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/fwzvrv7qtbgw7xp3kk5x5/v/1279524930/original/Grilling%20Basket%207673%207683%20Product%207673A_rgb.png?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=xZMjWWX7WbYtWJdmaqWUZB1LgtI=",
-      "url": "https://storage-us-gcs.bfldr.com/fwzvrv7qtbgw7xp3kk5x5/v/1279524930/original/Grilling%20Basket%207673%207683%20Product%207673A_rgb.png?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=xZMjWWX7WbYtWJdmaqWUZB1LgtI="
+      "original_url": "https://storage-us-gcs.bfldr.com/fwzvrv7qtbgw7xp3kk5x5/v/1279524930/original/Grilling%20Basket%207673%207683%20Product%207673A_rgb.png?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=4PGKpQ1mWnh3gUdDYDyT8F45xFw=",
+      "url": "https://storage-us-gcs.bfldr.com/fwzvrv7qtbgw7xp3kk5x5/v/1279524930/original/Grilling%20Basket%207673%207683%20Product%207673A_rgb.png?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=4PGKpQ1mWnh3gUdDYDyT8F45xFw="
     },
     {
       "attachment_id": "w48h7r7qgr3t9smkkh95knmr",
@@ -264,8 +277,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w48h7r7qgr3t9smkkh95knmr/Grilling%20Basket%207673%207683%20Product%207673B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/w48h7r7qgr3t9smkkh95knmr/v/1279524931/original/Grilling%20Basket%207673%207683%20Product%207673B_rgb.png?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=GssR2oQDbe6Qc4FABWi3mUVZf18=",
-      "url": "https://storage-us-gcs.bfldr.com/w48h7r7qgr3t9smkkh95knmr/v/1279524931/original/Grilling%20Basket%207673%207683%20Product%207673B_rgb.png?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=GssR2oQDbe6Qc4FABWi3mUVZf18="
+      "original_url": "https://storage-us-gcs.bfldr.com/w48h7r7qgr3t9smkkh95knmr/v/1279524931/original/Grilling%20Basket%207673%207683%20Product%207673B_rgb.png?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=Ij7EFxV4fnWPVtuKBNO0MiMe9pM=",
+      "url": "https://storage-us-gcs.bfldr.com/w48h7r7qgr3t9smkkh95knmr/v/1279524931/original/Grilling%20Basket%207673%207683%20Product%207673B_rgb.png?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=Ij7EFxV4fnWPVtuKBNO0MiMe9pM="
     },
     {
       "attachment_id": "mg3r79vft8nqx89r72n2pff",
@@ -278,8 +291,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mg3r79vft8nqx89r72n2pff/Grilling%20Basket%207673%207683%20Product%207673C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mg3r79vft8nqx89r72n2pff/v/1279524933/original/Grilling%20Basket%207673%207683%20Product%207673C_rgb.png?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=TUR33BXhpuGiCZHByoavorXKGHw=",
-      "url": "https://storage-us-gcs.bfldr.com/mg3r79vft8nqx89r72n2pff/v/1279524933/original/Grilling%20Basket%207673%207683%20Product%207673C_rgb.png?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=TUR33BXhpuGiCZHByoavorXKGHw="
+      "original_url": "https://storage-us-gcs.bfldr.com/mg3r79vft8nqx89r72n2pff/v/1279524933/original/Grilling%20Basket%207673%207683%20Product%207673C_rgb.png?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=NzwSO56Jc_D7AZJcRGvnL2cummQ=",
+      "url": "https://storage-us-gcs.bfldr.com/mg3r79vft8nqx89r72n2pff/v/1279524933/original/Grilling%20Basket%207673%207683%20Product%207673C_rgb.png?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=NzwSO56Jc_D7AZJcRGvnL2cummQ="
     },
     {
       "attachment_id": "p4pmn46w25j9q79gjg95vj8x",
@@ -292,8 +305,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p4pmn46w25j9q79gjg95vj8x/7673_M1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/p4pmn46w25j9q79gjg95vj8x/v/1279524924/original/7673_M1_rgb.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=MRSBxKepN5bitRLINNRqltpj6hE=",
-      "url": "https://storage-us-gcs.bfldr.com/p4pmn46w25j9q79gjg95vj8x/v/1279524924/original/7673_M1_rgb.jpg?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=MRSBxKepN5bitRLINNRqltpj6hE="
+      "original_url": "https://storage-us-gcs.bfldr.com/p4pmn46w25j9q79gjg95vj8x/v/1279524924/original/7673_M1_rgb.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=LY3gyKWCw6lEKZYpUQ_EJXVepMY=",
+      "url": "https://storage-us-gcs.bfldr.com/p4pmn46w25j9q79gjg95vj8x/v/1279524924/original/7673_M1_rgb.jpg?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=LY3gyKWCw6lEKZYpUQ_EJXVepMY="
     },
     {
       "attachment_id": "cj3vrx96h5nncck89fr65pkf",
@@ -306,8 +319,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cj3vrx96h5nncck89fr65pkf/7673_M2_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cj3vrx96h5nncck89fr65pkf/v/1279524926/original/7673_M2_rgb.png?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=q7Xv58b0Kdo4qcDLRxF1OBxYSLY=",
-      "url": "https://storage-us-gcs.bfldr.com/cj3vrx96h5nncck89fr65pkf/v/1279524926/original/7673_M2_rgb.png?Expires=1784652312&KeyName=gcs-bfldr-prod&Signature=q7Xv58b0Kdo4qcDLRxF1OBxYSLY="
+      "original_url": "https://storage-us-gcs.bfldr.com/cj3vrx96h5nncck89fr65pkf/v/1279524926/original/7673_M2_rgb.png?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=SzlXzL1U3mFUGCTIQmYy1r1iW_c=",
+      "url": "https://storage-us-gcs.bfldr.com/cj3vrx96h5nncck89fr65pkf/v/1279524926/original/7673_M2_rgb.png?Expires=1784897235&KeyName=gcs-bfldr-prod&Signature=SzlXzL1U3mFUGCTIQmYy1r1iW_c="
     }
   ]
 }

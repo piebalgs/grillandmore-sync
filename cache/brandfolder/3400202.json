@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400202",
   "assets": [
     {
@@ -7,8 +7,8 @@
       "asset_name": "22IN / 56CM Weber Traveler Griddle Bonnet Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400201",
-        "3400202"
+        "3400202",
+        "3400201"
       ]
     },
     {
@@ -171,8 +171,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf575n46gt3jgcnm49wfhqb6/3400201Y_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pf575n46gt3jgcnm49wfhqb6/v/1279337947/original/3400201Y_rgb.jpg?Expires=1784652387&KeyName=gcs-bfldr-prod&Signature=FKWyRpkdbWkvebDtq2UP5OLJEPI=",
-      "url": "https://storage-us-gcs.bfldr.com/pf575n46gt3jgcnm49wfhqb6/v/1279337947/original/3400201Y_rgb.jpg?Expires=1784652387&KeyName=gcs-bfldr-prod&Signature=FKWyRpkdbWkvebDtq2UP5OLJEPI="
+      "original_url": "https://storage-us-gcs.bfldr.com/pf575n46gt3jgcnm49wfhqb6/v/1279337947/original/3400201Y_rgb.jpg?Expires=1784897425&KeyName=gcs-bfldr-prod&Signature=sWrcyI9mpUYDLuJunaIAcknWb2M=",
+      "url": "https://storage-us-gcs.bfldr.com/pf575n46gt3jgcnm49wfhqb6/v/1279337947/original/3400201Y_rgb.jpg?Expires=1784897425&KeyName=gcs-bfldr-prod&Signature=sWrcyI9mpUYDLuJunaIAcknWb2M="
     },
     {
       "attachment_id": "nfmrj99pvsjh5rs42v3js7r9",
@@ -185,8 +185,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nfmrj99pvsjh5rs42v3js7r9/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nfmrj99pvsjh5rs42v3js7r9/v/1279337974/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201A_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=R2gM0exd81ZQxd7NbklHeNhF_wQ=",
-      "url": "https://storage-us-gcs.bfldr.com/nfmrj99pvsjh5rs42v3js7r9/v/1279337974/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201A_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=R2gM0exd81ZQxd7NbklHeNhF_wQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/nfmrj99pvsjh5rs42v3js7r9/v/1279337974/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201A_rgb.png?Expires=1784897425&KeyName=gcs-bfldr-prod&Signature=5YlMDgJ2rRV3DVt6OO7T1xKIgQw=",
+      "url": "https://storage-us-gcs.bfldr.com/nfmrj99pvsjh5rs42v3js7r9/v/1279337974/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201A_rgb.png?Expires=1784897425&KeyName=gcs-bfldr-prod&Signature=5YlMDgJ2rRV3DVt6OO7T1xKIgQw="
     },
     {
       "attachment_id": "8sxm932t2sgq5v745gpkm56m",
@@ -199,8 +199,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8sxm932t2sgq5v745gpkm56m/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8sxm932t2sgq5v745gpkm56m/v/1279337976/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201B_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=Zsi79Nm1GeuHQ6Wc-fRcBvIiTC4=",
-      "url": "https://storage-us-gcs.bfldr.com/8sxm932t2sgq5v745gpkm56m/v/1279337976/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201B_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=Zsi79Nm1GeuHQ6Wc-fRcBvIiTC4="
+      "original_url": "https://storage-us-gcs.bfldr.com/8sxm932t2sgq5v745gpkm56m/v/1279337976/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201B_rgb.png?Expires=1784897425&KeyName=gcs-bfldr-prod&Signature=D5g08kGNSJliGpCW370rZIp0RBg=",
+      "url": "https://storage-us-gcs.bfldr.com/8sxm932t2sgq5v745gpkm56m/v/1279337976/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201B_rgb.png?Expires=1784897425&KeyName=gcs-bfldr-prod&Signature=D5g08kGNSJliGpCW370rZIp0RBg="
     },
     {
       "attachment_id": "9b5wqrkx6svpqbwz5tpxh2",
@@ -213,8 +213,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9b5wqrkx6svpqbwz5tpxh2/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9b5wqrkx6svpqbwz5tpxh2/v/1279337977/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201C_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=68NCNsy3DkIuI4Zkg1IvoFfDBNs=",
-      "url": "https://storage-us-gcs.bfldr.com/9b5wqrkx6svpqbwz5tpxh2/v/1279337977/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201C_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=68NCNsy3DkIuI4Zkg1IvoFfDBNs="
+      "original_url": "https://storage-us-gcs.bfldr.com/9b5wqrkx6svpqbwz5tpxh2/v/1279337977/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201C_rgb.png?Expires=1784897425&KeyName=gcs-bfldr-prod&Signature=IhBNmlCJxDqT6obiXVHxZeI2R8A=",
+      "url": "https://storage-us-gcs.bfldr.com/9b5wqrkx6svpqbwz5tpxh2/v/1279337977/original/Weber%20Traveler%20Griddle%20Bonnet%20cover%2022%2056cm%203400201%203400202%203400201C_rgb.png?Expires=1784897425&KeyName=gcs-bfldr-prod&Signature=IhBNmlCJxDqT6obiXVHxZeI2R8A="
     }
   ]
 }

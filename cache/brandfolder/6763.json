@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6763",
   "assets": [
     {
@@ -7,8 +7,9 @@
       "asset_name": "Precision Tool Set 6763/6771 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "6763",
         "6771",
-        "6763"
+        "2021"
       ]
     },
     {
@@ -16,8 +17,9 @@
       "asset_name": "Precision Tool Set 6763/6771 Food",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "6771",
         "6763",
-        "6771"
+        "2021"
       ]
     },
     {
@@ -25,7 +27,8 @@
       "asset_name": "Precision Tool Set 6763 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6763"
+        "6763",
+        "2021"
       ]
     },
     {
@@ -33,7 +36,29 @@
       "asset_name": "Precision Tool Set 6771 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "6763",
         "6771",
+        "2021"
+      ]
+    },
+    {
+      "asset_id": "5bvf7zkkcmph9jxvxzxrs7tm",
+      "asset_name": "2021 Grilling Tools Mood",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "6772",
+        "6764",
+        "6771",
+        "6319",
+        "6770",
+        "6318",
+        "6768",
+        "6762",
+        "6760",
+        "6769",
+        "6761",
+        "2021",
+        "6317",
         "6763"
       ]
     },
@@ -47,6 +72,48 @@
     }
   ],
   "images": [
+    {
+      "attachment_id": "w7hh7wmtg38hchsb6bnq6n",
+      "filename": "2021_Grilling_Tools_Slate_1_rgb.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 3600,
+      "height": 3600,
+      "size": 9290326,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w7hh7wmtg38hchsb6bnq6n/2021_Grilling_Tools_Slate_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/w7hh7wmtg38hchsb6bnq6n/v/53130191/original/2021_Grilling_Tools_Slate_1_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/w7hh7wmtg38hchsb6bnq6n/v/53130191/original/2021_Grilling_Tools_Slate_1_rgb.jpg"
+    },
+    {
+      "attachment_id": "bxrc665943hp2s7gpm66hgbr",
+      "filename": "2021_Grilling_Tools_Wood_2_rgb.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 3600,
+      "height": 3600,
+      "size": 10482451,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bxrc665943hp2s7gpm66hgbr/2021_Grilling_Tools_Wood_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/bxrc665943hp2s7gpm66hgbr/v/53130193/original/2021_Grilling_Tools_Wood_2_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/bxrc665943hp2s7gpm66hgbr/v/53130193/original/2021_Grilling_Tools_Wood_2_rgb.jpg"
+    },
+    {
+      "attachment_id": "bqg8f3wmvk5phvjs69j6vc7",
+      "filename": "2021_Grilling_Tools_Wood_3_rgb.jpg",
+      "extension": "jpg",
+      "position": 2,
+      "width": 3600,
+      "height": 3600,
+      "size": 11338161,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bqg8f3wmvk5phvjs69j6vc7/2021_Grilling_Tools_Wood_3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://assets2.brandfolder.io/bf-boulder-prod/bqg8f3wmvk5phvjs69j6vc7/v/53130194/original/2021_Grilling_Tools_Wood_3_rgb.jpg",
+      "url": "https://assets2.brandfolder.io/bf-boulder-prod/bqg8f3wmvk5phvjs69j6vc7/v/53130194/original/2021_Grilling_Tools_Wood_3_rgb.jpg"
+    },
     {
       "attachment_id": "skhwq36k5g9p4h6frp6fpsz",
       "filename": "6763_6771A_rgb.png",

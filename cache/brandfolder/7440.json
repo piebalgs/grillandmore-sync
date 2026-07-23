@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7440",
   "assets": [
     {
@@ -39,8 +39,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjl0y2-g9dos0-7qp18t/7440C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-7qp18t/v/2749228/original/7440C.png?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=oCPVUuzl7AwpipUjLqCy26gE-RY=",
-      "url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-7qp18t/v/2749228/original/7440C.png?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=oCPVUuzl7AwpipUjLqCy26gE-RY="
+      "original_url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-7qp18t/v/2749228/original/7440C.png?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=ihSUX2BP4aaH4VsWm6FfBDBF7HM=",
+      "url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-7qp18t/v/2749228/original/7440C.png?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=ihSUX2BP4aaH4VsWm6FfBDBF7HM="
     },
     {
       "attachment_id": "pjl0y2-g9dos0-17jxb0",
@@ -53,8 +53,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjl0y2-g9dos0-17jxb0/7440Y1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-17jxb0/v/2749229/original/7440Y1.jpg?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=L6f5f5Ycok1ahusR2s-gl0CKo0s=",
-      "url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-17jxb0/v/2749229/original/7440Y1.jpg?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=L6f5f5Ycok1ahusR2s-gl0CKo0s="
+      "original_url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-17jxb0/v/2749229/original/7440Y1.jpg?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=nCCSDB83nCZKWTTa9iZi-2IOUiQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-17jxb0/v/2749229/original/7440Y1.jpg?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=nCCSDB83nCZKWTTa9iZi-2IOUiQ="
     },
     {
       "attachment_id": "pjl0y2-g9dos0-d9749x",
@@ -67,8 +67,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjl0y2-g9dos0-d9749x/7440Y2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-d9749x/v/2749230/original/7440Y2.jpg?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=2N7ip_0Yc78OrVYbkSPL5PNy6bE=",
-      "url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-d9749x/v/2749230/original/7440Y2.jpg?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=2N7ip_0Yc78OrVYbkSPL5PNy6bE="
+      "original_url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-d9749x/v/2749230/original/7440Y2.jpg?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=YKHpO3t4vDSoziqkcdH7VQa8Sxw=",
+      "url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-d9749x/v/2749230/original/7440Y2.jpg?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=YKHpO3t4vDSoziqkcdH7VQa8Sxw="
     },
     {
       "attachment_id": "pjl0y2-g9dos0-5y1haj",
@@ -81,8 +81,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pjl0y2-g9dos0-5y1haj/7440Y3.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-5y1haj/v/2749231/original/7440Y3.jpg?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=ttLX66QDNXeMFtEK8siN3oIDvBY=",
-      "url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-5y1haj/v/2749231/original/7440Y3.jpg?Expires=1784652406&KeyName=gcs-bfldr-prod&Signature=ttLX66QDNXeMFtEK8siN3oIDvBY="
+      "original_url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-5y1haj/v/2749231/original/7440Y3.jpg?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=teAuvKOF_TfBOUIKmUan4xSFIsM=",
+      "url": "https://storage-us-gcs.bfldr.com/pjl0y2-g9dos0-5y1haj/v/2749231/original/7440Y3.jpg?Expires=1784897473&KeyName=gcs-bfldr-prod&Signature=teAuvKOF_TfBOUIKmUan4xSFIsM="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6320",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Grilling Skewer Set 6320 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6320"
+        "6320",
+        "2021"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Grilling Skewer Set 6320 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6320"
+        "6320",
+        "2021"
       ]
     },
     {
@@ -23,7 +25,8 @@
       "asset_name": "Grilling Skewer Set 6320 Food",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6320"
+        "6320",
+        "2021"
       ]
     },
     {

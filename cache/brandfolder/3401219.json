@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401219",
   "assets": [
     {
@@ -7,11 +7,11 @@
       "asset_name": "Wireless Probe with Charger [Black]",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401307",
+        "3401488",
         "3401201",
+        "3401307",
         "3401219",
-        "3401191",
-        "3401488"
+        "3401191"
       ]
     },
     {
@@ -22,9 +22,9 @@
         "3400589",
         "3401191",
         "3401488",
+        "3401307",
         "3401219",
-        "3401201",
-        "3401307"
+        "3401201"
       ]
     },
     {
@@ -32,15 +32,15 @@
       "asset_name": "[Global]  Smart Wireless Probe w/ Charger",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401307",
-        "3401789",
-        "3400603",
-        "3400589",
-        "3401201",
-        "3400604",
         "3400620",
+        "3400603",
+        "3401789",
+        "3400604",
+        "3401201",
+        "3401191",
+        "3401307",
         "3401219",
-        "3401191"
+        "3400589"
       ]
     },
     {
@@ -48,16 +48,16 @@
       "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400589",
-        "3401488",
-        "3401201",
+        "3401219",
         "3401307",
         "3401191",
         "3401789",
+        "3401488",
         "3400604",
-        "3400603",
+        "3401201",
+        "3400589",
         "3400620",
-        "3401219"
+        "3400603"
       ]
     },
     {
@@ -65,16 +65,16 @@
       "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3400604",
+        "3401191",
+        "3401488",
+        "3401201",
+        "3400589",
+        "3400603",
         "3400620",
         "3401307",
-        "3401488",
         "3401789",
-        "3401191",
-        "3401201",
-        "3400603",
-        "3401219",
-        "3400604",
-        "3400589"
+        "3401219"
       ]
     },
     {
@@ -82,16 +82,16 @@
       "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401488",
-        "3401201",
         "3400589",
-        "3400604",
-        "3401191",
-        "3401219",
-        "3400603",
-        "3401307",
+        "3401789",
         "3400620",
-        "3401789"
+        "3401201",
+        "3401191",
+        "3400604",
+        "3401219",
+        "3401307",
+        "3400603",
+        "3401488"
       ]
     },
     {
@@ -99,17 +99,17 @@
       "asset_name": "Charcoal Kettle Smart Ring",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400660",
+        "3401191",
         "3400653",
-        "3401488",
         "3401307",
         "3401200",
+        "3401488",
+        "3400660",
         "3401210",
-        "3401191",
+        "2290",
         "3401201",
         "3400880",
-        "3401219",
-        "2290"
+        "3401219"
       ]
     },
     {
@@ -117,10 +117,10 @@
       "asset_name": "[EMEA] SMART WIRELESS PROBE  MASTER COPY",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3401151",
         "3401091",
-        "3401153",
         "3401219",
-        "3401151"
+        "3401153"
       ]
     },
     {
@@ -128,9 +128,9 @@
       "asset_name": "[cze] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401091",
         "3401219",
         "3401153",
+        "3401091",
         "3401151"
       ]
     },
@@ -140,9 +140,9 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "3401219",
-        "3401153",
+        "3401091",
         "3401151",
-        "3401091"
+        "3401153"
       ]
     },
     {
@@ -152,8 +152,8 @@
       "skus": [
         "3401153",
         "3401219",
-        "3401151",
-        "3401091"
+        "3401091",
+        "3401151"
       ]
     },
     {
@@ -161,10 +161,10 @@
       "asset_name": "[en-GB] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401219",
-        "3401151",
+        "3401091",
         "3401153",
-        "3401091"
+        "3401151",
+        "3401219"
       ]
     },
     {
@@ -172,10 +172,10 @@
       "asset_name": "[fin] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401219",
-        "3401091",
         "3401151",
-        "3401153"
+        "3401219",
+        "3401153",
+        "3401091"
       ]
     },
     {
@@ -183,10 +183,10 @@
       "asset_name": "[fre-FR] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401153",
         "3401091",
-        "3401151",
-        "3401219"
+        "3401153",
+        "3401219",
+        "3401151"
       ]
     },
     {
@@ -194,10 +194,10 @@
       "asset_name": "[ger-DE] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401091",
-        "3401219",
         "3401151",
-        "3401153"
+        "3401219",
+        "3401153",
+        "3401091"
       ]
     },
     {
@@ -205,10 +205,10 @@
       "asset_name": "[hrv] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401091",
-        "3401219",
+        "3401151",
         "3401153",
-        "3401151"
+        "3401091",
+        "3401219"
       ]
     },
     {
@@ -216,9 +216,9 @@
       "asset_name": "[ita-IT] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3401151",
         "3401153",
         "3401219",
-        "3401151",
         "3401091"
       ]
     },
@@ -227,10 +227,10 @@
       "asset_name": "[no] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401219",
-        "3401151",
         "3401091",
-        "3401153"
+        "3401153",
+        "3401219",
+        "3401151"
       ]
     },
     {
@@ -238,10 +238,10 @@
       "asset_name": "[pol] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401219",
-        "3401153",
         "3401091",
-        "3401151"
+        "3401219",
+        "3401151",
+        "3401153"
       ]
     },
     {
@@ -249,10 +249,10 @@
       "asset_name": "[por-PT] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401153",
-        "3401219",
         "3401151",
-        "3401091"
+        "3401091",
+        "3401153",
+        "3401219"
       ]
     },
     {
@@ -260,10 +260,10 @@
       "asset_name": "[sk] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401219",
-        "3401151",
         "3401091",
-        "3401153"
+        "3401151",
+        "3401153",
+        "3401219"
       ]
     },
     {
@@ -271,10 +271,10 @@
       "asset_name": "[slv] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401151",
-        "3401091",
         "3401219",
-        "3401153"
+        "3401153",
+        "3401151",
+        "3401091"
       ]
     },
     {
@@ -282,10 +282,10 @@
       "asset_name": "[spa-ES] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401091",
-        "3401151",
         "3401219",
-        "3401153"
+        "3401091",
+        "3401153",
+        "3401151"
       ]
     },
     {
@@ -293,10 +293,10 @@
       "asset_name": "[swe-SE] SMART WIRELESS PROBE (BATCYCLE) MasterCopy EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401153",
         "3401151",
         "3401091",
-        "3401219"
+        "3401219",
+        "3401153"
       ]
     },
     {
@@ -312,11 +312,11 @@
       "asset_name": "How To: Turn on and off",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401219",
         "3401201",
-        "3401488",
         "3401307",
-        "3401191"
+        "3401191",
+        "3401488",
+        "3401219"
       ]
     }
   ],
@@ -332,8 +332,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cxk2gn5x3cff4kgfkvnbhw/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cxk2gn5x3cff4kgfkvnbhw/v/1280375316/original/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=xhhTkBsECWmmgBCeBY4JEEhcDsY=",
-      "url": "https://storage-us-gcs.bfldr.com/cxk2gn5x3cff4kgfkvnbhw/v/1280375316/original/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=xhhTkBsECWmmgBCeBY4JEEhcDsY="
+      "original_url": "https://storage-us-gcs.bfldr.com/cxk2gn5x3cff4kgfkvnbhw/v/1280375316/original/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=mTwMy7E2-yMqk08eN5Mfi7NrI0c=",
+      "url": "https://storage-us-gcs.bfldr.com/cxk2gn5x3cff4kgfkvnbhw/v/1280375316/original/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=mTwMy7E2-yMqk08eN5Mfi7NrI0c="
     },
     {
       "attachment_id": "bt85bjwwxq5j6p6qmx7sx9sn",
@@ -346,8 +346,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bt85bjwwxq5j6p6qmx7sx9sn/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bt85bjwwxq5j6p6qmx7sx9sn/v/1280374464/original/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=gChvkILM9ekFkIzLqZwU3GNerOk=",
-      "url": "https://storage-us-gcs.bfldr.com/bt85bjwwxq5j6p6qmx7sx9sn/v/1280374464/original/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=gChvkILM9ekFkIzLqZwU3GNerOk="
+      "original_url": "https://storage-us-gcs.bfldr.com/bt85bjwwxq5j6p6qmx7sx9sn/v/1280374464/original/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=ut4EN5YP6tltXcpYNT6O5XbsvVI=",
+      "url": "https://storage-us-gcs.bfldr.com/bt85bjwwxq5j6p6qmx7sx9sn/v/1280374464/original/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=ut4EN5YP6tltXcpYNT6O5XbsvVI="
     },
     {
       "attachment_id": "68smh5pv46mktkmh94q66qh",
@@ -360,8 +360,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/68smh5pv46mktkmh94q66qh/3400626_022_SmartHub_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/68smh5pv46mktkmh94q66qh/v/1278478927/original/3400626_022_SmartHub_FY2026_US_CA.jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=DR20gPJ9YLVckKTlv7gYEwz4HYQ=",
-      "url": "https://storage-us-gcs.bfldr.com/68smh5pv46mktkmh94q66qh/v/1278478927/original/3400626_022_SmartHub_FY2026_US_CA.jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=DR20gPJ9YLVckKTlv7gYEwz4HYQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/68smh5pv46mktkmh94q66qh/v/1278478927/original/3400626_022_SmartHub_FY2026_US_CA.jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=KcP7IZy16j3ZN-yJ1OX3OC49qfg=",
+      "url": "https://storage-us-gcs.bfldr.com/68smh5pv46mktkmh94q66qh/v/1278478927/original/3400626_022_SmartHub_FY2026_US_CA.jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=KcP7IZy16j3ZN-yJ1OX3OC49qfg="
     },
     {
       "attachment_id": "8bj7jvntxs4fjmkbwk7z8zkp",
@@ -374,8 +374,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8bj7jvntxs4fjmkbwk7z8zkp/3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8bj7jvntxs4fjmkbwk7z8zkp/v/1288181457/original/3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=2ZDZE1oV8s_Xgx3Ag_aG3ZL5aCM=",
-      "url": "https://storage-us-gcs.bfldr.com/8bj7jvntxs4fjmkbwk7z8zkp/v/1288181457/original/3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=2ZDZE1oV8s_Xgx3Ag_aG3ZL5aCM="
+      "original_url": "https://storage-us-gcs.bfldr.com/8bj7jvntxs4fjmkbwk7z8zkp/v/1288181457/original/3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=cBdbTcygl-GkDxFi_jqx7tcUiFs=",
+      "url": "https://storage-us-gcs.bfldr.com/8bj7jvntxs4fjmkbwk7z8zkp/v/1288181457/original/3400660_103_KettleSmartRing_FY2026_AMER_V7.jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=cBdbTcygl-GkDxFi_jqx7tcUiFs="
     },
     {
       "attachment_id": "bvb4779m3sc927rm9pq7",
@@ -388,8 +388,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bvb4779m3sc927rm9pq7/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20%282%29.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bvb4779m3sc927rm9pq7/v/1278854434/original/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20(2).jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=5PVwUxIRzipVOOkV0dlftdKoBrg=",
-      "url": "https://storage-us-gcs.bfldr.com/bvb4779m3sc927rm9pq7/v/1278854434/original/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20(2).jpg?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=5PVwUxIRzipVOOkV0dlftdKoBrg="
+      "original_url": "https://storage-us-gcs.bfldr.com/bvb4779m3sc927rm9pq7/v/1278854434/original/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20(2).jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=YLvkfkGgahYG4nSwu-t9BU9vSy8=",
+      "url": "https://storage-us-gcs.bfldr.com/bvb4779m3sc927rm9pq7/v/1278854434/original/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20(2).jpg?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=YLvkfkGgahYG4nSwu-t9BU9vSy8="
     },
     {
       "attachment_id": "h5c9mjkwmgww2b5669sjtpjq",
@@ -402,8 +402,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/h5c9mjkwmgww2b5669sjtpjq/3401191_batcyclewirelessprobe_A_AMER_x.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/h5c9mjkwmgww2b5669sjtpjq/v/1304915880/original/3401191_batcyclewirelessprobe_A_AMER_x.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=aZN4RIheo1gG1H92RqGolsDViq0=",
-      "url": "https://storage-us-gcs.bfldr.com/h5c9mjkwmgww2b5669sjtpjq/v/1304915880/original/3401191_batcyclewirelessprobe_A_AMER_x.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=aZN4RIheo1gG1H92RqGolsDViq0="
+      "original_url": "https://storage-us-gcs.bfldr.com/h5c9mjkwmgww2b5669sjtpjq/v/1304915880/original/3401191_batcyclewirelessprobe_A_AMER_x.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=43e5Fhu5vKS1pHf7xh-jI-6AAWM=",
+      "url": "https://storage-us-gcs.bfldr.com/h5c9mjkwmgww2b5669sjtpjq/v/1304915880/original/3401191_batcyclewirelessprobe_A_AMER_x.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=43e5Fhu5vKS1pHf7xh-jI-6AAWM="
     },
     {
       "attachment_id": "sf7nfbrrsjp3jrx2hsw9",
@@ -416,8 +416,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sf7nfbrrsjp3jrx2hsw9/3401191_batcyclewirelessprobe_B_AMER_x.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/sf7nfbrrsjp3jrx2hsw9/v/1304915882/original/3401191_batcyclewirelessprobe_B_AMER_x.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=v_rFxj-KzJhFDBLaBDHN_zUmlEY=",
-      "url": "https://storage-us-gcs.bfldr.com/sf7nfbrrsjp3jrx2hsw9/v/1304915882/original/3401191_batcyclewirelessprobe_B_AMER_x.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=v_rFxj-KzJhFDBLaBDHN_zUmlEY="
+      "original_url": "https://storage-us-gcs.bfldr.com/sf7nfbrrsjp3jrx2hsw9/v/1304915882/original/3401191_batcyclewirelessprobe_B_AMER_x.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=ieBT1EbmBO5nT-6ZvjM335uvRM0=",
+      "url": "https://storage-us-gcs.bfldr.com/sf7nfbrrsjp3jrx2hsw9/v/1304915882/original/3401191_batcyclewirelessprobe_B_AMER_x.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=ieBT1EbmBO5nT-6ZvjM335uvRM0="
     },
     {
       "attachment_id": "qrbfghhmggwj3cwf58k9wm54",
@@ -430,8 +430,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qrbfghhmggwj3cwf58k9wm54/3401191_batcyclewirelessprobe_C_AMER_x.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qrbfghhmggwj3cwf58k9wm54/v/1304915883/original/3401191_batcyclewirelessprobe_C_AMER_x.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=P21V-nXN-9yGBHxE-n8iDZgmItI=",
-      "url": "https://storage-us-gcs.bfldr.com/qrbfghhmggwj3cwf58k9wm54/v/1304915883/original/3401191_batcyclewirelessprobe_C_AMER_x.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=P21V-nXN-9yGBHxE-n8iDZgmItI="
+      "original_url": "https://storage-us-gcs.bfldr.com/qrbfghhmggwj3cwf58k9wm54/v/1304915883/original/3401191_batcyclewirelessprobe_C_AMER_x.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=20Eh2mEvxCEBrrHyv4grWofskeg=",
+      "url": "https://storage-us-gcs.bfldr.com/qrbfghhmggwj3cwf58k9wm54/v/1304915883/original/3401191_batcyclewirelessprobe_C_AMER_x.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=20Eh2mEvxCEBrrHyv4grWofskeg="
     },
     {
       "attachment_id": "xjjqscw7rcmcv4qrvghx78f",
@@ -444,8 +444,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xjjqscw7rcmcv4qrvghx78f/3401191_batcycle_A_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xjjqscw7rcmcv4qrvghx78f/v/1275993476/original/3401191_batcycle_A_AMER_rgb.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=xR4LAwKBzuvrrTVeB7a7gZJcHK4=",
-      "url": "https://storage-us-gcs.bfldr.com/xjjqscw7rcmcv4qrvghx78f/v/1275993476/original/3401191_batcycle_A_AMER_rgb.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=xR4LAwKBzuvrrTVeB7a7gZJcHK4="
+      "original_url": "https://storage-us-gcs.bfldr.com/xjjqscw7rcmcv4qrvghx78f/v/1275993476/original/3401191_batcycle_A_AMER_rgb.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=b79CFwpw5cR-c53ESlUgqD5SmjM=",
+      "url": "https://storage-us-gcs.bfldr.com/xjjqscw7rcmcv4qrvghx78f/v/1275993476/original/3401191_batcycle_A_AMER_rgb.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=b79CFwpw5cR-c53ESlUgqD5SmjM="
     },
     {
       "attachment_id": "64m93v8crk624c84n4cshx",
@@ -458,8 +458,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/64m93v8crk624c84n4cshx/3401191_batcycle_B_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/64m93v8crk624c84n4cshx/v/1275993478/original/3401191_batcycle_B_AMER_rgb.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=1UJADRZqhqhRcsBT_h_B-hk9ZGs=",
-      "url": "https://storage-us-gcs.bfldr.com/64m93v8crk624c84n4cshx/v/1275993478/original/3401191_batcycle_B_AMER_rgb.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=1UJADRZqhqhRcsBT_h_B-hk9ZGs="
+      "original_url": "https://storage-us-gcs.bfldr.com/64m93v8crk624c84n4cshx/v/1275993478/original/3401191_batcycle_B_AMER_rgb.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=3GoWIUQPedYSUh-faS565S-lc0g=",
+      "url": "https://storage-us-gcs.bfldr.com/64m93v8crk624c84n4cshx/v/1275993478/original/3401191_batcycle_B_AMER_rgb.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=3GoWIUQPedYSUh-faS565S-lc0g="
     },
     {
       "attachment_id": "g2wkq9bmkqqqjwn3h3bpt",
@@ -472,8 +472,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g2wkq9bmkqqqjwn3h3bpt/3401191_batcycle_C_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/g2wkq9bmkqqqjwn3h3bpt/v/1275993479/original/3401191_batcycle_C_AMER_rgb.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=FCwCO-i1cwLIFx9b2PLx6RLI5cU=",
-      "url": "https://storage-us-gcs.bfldr.com/g2wkq9bmkqqqjwn3h3bpt/v/1275993479/original/3401191_batcycle_C_AMER_rgb.png?Expires=1784652443&KeyName=gcs-bfldr-prod&Signature=FCwCO-i1cwLIFx9b2PLx6RLI5cU="
+      "original_url": "https://storage-us-gcs.bfldr.com/g2wkq9bmkqqqjwn3h3bpt/v/1275993479/original/3401191_batcycle_C_AMER_rgb.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=j86fcbS9nsJhlINw3xpUT9zBx0c=",
+      "url": "https://storage-us-gcs.bfldr.com/g2wkq9bmkqqqjwn3h3bpt/v/1275993479/original/3401191_batcycle_C_AMER_rgb.png?Expires=1784897555&KeyName=gcs-bfldr-prod&Signature=j86fcbS9nsJhlINw3xpUT9zBx0c="
     }
   ]
 }

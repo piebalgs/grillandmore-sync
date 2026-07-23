@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6606",
   "assets": [
     {
@@ -39,8 +39,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pozaoc-5zhv6g-apv98f/6606F.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pozaoc-5zhv6g-apv98f/v/3405362/original/6606F.jpg?Expires=1784652354&KeyName=gcs-bfldr-prod&Signature=E8QMrNmVYKdP5gZAho_-SQixTOU=",
-      "url": "https://storage-us-gcs.bfldr.com/pozaoc-5zhv6g-apv98f/v/3405362/original/6606F.jpg?Expires=1784652354&KeyName=gcs-bfldr-prod&Signature=E8QMrNmVYKdP5gZAho_-SQixTOU="
+      "original_url": "https://storage-us-gcs.bfldr.com/pozaoc-5zhv6g-apv98f/v/3405362/original/6606F.jpg?Expires=1784897343&KeyName=gcs-bfldr-prod&Signature=gU6YRT5wm3P-j5GgiMMMxm2h96U=",
+      "url": "https://storage-us-gcs.bfldr.com/pozaoc-5zhv6g-apv98f/v/3405362/original/6606F.jpg?Expires=1784897343&KeyName=gcs-bfldr-prod&Signature=gU6YRT5wm3P-j5GgiMMMxm2h96U="
     }
   ]
 }

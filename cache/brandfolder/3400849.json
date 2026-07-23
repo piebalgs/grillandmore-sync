@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400849",
   "assets": [
     {
@@ -136,8 +136,8 @@
       "asset_name": "[AUNZ/EMEA] Warming Rack -Q2XXXN & Q3XXXN",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400144",
-        "3400849"
+        "3400849",
+        "3400144"
       ]
     },
     {
@@ -161,8 +161,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n58vft35ch4hqvgvc5j99qsn/3400144Y_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/n58vft35ch4hqvgvc5j99qsn/v/1273785410/original/3400144Y_rgb.jpg?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=ZIeTbMII6_ERXpuxLnAEESX-eK8=",
-      "url": "https://storage-us-gcs.bfldr.com/n58vft35ch4hqvgvc5j99qsn/v/1273785410/original/3400144Y_rgb.jpg?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=ZIeTbMII6_ERXpuxLnAEESX-eK8="
+      "original_url": "https://storage-us-gcs.bfldr.com/n58vft35ch4hqvgvc5j99qsn/v/1273785410/original/3400144Y_rgb.jpg?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=3HkAgIFe9pRoUWheku76BrGTZs8=",
+      "url": "https://storage-us-gcs.bfldr.com/n58vft35ch4hqvgvc5j99qsn/v/1273785410/original/3400144Y_rgb.jpg?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=3HkAgIFe9pRoUWheku76BrGTZs8="
     },
     {
       "attachment_id": "nqqfn5gk6gj525bhf7957565",
@@ -175,8 +175,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nqqfn5gk6gj525bhf7957565/3400849A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nqqfn5gk6gj525bhf7957565/v/1263105682/original/3400849A_rgb.png?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=OcLX-T-vi4j1RBfKW7dAPrweacc=",
-      "url": "https://storage-us-gcs.bfldr.com/nqqfn5gk6gj525bhf7957565/v/1263105682/original/3400849A_rgb.png?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=OcLX-T-vi4j1RBfKW7dAPrweacc="
+      "original_url": "https://storage-us-gcs.bfldr.com/nqqfn5gk6gj525bhf7957565/v/1263105682/original/3400849A_rgb.png?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=RRkZOZhaPj4CSK0-N3_i0UFR9yQ=",
+      "url": "https://storage-us-gcs.bfldr.com/nqqfn5gk6gj525bhf7957565/v/1263105682/original/3400849A_rgb.png?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=RRkZOZhaPj4CSK0-N3_i0UFR9yQ="
     },
     {
       "attachment_id": "wmgkjwxf658cpsj394s77jn9",
@@ -189,8 +189,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wmgkjwxf658cpsj394s77jn9/3400849B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wmgkjwxf658cpsj394s77jn9/v/1263105683/original/3400849B_rgb.png?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=oxouijQYQYmIVIxI5gE6PTzVmD0=",
-      "url": "https://storage-us-gcs.bfldr.com/wmgkjwxf658cpsj394s77jn9/v/1263105683/original/3400849B_rgb.png?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=oxouijQYQYmIVIxI5gE6PTzVmD0="
+      "original_url": "https://storage-us-gcs.bfldr.com/wmgkjwxf658cpsj394s77jn9/v/1263105683/original/3400849B_rgb.png?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=VXbLl3Yc3HRPCPw5WlroYcpwhS4=",
+      "url": "https://storage-us-gcs.bfldr.com/wmgkjwxf658cpsj394s77jn9/v/1263105683/original/3400849B_rgb.png?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=VXbLl3Yc3HRPCPw5WlroYcpwhS4="
     },
     {
       "attachment_id": "6snm4mfq2ptzgz937b9tj65s",
@@ -203,8 +203,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6snm4mfq2ptzgz937b9tj65s/3400849C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6snm4mfq2ptzgz937b9tj65s/v/1263105684/original/3400849C_rgb.png?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=GznYIIG8wIwG9lDROOB9D3mkK5Q=",
-      "url": "https://storage-us-gcs.bfldr.com/6snm4mfq2ptzgz937b9tj65s/v/1263105684/original/3400849C_rgb.png?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=GznYIIG8wIwG9lDROOB9D3mkK5Q="
+      "original_url": "https://storage-us-gcs.bfldr.com/6snm4mfq2ptzgz937b9tj65s/v/1263105684/original/3400849C_rgb.png?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=zPuuyRKsfoZQvz80n_dy_JnnsxE=",
+      "url": "https://storage-us-gcs.bfldr.com/6snm4mfq2ptzgz937b9tj65s/v/1263105684/original/3400849C_rgb.png?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=zPuuyRKsfoZQvz80n_dy_JnnsxE="
     },
     {
       "attachment_id": "bcts3m68ws9vvc6j8jqw6gv",
@@ -217,8 +217,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bcts3m68ws9vvc6j8jqw6gv/3400849D_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bcts3m68ws9vvc6j8jqw6gv/v/1263105685/original/3400849D_rgb.png?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=hZqMUq6ihglG9huYptuBpvGErUE=",
-      "url": "https://storage-us-gcs.bfldr.com/bcts3m68ws9vvc6j8jqw6gv/v/1263105685/original/3400849D_rgb.png?Expires=1784652415&KeyName=gcs-bfldr-prod&Signature=hZqMUq6ihglG9huYptuBpvGErUE="
+      "original_url": "https://storage-us-gcs.bfldr.com/bcts3m68ws9vvc6j8jqw6gv/v/1263105685/original/3400849D_rgb.png?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=Ta4-X43jbeRJCed12m9QBas3Vz4=",
+      "url": "https://storage-us-gcs.bfldr.com/bcts3m68ws9vvc6j8jqw6gv/v/1263105685/original/3400849D_rgb.png?Expires=1784897494&KeyName=gcs-bfldr-prod&Signature=Ta4-X43jbeRJCed12m9QBas3Vz4="
     }
   ]
 }

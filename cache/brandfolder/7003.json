@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7003",
   "assets": [
     {
@@ -7,7 +7,11 @@
       "asset_name": "EX6 Front Shelf 7003 Feature",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7003"
+        "7003",
+        "23511069",
+        "23511094",
+        "23510001",
+        "23511004"
       ]
     },
     {
@@ -15,7 +19,11 @@
       "asset_name": "Front Shelf 7003 Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7003"
+        "7003",
+        "23511004",
+        "23511069",
+        "23511094",
+        "23510001"
       ]
     },
     {
@@ -23,7 +31,11 @@
       "asset_name": "EX6 Front Shelf 7003 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7003"
+        "7003",
+        "23511094",
+        "23510001",
+        "23511004",
+        "23511069"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "1501653",
   "assets": [
     {
@@ -7,10 +7,10 @@
       "asset_name": "[EMEA]  Lumin Compact + Fixed Stand",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501653",
-        "1501661",
         "1501654",
-        "1501651"
+        "1501651",
+        "1501661",
+        "1501653"
       ]
     },
     {
@@ -19,9 +19,9 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501656",
-        "1501651",
+        "1501653",
         "1501661",
-        "1501653"
+        "1501651"
       ]
     },
     {
@@ -29,10 +29,10 @@
       "asset_name": "[EMEA] Lumin Compact with Stand",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501653",
-        "1501651",
+        "1501654",
         "1501661",
-        "1501654"
+        "1501653",
+        "1501651"
       ]
     }
   ],
@@ -48,8 +48,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/546k893hv8tck5b8r96cz4b/1501653%20Lumin%20compact%20fixed%20stand%20_A_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/546k893hv8tck5b8r96cz4b/v/1276010237/original/1501653%20Lumin%20compact%20fixed%20stand%20_A_EMEA_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=xnXCUeIktQoMylA2c8wm-R9DnvA=",
-      "url": "https://storage-us-gcs.bfldr.com/546k893hv8tck5b8r96cz4b/v/1276010237/original/1501653%20Lumin%20compact%20fixed%20stand%20_A_EMEA_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=xnXCUeIktQoMylA2c8wm-R9DnvA="
+      "original_url": "https://storage-us-gcs.bfldr.com/546k893hv8tck5b8r96cz4b/v/1276010237/original/1501653%20Lumin%20compact%20fixed%20stand%20_A_EMEA_rgb.png?Expires=1784896826&KeyName=gcs-bfldr-prod&Signature=V_j1eDfVlXMOgEhPTvUyZWkaeng=",
+      "url": "https://storage-us-gcs.bfldr.com/546k893hv8tck5b8r96cz4b/v/1276010237/original/1501653%20Lumin%20compact%20fixed%20stand%20_A_EMEA_rgb.png?Expires=1784896826&KeyName=gcs-bfldr-prod&Signature=V_j1eDfVlXMOgEhPTvUyZWkaeng="
     },
     {
       "attachment_id": "ng578n54p55c49xt3x45xk2t",
@@ -62,8 +62,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ng578n54p55c49xt3x45xk2t/1501653%20Lumin%20compact%20fixed%20stand%20_B_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ng578n54p55c49xt3x45xk2t/v/1276010238/original/1501653%20Lumin%20compact%20fixed%20stand%20_B_EMEA_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=kB7iV-8OWSk0IemzgJHNGqZp51Y=",
-      "url": "https://storage-us-gcs.bfldr.com/ng578n54p55c49xt3x45xk2t/v/1276010238/original/1501653%20Lumin%20compact%20fixed%20stand%20_B_EMEA_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=kB7iV-8OWSk0IemzgJHNGqZp51Y="
+      "original_url": "https://storage-us-gcs.bfldr.com/ng578n54p55c49xt3x45xk2t/v/1276010238/original/1501653%20Lumin%20compact%20fixed%20stand%20_B_EMEA_rgb.png?Expires=1784896826&KeyName=gcs-bfldr-prod&Signature=zyRJKbBO2x67ZQEcOORGiYBJkzg=",
+      "url": "https://storage-us-gcs.bfldr.com/ng578n54p55c49xt3x45xk2t/v/1276010238/original/1501653%20Lumin%20compact%20fixed%20stand%20_B_EMEA_rgb.png?Expires=1784896826&KeyName=gcs-bfldr-prod&Signature=zyRJKbBO2x67ZQEcOORGiYBJkzg="
     },
     {
       "attachment_id": "x7vw5gbgf6cmcqkwjshk4n9m",
@@ -76,8 +76,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/x7vw5gbgf6cmcqkwjshk4n9m/1501653%20Lumin%20compact%20fixed%20stand%20_C_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/x7vw5gbgf6cmcqkwjshk4n9m/v/1276010239/original/1501653%20Lumin%20compact%20fixed%20stand%20_C_EMEA_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=ao3f_D5iiXUaM02DVGqLo-GQmec=",
-      "url": "https://storage-us-gcs.bfldr.com/x7vw5gbgf6cmcqkwjshk4n9m/v/1276010239/original/1501653%20Lumin%20compact%20fixed%20stand%20_C_EMEA_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=ao3f_D5iiXUaM02DVGqLo-GQmec="
+      "original_url": "https://storage-us-gcs.bfldr.com/x7vw5gbgf6cmcqkwjshk4n9m/v/1276010239/original/1501653%20Lumin%20compact%20fixed%20stand%20_C_EMEA_rgb.png?Expires=1784896826&KeyName=gcs-bfldr-prod&Signature=y9QTdDCMkG3Ik0c3ar6-CkiEKD0=",
+      "url": "https://storage-us-gcs.bfldr.com/x7vw5gbgf6cmcqkwjshk4n9m/v/1276010239/original/1501653%20Lumin%20compact%20fixed%20stand%20_C_EMEA_rgb.png?Expires=1784896826&KeyName=gcs-bfldr-prod&Signature=y9QTdDCMkG3Ik0c3ar6-CkiEKD0="
     },
     {
       "attachment_id": "6v5qq83sfvfxfsq393g3vz63",
@@ -90,8 +90,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6v5qq83sfvfxfsq393g3vz63/1501653_EMEA.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6v5qq83sfvfxfsq393g3vz63/v/1328336088/original/1501653_EMEA.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=jt2fbh05pkKoa7Jnbiw6rI-9Arc=",
-      "url": "https://storage-us-gcs.bfldr.com/6v5qq83sfvfxfsq393g3vz63/v/1328336088/original/1501653_EMEA.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=jt2fbh05pkKoa7Jnbiw6rI-9Arc="
+      "original_url": "https://storage-us-gcs.bfldr.com/6v5qq83sfvfxfsq393g3vz63/v/1328336088/original/1501653_EMEA.png?Expires=1784896827&KeyName=gcs-bfldr-prod&Signature=BvKKv3af_F9YpqHJzet-rEQ9JBA=",
+      "url": "https://storage-us-gcs.bfldr.com/6v5qq83sfvfxfsq393g3vz63/v/1328336088/original/1501653_EMEA.png?Expires=1784896827&KeyName=gcs-bfldr-prod&Signature=BvKKv3af_F9YpqHJzet-rEQ9JBA="
     },
     {
       "attachment_id": "g5jvjz6p8fb8hcqp2fq6bwg8",
@@ -104,8 +104,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g5jvjz6p8fb8hcqp2fq6bwg8/1501653_LUMIN%20COMPACT_EMEA_ON%20STAND_LID%20OPEN_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/g5jvjz6p8fb8hcqp2fq6bwg8/v/1278527487/original/1501653_LUMIN%20COMPACT_EMEA_ON%20STAND_LID%20OPEN_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=ZF-w6leEfgwfVdVvNAiVQtnTM98=",
-      "url": "https://storage-us-gcs.bfldr.com/g5jvjz6p8fb8hcqp2fq6bwg8/v/1278527487/original/1501653_LUMIN%20COMPACT_EMEA_ON%20STAND_LID%20OPEN_rgb.png?Expires=1784652064&KeyName=gcs-bfldr-prod&Signature=ZF-w6leEfgwfVdVvNAiVQtnTM98="
+      "original_url": "https://storage-us-gcs.bfldr.com/g5jvjz6p8fb8hcqp2fq6bwg8/v/1278527487/original/1501653_LUMIN%20COMPACT_EMEA_ON%20STAND_LID%20OPEN_rgb.png?Expires=1784896826&KeyName=gcs-bfldr-prod&Signature=Hy9nh9d5fY4cshwVDHBwKHXEFWA=",
+      "url": "https://storage-us-gcs.bfldr.com/g5jvjz6p8fb8hcqp2fq6bwg8/v/1278527487/original/1501653_LUMIN%20COMPACT_EMEA_ON%20STAND_LID%20OPEN_rgb.png?Expires=1784896826&KeyName=gcs-bfldr-prod&Signature=Hy9nh9d5fY4cshwVDHBwKHXEFWA="
     }
   ]
 }

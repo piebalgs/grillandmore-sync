@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6613",
   "assets": [
     {
@@ -48,8 +48,8 @@
       "asset_name": "(dan) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6613",
-        "6614"
+        "6614",
+        "6613"
       ]
     },
     {
@@ -57,8 +57,8 @@
       "asset_name": "(dut-NL) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6614",
-        "6613"
+        "6613",
+        "6614"
       ]
     },
     {
@@ -66,8 +66,8 @@
       "asset_name": "(eng-GB) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6613",
-        "6614"
+        "6614",
+        "6613"
       ]
     },
     {
@@ -75,8 +75,8 @@
       "asset_name": "(fin) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6614",
-        "6613"
+        "6613",
+        "6614"
       ]
     },
     {
@@ -84,8 +84,8 @@
       "asset_name": "(fre-FR) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6613",
-        "6614"
+        "6614",
+        "6613"
       ]
     },
     {
@@ -102,8 +102,8 @@
       "asset_name": "(gre) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6613",
-        "6614"
+        "6614",
+        "6613"
       ]
     },
     {
@@ -120,8 +120,8 @@
       "asset_name": "(hun) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6614",
-        "6613"
+        "6613",
+        "6614"
       ]
     },
     {
@@ -156,8 +156,8 @@
       "asset_name": "(por-PT) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6614",
-        "6613"
+        "6613",
+        "6614"
       ]
     },
     {
@@ -201,8 +201,8 @@
       "asset_name": "(swe-SE) Lumin Vers Exp Kit Con-Pkg Copy v6 post-Legal FINAL 080822",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6614",
-        "6613"
+        "6613",
+        "6614"
       ]
     },
     {
@@ -228,8 +228,8 @@
       "asset_name": "Lumin Vers Exp Kit Copy",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6614",
-        "6613"
+        "6613",
+        "6614"
       ]
     },
     {
@@ -261,8 +261,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ckkn8np6jb23tkc5wf5pzvv/6613D_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ckkn8np6jb23tkc5wf5pzvv/v/1279325841/original/6613D_rgb.png?Expires=1784652359&KeyName=gcs-bfldr-prod&Signature=Yzk6Y7ikLzpoRII2DXBOjwzohpE=",
-      "url": "https://storage-us-gcs.bfldr.com/ckkn8np6jb23tkc5wf5pzvv/v/1279325841/original/6613D_rgb.png?Expires=1784652359&KeyName=gcs-bfldr-prod&Signature=Yzk6Y7ikLzpoRII2DXBOjwzohpE="
+      "original_url": "https://storage-us-gcs.bfldr.com/ckkn8np6jb23tkc5wf5pzvv/v/1279325841/original/6613D_rgb.png?Expires=1784897356&KeyName=gcs-bfldr-prod&Signature=v9igVwUzkz87MFbv20oKxZiyhHg=",
+      "url": "https://storage-us-gcs.bfldr.com/ckkn8np6jb23tkc5wf5pzvv/v/1279325841/original/6613D_rgb.png?Expires=1784897356&KeyName=gcs-bfldr-prod&Signature=v9igVwUzkz87MFbv20oKxZiyhHg="
     },
     {
       "attachment_id": "9489bjhchh27r4fnhxzm8h7",
@@ -275,8 +275,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9489bjhchh27r4fnhxzm8h7/6613_1.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9489bjhchh27r4fnhxzm8h7/v/1279325845/original/6613_1.png?Expires=1784652359&KeyName=gcs-bfldr-prod&Signature=PqAHy507g81AHHFs34ScmWaUGPw=",
-      "url": "https://storage-us-gcs.bfldr.com/9489bjhchh27r4fnhxzm8h7/v/1279325845/original/6613_1.png?Expires=1784652359&KeyName=gcs-bfldr-prod&Signature=PqAHy507g81AHHFs34ScmWaUGPw="
+      "original_url": "https://storage-us-gcs.bfldr.com/9489bjhchh27r4fnhxzm8h7/v/1279325845/original/6613_1.png?Expires=1784897356&KeyName=gcs-bfldr-prod&Signature=-TCMCTo90nVs71tjqK2ULrMFZiM=",
+      "url": "https://storage-us-gcs.bfldr.com/9489bjhchh27r4fnhxzm8h7/v/1279325845/original/6613_1.png?Expires=1784897356&KeyName=gcs-bfldr-prod&Signature=-TCMCTo90nVs71tjqK2ULrMFZiM="
     },
     {
       "attachment_id": "k595jc3cnnnjfvmvmb5pp",
@@ -289,8 +289,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/k595jc3cnnnjfvmvmb5pp/91010901FB1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/k595jc3cnnnjfvmvmb5pp/v/1279325846/original/91010901FB1_rgb.jpg?Expires=1784652359&KeyName=gcs-bfldr-prod&Signature=V6R102fztVUxUTmZRmcXTCP-eu4=",
-      "url": "https://storage-us-gcs.bfldr.com/k595jc3cnnnjfvmvmb5pp/v/1279325846/original/91010901FB1_rgb.jpg?Expires=1784652359&KeyName=gcs-bfldr-prod&Signature=V6R102fztVUxUTmZRmcXTCP-eu4="
+      "original_url": "https://storage-us-gcs.bfldr.com/k595jc3cnnnjfvmvmb5pp/v/1279325846/original/91010901FB1_rgb.jpg?Expires=1784897356&KeyName=gcs-bfldr-prod&Signature=0FO48EVVYnEy06Jz4oQNnMPRctE=",
+      "url": "https://storage-us-gcs.bfldr.com/k595jc3cnnnjfvmvmb5pp/v/1279325846/original/91010901FB1_rgb.jpg?Expires=1784897356&KeyName=gcs-bfldr-prod&Signature=0FO48EVVYnEy06Jz4oQNnMPRctE="
     },
     {
       "attachment_id": "45xptvr3cvcz5nwq6p44ttgj",
@@ -303,8 +303,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/45xptvr3cvcz5nwq6p44ttgj/91010901FB2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/45xptvr3cvcz5nwq6p44ttgj/v/1279325847/original/91010901FB2_rgb.jpg?Expires=1784652359&KeyName=gcs-bfldr-prod&Signature=OwSmDu5e2nFvsZNZbfdyI24Pah8=",
-      "url": "https://storage-us-gcs.bfldr.com/45xptvr3cvcz5nwq6p44ttgj/v/1279325847/original/91010901FB2_rgb.jpg?Expires=1784652359&KeyName=gcs-bfldr-prod&Signature=OwSmDu5e2nFvsZNZbfdyI24Pah8="
+      "original_url": "https://storage-us-gcs.bfldr.com/45xptvr3cvcz5nwq6p44ttgj/v/1279325847/original/91010901FB2_rgb.jpg?Expires=1784897356&KeyName=gcs-bfldr-prod&Signature=g4PM3RUbJ6Ghzs8o1-yw0x-oMz8=",
+      "url": "https://storage-us-gcs.bfldr.com/45xptvr3cvcz5nwq6p44ttgj/v/1279325847/original/91010901FB2_rgb.jpg?Expires=1784897356&KeyName=gcs-bfldr-prod&Signature=g4PM3RUbJ6Ghzs8o1-yw0x-oMz8="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6561",
   "assets": [
     {
@@ -47,8 +47,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piv1pa-4ill60-97e7zr/6561C1.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-97e7zr/v/2689835/original/6561C1.png?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=rKQVnhoFEQVGmTvXe77ymTZyv5Q=",
-      "url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-97e7zr/v/2689835/original/6561C1.png?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=rKQVnhoFEQVGmTvXe77ymTZyv5Q="
+      "original_url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-97e7zr/v/2689835/original/6561C1.png?Expires=1784897212&KeyName=gcs-bfldr-prod&Signature=Q59Gp-B69mT5QqdxoCJ4NeDGX7w=",
+      "url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-97e7zr/v/2689835/original/6561C1.png?Expires=1784897212&KeyName=gcs-bfldr-prod&Signature=Q59Gp-B69mT5QqdxoCJ4NeDGX7w="
     },
     {
       "attachment_id": "piv1pa-4ill60-eqwdti",
@@ -61,8 +61,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piv1pa-4ill60-eqwdti/6561C2.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-eqwdti/v/2689836/original/6561C2.png?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=mqaAmpsxtGodmAvX3U4kW4WfVcI=",
-      "url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-eqwdti/v/2689836/original/6561C2.png?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=mqaAmpsxtGodmAvX3U4kW4WfVcI="
+      "original_url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-eqwdti/v/2689836/original/6561C2.png?Expires=1784897212&KeyName=gcs-bfldr-prod&Signature=Iq6-N_qvdjAzAyXF-IqlkmSvwgw=",
+      "url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-eqwdti/v/2689836/original/6561C2.png?Expires=1784897212&KeyName=gcs-bfldr-prod&Signature=Iq6-N_qvdjAzAyXF-IqlkmSvwgw="
     },
     {
       "attachment_id": "piv1pa-4ill60-h3v0l",
@@ -75,8 +75,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piv1pa-4ill60-h3v0l/6561Y.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-h3v0l/v/2689838/original/6561Y.jpg?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=wzN64JA9QtbcnSlWY8Iksfhewqk=",
-      "url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-h3v0l/v/2689838/original/6561Y.jpg?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=wzN64JA9QtbcnSlWY8Iksfhewqk="
+      "original_url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-h3v0l/v/2689838/original/6561Y.jpg?Expires=1784897212&KeyName=gcs-bfldr-prod&Signature=xOvjvPBIRFHJbChF-MQNowd4KpM=",
+      "url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-h3v0l/v/2689838/original/6561Y.jpg?Expires=1784897212&KeyName=gcs-bfldr-prod&Signature=xOvjvPBIRFHJbChF-MQNowd4KpM="
     },
     {
       "attachment_id": "piv1pa-4ill60-ab1b35",
@@ -89,8 +89,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/piv1pa-4ill60-ab1b35/6561M1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-ab1b35/v/2689837/original/6561M1.jpg?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=lKLk1wedIBrej3uDrHM9e74IVu4=",
-      "url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-ab1b35/v/2689837/original/6561M1.jpg?Expires=1784652304&KeyName=gcs-bfldr-prod&Signature=lKLk1wedIBrej3uDrHM9e74IVu4="
+      "original_url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-ab1b35/v/2689837/original/6561M1.jpg?Expires=1784897212&KeyName=gcs-bfldr-prod&Signature=Ekv48M4hMo4QhNU8OTL1upgVd4M=",
+      "url": "https://storage-us-gcs.bfldr.com/piv1pa-4ill60-ab1b35/v/2689837/original/6561M1.jpg?Expires=1784897212&KeyName=gcs-bfldr-prod&Signature=Ekv48M4hMo4QhNU8OTL1upgVd4M="
     }
   ]
 }

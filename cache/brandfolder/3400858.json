@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400858",
   "assets": [
     {
@@ -135,8 +135,8 @@
       "asset_name": "[AUNZ/EMEA] Weber Baby Q Rotisserie",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400858",
-        "3400242"
+        "3400242",
+        "3400858"
       ]
     },
     {
@@ -160,8 +160,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xz8fnfgcr7459q66x8x6n6/3400242_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xz8fnfgcr7459q66x8x6n6/v/1273372740/original/3400242_C_rgb.png?Expires=1784652284&KeyName=gcs-bfldr-prod&Signature=m0As2QMg2T6x8Dd3GI3NhNL2TpY=",
-      "url": "https://storage-us-gcs.bfldr.com/xz8fnfgcr7459q66x8x6n6/v/1273372740/original/3400242_C_rgb.png?Expires=1784652284&KeyName=gcs-bfldr-prod&Signature=m0As2QMg2T6x8Dd3GI3NhNL2TpY="
+      "original_url": "https://storage-us-gcs.bfldr.com/xz8fnfgcr7459q66x8x6n6/v/1273372740/original/3400242_C_rgb.png?Expires=1784897182&KeyName=gcs-bfldr-prod&Signature=r7Lu96J_lZGFDfehAUfwDCpWbOw=",
+      "url": "https://storage-us-gcs.bfldr.com/xz8fnfgcr7459q66x8x6n6/v/1273372740/original/3400242_C_rgb.png?Expires=1784897182&KeyName=gcs-bfldr-prod&Signature=r7Lu96J_lZGFDfehAUfwDCpWbOw="
     }
   ]
 }

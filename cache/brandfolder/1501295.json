@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "1501295",
   "assets": [
     {
@@ -7,21 +7,21 @@
       "asset_name": "GENESIS E-435 LW LP BLK EMEA",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501398",
-        "1501399",
-        "1501297",
-        "1501296",
-        "1501291",
-        "1501269",
-        "1501317",
-        "1501299",
-        "1501298",
-        "1501295",
+        "1501292",
         "1501400",
-        "1501290",
-        "1501293",
+        "1501317",
         "1501294",
-        "1501292"
+        "1501399",
+        "1501398",
+        "1501296",
+        "1501290",
+        "1501295",
+        "1501291",
+        "1501297",
+        "1501293",
+        "1501298",
+        "1501299",
+        "1501269"
       ]
     }
   ],
@@ -37,8 +37,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8r8kk6cnmh6kctxppjcwcmv/1501290_A_rgb_EMEA.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8r8kk6cnmh6kctxppjcwcmv/v/1263106198/original/1501290_A_rgb_EMEA.png?Expires=1784652080&KeyName=gcs-bfldr-prod&Signature=FZ-oxN2WbYOVVrQNWq452XH6enU=",
-      "url": "https://storage-us-gcs.bfldr.com/8r8kk6cnmh6kctxppjcwcmv/v/1263106198/original/1501290_A_rgb_EMEA.png?Expires=1784652080&KeyName=gcs-bfldr-prod&Signature=FZ-oxN2WbYOVVrQNWq452XH6enU="
+      "original_url": "https://storage-us-gcs.bfldr.com/8r8kk6cnmh6kctxppjcwcmv/v/1263106198/original/1501290_A_rgb_EMEA.png?Expires=1784896844&KeyName=gcs-bfldr-prod&Signature=N9UOG8otfbsrevmCqUybHcXZ-Xw=",
+      "url": "https://storage-us-gcs.bfldr.com/8r8kk6cnmh6kctxppjcwcmv/v/1263106198/original/1501290_A_rgb_EMEA.png?Expires=1784896844&KeyName=gcs-bfldr-prod&Signature=N9UOG8otfbsrevmCqUybHcXZ-Xw="
     },
     {
       "attachment_id": "576v5p536fw7vj9mvxw48v",
@@ -51,8 +51,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/576v5p536fw7vj9mvxw48v/1501290_B_rgb_EMEA.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/576v5p536fw7vj9mvxw48v/v/1263106199/original/1501290_B_rgb_EMEA.png?Expires=1784652080&KeyName=gcs-bfldr-prod&Signature=ZcSJeLyyejTVbYBav9sBDGIEmLE=",
-      "url": "https://storage-us-gcs.bfldr.com/576v5p536fw7vj9mvxw48v/v/1263106199/original/1501290_B_rgb_EMEA.png?Expires=1784652080&KeyName=gcs-bfldr-prod&Signature=ZcSJeLyyejTVbYBav9sBDGIEmLE="
+      "original_url": "https://storage-us-gcs.bfldr.com/576v5p536fw7vj9mvxw48v/v/1263106199/original/1501290_B_rgb_EMEA.png?Expires=1784896844&KeyName=gcs-bfldr-prod&Signature=IBiTaTHVksb7__Op0RVNk2_pImc=",
+      "url": "https://storage-us-gcs.bfldr.com/576v5p536fw7vj9mvxw48v/v/1263106199/original/1501290_B_rgb_EMEA.png?Expires=1784896844&KeyName=gcs-bfldr-prod&Signature=IBiTaTHVksb7__Op0RVNk2_pImc="
     },
     {
       "attachment_id": "54qhkztmpj8wwrkqj3stspxr",
@@ -65,8 +65,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/54qhkztmpj8wwrkqj3stspxr/1501290_C_rgb_EMEA.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/54qhkztmpj8wwrkqj3stspxr/v/1263106200/original/1501290_C_rgb_EMEA.png?Expires=1784652080&KeyName=gcs-bfldr-prod&Signature=lYRb0gUXLCxwCjNidMUYj9oe5NU=",
-      "url": "https://storage-us-gcs.bfldr.com/54qhkztmpj8wwrkqj3stspxr/v/1263106200/original/1501290_C_rgb_EMEA.png?Expires=1784652080&KeyName=gcs-bfldr-prod&Signature=lYRb0gUXLCxwCjNidMUYj9oe5NU="
+      "original_url": "https://storage-us-gcs.bfldr.com/54qhkztmpj8wwrkqj3stspxr/v/1263106200/original/1501290_C_rgb_EMEA.png?Expires=1784896844&KeyName=gcs-bfldr-prod&Signature=oSuYZ9i8Mg784LlhzXPJy84dYu4=",
+      "url": "https://storage-us-gcs.bfldr.com/54qhkztmpj8wwrkqj3stspxr/v/1263106200/original/1501290_C_rgb_EMEA.png?Expires=1784896844&KeyName=gcs-bfldr-prod&Signature=oSuYZ9i8Mg784LlhzXPJy84dYu4="
     }
   ]
 }

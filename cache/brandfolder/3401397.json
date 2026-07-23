@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401397",
   "assets": [
     {
@@ -7,9 +7,9 @@
       "asset_name": "Performer and Performer Smart Grill Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501870",
+        "3401397",
         "3401369",
-        "3401397"
+        "1501870"
       ]
     },
     {
@@ -169,8 +169,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hj6cp8b5xn692spvtqbp87mj/3401369_015_PerformerSmart_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hj6cp8b5xn692spvtqbp87mj/v/1277877856/original/3401369_015_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784652381&KeyName=gcs-bfldr-prod&Signature=9jicFgfkVARscPjtcrukXGZfP_E=",
-      "url": "https://storage-us-gcs.bfldr.com/hj6cp8b5xn692spvtqbp87mj/v/1277877856/original/3401369_015_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784652381&KeyName=gcs-bfldr-prod&Signature=9jicFgfkVARscPjtcrukXGZfP_E="
+      "original_url": "https://storage-us-gcs.bfldr.com/hj6cp8b5xn692spvtqbp87mj/v/1277877856/original/3401369_015_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784897415&KeyName=gcs-bfldr-prod&Signature=MqGhhgtBh7SEJieKWAjIulbwsfI=",
+      "url": "https://storage-us-gcs.bfldr.com/hj6cp8b5xn692spvtqbp87mj/v/1277877856/original/3401369_015_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784897415&KeyName=gcs-bfldr-prod&Signature=MqGhhgtBh7SEJieKWAjIulbwsfI="
     },
     {
       "attachment_id": "4b53m53rkpc8w7ck8brzgh",
@@ -183,8 +183,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4b53m53rkpc8w7ck8brzgh/3401369_016_PerformerSmart_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4b53m53rkpc8w7ck8brzgh/v/1277877857/original/3401369_016_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784652381&KeyName=gcs-bfldr-prod&Signature=FDmySmwezKNxaXt8N1SmcQMf3xI=",
-      "url": "https://storage-us-gcs.bfldr.com/4b53m53rkpc8w7ck8brzgh/v/1277877857/original/3401369_016_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784652381&KeyName=gcs-bfldr-prod&Signature=FDmySmwezKNxaXt8N1SmcQMf3xI="
+      "original_url": "https://storage-us-gcs.bfldr.com/4b53m53rkpc8w7ck8brzgh/v/1277877857/original/3401369_016_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784897415&KeyName=gcs-bfldr-prod&Signature=UympEqHxI7PFQIrvuaPr9SLYtB0=",
+      "url": "https://storage-us-gcs.bfldr.com/4b53m53rkpc8w7ck8brzgh/v/1277877857/original/3401369_016_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784897415&KeyName=gcs-bfldr-prod&Signature=UympEqHxI7PFQIrvuaPr9SLYtB0="
     },
     {
       "attachment_id": "ctqf74j8gjmktk3mm9czksrz",
@@ -197,8 +197,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ctqf74j8gjmktk3mm9czksrz/3401369_017_PerformerSmart_Cover_FY2026_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ctqf74j8gjmktk3mm9czksrz/v/1277877862/original/3401369_017_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784652381&KeyName=gcs-bfldr-prod&Signature=jA__XwO_QFzvEPJCR1DI-KkjrBY=",
-      "url": "https://storage-us-gcs.bfldr.com/ctqf74j8gjmktk3mm9czksrz/v/1277877862/original/3401369_017_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784652381&KeyName=gcs-bfldr-prod&Signature=jA__XwO_QFzvEPJCR1DI-KkjrBY="
+      "original_url": "https://storage-us-gcs.bfldr.com/ctqf74j8gjmktk3mm9czksrz/v/1277877862/original/3401369_017_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784897415&KeyName=gcs-bfldr-prod&Signature=mjvQTWLg7HW9pDGOWXN3bcsqZGM=",
+      "url": "https://storage-us-gcs.bfldr.com/ctqf74j8gjmktk3mm9czksrz/v/1277877862/original/3401369_017_PerformerSmart_Cover_FY2026_AMER_rgb.png?Expires=1784897415&KeyName=gcs-bfldr-prod&Signature=mjvQTWLg7HW9pDGOWXN3bcsqZGM="
     }
   ]
 }

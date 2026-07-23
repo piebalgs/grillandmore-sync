@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400074",
   "assets": [
     {
@@ -143,22 +143,22 @@
       "asset_name": "Weber Traveler WW",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501746",
-        "1501744",
-        "1501696",
-        "1501760",
-        "1501740",
         "1501734",
         "1501743",
-        "3400074",
-        "1501733",
-        "1501719",
-        "1501718",
-        "1501732",
-        "1501742",
-        "7034",
         "1501761",
-        "1501745"
+        "3400074",
+        "7034",
+        "1501745",
+        "1501740",
+        "1501696",
+        "1501733",
+        "1501718",
+        "1501719",
+        "1501746",
+        "1501742",
+        "1501732",
+        "1501760",
+        "1501744"
       ]
     },
     {
@@ -166,22 +166,22 @@
       "asset_name": "Weber Traveler WW",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501740",
-        "1501743",
-        "7034",
-        "1501746",
         "1501732",
-        "1501760",
-        "3400074",
-        "1501734",
-        "1501744",
-        "1501718",
-        "1501761",
-        "1501733",
         "1501696",
-        "1501719",
+        "1501742",
+        "1501718",
+        "1501740",
         "1501745",
-        "1501742"
+        "7034",
+        "1501733",
+        "1501743",
+        "1501719",
+        "1501744",
+        "1501746",
+        "1501760",
+        "1501761",
+        "3400074",
+        "1501734"
       ]
     },
     {
@@ -189,22 +189,22 @@
       "asset_name": "Weber Traveler WW",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501732",
-        "1501742",
-        "1501734",
-        "1501743",
-        "3400074",
+        "1501745",
+        "1501746",
+        "1501696",
         "1501733",
+        "1501760",
+        "1501719",
+        "1501734",
+        "3400074",
+        "1501732",
+        "1501718",
         "1501740",
         "1501744",
-        "1501746",
-        "1501745",
         "7034",
-        "1501760",
-        "1501761",
-        "1501718",
-        "1501719",
-        "1501696"
+        "1501742",
+        "1501743",
+        "1501761"
       ]
     },
     {
@@ -228,8 +228,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cxwk5zcqkqwgfxqbqz3899cm/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=abN6Xdyyra-ys9Q2H4pfgUyhawc=",
-      "url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=abN6Xdyyra-ys9Q2H4pfgUyhawc="
+      "original_url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=_C1a3st-6HtNe72PP2BTo9b5nVI=",
+      "url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=_C1a3st-6HtNe72PP2BTo9b5nVI="
     },
     {
       "attachment_id": "pw3t9jsvr58hk9qjqftpcc8c",
@@ -242,8 +242,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pw3t9jsvr58hk9qjqftpcc8c/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=w0bM8MDSbQgK8a6cV5D0uxrZ930=",
-      "url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=w0bM8MDSbQgK8a6cV5D0uxrZ930="
+      "original_url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=A-dHY4Eua9RifM7-hf6-G_7wGXY=",
+      "url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=A-dHY4Eua9RifM7-hf6-G_7wGXY="
     },
     {
       "attachment_id": "cwsrng968n5hv5m6cw89vjk",
@@ -256,8 +256,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cwsrng968n5hv5m6cw89vjk/1501740_044_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=yA24yv1Y-bY6JCRh4PZOvVB2APY=",
-      "url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=yA24yv1Y-bY6JCRh4PZOvVB2APY="
+      "original_url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=A8Mot3v5Crb_LDJHPV2jHWERruk=",
+      "url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=A8Mot3v5Crb_LDJHPV2jHWERruk="
     },
     {
       "attachment_id": "rsg3pqcb93q5nvpr4v2b8r2g",
@@ -270,8 +270,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rsg3pqcb93q5nvpr4v2b8r2g/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rsg3pqcb93q5nvpr4v2b8r2g/v/1279414771/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_A_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=nRUORVSNbqTyDt1OSFp-YwIr3tU=",
-      "url": "https://storage-us-gcs.bfldr.com/rsg3pqcb93q5nvpr4v2b8r2g/v/1279414771/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_A_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=nRUORVSNbqTyDt1OSFp-YwIr3tU="
+      "original_url": "https://storage-us-gcs.bfldr.com/rsg3pqcb93q5nvpr4v2b8r2g/v/1279414771/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_A_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=1ps80d2kK9-kv2z3q-2wjx-Sskw=",
+      "url": "https://storage-us-gcs.bfldr.com/rsg3pqcb93q5nvpr4v2b8r2g/v/1279414771/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_A_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=1ps80d2kK9-kv2z3q-2wjx-Sskw="
     },
     {
       "attachment_id": "r379vt978xtvnxhbsw55j7b",
@@ -284,8 +284,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r379vt978xtvnxhbsw55j7b/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/r379vt978xtvnxhbsw55j7b/v/1279414773/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_B_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=Xa-doVLT0eTexboOopM9X_T7CEA=",
-      "url": "https://storage-us-gcs.bfldr.com/r379vt978xtvnxhbsw55j7b/v/1279414773/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_B_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=Xa-doVLT0eTexboOopM9X_T7CEA="
+      "original_url": "https://storage-us-gcs.bfldr.com/r379vt978xtvnxhbsw55j7b/v/1279414773/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_B_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=nogVUhMc3AFf_llhKjDy_QJX77g=",
+      "url": "https://storage-us-gcs.bfldr.com/r379vt978xtvnxhbsw55j7b/v/1279414773/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_B_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=nogVUhMc3AFf_llhKjDy_QJX77g="
     },
     {
       "attachment_id": "gqz894bq47gmx3ggfbkm79",
@@ -298,8 +298,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gqz894bq47gmx3ggfbkm79/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gqz894bq47gmx3ggfbkm79/v/1279414774/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_C_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=SiEKIZKduE7dcDsZMmHfrRas8Ag=",
-      "url": "https://storage-us-gcs.bfldr.com/gqz894bq47gmx3ggfbkm79/v/1279414774/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_C_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=SiEKIZKduE7dcDsZMmHfrRas8Ag="
+      "original_url": "https://storage-us-gcs.bfldr.com/gqz894bq47gmx3ggfbkm79/v/1279414774/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_C_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=Y7IHR6CocRVYEuIRapzTHo0vIrk=",
+      "url": "https://storage-us-gcs.bfldr.com/gqz894bq47gmx3ggfbkm79/v/1279414774/original/3400074%20Portable%20Griddle%20Tool%20Set%20Packaging%203400074_C_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=Y7IHR6CocRVYEuIRapzTHo0vIrk="
     },
     {
       "attachment_id": "hkkn8n3zrgt5ng4xqfmg4cbh",
@@ -312,8 +312,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hkkn8n3zrgt5ng4xqfmg4cbh/Griddle%20Portable%20Tool%20Set%203400074%203400074A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hkkn8n3zrgt5ng4xqfmg4cbh/v/1279416437/original/Griddle%20Portable%20Tool%20Set%203400074%203400074A_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=n8dfg6igXvK047iHqihEmFkrSpA=",
-      "url": "https://storage-us-gcs.bfldr.com/hkkn8n3zrgt5ng4xqfmg4cbh/v/1279416437/original/Griddle%20Portable%20Tool%20Set%203400074%203400074A_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=n8dfg6igXvK047iHqihEmFkrSpA="
+      "original_url": "https://storage-us-gcs.bfldr.com/hkkn8n3zrgt5ng4xqfmg4cbh/v/1279416437/original/Griddle%20Portable%20Tool%20Set%203400074%203400074A_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=RJ8ch4J7U5ld_yV68OvnbZB0GNs=",
+      "url": "https://storage-us-gcs.bfldr.com/hkkn8n3zrgt5ng4xqfmg4cbh/v/1279416437/original/Griddle%20Portable%20Tool%20Set%203400074%203400074A_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=RJ8ch4J7U5ld_yV68OvnbZB0GNs="
     },
     {
       "attachment_id": "8s2f9qqxsx93fhh95xhfwtc7",
@@ -326,8 +326,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8s2f9qqxsx93fhh95xhfwtc7/Griddle%20Portable%20Tool%20Set%203400074%203400074B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8s2f9qqxsx93fhh95xhfwtc7/v/1279416440/original/Griddle%20Portable%20Tool%20Set%203400074%203400074B_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=wH6G7_0mxMytek8nGGTnTsP1azQ=",
-      "url": "https://storage-us-gcs.bfldr.com/8s2f9qqxsx93fhh95xhfwtc7/v/1279416440/original/Griddle%20Portable%20Tool%20Set%203400074%203400074B_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=wH6G7_0mxMytek8nGGTnTsP1azQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/8s2f9qqxsx93fhh95xhfwtc7/v/1279416440/original/Griddle%20Portable%20Tool%20Set%203400074%203400074B_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=043j5xVxn3JgVNc8lkKuTHl0uug=",
+      "url": "https://storage-us-gcs.bfldr.com/8s2f9qqxsx93fhh95xhfwtc7/v/1279416440/original/Griddle%20Portable%20Tool%20Set%203400074%203400074B_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=043j5xVxn3JgVNc8lkKuTHl0uug="
     },
     {
       "attachment_id": "q54xq7gvgt69qm5nn6cphmn6",
@@ -340,8 +340,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q54xq7gvgt69qm5nn6cphmn6/Griddle%20Portable%20Tool%20Set%203400074%203400074C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q54xq7gvgt69qm5nn6cphmn6/v/1279416443/original/Griddle%20Portable%20Tool%20Set%203400074%203400074C_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=0ypVSO-nwe5UNzDYg3a4BdgJ-uU=",
-      "url": "https://storage-us-gcs.bfldr.com/q54xq7gvgt69qm5nn6cphmn6/v/1279416443/original/Griddle%20Portable%20Tool%20Set%203400074%203400074C_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=0ypVSO-nwe5UNzDYg3a4BdgJ-uU="
+      "original_url": "https://storage-us-gcs.bfldr.com/q54xq7gvgt69qm5nn6cphmn6/v/1279416443/original/Griddle%20Portable%20Tool%20Set%203400074%203400074C_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=MLn4MyL9XhWceQvvWAt2gVs2P-w=",
+      "url": "https://storage-us-gcs.bfldr.com/q54xq7gvgt69qm5nn6cphmn6/v/1279416443/original/Griddle%20Portable%20Tool%20Set%203400074%203400074C_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=MLn4MyL9XhWceQvvWAt2gVs2P-w="
     },
     {
       "attachment_id": "2tgv6nwxc9f7n35tr96bckj",
@@ -354,8 +354,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2tgv6nwxc9f7n35tr96bckj/Griddle%20Portable%20Tool%20Set%203400074%203400074D_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2tgv6nwxc9f7n35tr96bckj/v/1279416445/original/Griddle%20Portable%20Tool%20Set%203400074%203400074D_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=8HM8vWluwC2FYvufUq_-ZPkTnOk=",
-      "url": "https://storage-us-gcs.bfldr.com/2tgv6nwxc9f7n35tr96bckj/v/1279416445/original/Griddle%20Portable%20Tool%20Set%203400074%203400074D_rgb.png?Expires=1784652341&KeyName=gcs-bfldr-prod&Signature=8HM8vWluwC2FYvufUq_-ZPkTnOk="
+      "original_url": "https://storage-us-gcs.bfldr.com/2tgv6nwxc9f7n35tr96bckj/v/1279416445/original/Griddle%20Portable%20Tool%20Set%203400074%203400074D_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=BuVWhogXnJTsXkynkovajc6-Esw=",
+      "url": "https://storage-us-gcs.bfldr.com/2tgv6nwxc9f7n35tr96bckj/v/1279416445/original/Griddle%20Portable%20Tool%20Set%203400074%203400074D_rgb.png?Expires=1784897320&KeyName=gcs-bfldr-prod&Signature=BuVWhogXnJTsXkynkovajc6-Esw="
     }
   ]
 }

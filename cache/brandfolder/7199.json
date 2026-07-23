@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7199",
   "assets": [
     {
@@ -17,9 +17,9 @@
       "asset_name": "Lumin / Lumin Compact Premium Bonnet Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7199",
         "7197",
-        "3400305"
+        "3400305",
+        "7199"
       ]
     },
     {
@@ -27,8 +27,8 @@
       "asset_name": "7197 1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7199",
-        "7197"
+        "7197",
+        "7199"
       ]
     },
     {
@@ -37,8 +37,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "3400305",
-        "7199",
-        "7197"
+        "7197",
+        "7199"
       ]
     },
     {
@@ -46,8 +46,8 @@
       "asset_name": "7199 1",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400305",
-        "7199"
+        "7199",
+        "3400305"
       ]
     },
     {
@@ -71,8 +71,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3z862hn3sj7x5jtxtvwv8nkw/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/3z862hn3sj7x5jtxtvwv8nkw/v/1279316368/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197A_rgb.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=29v-74x1hG3mcY6hnAPd87Nn_1I=",
-      "url": "https://storage-us-gcs.bfldr.com/3z862hn3sj7x5jtxtvwv8nkw/v/1279316368/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197A_rgb.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=29v-74x1hG3mcY6hnAPd87Nn_1I="
+      "original_url": "https://storage-us-gcs.bfldr.com/3z862hn3sj7x5jtxtvwv8nkw/v/1279316368/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197A_rgb.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=jB4P69dcKSAmZeCWrJqBF24wp74=",
+      "url": "https://storage-us-gcs.bfldr.com/3z862hn3sj7x5jtxtvwv8nkw/v/1279316368/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197A_rgb.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=jB4P69dcKSAmZeCWrJqBF24wp74="
     },
     {
       "attachment_id": "wcpt3ch6n9mz3bnbw7x3h",
@@ -85,8 +85,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wcpt3ch6n9mz3bnbw7x3h/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wcpt3ch6n9mz3bnbw7x3h/v/1279316369/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197B_rgb.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=5zRAfMqyHx2uj2KGC1uU_aZlIN4=",
-      "url": "https://storage-us-gcs.bfldr.com/wcpt3ch6n9mz3bnbw7x3h/v/1279316369/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197B_rgb.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=5zRAfMqyHx2uj2KGC1uU_aZlIN4="
+      "original_url": "https://storage-us-gcs.bfldr.com/wcpt3ch6n9mz3bnbw7x3h/v/1279316369/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197B_rgb.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=uDLjvCyT7-wwkBkzCqCNqJD3h8M=",
+      "url": "https://storage-us-gcs.bfldr.com/wcpt3ch6n9mz3bnbw7x3h/v/1279316369/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197B_rgb.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=uDLjvCyT7-wwkBkzCqCNqJD3h8M="
     },
     {
       "attachment_id": "b4sbjfvzbnr3mr9tq82n69",
@@ -99,8 +99,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/b4sbjfvzbnr3mr9tq82n69/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/b4sbjfvzbnr3mr9tq82n69/v/1279316370/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197C_rgb.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=LEUMwk0l8CpTC6-lUW-K3TTnTeU=",
-      "url": "https://storage-us-gcs.bfldr.com/b4sbjfvzbnr3mr9tq82n69/v/1279316370/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197C_rgb.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=LEUMwk0l8CpTC6-lUW-K3TTnTeU="
+      "original_url": "https://storage-us-gcs.bfldr.com/b4sbjfvzbnr3mr9tq82n69/v/1279316370/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197C_rgb.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=p3WQaybmRObvfrEBXJzwGazWyAA=",
+      "url": "https://storage-us-gcs.bfldr.com/b4sbjfvzbnr3mr9tq82n69/v/1279316370/original/7197%207199%20Lumin%20Premium%20Bonnet%20Cover%20Product%207197C_rgb.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=p3WQaybmRObvfrEBXJzwGazWyAA="
     },
     {
       "attachment_id": "8wqk2vv7bx66rz8wh5c7fsnv",
@@ -113,8 +113,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8wqk2vv7bx66rz8wh5c7fsnv/7197Y_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8wqk2vv7bx66rz8wh5c7fsnv/v/1279316371/original/7197Y_rgb.jpg?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=d64YWORcHRLLWogU-Uv4cAPKXUA=",
-      "url": "https://storage-us-gcs.bfldr.com/8wqk2vv7bx66rz8wh5c7fsnv/v/1279316371/original/7197Y_rgb.jpg?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=d64YWORcHRLLWogU-Uv4cAPKXUA="
+      "original_url": "https://storage-us-gcs.bfldr.com/8wqk2vv7bx66rz8wh5c7fsnv/v/1279316371/original/7197Y_rgb.jpg?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=YgduXAdTAN-kWGIMaoZqHYi_TSE=",
+      "url": "https://storage-us-gcs.bfldr.com/8wqk2vv7bx66rz8wh5c7fsnv/v/1279316371/original/7197Y_rgb.jpg?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=YgduXAdTAN-kWGIMaoZqHYi_TSE="
     },
     {
       "attachment_id": "2prw5fh6w5wkb66g79pfnth8",
@@ -127,8 +127,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2prw5fh6w5wkb66g79pfnth8/7197_1.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2prw5fh6w5wkb66g79pfnth8/v/1279316372/original/7197_1.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=nkWa3TiOCr227itOKDRwsDMzp3g=",
-      "url": "https://storage-us-gcs.bfldr.com/2prw5fh6w5wkb66g79pfnth8/v/1279316372/original/7197_1.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=nkWa3TiOCr227itOKDRwsDMzp3g="
+      "original_url": "https://storage-us-gcs.bfldr.com/2prw5fh6w5wkb66g79pfnth8/v/1279316372/original/7197_1.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=NLo8y0SFURECTwYttZmLVSVB7Z4=",
+      "url": "https://storage-us-gcs.bfldr.com/2prw5fh6w5wkb66g79pfnth8/v/1279316372/original/7197_1.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=NLo8y0SFURECTwYttZmLVSVB7Z4="
     },
     {
       "attachment_id": "m3qn8fkhfrrmfkk7vqmt34g",
@@ -141,8 +141,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/m3qn8fkhfrrmfkk7vqmt34g/7197_7199YM1_jpg.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/m3qn8fkhfrrmfkk7vqmt34g/v/1279316373/original/7197_7199YM1_jpg.jpg?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=A_US6KTO6AexvGmwQmbkgRPZs1o=",
-      "url": "https://storage-us-gcs.bfldr.com/m3qn8fkhfrrmfkk7vqmt34g/v/1279316373/original/7197_7199YM1_jpg.jpg?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=A_US6KTO6AexvGmwQmbkgRPZs1o="
+      "original_url": "https://storage-us-gcs.bfldr.com/m3qn8fkhfrrmfkk7vqmt34g/v/1279316373/original/7197_7199YM1_jpg.jpg?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=2aDLrRBom3UgcY8yGAW9gK8rIwI=",
+      "url": "https://storage-us-gcs.bfldr.com/m3qn8fkhfrrmfkk7vqmt34g/v/1279316373/original/7197_7199YM1_jpg.jpg?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=2aDLrRBom3UgcY8yGAW9gK8rIwI="
     },
     {
       "attachment_id": "tq3km8p3mpt7w3xx3t3mc4ck",
@@ -155,8 +155,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tq3km8p3mpt7w3xx3t3mc4ck/7199_1.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tq3km8p3mpt7w3xx3t3mc4ck/v/1279316375/original/7199_1.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=gYfCc7MhTjr0ZkvpfKzVyrDPGfE=",
-      "url": "https://storage-us-gcs.bfldr.com/tq3km8p3mpt7w3xx3t3mc4ck/v/1279316375/original/7199_1.png?Expires=1784652249&KeyName=gcs-bfldr-prod&Signature=gYfCc7MhTjr0ZkvpfKzVyrDPGfE="
+      "original_url": "https://storage-us-gcs.bfldr.com/tq3km8p3mpt7w3xx3t3mc4ck/v/1279316375/original/7199_1.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=4fxYgS0wJmblW_TqpDBY49xsN_M=",
+      "url": "https://storage-us-gcs.bfldr.com/tq3km8p3mpt7w3xx3t3mc4ck/v/1279316375/original/7199_1.png?Expires=1784897131&KeyName=gcs-bfldr-prod&Signature=4fxYgS0wJmblW_TqpDBY49xsN_M="
     }
   ]
 }

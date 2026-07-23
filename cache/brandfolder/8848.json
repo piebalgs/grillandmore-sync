@@ -1,6 +1,45 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "8848",
-  "assets": [],
-  "images": []
+  "assets": [
+    {
+      "asset_id": "pgutw2-2h1xkw-7bv4jv",
+      "asset_name": "Genesis Cooking Grates 8848 Food ",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "8847",
+        "8848"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "attachment_id": "pgutw2-2h1xkw-6dbgaz",
+      "filename": "8848Y1.jpg",
+      "extension": "jpg",
+      "position": 1,
+      "width": 5357,
+      "height": 6445,
+      "size": 12466535,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgutw2-2h1xkw-6dbgaz/8848Y1.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pgutw2-2h1xkw-6dbgaz/v/2531218/original/8848Y1.jpg?Expires=1784896840&KeyName=gcs-bfldr-prod&Signature=apTNIZsDaXBwA3K0nfZlp03X0to=",
+      "url": "https://storage-us-gcs.bfldr.com/pgutw2-2h1xkw-6dbgaz/v/2531218/original/8848Y1.jpg?Expires=1784896840&KeyName=gcs-bfldr-prod&Signature=apTNIZsDaXBwA3K0nfZlp03X0to="
+    },
+    {
+      "attachment_id": "pgutw2-2h1xkw-204ems",
+      "filename": "8848Y2.jpg",
+      "extension": "jpg",
+      "position": 0,
+      "width": 5792,
+      "height": 8688,
+      "size": 22027309,
+      "mimetype": "image/jpeg",
+      "cdn_key": "XBRZ2A26",
+      "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgutw2-2h1xkw-204ems/8848Y2.jpg?width=800&height=800&pad=true&auto=webp",
+      "original_url": "https://storage-us-gcs.bfldr.com/pgutw2-2h1xkw-204ems/v/2531219/original/8848Y2.jpg?Expires=1784896840&KeyName=gcs-bfldr-prod&Signature=jAwIzToNydyU8BSvNp0Q_YzHsIM=",
+      "url": "https://storage-us-gcs.bfldr.com/pgutw2-2h1xkw-204ems/v/2531219/original/8848Y2.jpg?Expires=1784896840&KeyName=gcs-bfldr-prod&Signature=jAwIzToNydyU8BSvNp0Q_YzHsIM="
+    }
+  ]
 }

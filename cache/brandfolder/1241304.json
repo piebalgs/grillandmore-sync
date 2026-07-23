@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "1241304",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "1241304 47CM Classic Kettle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1241304"
+        "1241304",
+        "1241353"
       ]
     }
   ],
@@ -23,8 +24,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfo4s3-b4rlio-g2ph4o/1241304A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pfo4s3-b4rlio-g2ph4o/v/2394679/original/1241304A.png?Expires=1784652215&KeyName=gcs-bfldr-prod&Signature=mk05ESuGeOtrpdUApEc0TegsAwc=",
-      "url": "https://storage-us-gcs.bfldr.com/pfo4s3-b4rlio-g2ph4o/v/2394679/original/1241304A.png?Expires=1784652215&KeyName=gcs-bfldr-prod&Signature=mk05ESuGeOtrpdUApEc0TegsAwc="
+      "original_url": "https://storage-us-gcs.bfldr.com/pfo4s3-b4rlio-g2ph4o/v/2394679/original/1241304A.png?Expires=1784897049&KeyName=gcs-bfldr-prod&Signature=Id-XZae_lKrvIGRU8FLbdauz8u8=",
+      "url": "https://storage-us-gcs.bfldr.com/pfo4s3-b4rlio-g2ph4o/v/2394679/original/1241304A.png?Expires=1784897049&KeyName=gcs-bfldr-prod&Signature=Id-XZae_lKrvIGRU8FLbdauz8u8="
     }
   ]
 }

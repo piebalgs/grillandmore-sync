@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400654",
   "assets": [
     {
@@ -167,8 +167,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/83v5xmjb9xx8kr9ftxhnng3/3400646_Pellet_22Foil%20Liner_Global_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/83v5xmjb9xx8kr9ftxhnng3/v/1289170501/original/3400646_Pellet_22Foil%20Liner_Global_A_rgb.png?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=aSV431almStc2HWlrcrESrNreuE=",
-      "url": "https://storage-us-gcs.bfldr.com/83v5xmjb9xx8kr9ftxhnng3/v/1289170501/original/3400646_Pellet_22Foil%20Liner_Global_A_rgb.png?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=aSV431almStc2HWlrcrESrNreuE="
+      "original_url": "https://storage-us-gcs.bfldr.com/83v5xmjb9xx8kr9ftxhnng3/v/1289170501/original/3400646_Pellet_22Foil%20Liner_Global_A_rgb.png?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=jPihHVIgIFQuPdSKHO-efzuCZiI=",
+      "url": "https://storage-us-gcs.bfldr.com/83v5xmjb9xx8kr9ftxhnng3/v/1289170501/original/3400646_Pellet_22Foil%20Liner_Global_A_rgb.png?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=jPihHVIgIFQuPdSKHO-efzuCZiI="
     },
     {
       "attachment_id": "ns5qfnpxrnmmt74rszrkgf",
@@ -181,8 +181,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ns5qfnpxrnmmt74rszrkgf/3400646_Pellet_22Foil%20Liner_Global_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ns5qfnpxrnmmt74rszrkgf/v/1289170503/original/3400646_Pellet_22Foil%20Liner_Global_B_rgb.png?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=PIxfWsjover_iwfMn5wuTVepin4=",
-      "url": "https://storage-us-gcs.bfldr.com/ns5qfnpxrnmmt74rszrkgf/v/1289170503/original/3400646_Pellet_22Foil%20Liner_Global_B_rgb.png?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=PIxfWsjover_iwfMn5wuTVepin4="
+      "original_url": "https://storage-us-gcs.bfldr.com/ns5qfnpxrnmmt74rszrkgf/v/1289170503/original/3400646_Pellet_22Foil%20Liner_Global_B_rgb.png?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=-7RS_tuBqrXbJDsXQXUkJAnsCQc=",
+      "url": "https://storage-us-gcs.bfldr.com/ns5qfnpxrnmmt74rszrkgf/v/1289170503/original/3400646_Pellet_22Foil%20Liner_Global_B_rgb.png?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=-7RS_tuBqrXbJDsXQXUkJAnsCQc="
     },
     {
       "attachment_id": "5ztgrjk3bn9s5bnx2c2cct63",
@@ -195,8 +195,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5ztgrjk3bn9s5bnx2c2cct63/3400646_Pellet_22Foil%20Liner_Global_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5ztgrjk3bn9s5bnx2c2cct63/v/1289170508/original/3400646_Pellet_22Foil%20Liner_Global_C_rgb.png?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=9o1ZLfpvP12REGvEE5EpJHxtDZc=",
-      "url": "https://storage-us-gcs.bfldr.com/5ztgrjk3bn9s5bnx2c2cct63/v/1289170508/original/3400646_Pellet_22Foil%20Liner_Global_C_rgb.png?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=9o1ZLfpvP12REGvEE5EpJHxtDZc="
+      "original_url": "https://storage-us-gcs.bfldr.com/5ztgrjk3bn9s5bnx2c2cct63/v/1289170508/original/3400646_Pellet_22Foil%20Liner_Global_C_rgb.png?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=IF9T7CIJY3QAhxY9JhCXOqn7B3Y=",
+      "url": "https://storage-us-gcs.bfldr.com/5ztgrjk3bn9s5bnx2c2cct63/v/1289170508/original/3400646_Pellet_22Foil%20Liner_Global_C_rgb.png?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=IF9T7CIJY3QAhxY9JhCXOqn7B3Y="
     },
     {
       "attachment_id": "5qb6s74q6sp5fv4z7zjjkp",
@@ -209,8 +209,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5qb6s74q6sp5fv4z7zjjkp/3400654_31_WEBERSMOQUE_FY2025_GLOBAL.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5qb6s74q6sp5fv4z7zjjkp/v/1294608802/original/3400654_31_WEBERSMOQUE_FY2025_GLOBAL.jpg?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=lnvOCSlKovCMauzha0RbcJxE53o=",
-      "url": "https://storage-us-gcs.bfldr.com/5qb6s74q6sp5fv4z7zjjkp/v/1294608802/original/3400654_31_WEBERSMOQUE_FY2025_GLOBAL.jpg?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=lnvOCSlKovCMauzha0RbcJxE53o="
+      "original_url": "https://storage-us-gcs.bfldr.com/5qb6s74q6sp5fv4z7zjjkp/v/1294608802/original/3400654_31_WEBERSMOQUE_FY2025_GLOBAL.jpg?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=vVGc4q6FbNSiP51KMw4Yk8xYWCQ=",
+      "url": "https://storage-us-gcs.bfldr.com/5qb6s74q6sp5fv4z7zjjkp/v/1294608802/original/3400654_31_WEBERSMOQUE_FY2025_GLOBAL.jpg?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=vVGc4q6FbNSiP51KMw4Yk8xYWCQ="
     },
     {
       "attachment_id": "rqw4jz9wj7ptxc3nc4k6fmq",
@@ -223,8 +223,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rqw4jz9wj7ptxc3nc4k6fmq/3400654_31_WEBERSMOQUE_FY2025_GLOBAL_ALT1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rqw4jz9wj7ptxc3nc4k6fmq/v/1294608785/original/3400654_31_WEBERSMOQUE_FY2025_GLOBAL_ALT1.jpg?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=43yTyPotuziyJIgq2AoX0-9kNmY=",
-      "url": "https://storage-us-gcs.bfldr.com/rqw4jz9wj7ptxc3nc4k6fmq/v/1294608785/original/3400654_31_WEBERSMOQUE_FY2025_GLOBAL_ALT1.jpg?Expires=1784652421&KeyName=gcs-bfldr-prod&Signature=43yTyPotuziyJIgq2AoX0-9kNmY="
+      "original_url": "https://storage-us-gcs.bfldr.com/rqw4jz9wj7ptxc3nc4k6fmq/v/1294608785/original/3400654_31_WEBERSMOQUE_FY2025_GLOBAL_ALT1.jpg?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=sTZ8LG1qp9qjTLzMrnDcC6CVSkY=",
+      "url": "https://storage-us-gcs.bfldr.com/rqw4jz9wj7ptxc3nc4k6fmq/v/1294608785/original/3400654_31_WEBERSMOQUE_FY2025_GLOBAL_ALT1.jpg?Expires=1784897505&KeyName=gcs-bfldr-prod&Signature=sTZ8LG1qp9qjTLzMrnDcC6CVSkY="
     }
   ]
 }

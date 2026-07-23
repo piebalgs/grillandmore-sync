@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400213",
   "assets": [
     {
@@ -47,8 +47,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kg7t6pqmvf6krqkv3xf793c5/3400213-PORTABLE%20TOOL%20SET%20OF_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kg7t6pqmvf6krqkv3xf793c5/v/1268255647/original/3400213-PORTABLE%20TOOL%20SET%20OF_A_rgb.png?Expires=1784652348&KeyName=gcs-bfldr-prod&Signature=xwqryz4SObFzi4LvnrC0MNzb9no=",
-      "url": "https://storage-us-gcs.bfldr.com/kg7t6pqmvf6krqkv3xf793c5/v/1268255647/original/3400213-PORTABLE%20TOOL%20SET%20OF_A_rgb.png?Expires=1784652348&KeyName=gcs-bfldr-prod&Signature=xwqryz4SObFzi4LvnrC0MNzb9no="
+      "original_url": "https://storage-us-gcs.bfldr.com/kg7t6pqmvf6krqkv3xf793c5/v/1268255647/original/3400213-PORTABLE%20TOOL%20SET%20OF_A_rgb.png?Expires=1784897331&KeyName=gcs-bfldr-prod&Signature=CbpDRM7dKAIZENlhv-595DaaKPA=",
+      "url": "https://storage-us-gcs.bfldr.com/kg7t6pqmvf6krqkv3xf793c5/v/1268255647/original/3400213-PORTABLE%20TOOL%20SET%20OF_A_rgb.png?Expires=1784897331&KeyName=gcs-bfldr-prod&Signature=CbpDRM7dKAIZENlhv-595DaaKPA="
     },
     {
       "attachment_id": "xwvpq74wkxjw5492kphkzjw",
@@ -61,8 +61,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xwvpq74wkxjw5492kphkzjw/3400213-PORTABLE%20TOOL%20SET%20OF_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xwvpq74wkxjw5492kphkzjw/v/1268255648/original/3400213-PORTABLE%20TOOL%20SET%20OF_B_rgb.png?Expires=1784652348&KeyName=gcs-bfldr-prod&Signature=mxsWzOW0jfuaNtNC8SLgoheq1fc=",
-      "url": "https://storage-us-gcs.bfldr.com/xwvpq74wkxjw5492kphkzjw/v/1268255648/original/3400213-PORTABLE%20TOOL%20SET%20OF_B_rgb.png?Expires=1784652348&KeyName=gcs-bfldr-prod&Signature=mxsWzOW0jfuaNtNC8SLgoheq1fc="
+      "original_url": "https://storage-us-gcs.bfldr.com/xwvpq74wkxjw5492kphkzjw/v/1268255648/original/3400213-PORTABLE%20TOOL%20SET%20OF_B_rgb.png?Expires=1784897331&KeyName=gcs-bfldr-prod&Signature=CkDjSt5lP86oeHfx_QwY5Kztjww=",
+      "url": "https://storage-us-gcs.bfldr.com/xwvpq74wkxjw5492kphkzjw/v/1268255648/original/3400213-PORTABLE%20TOOL%20SET%20OF_B_rgb.png?Expires=1784897331&KeyName=gcs-bfldr-prod&Signature=CkDjSt5lP86oeHfx_QwY5Kztjww="
     },
     {
       "attachment_id": "84fn9nfttg754jtmrppnsns",
@@ -75,8 +75,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/84fn9nfttg754jtmrppnsns/3400213-PORTABLE%20TOOL%20SET%20OF_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/84fn9nfttg754jtmrppnsns/v/1268255649/original/3400213-PORTABLE%20TOOL%20SET%20OF_C_rgb.png?Expires=1784652348&KeyName=gcs-bfldr-prod&Signature=_xiFK6RTcnzrV4vP-eEDhUkuX-s=",
-      "url": "https://storage-us-gcs.bfldr.com/84fn9nfttg754jtmrppnsns/v/1268255649/original/3400213-PORTABLE%20TOOL%20SET%20OF_C_rgb.png?Expires=1784652348&KeyName=gcs-bfldr-prod&Signature=_xiFK6RTcnzrV4vP-eEDhUkuX-s="
+      "original_url": "https://storage-us-gcs.bfldr.com/84fn9nfttg754jtmrppnsns/v/1268255649/original/3400213-PORTABLE%20TOOL%20SET%20OF_C_rgb.png?Expires=1784897331&KeyName=gcs-bfldr-prod&Signature=gNASTthw7WvJg0sZ-3mLgWO0hzQ=",
+      "url": "https://storage-us-gcs.bfldr.com/84fn9nfttg754jtmrppnsns/v/1268255649/original/3400213-PORTABLE%20TOOL%20SET%20OF_C_rgb.png?Expires=1784897331&KeyName=gcs-bfldr-prod&Signature=gNASTthw7WvJg0sZ-3mLgWO0hzQ="
     }
   ]
 }

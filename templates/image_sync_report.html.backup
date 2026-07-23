@@ -1,0 +1,2789 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="utf-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1"
+    >
+
+    <title>{{REPORT_TITLE}}</title>
+
+    <style>
+        :root {
+            color-scheme: light;
+
+            --page-background: #f3f5f7;
+            --panel-background: #ffffff;
+            --header-background-start: #17212b;
+            --header-background-end: #344054;
+
+            --text-primary: #18212b;
+            --text-secondary: #667085;
+            --text-light: #ffffff;
+
+            --border: #dfe4ea;
+            --border-light: #edf0f3;
+
+            --shadow:
+                0 8px 24px
+                rgba(16, 24, 40, 0.08);
+
+            --shadow-small:
+                0 3px 10px
+                rgba(16, 24, 40, 0.06);
+
+            --focus:
+                0 0 0 3px
+                rgba(52, 64, 84, 0.15);
+
+            --ok-background: #e8f7ee;
+            --ok-text: #18794e;
+
+            --updated-background: #e8f1ff;
+            --updated-text: #1d4ed8;
+
+            --dry-run-background: #fff6dd;
+            --dry-run-text: #8a5a00;
+
+            --review-background: #fff0e5;
+            --review-text: #b54708;
+
+            --sync-background: #eee8ff;
+            --sync-text: #6941c6;
+
+            --error-background: #fdecec;
+            --error-text: #b42318;
+
+            --neutral-background: #eef1f4;
+            --neutral-text: #475467;
+        }
+
+
+        * {
+            box-sizing: border-box;
+        }
+
+
+        html {
+            min-height: 100%;
+            background: var(--page-background);
+        }
+
+
+        body {
+            min-height: 100%;
+            margin: 0;
+
+            background: var(--page-background);
+            color: var(--text-primary);
+
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif;
+
+            font-size: 15px;
+            line-height: 1.5;
+        }
+
+
+        button,
+        input,
+        select {
+            font: inherit;
+        }
+
+
+        button {
+            cursor: pointer;
+        }
+
+
+        .page-container {
+            width: min(
+                1500px,
+                calc(100% - 32px)
+            );
+
+            margin: 32px auto 56px;
+        }
+
+
+        .report-header {
+            position: relative;
+            overflow: hidden;
+
+            padding: 30px;
+
+            border-radius: 20px;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    var(--header-background-start),
+                    var(--header-background-end)
+                );
+
+            color: var(--text-light);
+            box-shadow: var(--shadow);
+        }
+
+
+        .report-header::after {
+            position: absolute;
+            top: -90px;
+            right: -80px;
+
+            width: 280px;
+            height: 280px;
+
+            border-radius: 50%;
+
+            background:
+                rgba(255, 255, 255, 0.05);
+
+            content: "";
+            pointer-events: none;
+        }
+
+
+        .report-title {
+            position: relative;
+            z-index: 1;
+
+            margin: 0 0 12px;
+
+            font-size:
+                clamp(
+                    27px,
+                    3vw,
+                    43px
+                );
+
+            font-weight: 760;
+            line-height: 1.15;
+            letter-spacing: -0.03em;
+        }
+
+
+        .report-meta {
+            position: relative;
+            z-index: 1;
+
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 20px;
+
+            color:
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.82
+                );
+
+            font-size: 14px;
+        }
+
+
+        .meta-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+        }
+
+
+        .meta-label {
+            color:
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.62
+                );
+        }
+
+
+        .meta-value {
+            color: #ffffff;
+            font-weight: 650;
+        }
+
+
+        .summary-grid {
+            display: grid;
+
+            grid-template-columns:
+                repeat(
+                    4,
+                    minmax(0, 1fr)
+                );
+
+            gap: 14px;
+
+            margin: 18px 0;
+        }
+
+
+        .summary-card {
+            position: relative;
+            overflow: hidden;
+
+            min-height: 126px;
+            padding: 19px;
+
+            border: 1px solid var(--border);
+            border-radius: 15px;
+
+            background: var(--panel-background);
+            box-shadow: var(--shadow-small);
+        }
+
+
+        .summary-card::after {
+            position: absolute;
+            top: 0;
+            right: 0;
+
+            width: 5px;
+            height: 100%;
+
+            background: var(--card-accent, #98a2b3);
+
+            content: "";
+        }
+
+
+        .summary-card-label {
+            margin-bottom: 12px;
+
+            color: var(--text-secondary);
+
+            font-size: 13px;
+            font-weight: 650;
+            letter-spacing: 0.02em;
+        }
+
+
+        .summary-card-value {
+            color: var(--text-primary);
+
+            font-size: 34px;
+            font-weight: 780;
+            line-height: 1;
+            letter-spacing: -0.04em;
+        }
+
+
+        .summary-card-note {
+            margin-top: 11px;
+
+            color: var(--text-secondary);
+            font-size: 12px;
+        }
+
+
+        .card-processed {
+            --card-accent: #667085;
+        }
+
+
+        .card-updated {
+            --card-accent: #2e90fa;
+        }
+
+
+        .card-verified {
+            --card-accent: #12b76a;
+        }
+
+
+        .card-verify-failed {
+            --card-accent: #f04438;
+        }
+
+
+        .card-dry-run {
+            --card-accent: #f79009;
+        }
+
+
+        .card-skip-ok {
+            --card-accent: #32d583;
+        }
+
+
+        .card-review {
+            --card-accent: #fb6514;
+        }
+
+
+        .card-errors {
+            --card-accent: #d92d20;
+        }
+
+
+        .results-panel {
+            overflow: hidden;
+
+            border: 1px solid var(--border);
+            border-radius: 17px;
+
+            background: var(--panel-background);
+            box-shadow: var(--shadow);
+        }
+
+
+        .panel-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+
+            padding: 20px;
+
+            border-bottom: 1px solid var(--border);
+        }
+
+
+        .panel-heading {
+            margin: 0;
+
+            font-size: 20px;
+            font-weight: 720;
+            letter-spacing: -0.02em;
+        }
+
+
+        .visible-counter {
+            color: var(--text-secondary);
+            font-size: 13px;
+            white-space: nowrap;
+        }
+
+
+        .toolbar {
+            display: grid;
+
+            grid-template-columns:
+                minmax(260px, 1fr)
+                minmax(180px, 230px)
+                minmax(180px, 230px)
+                auto;
+
+            gap: 12px;
+
+            padding: 16px 20px;
+
+            border-bottom: 1px solid var(--border);
+            background: #fafbfc;
+        }
+
+
+        .control-group {
+            min-width: 0;
+        }
+
+
+        .control-label {
+            display: block;
+
+            margin-bottom: 6px;
+
+            color: var(--text-secondary);
+
+            font-size: 12px;
+            font-weight: 650;
+        }
+
+
+        .control-input,
+        .control-select {
+            width: 100%;
+            min-height: 42px;
+
+            border: 1px solid var(--border);
+            border-radius: 10px;
+
+            padding: 0 12px;
+
+            background: #ffffff;
+            color: var(--text-primary);
+
+            outline: none;
+        }
+
+
+        .control-input:focus,
+        .control-select:focus {
+            border-color: #98a2b3;
+            box-shadow: var(--focus);
+        }
+
+
+        .reset-button {
+            align-self: end;
+
+            min-height: 42px;
+            padding: 0 15px;
+
+            border: 1px solid var(--border);
+            border-radius: 10px;
+
+            background: #ffffff;
+            color: var(--text-primary);
+
+            font-weight: 650;
+            white-space: nowrap;
+        }
+
+
+        .reset-button:hover {
+            background: #f3f5f7;
+        }
+
+
+        .reset-button:focus {
+            outline: none;
+            box-shadow: var(--focus);
+        }
+
+
+        .table-container {
+            overflow-x: auto;
+        }
+
+
+        .results-table {
+            width: 100%;
+            min-width: 1040px;
+
+            border-collapse: collapse;
+        }
+
+
+        .results-table th,
+        .results-table td {
+            padding: 14px 15px;
+
+            border-bottom:
+                1px solid
+                var(--border-light);
+
+            text-align: left;
+            vertical-align: top;
+        }
+
+
+        .results-table th {
+            position: sticky;
+            top: 0;
+            z-index: 2;
+
+            background: #f8fafb;
+            color: #475467;
+
+            font-size: 12px;
+            font-weight: 720;
+            letter-spacing: 0.045em;
+            text-transform: uppercase;
+            white-space: nowrap;
+        }
+
+
+        .results-table tbody tr {
+            transition:
+                background-color 120ms ease;
+        }
+
+
+        .results-table tbody tr:hover {
+            background: #fafcff;
+        }
+
+
+        .results-table tbody tr:last-child td {
+            border-bottom: 0;
+        }
+
+
+        .results-table tr[hidden] {
+            display: none;
+        }
+
+
+        .sku-cell {
+            width: 130px;
+            white-space: nowrap;
+        }
+
+
+        .product-cell {
+            min-width: 270px;
+
+            color: var(--text-primary);
+            font-weight: 620;
+        }
+
+
+        .message-cell {
+            min-width: 300px;
+            max-width: 540px;
+
+            color: #475467;
+            overflow-wrap: anywhere;
+        }
+
+
+        .mono {
+            font-family:
+                ui-monospace,
+                SFMono-Regular,
+                Menlo,
+                Monaco,
+                Consolas,
+                "Liberation Mono",
+                monospace;
+        }
+
+
+        .status {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+
+            min-height: 27px;
+            padding: 4px 10px;
+
+            border-radius: 999px;
+
+            font-size: 12px;
+            font-weight: 730;
+            line-height: 1.2;
+            white-space: nowrap;
+        }
+
+
+        .status-ok {
+            background: var(--ok-background);
+            color: var(--ok-text);
+        }
+
+
+        .status-updated {
+            background: var(--updated-background);
+            color: var(--updated-text);
+        }
+
+
+        .status-dry-run {
+            background: var(--dry-run-background);
+            color: var(--dry-run-text);
+        }
+
+
+        .status-review {
+            background: var(--review-background);
+            color: var(--review-text);
+        }
+
+
+        .status-sync {
+            background: var(--sync-background);
+            color: var(--sync-text);
+        }
+
+
+        .status-error {
+            background: var(--error-background);
+            color: var(--error-text);
+        }
+
+
+        .status-neutral {
+            background: var(--neutral-background);
+            color: var(--neutral-text);
+        }
+
+
+        .empty-state {
+            display: none;
+
+            padding: 38px 24px;
+
+            color: var(--text-secondary);
+            text-align: center;
+        }
+
+
+        .empty-state-title {
+            margin-bottom: 6px;
+
+            color: var(--text-primary);
+            font-size: 17px;
+            font-weight: 700;
+        }
+
+
+        .empty-state-text {
+            margin: 0;
+        }
+
+
+        .report-footer {
+            margin-top: 17px;
+
+            color: var(--text-secondary);
+            font-size: 13px;
+            text-align: center;
+        }
+
+
+        .print-only {
+            display: none;
+        }
+
+
+        @media print {
+            :root {
+                --page-background: #ffffff;
+                --shadow: none;
+                --shadow-small: none;
+            }
+
+
+            body {
+                background: #ffffff;
+                font-size: 11px;
+            }
+
+
+            .page-container {
+                width: 100%;
+                margin: 0;
+            }
+
+
+            .report-header {
+                border-radius: 0;
+                box-shadow: none;
+            }
+
+
+            .summary-grid {
+                grid-template-columns:
+                    repeat(
+                        4,
+                        minmax(0, 1fr)
+                    );
+            }
+
+
+            .summary-card {
+                min-height: auto;
+                box-shadow: none;
+            }
+
+
+            .toolbar {
+                display: none;
+            }
+
+
+            .results-panel {
+                border-radius: 0;
+                box-shadow: none;
+            }
+
+
+            .results-table {
+                min-width: 0;
+            }
+
+
+            .results-table th {
+                position: static;
+            }
+
+
+            .print-only {
+                display: block;
+            }
+        }
+
+
+        @media (
+            max-width: 1100px
+        ) {
+            .summary-grid {
+                grid-template-columns:
+                    repeat(
+                        2,
+                        minmax(0, 1fr)
+                    );
+            }
+
+
+            .toolbar {
+                grid-template-columns:
+                    minmax(240px, 1fr)
+                    minmax(170px, 220px);
+            }
+
+
+            .reset-button {
+                width: 100%;
+            }
+        }
+
+
+        @media (
+            max-width: 680px
+        ) {
+            .page-container {
+                width:
+                    min(
+                        100% - 20px,
+                        1500px
+                    );
+
+                margin-top: 10px;
+                margin-bottom: 32px;
+            }
+
+
+            .report-header {
+                padding: 23px;
+                border-radius: 15px;
+            }
+
+
+            .report-meta {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: 7px;
+            }
+
+
+            .summary-grid {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+
+
+            .summary-card {
+                min-height: 110px;
+            }
+
+
+            .panel-header {
+                align-items: flex-start;
+                flex-direction: column;
+            }
+
+
+            .toolbar {
+                grid-template-columns: 1fr;
+                padding: 14px;
+            }
+
+
+            .reset-button {
+                align-self: stretch;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main class="page-container">
+        <header class="report-header">
+            <h1 class="report-title">
+                {{REPORT_TITLE}}
+            </h1>
+
+            <div class="report-meta">
+                <div class="meta-item">
+                    <span class="meta-label">
+                        Izveidots:
+                    </span>
+
+                    <span class="meta-value">
+                        {{GENERATED_AT}}
+                    </span>
+                </div>
+
+                <div class="meta-item">
+                    <span class="meta-label">
+                        Režīms:
+                    </span>
+
+                    <span class="meta-value">
+                        {{MODE}}
+                    </span>
+                </div>
+
+                <div class="meta-item">
+                    <span class="meta-label">
+                        Atlase:
+                    </span>
+
+                    <span class="meta-value">
+                        {{SELECTION}}
+                    </span>
+                </div>
+            </div>
+        </header>
+
+
+        <section
+            class="summary-grid"
+            aria-label="Atskaites kopsavilkums"
+        >
+            <article
+                class="
+                    summary-card
+                    card-processed
+                "
+            >
+                <div class="summary-card-label">
+                    Apstrādāti
+                </div>
+
+                <div class="summary-card-value">
+                    {{PROCESSED}}
+                </div>
+
+                <div class="summary-card-note">
+                    Kopējais produktu skaits
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-updated
+                "
+            >
+                <div class="summary-card-label">
+                    Atjaunināti
+                </div>
+
+                <div class="summary-card-value">
+                    {{UPDATED}}
+                </div>
+
+                <div class="summary-card-note">
+                    Izmaiņas saglabātas WooCommerce
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-verified
+                "
+            >
+                <div class="summary-card-label">
+                    Verifikācija izdevās
+                </div>
+
+                <div class="summary-card-value">
+                    {{VERIFY_PASSED}}
+                </div>
+
+                <div class="summary-card-note">
+                    Attēlu pārbaude pabeigta veiksmīgi
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-verify-failed
+                "
+            >
+                <div class="summary-card-label">
+                    Verifikācija neizdevās
+                </div>
+
+                <div class="summary-card-value">
+                    {{VERIFY_FAILED}}
+                </div>
+
+                <div class="summary-card-note">
+                    Pēc atjaunināšanas saglabājas atšķirības
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-dry-run
+                "
+            >
+                <div class="summary-card-label">
+                    Dry run izmaiņas
+                </div>
+
+                <div class="summary-card-value">
+                    {{DRY_RUN}}
+                </div>
+
+                <div class="summary-card-note">
+                    Atrastas izmaiņas, bet tās nav piemērotas
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-skip-ok
+                "
+            >
+                <div class="summary-card-label">
+                    Jau kārtībā
+                </div>
+
+                <div class="summary-card-value">
+                    {{SKIP_OK}}
+                </div>
+
+                <div class="summary-card-note">
+                    Atjaunināšana nebija nepieciešama
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-review
+                "
+            >
+                <div class="summary-card-label">
+                    Manuāli jāpārbauda
+                </div>
+
+                <div class="summary-card-value">
+                    {{SKIP_REVIEW}}
+                </div>
+
+                <div class="summary-card-note">
+                    Automātiska atjaunināšana nav veikta
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-errors
+                "
+            >
+                <div class="summary-card-label">
+                    Kļūdas
+                </div>
+
+                <div class="summary-card-value">
+                    {{ERRORS}}
+                </div>
+
+                <div class="summary-card-note">
+                    Produkti, kurus neizdevās apstrādāt
+                </div>
+            </article>
+        </section>
+
+
+        <section class="results-panel">
+            <div class="panel-header">
+                <h2 class="panel-heading">
+                    Produktu rezultāti
+                </h2>
+
+                <div
+                    id="visibleCounter"
+                    class="visible-counter"
+                >
+                    Redzami:
+                    <strong id="visibleCount">
+                        0
+                    </strong>
+
+                    no
+
+                    <strong id="totalCount">
+                        0
+                    </strong>
+                </div>
+            </div>
+
+
+            <div class="toolbar">
+                <div class="control-group">
+                    <label
+                        class="control-label"
+                        for="searchInput"
+                    >
+                        Meklēšana
+                    </label>
+
+                    <input
+                        id="searchInput"
+                        class="control-input"
+                        type="search"
+                        placeholder="
+                            Meklēt pēc SKU, produkta,
+                            statusa vai ziņojuma...
+                        "
+                        autocomplete="off"
+                    >
+                </div>
+
+
+                <div class="control-group">
+                    <label
+                        class="control-label"
+                        for="actionFilter"
+                    >
+                        Darbība
+                    </label>
+
+                    <select
+                        id="actionFilter"
+                        class="control-select"
+                    >
+                        <option value="">
+                            Visas darbības
+                        </option>
+
+                        <option value="UPDATED">
+                            UPDATED
+                        </option>
+
+                        <option value="DRY_RUN">
+                            DRY_RUN
+                        </option>
+
+                        <option value="SKIP_OK">
+                            SKIP_OK
+                        </option>
+
+                        <option value="SKIP_REVIEW">
+                            SKIP_REVIEW
+                        </option>
+
+                        <option value="VERIFY_FAILED">
+                            VERIFY_FAILED
+                        </option>
+
+                        <option value="ERROR">
+                            ERROR
+                        </option>
+                    </select>
+                </div>
+
+
+                <div class="control-group">
+                    <label
+                        class="control-label"
+                        for="verifyFilter"
+                    >
+                        Verifikācija
+                    </label>
+
+                    <select
+                        id="verifyFilter"
+                        class="control-select"
+                    >
+                        <option value="">
+                            Visi statusi
+                        </option>
+
+                        <option value="OK">
+                            OK
+                        </option>
+
+                        <option value="ERROR">
+                            ERROR
+                        </option>
+
+                        <option value="NOT_RUN">
+                            NOT_RUN
+                        </option>
+
+                        <option value="UNKNOWN">
+                            UNKNOWN
+                        </option>
+                    </select>
+                </div>
+
+
+                <button
+                    id="resetFilters"
+                    class="reset-button"
+                    type="button"
+                >
+                    Notīrīt filtrus
+                </button>
+            </div>
+
+
+            <div class="table-container">
+                <table class="results-table">
+                    <thead>
+                        <tr>
+                            <th scope="col">
+                                SKU
+                            </th>
+
+                            <th scope="col">
+                                Produkts
+                            </th>
+
+                            <th scope="col">
+                                Audits
+                            </th>
+
+                            <th scope="col">
+                                Verifikācija
+                            </th>
+
+                            <th scope="col">
+                                Darbība
+                            </th>
+
+                            <th scope="col">
+                                Ziņojums
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="resultsBody">
+                        {{RESULT_ROWS}}
+                    </tbody>
+                </table>
+            </div>
+
+
+            <div
+                id="emptyState"
+                class="empty-state"
+            >
+                <div class="empty-state-title">
+                    Rezultāti nav atrasti
+                </div>
+
+                <p class="empty-state-text">
+                    Neviens ieraksts neatbilst
+                    izvēlētajiem filtriem.
+                </p>
+            </div>
+        </section>
+
+
+        <footer class="report-footer">
+            GrillAndMore attēlu sinhronizācijas
+            HTML atskaite
+        </footer>
+    </main>
+
+
+    <script>
+        "use strict";
+
+
+        const searchInput = document.getElementById(
+            "searchInput"
+        );
+
+        const actionFilter = document.getElementById(
+            "actionFilter"
+        );
+
+        const verifyFilter = document.getElementById(
+            "verifyFilter"
+        );
+
+        const resetFiltersButton = document.getElementById(
+            "resetFilters"
+        );
+
+        const emptyState = document.getElementById(
+            "emptyState"
+        );
+
+        const visibleCountElement = document.getElementById(
+            "visibleCount"
+        );
+
+        const totalCountElement = document.getElementById(
+            "totalCount"
+        );
+
+        const rows = Array.from(
+            document.querySelectorAll(
+                "#resultsBody tr"
+            )
+        );
+
+
+        function normalizeText(value) {
+            return String(value || "")
+                .trim()
+                .toLocaleLowerCase("lv-LV");
+        }
+
+
+        function updateCounters(visibleCount) {
+            visibleCountElement.textContent = String(
+                visibleCount
+            );
+
+            totalCountElement.textContent = String(
+                rows.length
+            );
+        }
+
+
+        function applyFilters() {
+            const searchQuery = normalizeText(
+                searchInput.value
+            );
+
+            const selectedAction = String(
+                actionFilter.value || ""
+            )
+                .trim()
+                .toUpperCase();
+
+            const selectedVerify = String(
+                verifyFilter.value || ""
+            )
+                .trim()
+                .toUpperCase();
+
+            let visibleCount = 0;
+
+
+            rows.forEach((row) => {
+                const rowSearchText = normalizeText(
+                    row.dataset.search
+                );
+
+                const rowAction = String(
+                    row.dataset.action || ""
+                )
+                    .trim()
+                    .toUpperCase();
+
+                const rowVerify = String(
+                    row.dataset.verify || ""
+                )
+                    .trim()
+                    .toUpperCase();
+
+
+                const matchesSearch =
+                    !searchQuery
+                    || rowSearchText.includes(
+                        searchQuery
+                    );
+
+                const matchesAction =
+                    !selectedAction
+                    || rowAction === selectedAction;
+
+                const matchesVerify =
+                    !selectedVerify
+                    || rowVerify === selectedVerify;
+
+                const isVisible =
+                    matchesSearch
+                    && matchesAction
+                    && matchesVerify;
+
+
+                row.hidden = !isVisible;
+
+
+                if (isVisible) {
+                    visibleCount += 1;
+                }
+            });
+
+
+            emptyState.style.display =
+                visibleCount === 0
+                    ? "block"
+                    : "none";
+
+
+            updateCounters(visibleCount);
+        }
+
+
+        function resetFilters() {
+            searchInput.value = "";
+            actionFilter.value = "";
+            verifyFilter.value = "";
+
+            applyFilters();
+
+            searchInput.focus();
+        }
+
+
+        searchInput.addEventListener(
+            "input",
+            applyFilters
+        );
+
+        actionFilter.addEventListener(
+            "change",
+            applyFilters
+        );
+
+        verifyFilter.addEventListener(
+            "change",
+            applyFilters
+        );
+
+        resetFiltersButton.addEventListener(
+            "click",
+            resetFilters
+  
+    <meta
+        name="viewport"
+        content="width=device-wid
+    <title>{{REPORT_TITLE}}</title>
+
+    <style>
+        :root {
+            color-scheme: light;
+
+            --page-background: #f3f5f7;
+            --panel-background: #ffffff;
+            --header-background-start: #17212b;
+            --header-background-end: #344054;
+
+            --text-primary: #18212b;
+            --text-secondary: #667085;
+            --text-light: #ffffff;
+
+            --border: #dfe4ea;
+            --border-light: #edf0f3;
+
+            --shadow:
+                0 8px 24px
+                rgba(16, 24, 40, 0.08);
+
+            --shadow-small:
+                0 3px 10px
+                rgba(16, 24, 40, 0.06);
+
+            --focus:
+                0 0 0 3px
+                rgba(52, 64, 84, 0.15);
+
+            --ok-background: #e8f7ee;
+            --ok-text: #18794e;
+
+            --updated-background: #e8f1ff;
+            --updated-text: #1d4ed8;
+
+            --dry-run-background: #fff6dd;
+            --dry-run-text: #8a5a00;
+
+            --review-background: #fff0e5;
+            --review-text: #b54708;
+
+            --sync-background: #eee8ff;
+            --sync-text: #6941c6;
+
+            --error-background: #fdecec;
+            --error-text: #b42318;
+
+            --neutral-background: #eef1f4;
+            --neutral-text: #475467;
+        }
+
+
+        * {
+            box-sizing: border-box;
+        }
+
+
+        html {
+            min-height: 100%;
+            background: var(--page-background);
+        }
+
+
+        body {
+            min-height: 100%;
+            margin: 0;
+
+            background: var(--page-background);
+            color: var(--text-primary);
+
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif;
+
+            font-size: 15px;
+            line-height: 1.5;
+        }
+
+
+        button,
+        input,
+        select {
+            font: inherit;
+        }
+
+
+        button {
+            cursor: pointer;
+        }
+
+
+        .page-container {
+            width: min(
+                1500px,
+                calc(100% - 32px)
+            );
+
+            margin: 32px auto 56px;
+        }
+
+
+        .report-header {
+            position: relative;
+            overflow: hidden;
+
+            padding: 30px;
+
+            border-radius: 20px;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    var(--header-background-start),
+                    var(--header-background-end)
+                );
+
+            color: var(--text-light);
+            box-shadow: var(--shadow);
+        }
+
+
+        .report-header::after {
+            position: absolute;
+            top: -90px;
+            right: -80px;
+
+            width: 280px;
+            height: 280px;
+
+            border-radius: 50%;
+
+            background:
+                rgba(255, 255, 255, 0.05);
+
+            content: "";
+            pointer-events: none;
+        }
+
+
+        .report-title {
+            position: relative;
+            z-index: 1;
+
+            margin: 0 0 12px;
+
+            font-size:
+                clamp(
+                    27px,
+                    3vw,
+                    43px
+                );
+
+            font-weight: 760;
+            line-height: 1.15;
+            letter-spacing: -0.03em;
+        }
+
+
+        .report-meta {
+            position: relative;
+            z-index: 1;
+
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 20px;
+
+            color:
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.82
+                );
+
+            font-size: 14px;
+        }
+
+
+        .meta-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+        }
+
+
+        .meta-label {
+            color:
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.62
+                );
+        }
+
+
+        .meta-value {
+            color: #ffffff;
+            font-weight: 650;
+        }
+
+
+        .summary-grid {
+            display: grid;
+
+            grid-template-columns:
+                repeat(
+                    4,
+       
+             m                );
+
+            gap: 14px;
+
+            margin: 18px 0;
+        }
+
+
+        .summary-card {
+            position: relative;
+            overflow: hidden;
+
+            min-height: 126px;
+            padding: 19px;
+
+            border: 1px solid var(--border);
+            border-radius: 15px;
+
+            background: var(--panel-background);
+            box-shadow: var(--shadow-small);
+        }
+
+
+        .summary-card::after {
+            position: absolute;
+            top: 0;
+            right: 0;
+
+            width: 5px;
+            height: 100%;
+
+            background: var(--card-accent, #98a2b3);
+
+            content: "";
+        }
+
+
+        .summary-card-label {
+            margin-bottom: 12px;
+
+            color: var(--text-secondary);
+
+            font-size: 13px;
+            font-weight: 650;
+            letter-spacing: 0.02em;
+        }
+
+
+        .summary-card-value {
+            color: var(--text-primary);
+
+            font-size: 34px;
+            font-weight: 780;
+            line-height: 1;
+            letter-spacing: -0.04em;
+        }
+
+
+        .summary-card-note {
+            margin-top: 11px;
+
+            color: var(--text-secondary);
+            font-size: 12px;
+        }
+
+
+        .card-processed {
+            --card-accent: #667085;
+        }
+
+
+        .card-updated {
+            --card-accent: #2e90fa;
+        }
+
+
+        .card-verified {
+            --card-accent: #12b76a;
+        }
+
+
+        .card-verify-failed {
+            --card-accent: #f04438;
+        }
+
+
+        .card-dry-run {
+            --card-accent: #f79009;
+        }
+
+
+        .card-skip-ok {
+            --card-accent: #32d583;
+        }
+
+
+        .card-review {
+            --card-accent: #fb6514;
+        }
+
+
+        .errors {
+            --card-accent: #d92d20;
+        }
+
+
+        .results-panel {
+            overflow: hidden;
+
+            border: 1px solid var(--border);
+            border-radius: 17px;
+
+            background: var(--panel-background);
+            box-shadow: var(--shadow);
+        }
+
+
+        .panel-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+
+            padding: 20px;
+
+            border-bottom: 1px solid var(--border);
+        }
+
+
+        .panel-heading {
+            margin: 0;
+
+            font-size: 20px;
+            font-weight: 720;
+            letter-spacing: -0.02em;
+        }
+
+
+        .visible-counter {
+            color: var(--text-secondary);
+            font-size: 13px;
+            white-space: nowrap;
+        }
+
+
+        .toolbar {
+            display: grid;
+
+            grid-template-columns:
+                minmax(260px, 1fr)
+                minmax(180px, 230px)
+                minmax(180px, 230px)
+                auto;
+
+            gap: 12px;
+
+            padding: 16px 20px;
+
+            border-bottom: 1px solid var(--border);
+            background: #fafbfc;
+        }
+
+
+        .control-group {
+            min-width: 0;
+        }
+
+
+        .control-label {
+            display: block;
+
+            margin-bottom: 6px;
+
+            color: var(--text-secondary);
+
+            font-size: 12px;
+            font-weight: 650;
+        }
+
+
+        .control-input,
+        .control-select {
+            width: 100%;
+            min-height: 42px;
+
+            border: 1px solid var(--border);
+            border-radius: 10px;
+
+            padding: 0 12px;
+
+            background: #ffffff;
+            color: var(--text-primary);
+
+            outline: none;
+        }
+
+
+        .control-input:focus,
+        .control-select:focus {
+            border-color: #98a2b3;
+            box-shadow: var(--focus);
+        }
+
+
+        .reset-button {
+            align-self: end;
+
+            min-height: 42px;
+            padding: 0 15px;
+
+            border: 1px solid var(--border);
+            border-radius: 10px;
+
+            background: #ffffff;
+            color: var(--text-primary);
+
+            font-weight: 650;
+            white-space: nowrap;
+        }
+
+
+        .reset-button:hover {
+            background: #f3f5f7;
+        }
+
+
+        .reset-button:focus {
+            outline: none;
+            box-shadow: var(--focus);
+        }
+
+
+        .table-container {
+            overflow-x: auto;
+        }
+
+
+        .results-table {
+            width: 100%;
+            min-width: 1040px;
+
+            border-collapse: collapse;
+        }
+
+
+        .results-table th,
+        .results-table td {
+            padding: 14px 15px;
+
+            border-bottom:
+                1px solid
+                var(--border-light);
+
+            text-align: left;
+            vertical-align: top;
+        }
+
+
+        .results-table th {
+            position: sticky;
+            top: 0;
+            z-index: 2;
+
+            background: #f8fafb;
+            color: #475467;
+
+            font-size: 12px;
+            font-weight: 720;
+            letter-spacing: 0.045em;
+            text-transform: uppercase;
+            white-space: nowrap;
+        }
+
+
+        .results-table tbody tr {
+            transition:
+                background-color 120ms ease;
+        }
+
+
+        .results-table tbody tr:hover {
+            background: #fafcff;
+        }
+
+
+        .results-table tbody tr:last-child td {
+            border-bottom: 0;
+        }
+
+
+        .results-table tr[hidden] {
+            display: none;
+        }
+
+
+        .sku-cell {
+            width: 130px;
+            white-space: nowrap;
+        }
+
+
+        .product-cell {
+            min-width: 270px;
+
+            color: var(--text-primary);
+            font-weight: 620;
+        }
+
+
+        .message-cell {
+            min-width: 300px;
+            max-width: 540px;
+
+            color: #475467;
+            overflow-wrap: anywhere;
+        }
+
+
+        .mono {
+            font-family:
+                ui-monospace,
+                SFMono-Regular,
+                Menlo,
+                Monaco,
+                Consolas,
+                "Liberation Mono",
+                monospace;
+        }
+
+
+        .status {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+
+            min-height: 27px;
+            padding: 4px 10px;
+
+            border-radius: 999px;
+
+            font-size: 12px;
+            font-weight: 730;
+            line-height: 1.2;
+            white-space: nowrap;
+        }
+
+
+        .status-ok {
+            background: var(--ok-background);
+            color: var(--ok-text);
+        }
+
+
+        .status-updated {
+            background: var(--updated-background);
+            color: var(--updated-text);
+        }
+
+
+        .status-dry-run {
+            background: var(--dry-run-background);
+            color: var(--dry-run-text);
+        }
+
+
+        .status-review {
+            background: var(--review-background);
+            color: var(--review-text);
+        }
+
+
+        .status-sync {
+            background: var(--sync-background);
+            color: var(--sync-text);
+        }
+
+
+        .status-error {
+            background: var(--error-background);
+            color: var(--error-text);
+        }
+
+
+        .status-neutral {
+            background: var(--neutral-background);
+            color: var(--neutral-text);
+        }
+
+
+        .empty-state {
+            display: none;
+
+            padding: 38px 24px;
+
+            color: var(--text-secondary);
+            text-align: center;
+        }
+
+
+        .empty-state-title {
+            margin-bottom: 6px;
+
+            color: var(--text-primary);
+            font-size: 17px;
+            font-weight: 700;
+        }
+
+
+        .empty-state-text {
+            margin: 0;
+        }
+
+
+        .report-footer {
+            margin-top: 17px;
+
+            color: var(--text-secondary);
+            font-size: 13px;
+            text-align: center;
+        }
+
+
+        .print-only {
+            display: none;
+        }
+
+
+        @media print {
+            :root {
+                --page-background: #ffffff;
+                --shadow: none;
+                --shadow-small: none;
+            }
+
+
+            body {
+                background: #ffffff;
+                font-size: 11px;
+            }
+
+
+            .page-container {
+                width: 100%;
+                margin: 0;
+            }
+
+
+            .report-header {
+                border-radius: 0;
+                box-shadow: none;
+            }
+
+
+            .summary-grid {
+                grid-template-columns:
+                    repeat(
+                        4,
+                        minmax(0, 1fr)
+                    );
+            }
+
+
+            .summary-card {
+                min-height: auto;
+                box-shadow: none;
+            }
+
+
+            .toolbar {
+                display: none;
+            }
+
+
+            .results-panel {
+                border-radius: 0;
+                box-shadow: none;
+            }
+
+
+            .results-table {
+                min-width: 0;
+            }
+
+
+            .results-table th {
+                position: static;
+            }
+
+
+            .print-only {
+                display: block;
+            }
+        }
+
+
+        @media (
+            max-width: 1100px
+        ) {
+            .summary-grid {
+                grid-template-columns:
+                    repeat(
+                        2,
+                        minmax(0, 1fr)
+                    );
+            }
+
+
+            .toolbar {
+                grid-template-columns:
+                    minmax(240px, 1fr)
+                    minmax(170px, 220px);
+            }
+
+
+            .reset-button {
+                width: 100%;
+            }
+        }
+
+
+        @media (
+            max-width: 680px
+        ) {
+            .page-container {
+                width:
+                    min(
+                        100% - 20px,
+                        1500px
+                    );
+
+                margin-top: 10px;
+                margin-bottom: 32px;
+            }
+
+
+            .report-header {
+                padding: 23px;
+                border-radius: 15px;
+            }
+
+
+            .report-meta {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: 7px;
+            }
+
+
+            .summary-grid {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+
+
+            .summary-card {
+                min-height: 110px;
+            }
+
+
+            .panel-header {
+                align-items: flex-start;
+                flex-direction: column;
+            }
+
+
+            .toolbar {
+                grid-template-columns: 1fr;
+                padding: 14px;
+            }
+
+
+            .reset-button {
+                align-self: stretch;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main class="page-container">
+        <header class="report-header">
+            <h1 class="report-title">
+                {{REPORT_TITLE}}
+            </h1>
+
+            <div class="report-meta">
+                <div class="meta-item">
+                    <span class="meta-label">
+                        Izveidots:
+                    </span>
+
+                    <span class="meta-value">
+                        {{GENERATED_AT}}
+                    </span>
+                </div>
+
+                <div class="meta-item">
+                    <span class="meta-label">
+                        Režīms:
+                    </span>
+
+                    <span class="meta-value">
+                        {{MODE}}
+                    </span>
+                </div>
+
+                <div class="meta-item">
+                    <span class="meta-label">
+                        Atlase:
+                    </span>
+
+                    <span class="meta-value">
+                        {{SELECTION}}
+                    </span>
+                </div>
+            </div>
+        </header>
+
+
+        <section
+            class="summary-grid"
+            aria-label="Atskaites kopsavilkums"
+        >
+            <article
+                class="
+                    summary-card
+                    card-processed
+                "
+            >
+                <div class="summary-card-label">
+                    Apstrādāti
+                </div>
+
+                <div class="summary-card-value">
+                    {{PROCESSED}}
+                </div>
+
+                <div class="summary-card-note">
+                    Kopējais produktu skaits
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-updated
+                "
+            >
+                <div class="summary-card-label">
+                    Atjaunināti
+                </div>
+
+                <div class="summary-card-value">
+                    {{UPDATED}}
+                </div>
+
+                <div class="summary-card-note">
+                    Izmaiņas saglabātas WooCommerce
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-verified
+                "
+            >
+                <div class="summary-card-label">
+                    Verifikācija izdevās
+                </div>
+
+                <div class="summary-card-value">
+                    {{VERIFY_PASSED}}
+                </div>
+
+                <div class="summary-card-note">
+                    Attēlu pārbaude pabeigta veiksmīgi
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-verify-failed
+                "
+            >
+                <div class="summary-card-label">
+                    Verifikācija neizdevās
+                </div>
+
+                <div class="summary-card-value">
+                    {{VERIFY_FAILED}}
+                </div>
+
+                <div class="summary-card-note">
+                    Pēc atjaunināšanas saglabājas atšķirības
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-dry-run
+                "
+            >
+                <div class="summary-card-label">
+                    Dry run izmaiņas
+                </div>
+
+                <div class="summary-card-value">
+                    {{DRY_RUN}}
+                </div>
+
+                <div class="summary-card-note">
+                    Atrastas izmaiņas, bet tās nav piemērotas
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-skip-ok
+                "
+            >
+                <div class="summary-card-label">
+                    Jau kārtībā
+                </div>
+
+                <div class="summary-card-value">
+                    {{SKIP_OK}}
+                </div>
+
+                <div class="summary-card-note">
+                    Atjaunināšana nebija nepieciešama
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-review
+                "
+            >
+                <div class="summary-card-label">
+                    Manuāli jāpārbauda
+                </div>
+
+                <div class="summary-card-value">
+                    {{SKIP_REVIEW}}
+                </div>
+
+                <div class="summary-card-note">
+                    Automātiska atjaunināšana nav veikta
+                </div>
+            </article>
+
+
+            <article
+                class="
+                    summary-card
+                    card-errors
+                "
+            >
+                <div class="summary-card-label">
+                    Kļūdas
+                </div>
+
+                <div class="summary-card-value">
+                    {{ERRORS}}
+                </div>
+
+                <div class="summary-card-note">
+                    Produkti, kurus neizdevās apstrādāt
+                </div>
+            </article>
+        </section>
+
+
+        <section class="results-panel">
+            <div class="panel-header">
+                <h2 class="panel-heading">
+                    Produktu rezultāti
+                </h2>
+
+                <div
+                    id="visibleCounter"
+                    class="visible-counter"
+                >
+                    Redzami:
+                    <strong id="visibleCount">
+                        0
+                    </strong>
+
+                    no
+
+                    <strong id="totalCount">
+                        0
+                    </strong>
+                </div>
+            </div>
+
+
+            <div class="toolbar">
+                <div class="control-group">
+                    <label
+                        class="control-label"
+                        for="searchInput"
+                    >
+                        Meklēšana
+                    </label>
+
+                    <input
+                        id="searchInput"
+                        class="control-input"
+                        type="search"
+                        placeholder="
+                            Meklēt pēc SKU, produkta,
+                            statusa vai ziņojuma...
+                        "
+                        autocomplete="off"
+                    >
+                </div>
+
+
+                <div class="control-group">
+                    <label
+                        class="control-label"
+                        for="actionFilter"
+                    >
+                        Darbība
+                    </label>
+
+                    <select
+                        id="actionFilter"
+                        class="control-select"
+                    >
+                        <option value="">
+                            Visas darbības
+                        </option>
+
+                        <option value="UPDATED">
+                            UPDATED
+                        </option>
+
+                        <option value="DRY_RUN">
+                            DRY_RUN
+                        </option>
+
+                        <option value="SKIP_OK">
+                            SKIP_OK
+                        </option>
+
+                        <option value="SKIP_REVIEW">
+                            SKIP_REVIEW
+                        </option>
+
+                        <option value="VERIFY_FAILED">
+                            VERIFY_FAILED
+                        </option>
+
+                        <option value="ERROR">
+                            ERROR
+                        </option>
+                    </select>
+                </div>
+
+
+                <div class="control-group">
+                    <label
+                        class="control-label"
+                        for="verifyFilter"
+                    >
+                        Verifikācija
+                    </label>
+
+                    <select
+                        id="verifyFilter"
+                        class="control-select"
+                    >
+                        <option value="">
+                            Visi statusi
+                        </option>
+
+                        <option value="OK">
+                            OK
+                        </option>
+
+                        <option value="ERROR">
+                            ERROR
+                        </option>
+
+                        <option value="NOT_RUN">
+                            NOT_RUN
+                        </option>
+
+                        <option value="UNKNOWN">
+                            UNKNOWN
+                        </option>
+                    </select>
+                </div>
+
+
+                <button
+                    id="resetFilters"
+                    class="reset-button"
+                    type="button"
+                >
+                    Notīrīt filtrus
+                </button>
+            </div>
+
+
+            <div class="table-container">
+                <table class="results-table">
+                    <thead>
+                        <tr>
+                            <th scope="col">
+                                SKU
+                            </th>
+
+                            <th scope="col">
+                                Produkts
+                            </th>
+
+                            <th scope="col">
+                                Audits
+                            </th>
+
+                            <th scope="col">
+                                Verifikācija
+                            </th>
+
+                            <th scope="col">
+                                Darbība
+                            </th>
+
+                            <th scope="col">
+                                Ziņojums
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="resultsBody">
+                        {{RESULT_ROWS}}
+                    </tbody>
+                </table>
+            </div>
+
+
+            <div
+                id="emptyState"
+                class="empty-state"
+            >
+                <div class="empty-state-title">
+                    Rezultāti nav atrasti
+                </div>
+
+                <p class="empty-state-text">
+                    Neviens ieraksts neatbilst
+                    izvēlētajiem filtriem.
+                </p>
+            </div>
+        </section>
+
+
+        <footer class="report-footer">
+            GrillAndMore attēlu sinhronizācijas
+            HTML atskaite
+        </footer>
+    </main>
+
+
+    <script>
+        "use strict";
+
+
+        const searchInput = document.getElementById(
+            "searchInput"
+        );
+
+        const actionFilter = document.getElementById(
+            "actionFilter"
+        );
+
+        const verifyFilter = document.getElementById(
+            "verifyFilter"
+        );
+
+        const resetFiltersButton = document.getElementById(
+            "resetFilters"
+        );
+
+        const emptyState = document.getElementById(
+            "emptyState"
+        );
+
+        const visibleCountElement = document.getElementById(
+            "visibleCount"
+        );
+
+        const totalCountElement = document.getElementById(
+            "totalCount"
+        );
+
+        const rows = Array.from(
+            document.querySelectorAll(
+                "#resultsBody tr"
+            )
+        );
+
+
+        function normalizeText(value) {
+            return String(value || "")
+                .trim()
+                .toLocaleLowerCase("lv-LV");
+        }
+
+
+        function updateCounters(visibleCount) {
+            visibleCountElement.textContent = String(
+                visibleCount
+            );
+
+            totalCountElement.textContent = String(
+                rows.length
+            );
+        }
+
+
+        function applyFilters() {
+            const searchQuery = normalizeText(
+                searchInput.value
+            );
+
+            const selectedAction = String(
+                actionFilter.value || ""
+            )
+                .trim()
+                .toUpperCase();
+
+            const selectedVerify = String(
+                verifyFilter.value || ""
+            )
+                .trim()
+                .toUpperCase();
+
+            let visibleCount = 0;
+
+
+            rows.forEach((row) => {
+                const rowSearchText = normalizeText(
+                    row.dataset.search
+                );
+
+                const rowAction = String(
+                    row.dataset.action || ""
+                )
+                    .trim()
+                    .toUpperCase();
+
+                const rowVerify = String(
+                    row.dataset.verify || ""
+                )
+                    .trim()
+                    .toUpperCase();
+
+
+                const matchesSearch =
+                    !searchQuery
+                    || rowSearchText.includes(
+                        searchQuery
+                    );
+
+                const matchesAction =
+                    !selectedAction
+                    || rowAction === selectedAction;
+
+                const matchesVerify =
+                    !selectedVerify
+                    || rowVerify === selectedVerify;
+
+                const isVisible =
+                    matchesSearch
+                    && matchesAction
+                    && matchesVerify;
+
+
+                row.hidden = !isVisible;
+
+
+                if (isVisible) {
+                    visibleCount += 1;
+                }
+            });
+
+
+            emptyState.style.display =
+                visibleCount === 0
+                    ? "block"
+                    : "none";
+
+
+            updateCounters(visibleCount);
+        }
+
+
+        function resetFilters() {
+            searchInput.value = "";
+            actionFilter.value = "";
+            verifyFilter.value = "";
+
+            applyFilters();
+
+            searchInput.focus();
+        }
+
+
+        searchInput.addEventListener(
+            "input",
+            applyFilters
+        );
+
+        actionFilter.addEventListener(
+            "change",
+            applyFilters
+        );
+
+        verifyFilter.addEventListener(
+            "change",
+            applyFilters
+        );
+
+        resetFiltersButton.addEventListener(
+            "click",
+            resetFilters
+        );
+
+
+        applyFilters();
+    </script>
+</body>
+</html>
+<!doctype html>
+<html lang="lv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{PAGE_TITLE}}</title>
+<style>
+:root{--bg:#f3f5f7;--surface:#fff;--text:#17202a;--muted:#667085;--border:#dfe4ea;--shadow:0 10px 30px rgba(31,41,55,.08)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.5}
+.page{width:min(1500px,calc(100% - 32px));margin:32px auto 64px}
+.hero{padding:30px;border-radius:22px;background:linear-gradient(135deg,#17202a,#263747 65%,#334e68);color:#fff;box-shadow:var(--shadow)}
+.hero-top{display:flex;justify-content:space-between;gap:24px;align-items:flex-start}h1{margin:0;font-size:clamp(28px,4vw,46px);line-height:1.1;letter-spacing:-.03em}.subtitle{margin:12px 0 0;color:rgba(255,255,255,.78)}
+.mode-badge{display:inline-flex;padding:8px 14px;border-radius:999px;font-weight:800;white-space:nowrap}.mode-live{background:#ffe3e3;color:#9b1c1c}.mode-dry-run{background:#dbeafe;color:#1e40af}
+.meta-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:26px}.meta{padding:14px 16px;border:1px solid rgba(255,255,255,.14);border-radius:14px;background:rgba(255,255,255,.08)}.meta-label{display:block;margin-bottom:3px;color:rgba(255,255,255,.65);font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em}
+.summary-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin:22px 0}.summary-card{display:flex;align-items:center;gap:14px;min-height:106px;padding:18px;border:1px solid var(--border);border-radius:16px;background:var(--surface);box-shadow:0 5px 18px rgba(31,41,55,.05)}.summary-icon{display:grid;width:46px;height:46px;place-items:center;border-radius:13px;background:#f8fafb;font-size:23px}.summary-value{font-size:28px;font-weight:800;line-height:1}.summary-label{margin-top:7px;color:var(--muted);font-size:14px;font-weight:700}
+.card-already-ok{border-color:#b8e3c8}.card-updated{border-color:#f3d48f}.card-manual-review{border-color:#f6c98c}.card-verify-failed,.card-error{border-color:#f2b8b8}
+.panel{overflow:hidden;border:1px solid var(--border);border-radius:16px;background:var(--surface);box-shadow:var(--shadow)}.toolbar{display:flex;flex-wrap:wrap;justify-content:space-between;gap:14px;padding:18px;border-bottom:1px solid var(--border)}.search{flex:1 1 320px}.search input{width:100%;min-height:44px;padding:10px 14px;border:1px solid var(--border);border-radius:12px;background:#f8fafb;font:inherit}.search input:focus{border-color:#6b8fb3;outline:3px solid rgba(107,143,179,.18)}
+.filters{display:flex;flex-wrap:wrap;gap:8px}.filter{min-height:38px;padding:8px 12px;border:1px solid var(--border);border-radius:999px;background:#fff;color:#344054;font:inherit;font-size:13px;font-weight:800;cursor:pointer}.filter:hover{background:#f8fafb}.filter.active{border-color:#263747;background:#263747;color:#fff}.count{padding:0 18px 14px;color:var(--muted);font-size:13px}
+.table-wrap{overflow-x:auto}table{width:100%;min-width:1120px;border-collapse:collapse}th,td{padding:14px 16px;border-top:1px solid var(--border);text-align:left;vertical-align:top}th{position:sticky;top:0;z-index:1;background:#f8fafc;color:#475467;font-size:12px;text-transform:uppercase;letter-spacing:.05em}tbody tr:hover{background:#fbfcfd}.sku-cell{font-weight:800;white-space:nowrap}.number-cell{text-align:center}
+.status-badge{display:inline-flex;align-items:center;gap:5px;padding:6px 9px;border-radius:999px;font-size:12px;font-weight:800;white-space:nowrap}.status-already-ok,.status-verify-passed{background:#e7f7ec;color:#17633a}.status-updated{background:#fff4d9;color:#8a5a00}.status-dry-run{background:#e6f0ff;color:#1e4f91}.status-manual-review{background:#fff0df;color:#9a4f00}.status-verify-failed,.status-error{background:#fde8e8;color:#9b1c1c}.status-unknown{background:#eef1f4;color:#4b5563}
+details{min-width:150px}summary{color:#365f85;font-weight:800;cursor:pointer}pre{max-width:600px;max-height:420px;overflow:auto;padding:14px;border-radius:10px;background:#17202a;color:#f5f7fa;font-size:12px;white-space:pre-wrap;overflow-wrap:anywhere}.empty-row td{padding:40px 20px;color:var(--muted);text-align:center}.footer{margin-top:18px;color:var(--muted);font-size:13px;text-align:center}
+@media(max-width:720px){.page{width:min(100% - 20px,1500px);margin-top:10px}.hero{padding:22px;border-radius:16px}.hero-top{display:block}.mode-badge{margin-top:18px}.meta-grid{grid-template-columns:1fr}.toolbar{align-items:stretch}.filters{overflow-x:auto;flex-wrap:nowrap;padding-bottom:3px}.filter{flex:0 0 auto}}
+</style>
+</head>
+<body>
+<main class="page">
+<header class="hero">
+<div class="hero-top">
+<div><h1>{{PAGE_TITLE}}</h1><p class="subtitle">Brandfolder un WooCommerce attēlu sinhronizācijas atskaite</p></div>
+<span class="mode-badge {{MODE_CLASS}}">{{MODE}}</span>
+</div>
+<div class="meta-grid">
+<div class="meta"><span class="meta-label">Izveidota</span>{{GENERATED_AT}}</div>
+<div class="meta"><span class="meta-label">Atlase</span>{{SELECTION}}</div>
+</div>
+</header>
+
+<section class="summary-grid" aria-label="Kopsavilkums">{{SUMMARY_CARDS}}</section>
+
+<section class="panel">
+<div class="toolbar">
+<label class="search"><input id="searchInput" type="search" placeholder="Meklēt pēc SKU, nosaukuma, statusa vai ziņas…" autocomplete="off"></label>
+<div cltent = `Rāda ${visible} no ${rows.length}`;
+  }
+
+  input.addEventListener("input", applyFilters);
+  buttons.forEach(button => button.addEventListener("click", () => {
+    active = button.dataset.filter || "all";
+    buttons.forEach(item => item.classList.toggle("active", item === button));
+    applyFilters();
+  }));
+  applyFilters();
+})();
+</script>
+</body>
+</html>

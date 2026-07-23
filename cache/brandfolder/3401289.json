@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401289",
   "assets": [
     {
@@ -15,8 +15,8 @@
       "asset_name": "Lumin Fixed Stand Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401289",
-        "3401288"
+        "3401288",
+        "3401289"
       ]
     },
     {
@@ -57,8 +57,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cr8834mnvk7k4qcgrjxvs5b/3401289_015_LuminFixedStandCover_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cr8834mnvk7k4qcgrjxvs5b/v/1280390326/original/3401289_015_LuminFixedStandCover_FY2026_EMEA.jpg?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=l3PlwtTeXrL7F18UCrbhTtALuV4=",
-      "url": "https://storage-us-gcs.bfldr.com/cr8834mnvk7k4qcgrjxvs5b/v/1280390326/original/3401289_015_LuminFixedStandCover_FY2026_EMEA.jpg?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=l3PlwtTeXrL7F18UCrbhTtALuV4="
+      "original_url": "https://storage-us-gcs.bfldr.com/cr8834mnvk7k4qcgrjxvs5b/v/1280390326/original/3401289_015_LuminFixedStandCover_FY2026_EMEA.jpg?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=bSln05w6sBLx4fqFVyzObRJdaDw=",
+      "url": "https://storage-us-gcs.bfldr.com/cr8834mnvk7k4qcgrjxvs5b/v/1280390326/original/3401289_015_LuminFixedStandCover_FY2026_EMEA.jpg?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=bSln05w6sBLx4fqFVyzObRJdaDw="
     },
     {
       "attachment_id": "tsq9nnb9vvnfrnrt6v6j5hf",
@@ -71,8 +71,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tsq9nnb9vvnfrnrt6v6j5hf/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tsq9nnb9vvnfrnrt6v6j5hf/v/1295731274/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_A_rgb.png?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=0ieRWGhGgHroNIpwTAaLLJ8xPNY=",
-      "url": "https://storage-us-gcs.bfldr.com/tsq9nnb9vvnfrnrt6v6j5hf/v/1295731274/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_A_rgb.png?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=0ieRWGhGgHroNIpwTAaLLJ8xPNY="
+      "original_url": "https://storage-us-gcs.bfldr.com/tsq9nnb9vvnfrnrt6v6j5hf/v/1295731274/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_A_rgb.png?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=JNJ6xN_b6_5ldEe6cUE6dcXUnDY=",
+      "url": "https://storage-us-gcs.bfldr.com/tsq9nnb9vvnfrnrt6v6j5hf/v/1295731274/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_A_rgb.png?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=JNJ6xN_b6_5ldEe6cUE6dcXUnDY="
     },
     {
       "attachment_id": "tnk4kv5bp59sn8vxcvgvjb",
@@ -85,8 +85,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tnk4kv5bp59sn8vxcvgvjb/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_2_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tnk4kv5bp59sn8vxcvgvjb/v/1295731275/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_2_rgb.png?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=WCKaMvrPOaYf3pW9mle9OEJsEzI=",
-      "url": "https://storage-us-gcs.bfldr.com/tnk4kv5bp59sn8vxcvgvjb/v/1295731275/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_2_rgb.png?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=WCKaMvrPOaYf3pW9mle9OEJsEzI="
+      "original_url": "https://storage-us-gcs.bfldr.com/tnk4kv5bp59sn8vxcvgvjb/v/1295731275/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_2_rgb.png?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=kc26ZQBtgyTjMdR2A4MbXHtqMnQ=",
+      "url": "https://storage-us-gcs.bfldr.com/tnk4kv5bp59sn8vxcvgvjb/v/1295731275/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_2_rgb.png?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=kc26ZQBtgyTjMdR2A4MbXHtqMnQ="
     },
     {
       "attachment_id": "wjfxfv5p7sm452kfxs8sngb",
@@ -99,8 +99,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wjfxfv5p7sm452kfxs8sngb/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wjfxfv5p7sm452kfxs8sngb/v/1295731278/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_rgb.png?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=LsAFGvNt_OMLP-mndeIGim_omn8=",
-      "url": "https://storage-us-gcs.bfldr.com/wjfxfv5p7sm452kfxs8sngb/v/1295731278/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_rgb.png?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=LsAFGvNt_OMLP-mndeIGim_omn8="
+      "original_url": "https://storage-us-gcs.bfldr.com/wjfxfv5p7sm452kfxs8sngb/v/1295731278/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_rgb.png?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=iUbTGMGOYrtAATgE8v4os9rVxck=",
+      "url": "https://storage-us-gcs.bfldr.com/wjfxfv5p7sm452kfxs8sngb/v/1295731278/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_B_rgb.png?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=iUbTGMGOYrtAATgE8v4os9rVxck="
     },
     {
       "attachment_id": "68pbx3cr58cfnff9q73qk",
@@ -113,8 +113,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/68pbx3cr58cfnff9q73qk/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/68pbx3cr58cfnff9q73qk/v/1295731279/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_C_rgb.png?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=ZEaJqTBl8p8xjZvzEzSJ1MSdhUE=",
-      "url": "https://storage-us-gcs.bfldr.com/68pbx3cr58cfnff9q73qk/v/1295731279/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_C_rgb.png?Expires=1784652389&KeyName=gcs-bfldr-prod&Signature=ZEaJqTBl8p8xjZvzEzSJ1MSdhUE="
+      "original_url": "https://storage-us-gcs.bfldr.com/68pbx3cr58cfnff9q73qk/v/1295731279/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_C_rgb.png?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=Ku20TLH4JRnZQjzTAA8sP8-De-Y=",
+      "url": "https://storage-us-gcs.bfldr.com/68pbx3cr58cfnff9q73qk/v/1295731279/original/3401289_3401288_LuminStandCover_FY2026_EMEA_AMER_AUNZ_C_rgb.png?Expires=1784897440&KeyName=gcs-bfldr-prod&Signature=Ku20TLH4JRnZQjzTAA8sP8-De-Y="
     }
   ]
 }

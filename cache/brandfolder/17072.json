@@ -1,7 +1,15 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17072",
   "assets": [
+    {
+      "asset_id": "plwadx-chs0t4-8wo2bb",
+      "asset_name": "Deluxe Bread Knife 17072 Product",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17072"
+      ]
+    },
     {
       "asset_id": "pubwve-8dhp0w-3snhlh",
       "asset_name": "Bread Knife 17072 Product",
@@ -62,8 +70,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pubwve-8dhp0w-9yo0tq/17072A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-9yo0tq/v/5225789/original/17072A.png?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=d8IOyGTVUpTh2EPF4QrfbbKheL0=",
-      "url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-9yo0tq/v/5225789/original/17072A.png?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=d8IOyGTVUpTh2EPF4QrfbbKheL0="
+      "original_url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-9yo0tq/v/5225789/original/17072A.png?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=PrEwVaqF1cGY40AKNSeimo54zSk=",
+      "url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-9yo0tq/v/5225789/original/17072A.png?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=PrEwVaqF1cGY40AKNSeimo54zSk="
     },
     {
       "attachment_id": "pubwve-8dhp0w-7ez4vl",
@@ -76,8 +84,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pubwve-8dhp0w-7ez4vl/17072C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-7ez4vl/v/5225790/original/17072C.png?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=jIgm55WUQKmKZNgsUMnzXbjl6RQ=",
-      "url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-7ez4vl/v/5225790/original/17072C.png?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=jIgm55WUQKmKZNgsUMnzXbjl6RQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-7ez4vl/v/5225790/original/17072C.png?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=9uiryp0_ElsG-Je_QpAwbrWBL3A=",
+      "url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-7ez4vl/v/5225790/original/17072C.png?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=9uiryp0_ElsG-Je_QpAwbrWBL3A="
     },
     {
       "attachment_id": "pubwve-8dhp0w-1bdi1t",
@@ -90,8 +98,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pubwve-8dhp0w-1bdi1t/17072D.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-1bdi1t/v/5225791/original/17072D.png?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=Kkj-4g2NDZA56bLDoQRkW3N0Ppw=",
-      "url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-1bdi1t/v/5225791/original/17072D.png?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=Kkj-4g2NDZA56bLDoQRkW3N0Ppw="
+      "original_url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-1bdi1t/v/5225791/original/17072D.png?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=G1hFAqoDNoZwdLwyOlGL2yW6hSg=",
+      "url": "https://storage-us-gcs.bfldr.com/pubwve-8dhp0w-1bdi1t/v/5225791/original/17072D.png?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=G1hFAqoDNoZwdLwyOlGL2yW6hSg="
     },
     {
       "attachment_id": "q0tw9e-7oa6i0-fxj2fx",
@@ -104,8 +112,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0tw9e-7oa6i0-fxj2fx/17072Y1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q0tw9e-7oa6i0-fxj2fx/v/6990433/original/17072Y1.jpg?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=RjoCUaAgZE6lifYRfmLLUpL6SRA=",
-      "url": "https://storage-us-gcs.bfldr.com/q0tw9e-7oa6i0-fxj2fx/v/6990433/original/17072Y1.jpg?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=RjoCUaAgZE6lifYRfmLLUpL6SRA="
+      "original_url": "https://storage-us-gcs.bfldr.com/q0tw9e-7oa6i0-fxj2fx/v/6990433/original/17072Y1.jpg?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=o_OPSiJ3gmlmJPQK7YG5g4E_Nr4=",
+      "url": "https://storage-us-gcs.bfldr.com/q0tw9e-7oa6i0-fxj2fx/v/6990433/original/17072Y1.jpg?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=o_OPSiJ3gmlmJPQK7YG5g4E_Nr4="
     },
     {
       "attachment_id": "q0tw9e-7oa6i0-eubwmj",
@@ -118,8 +126,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0tw9e-7oa6i0-eubwmj/17072Y2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q0tw9e-7oa6i0-eubwmj/v/6990434/original/17072Y2.jpg?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=eB9bHApL1NJGbpCWb16bVm72mhU=",
-      "url": "https://storage-us-gcs.bfldr.com/q0tw9e-7oa6i0-eubwmj/v/6990434/original/17072Y2.jpg?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=eB9bHApL1NJGbpCWb16bVm72mhU="
+      "original_url": "https://storage-us-gcs.bfldr.com/q0tw9e-7oa6i0-eubwmj/v/6990434/original/17072Y2.jpg?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=kip7UdpGLdIuGBZGE42g-Y6dcLA=",
+      "url": "https://storage-us-gcs.bfldr.com/q0tw9e-7oa6i0-eubwmj/v/6990434/original/17072Y2.jpg?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=kip7UdpGLdIuGBZGE42g-Y6dcLA="
     },
     {
       "attachment_id": "q0tw89-a9kvb4-4y2edu",
@@ -132,8 +140,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q0tw89-a9kvb4-4y2edu/17072M1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q0tw89-a9kvb4-4y2edu/v/6990431/original/17072M1.jpg?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=Myu4CmTMCFStKt6sEy1avAVI7VM=",
-      "url": "https://storage-us-gcs.bfldr.com/q0tw89-a9kvb4-4y2edu/v/6990431/original/17072M1.jpg?Expires=1784652320&KeyName=gcs-bfldr-prod&Signature=Myu4CmTMCFStKt6sEy1avAVI7VM="
+      "original_url": "https://storage-us-gcs.bfldr.com/q0tw89-a9kvb4-4y2edu/v/6990431/original/17072M1.jpg?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=oetbUfFqqsdAVjzO_xn1v-paY-4=",
+      "url": "https://storage-us-gcs.bfldr.com/q0tw89-a9kvb4-4y2edu/v/6990431/original/17072M1.jpg?Expires=1784897260&KeyName=gcs-bfldr-prod&Signature=oetbUfFqqsdAVjzO_xn1v-paY-4="
     }
   ]
 }

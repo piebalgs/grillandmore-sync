@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17524",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "[EMEA] Q Rotisserie 17524 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "17524"
+        "17524",
+        "3000"
       ]
     }
   ],
@@ -23,8 +24,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pmev92-6jmgts-b6nxzy/17524C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pmev92-6jmgts-b6nxzy/v/3052276/original/17524C.png?Expires=1784652414&KeyName=gcs-bfldr-prod&Signature=ZZXx4pfc0LUDr45_bRsO3aeS09Q=",
-      "url": "https://storage-us-gcs.bfldr.com/pmev92-6jmgts-b6nxzy/v/3052276/original/17524C.png?Expires=1784652414&KeyName=gcs-bfldr-prod&Signature=ZZXx4pfc0LUDr45_bRsO3aeS09Q="
+      "original_url": "https://storage-us-gcs.bfldr.com/pmev92-6jmgts-b6nxzy/v/3052276/original/17524C.png?Expires=1784897491&KeyName=gcs-bfldr-prod&Signature=QTIxH0dDrs7k4DsN6SLRytBf7u4=",
+      "url": "https://storage-us-gcs.bfldr.com/pmev92-6jmgts-b6nxzy/v/3052276/original/17524C.png?Expires=1784897491&KeyName=gcs-bfldr-prod&Signature=QTIxH0dDrs7k4DsN6SLRytBf7u4="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17682",
   "assets": [
     {
@@ -7,6 +7,18 @@
       "asset_name": "Stainless Steel Cleaner 17682 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "17682"
+      ]
+    },
+    {
+      "asset_id": "qfoo3h-2b4vts-15j2b3",
+      "asset_name": "DE Grill Cleaning Grilltipps Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17864",
+        "17684",
+        "17683",
+        "17685",
         "17682"
       ]
     },
@@ -31,8 +43,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf7zqa-ff8if4-395ym5/17682%20Weber_Stainless%20Steel%20Cleaner.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pf7zqa-ff8if4-395ym5/v/1266822391/original/17682%20Weber_Stainless%20Steel%20Cleaner.png?Expires=1784652261&KeyName=gcs-bfldr-prod&Signature=dQ1zlaRnBZGUv7_kXo_fMRCtN0c=",
-      "url": "https://storage-us-gcs.bfldr.com/pf7zqa-ff8if4-395ym5/v/1266822391/original/17682%20Weber_Stainless%20Steel%20Cleaner.png?Expires=1784652261&KeyName=gcs-bfldr-prod&Signature=dQ1zlaRnBZGUv7_kXo_fMRCtN0c="
+      "original_url": "https://storage-us-gcs.bfldr.com/pf7zqa-ff8if4-395ym5/v/1266822391/original/17682%20Weber_Stainless%20Steel%20Cleaner.png?Expires=1784897137&KeyName=gcs-bfldr-prod&Signature=LY1iCQuLLN2Yt_rUsy7mO3u9dG0=",
+      "url": "https://storage-us-gcs.bfldr.com/pf7zqa-ff8if4-395ym5/v/1266822391/original/17682%20Weber_Stainless%20Steel%20Cleaner.png?Expires=1784897137&KeyName=gcs-bfldr-prod&Signature=LY1iCQuLLN2Yt_rUsy7mO3u9dG0="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "18284",
   "assets": [
     {
@@ -55,8 +55,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9zm5hrkvcgbncw9bnmnm7r/18284_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9zm5hrkvcgbncw9bnmnm7r/v/1291562891/original/18284_1800x1800.png?Expires=1784652293&KeyName=gcs-bfldr-prod&Signature=Q20Oocyz8OWhloLA-igCJrXrmkk=",
-      "url": "https://storage-us-gcs.bfldr.com/9zm5hrkvcgbncw9bnmnm7r/v/1291562891/original/18284_1800x1800.png?Expires=1784652293&KeyName=gcs-bfldr-prod&Signature=Q20Oocyz8OWhloLA-igCJrXrmkk="
+      "original_url": "https://storage-us-gcs.bfldr.com/9zm5hrkvcgbncw9bnmnm7r/v/1291562891/original/18284_1800x1800.png?Expires=1784897196&KeyName=gcs-bfldr-prod&Signature=ATP3-C6Pxic8088-7tH3ExtHEBQ=",
+      "url": "https://storage-us-gcs.bfldr.com/9zm5hrkvcgbncw9bnmnm7r/v/1291562891/original/18284_1800x1800.png?Expires=1784897196&KeyName=gcs-bfldr-prod&Signature=ATP3-C6Pxic8088-7tH3ExtHEBQ="
     },
     {
       "attachment_id": "wjxmhgmx9m6hcffnng6q64w",
@@ -83,8 +83,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3pxb5k467qrm9cqpjt3q3h5/18284_pkopen_Rev3_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/3pxb5k467qrm9cqpjt3q3h5/v/1291562893/original/18284_pkopen_Rev3_1800x1800.png?Expires=1784652293&KeyName=gcs-bfldr-prod&Signature=r14VCHrGIACSAAgXbF0TDskernE=",
-      "url": "https://storage-us-gcs.bfldr.com/3pxb5k467qrm9cqpjt3q3h5/v/1291562893/original/18284_pkopen_Rev3_1800x1800.png?Expires=1784652293&KeyName=gcs-bfldr-prod&Signature=r14VCHrGIACSAAgXbF0TDskernE="
+      "original_url": "https://storage-us-gcs.bfldr.com/3pxb5k467qrm9cqpjt3q3h5/v/1291562893/original/18284_pkopen_Rev3_1800x1800.png?Expires=1784897196&KeyName=gcs-bfldr-prod&Signature=Poo_lzoWKuqIcZTIjxy9VOreNPI=",
+      "url": "https://storage-us-gcs.bfldr.com/3pxb5k467qrm9cqpjt3q3h5/v/1291562893/original/18284_pkopen_Rev3_1800x1800.png?Expires=1784897196&KeyName=gcs-bfldr-prod&Signature=Poo_lzoWKuqIcZTIjxy9VOreNPI="
     },
     {
       "attachment_id": "tz95tfn7rf6g5ncvp99np",

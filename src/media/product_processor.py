@@ -68,7 +68,21 @@ def print_audit_result(
             f"  Papildu WooCommerce attēli: "
             f"{audit['extra_images']}"
         )
+def image_info(image: dict) -> dict:
+    """
+    Sagatavo vienotu attēla informāciju HTML atskaitei.
+    """
 
+    return {
+        "filename": display_filename(image),
+        "url": (
+            str(
+                image.get("src")
+                or image.get("url")
+                or ""
+            ).strip()
+        ),
+    }
 def process_product(
     product: dict[str, Any],
     *,
@@ -87,6 +101,15 @@ def process_product(
         "verify_status": "NOT_RUN",
         "action": "ERROR",
         "message": "",
+        "wc_count": 0,
+        "brandfolder_count": 0,
+        "missing_count": 0,
+        "extra_count": 0,
+        "duplicate_count": 0,
+        "existing_images": [],
+        "missing_images": [],
+        "skipped_images": [],
+        "payload_images": [],
     }
 
     if not sku:
@@ -108,6 +131,11 @@ def process_product(
     audit_status = str(audit["status"])
     result["audit_status"] = audit_status
     result["message"] = str(audit["message"])
+    result["wc_count"] = int(audit.get("wc_count") or 0)
+    result["brandfolder_count"] = int(audit.get("brandfolder_count") or 0)
+    result["missing_count"] = int(audit.get("missing_count") or 0)
+    result["extra_count"] = int(audit.get("extra_count") or 0)
+    result["duplicate_count"] = int(audit.get("duplicate_count") or 0)
 
     print_audit_result(
         audit,
@@ -162,6 +190,83 @@ def process_product(
     missing_images = plan["missing_images"]
     skipped_images = plan["skipped_due_to_limit"]
 
+    result["existing_images"] = [
+        image_info(image)
+        for image in plan["existing_images"]
+    ]
+
+    result["missing_images"] = [
+        image_info(image)
+        for image in missing_images
+    ]
+
+    result["skipped_images"] = [
+        image_info(image)
+        for image in skipped_images
+    ]
+
+    result["payload_images"] = [
+        image_info(image)
+        for image in plan["payload_images"]
+    ]
+
+    result["existing_image_urls"] = [
+        str(
+            image.get("src")
+            or image.get("url")
+            or ""
+        ).strip()
+        for image in plan["existing_images"]
+        if str(
+            image.get("src")
+            or image.get("url")
+            or ""
+        ).strip()
+    ]
+
+    result["missing_image_urls"] = [
+        str(
+            image.get("src")
+            or image.get("url")
+            or ""
+        ).strip()
+        for image in missing_images
+        if str(
+            image.get("src")
+            or image.get("url")
+            or ""
+        ).strip()
+    ]
+
+    result["skipped_image_urls"] = [
+        str(
+            image.get("src")
+            or image.get("url")
+            or ""
+        ).strip()
+        for image in skipped_images
+        if str(
+            image.get("src")
+            or image.get("url")
+            or ""
+        ).strip()
+    ]
+
+    result["payload_image_urls"] = [
+        str(
+            image.get("src")
+            or image.get("url")
+            or ""
+        ).strip()
+        for image in plan["payload_images"]
+        if str(
+            image.get("src")
+            or image.get("url")
+            or ""
+        ).strip()
+    ]
+
+    result["target_image_count"] = len(plan["payload_images"])
     print(
         f"  Pievienojamie attēli: {len(missing_images)}"
     )

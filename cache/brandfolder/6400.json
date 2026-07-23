@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6400",
   "assets": [
     {
@@ -136,8 +136,8 @@
       "asset_name": "Burger Press 6483 Food 6483A pkg",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6400",
-        "6483"
+        "6483",
+        "6400"
       ]
     },
     {
@@ -154,8 +154,8 @@
       "asset_name": "Burger Press",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6483",
-        "6400"
+        "6400",
+        "6483"
       ]
     },
     {
@@ -172,8 +172,8 @@
       "asset_name": "Burger Press",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6483",
-        "6400"
+        "6400",
+        "6483"
       ]
     },
     {
@@ -208,8 +208,8 @@
       "asset_name": "Burger Press 6483 Food 6483 BurgerPress 1000x1000 BurgerBrilliance",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6483",
-        "6400"
+        "6400",
+        "6483"
       ]
     },
     {
@@ -217,8 +217,8 @@
       "asset_name": "Burger Press 6483 Food 6483 BurgerPress 1000x1000 BurgerBrilliance Specs",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6400",
-        "6483"
+        "6483",
+        "6400"
       ]
     },
     {
@@ -226,8 +226,8 @@
       "asset_name": "Burger Press 6483 Food 6483 BurgerPress 1000x1000 Hero",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6483",
-        "6400"
+        "6400",
+        "6483"
       ]
     },
     {
@@ -260,8 +260,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/24g4n9tr6fvvkqtt8wx4v49/6400_Y_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/24g4n9tr6fvvkqtt8wx4v49/v/1270522933/original/6400_Y_rgb.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=G_5z75vrNlzLWsnh5VChOphVMEs=",
-      "url": "https://storage-us-gcs.bfldr.com/24g4n9tr6fvvkqtt8wx4v49/v/1270522933/original/6400_Y_rgb.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=G_5z75vrNlzLWsnh5VChOphVMEs="
+      "original_url": "https://storage-us-gcs.bfldr.com/24g4n9tr6fvvkqtt8wx4v49/v/1270522933/original/6400_Y_rgb.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=WVXXTCK6pUSxlv1MK6dPXeX1LGs=",
+      "url": "https://storage-us-gcs.bfldr.com/24g4n9tr6fvvkqtt8wx4v49/v/1270522933/original/6400_Y_rgb.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=WVXXTCK6pUSxlv1MK6dPXeX1LGs="
     },
     {
       "attachment_id": "3s3vxzr45c83sznzgrntmjn9",
@@ -274,8 +274,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3s3vxzr45c83sznzgrntmjn9/Burger%20Press%206483%20Food%206483M1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/3s3vxzr45c83sznzgrntmjn9/v/1279408992/original/Burger%20Press%206483%20Food%206483M1.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=narEdm9YzNf6RsnWBjYDp1QmiVQ=",
-      "url": "https://storage-us-gcs.bfldr.com/3s3vxzr45c83sznzgrntmjn9/v/1279408992/original/Burger%20Press%206483%20Food%206483M1.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=narEdm9YzNf6RsnWBjYDp1QmiVQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/3s3vxzr45c83sznzgrntmjn9/v/1279408992/original/Burger%20Press%206483%20Food%206483M1.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=owSploka80SMu5MC_Ua2YseEwtU=",
+      "url": "https://storage-us-gcs.bfldr.com/3s3vxzr45c83sznzgrntmjn9/v/1279408992/original/Burger%20Press%206483%20Food%206483M1.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=owSploka80SMu5MC_Ua2YseEwtU="
     },
     {
       "attachment_id": "87kv4mstg796wmkcrmj5bp6",
@@ -288,8 +288,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/87kv4mstg796wmkcrmj5bp6/Burger%20Press%206483%20Food%206483M2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/87kv4mstg796wmkcrmj5bp6/v/1279408995/original/Burger%20Press%206483%20Food%206483M2.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=WoLs_0v9k7VoXjp8xZwVhvGjKBY=",
-      "url": "https://storage-us-gcs.bfldr.com/87kv4mstg796wmkcrmj5bp6/v/1279408995/original/Burger%20Press%206483%20Food%206483M2.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=WoLs_0v9k7VoXjp8xZwVhvGjKBY="
+      "original_url": "https://storage-us-gcs.bfldr.com/87kv4mstg796wmkcrmj5bp6/v/1279408995/original/Burger%20Press%206483%20Food%206483M2.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=L-r9AhgBk4wnKTnnbB54565qrtU=",
+      "url": "https://storage-us-gcs.bfldr.com/87kv4mstg796wmkcrmj5bp6/v/1279408995/original/Burger%20Press%206483%20Food%206483M2.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=L-r9AhgBk4wnKTnnbB54565qrtU="
     },
     {
       "attachment_id": "gbqjtsw6cckrf7xjbmgb5",
@@ -302,8 +302,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gbqjtsw6cckrf7xjbmgb5/Burger%20Press%206483%20Food%206483M3.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gbqjtsw6cckrf7xjbmgb5/v/1279408997/original/Burger%20Press%206483%20Food%206483M3.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=R9mfw2OEAmZKVSe_-gEy4eES2Cs=",
-      "url": "https://storage-us-gcs.bfldr.com/gbqjtsw6cckrf7xjbmgb5/v/1279408997/original/Burger%20Press%206483%20Food%206483M3.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=R9mfw2OEAmZKVSe_-gEy4eES2Cs="
+      "original_url": "https://storage-us-gcs.bfldr.com/gbqjtsw6cckrf7xjbmgb5/v/1279408997/original/Burger%20Press%206483%20Food%206483M3.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=ety0pSRKLUx3mgxB0C1c9Jwlk14=",
+      "url": "https://storage-us-gcs.bfldr.com/gbqjtsw6cckrf7xjbmgb5/v/1279408997/original/Burger%20Press%206483%20Food%206483M3.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=ety0pSRKLUx3mgxB0C1c9Jwlk14="
     },
     {
       "attachment_id": "w6hpkszwpxwhvpmpzqnqhm",
@@ -316,8 +316,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w6hpkszwpxwhvpmpzqnqhm/Burger%20Press%206483%20Food%206483M4.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/w6hpkszwpxwhvpmpzqnqhm/v/1279408998/original/Burger%20Press%206483%20Food%206483M4.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=FmnRTOhVC0mwztnPmdfwNZlmXsg=",
-      "url": "https://storage-us-gcs.bfldr.com/w6hpkszwpxwhvpmpzqnqhm/v/1279408998/original/Burger%20Press%206483%20Food%206483M4.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=FmnRTOhVC0mwztnPmdfwNZlmXsg="
+      "original_url": "https://storage-us-gcs.bfldr.com/w6hpkszwpxwhvpmpzqnqhm/v/1279408998/original/Burger%20Press%206483%20Food%206483M4.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=gJtbVY-NRc_n59dyT7HegMHPtJU=",
+      "url": "https://storage-us-gcs.bfldr.com/w6hpkszwpxwhvpmpzqnqhm/v/1279408998/original/Burger%20Press%206483%20Food%206483M4.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=gJtbVY-NRc_n59dyT7HegMHPtJU="
     },
     {
       "attachment_id": "frhpngbtm5n9w5fgwg8r59p",
@@ -330,8 +330,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/frhpngbtm5n9w5fgwg8r59p/Burger%20Press%206483%20Food%206483M5.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/frhpngbtm5n9w5fgwg8r59p/v/1279408999/original/Burger%20Press%206483%20Food%206483M5.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=QokE7qQrqbCp-FJUASDybOceGXA=",
-      "url": "https://storage-us-gcs.bfldr.com/frhpngbtm5n9w5fgwg8r59p/v/1279408999/original/Burger%20Press%206483%20Food%206483M5.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=QokE7qQrqbCp-FJUASDybOceGXA="
+      "original_url": "https://storage-us-gcs.bfldr.com/frhpngbtm5n9w5fgwg8r59p/v/1279408999/original/Burger%20Press%206483%20Food%206483M5.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=vGqcm-xTap9TYLEuxRYhHtX6KeE=",
+      "url": "https://storage-us-gcs.bfldr.com/frhpngbtm5n9w5fgwg8r59p/v/1279408999/original/Burger%20Press%206483%20Food%206483M5.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=vGqcm-xTap9TYLEuxRYhHtX6KeE="
     },
     {
       "attachment_id": "khqshfqsmppswgm9fp53s9p9",
@@ -344,8 +344,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/khqshfqsmppswgm9fp53s9p9/Burger%20Press%206483%20Food%206483M6.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/khqshfqsmppswgm9fp53s9p9/v/1279409000/original/Burger%20Press%206483%20Food%206483M6.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=bHG1nTwPIIy52v7xvmLbvP57Okg=",
-      "url": "https://storage-us-gcs.bfldr.com/khqshfqsmppswgm9fp53s9p9/v/1279409000/original/Burger%20Press%206483%20Food%206483M6.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=bHG1nTwPIIy52v7xvmLbvP57Okg="
+      "original_url": "https://storage-us-gcs.bfldr.com/khqshfqsmppswgm9fp53s9p9/v/1279409000/original/Burger%20Press%206483%20Food%206483M6.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=pQZm22oQlW1WJOWuRsIX7_Q5NfU=",
+      "url": "https://storage-us-gcs.bfldr.com/khqshfqsmppswgm9fp53s9p9/v/1279409000/original/Burger%20Press%206483%20Food%206483M6.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=pQZm22oQlW1WJOWuRsIX7_Q5NfU="
     },
     {
       "attachment_id": "bfwxq89vtcw24j7qfwgjzb4",
@@ -358,8 +358,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bfwxq89vtcw24j7qfwgjzb4/Burger%20Press%206483%20Food%206483M7.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bfwxq89vtcw24j7qfwgjzb4/v/1279409001/original/Burger%20Press%206483%20Food%206483M7.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=SNCfB8Pgdx2qYuhtHVdot0HUZqk=",
-      "url": "https://storage-us-gcs.bfldr.com/bfwxq89vtcw24j7qfwgjzb4/v/1279409001/original/Burger%20Press%206483%20Food%206483M7.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=SNCfB8Pgdx2qYuhtHVdot0HUZqk="
+      "original_url": "https://storage-us-gcs.bfldr.com/bfwxq89vtcw24j7qfwgjzb4/v/1279409001/original/Burger%20Press%206483%20Food%206483M7.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=Osv_8tn3SVSuQ68Cw8LuTWfxvqI=",
+      "url": "https://storage-us-gcs.bfldr.com/bfwxq89vtcw24j7qfwgjzb4/v/1279409001/original/Burger%20Press%206483%20Food%206483M7.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=Osv_8tn3SVSuQ68Cw8LuTWfxvqI="
     },
     {
       "attachment_id": "9vg4k8tjmr9bcf7996sn55t6",
@@ -372,8 +372,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9vg4k8tjmr9bcf7996sn55t6/Burger%20Press%206483%20Food%206483M8.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9vg4k8tjmr9bcf7996sn55t6/v/1279409002/original/Burger%20Press%206483%20Food%206483M8.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=-sqr1zdtVr5QMSmY_7JwsLFttck=",
-      "url": "https://storage-us-gcs.bfldr.com/9vg4k8tjmr9bcf7996sn55t6/v/1279409002/original/Burger%20Press%206483%20Food%206483M8.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=-sqr1zdtVr5QMSmY_7JwsLFttck="
+      "original_url": "https://storage-us-gcs.bfldr.com/9vg4k8tjmr9bcf7996sn55t6/v/1279409002/original/Burger%20Press%206483%20Food%206483M8.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=MzWPTH8W20WtECRKkIglb8KRkBI=",
+      "url": "https://storage-us-gcs.bfldr.com/9vg4k8tjmr9bcf7996sn55t6/v/1279409002/original/Burger%20Press%206483%20Food%206483M8.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=MzWPTH8W20WtECRKkIglb8KRkBI="
     },
     {
       "attachment_id": "b3f9tr6tswf2znxn45f9x8",
@@ -386,8 +386,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/b3f9tr6tswf2znxn45f9x8/Burger%20Press%206483%20Food%206483M9.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/b3f9tr6tswf2znxn45f9x8/v/1279409004/original/Burger%20Press%206483%20Food%206483M9.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=ugEkZZwqHESqFeIdA2-G0esgva0=",
-      "url": "https://storage-us-gcs.bfldr.com/b3f9tr6tswf2znxn45f9x8/v/1279409004/original/Burger%20Press%206483%20Food%206483M9.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=ugEkZZwqHESqFeIdA2-G0esgva0="
+      "original_url": "https://storage-us-gcs.bfldr.com/b3f9tr6tswf2znxn45f9x8/v/1279409004/original/Burger%20Press%206483%20Food%206483M9.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=Mi6Kc310o-F77KOhB1alfulSg0k=",
+      "url": "https://storage-us-gcs.bfldr.com/b3f9tr6tswf2znxn45f9x8/v/1279409004/original/Burger%20Press%206483%20Food%206483M9.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=Mi6Kc310o-F77KOhB1alfulSg0k="
     },
     {
       "attachment_id": "g9q7xncqb9bhf2bx3j7vrhv",
@@ -400,8 +400,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g9q7xncqb9bhf2bx3j7vrhv/Burger%20Press%206483%20Food%206483M10.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/g9q7xncqb9bhf2bx3j7vrhv/v/1279408993/original/Burger%20Press%206483%20Food%206483M10.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=J0Xy7fsBY1RxObqxvqarhrVBnM8=",
-      "url": "https://storage-us-gcs.bfldr.com/g9q7xncqb9bhf2bx3j7vrhv/v/1279408993/original/Burger%20Press%206483%20Food%206483M10.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=J0Xy7fsBY1RxObqxvqarhrVBnM8="
+      "original_url": "https://storage-us-gcs.bfldr.com/g9q7xncqb9bhf2bx3j7vrhv/v/1279408993/original/Burger%20Press%206483%20Food%206483M10.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=29-D6oFntrIH8NihrVmH0M8iVs8=",
+      "url": "https://storage-us-gcs.bfldr.com/g9q7xncqb9bhf2bx3j7vrhv/v/1279408993/original/Burger%20Press%206483%20Food%206483M10.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=29-D6oFntrIH8NihrVmH0M8iVs8="
     },
     {
       "attachment_id": "sqr5vnns7v3ffppwb3m6qvh",
@@ -414,8 +414,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sqr5vnns7v3ffppwb3m6qvh/Burger%20Press%206483%20Food%206483M11.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/sqr5vnns7v3ffppwb3m6qvh/v/1279408994/original/Burger%20Press%206483%20Food%206483M11.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=ASG6J4E1DtmIZOA2jWL_REBH0i8=",
-      "url": "https://storage-us-gcs.bfldr.com/sqr5vnns7v3ffppwb3m6qvh/v/1279408994/original/Burger%20Press%206483%20Food%206483M11.jpg?Expires=1784652303&KeyName=gcs-bfldr-prod&Signature=ASG6J4E1DtmIZOA2jWL_REBH0i8="
+      "original_url": "https://storage-us-gcs.bfldr.com/sqr5vnns7v3ffppwb3m6qvh/v/1279408994/original/Burger%20Press%206483%20Food%206483M11.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=BM3ITnO3lm9IszLURDZjtpoMr2Y=",
+      "url": "https://storage-us-gcs.bfldr.com/sqr5vnns7v3ffppwb3m6qvh/v/1279408994/original/Burger%20Press%206483%20Food%206483M11.jpg?Expires=1784897209&KeyName=gcs-bfldr-prod&Signature=BM3ITnO3lm9IszLURDZjtpoMr2Y="
     }
   ]
 }

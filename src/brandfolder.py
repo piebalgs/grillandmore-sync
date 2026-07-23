@@ -55,7 +55,7 @@ EXCLUDED_FILENAME_MARKERS = {
 }
 
 # Palielināta versija, lai netiktu izmantota vecā kešatmiņa.
-CACHE_VERSION = 5
+CACHE_VERSION = 6
 
 
 class BrandfolderError(RuntimeError):
@@ -464,6 +464,42 @@ def get_asset_skus(
     return skus
 
 
+def get_asset_tag_skus(
+    *,
+    asset: dict[str, Any],
+    included_by_id: dict[str, dict[str, Any]],
+) -> list[str]:
+    """Nolasa SKU formas tagus, kas piesaistīti Brandfolder aktīvam."""
+    tag_ids = relationship_ids(
+        asset,
+        ("tags",),
+    )
+
+    skus: list[str] = []
+
+    for item_id in tag_ids:
+        item = included_by_id.get(item_id)
+
+        if not item or item.get("type") != "tags":
+            continue
+
+        attributes = item.get("attributes", {})
+
+        if not isinstance(attributes, dict):
+            continue
+
+        tag_name = str(attributes.get("name") or "").strip()
+
+        # Par SKU tagu uzskatām tikai tagu, kurā ir atsevišķs
+        # vismaz četru ciparu kods. Pārējie aprakstošie tagi netraucē.
+        sku = normalize_sku(tag_name)
+
+        if sku and re.fullmatch(r"\d{4,}", sku) and sku not in skus:
+            skus.append(sku)
+
+    return skus
+
+
 def get_asset_images(
     *,
     asset: dict[str, Any],
@@ -604,6 +640,7 @@ def search_collection(
                 "search": normalized_sku,
                 "include": (
                     "attachments,"
+                    "tags,"
                     "custom_fields"
                 ),
                 "per": 100,
@@ -666,10 +703,21 @@ def parse_search_response(
         }:
             continue
 
-        asset_skus = get_asset_skus(
+        custom_field_skus = get_asset_skus(
             asset=asset,
             included_by_id=included_by_id,
         )
+
+        tag_skus = get_asset_tag_skus(
+            asset=asset,
+            included_by_id=included_by_id,
+        )
+
+        asset_skus = list(custom_field_skus)
+
+        for tag_sku in tag_skus:
+            if tag_sku not in asset_skus:
+                asset_skus.append(tag_sku)
 
         normalized_asset_skus = {
             normalize_sku(value)

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401337",
   "assets": [
     {
@@ -177,8 +177,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/95r8mnxjkk73ctv6jqvb2rv8/7771%20Griddle%2028%20%20Cover%207771A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/95r8mnxjkk73ctv6jqvb2rv8/v/1279457715/original/7771%20Griddle%2028%20Cover%207771A_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=1ne_0TpHM8LhWrqCqLWicZaUozY=",
-      "url": "https://storage-us-gcs.bfldr.com/95r8mnxjkk73ctv6jqvb2rv8/v/1279457715/original/7771%20Griddle%2028%20Cover%207771A_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=1ne_0TpHM8LhWrqCqLWicZaUozY="
+      "original_url": "https://storage-us-gcs.bfldr.com/95r8mnxjkk73ctv6jqvb2rv8/v/1279457715/original/7771%20Griddle%2028%20Cover%207771A_rgb.png?Expires=1784897426&KeyName=gcs-bfldr-prod&Signature=XwCgrv_WW6-U55CNGn21enflbdk=",
+      "url": "https://storage-us-gcs.bfldr.com/95r8mnxjkk73ctv6jqvb2rv8/v/1279457715/original/7771%20Griddle%2028%20Cover%207771A_rgb.png?Expires=1784897426&KeyName=gcs-bfldr-prod&Signature=XwCgrv_WW6-U55CNGn21enflbdk="
     },
     {
       "attachment_id": "t79n3tv4nx6vc89bg8mvv",
@@ -191,8 +191,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/t79n3tv4nx6vc89bg8mvv/7771%20Griddle%2028%20%20Cover%207771B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/t79n3tv4nx6vc89bg8mvv/v/1279457717/original/7771%20Griddle%2028%20Cover%207771B_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=SJYv-StLMfnWeXDEpR8im0pHV3Y=",
-      "url": "https://storage-us-gcs.bfldr.com/t79n3tv4nx6vc89bg8mvv/v/1279457717/original/7771%20Griddle%2028%20Cover%207771B_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=SJYv-StLMfnWeXDEpR8im0pHV3Y="
+      "original_url": "https://storage-us-gcs.bfldr.com/t79n3tv4nx6vc89bg8mvv/v/1279457717/original/7771%20Griddle%2028%20Cover%207771B_rgb.png?Expires=1784897426&KeyName=gcs-bfldr-prod&Signature=Rq1-vQigrC8IXth3DJPMbU7ppW8=",
+      "url": "https://storage-us-gcs.bfldr.com/t79n3tv4nx6vc89bg8mvv/v/1279457717/original/7771%20Griddle%2028%20Cover%207771B_rgb.png?Expires=1784897426&KeyName=gcs-bfldr-prod&Signature=Rq1-vQigrC8IXth3DJPMbU7ppW8="
     },
     {
       "attachment_id": "q6n4npjbmxtz65krrqrxswh",
@@ -205,8 +205,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q6n4npjbmxtz65krrqrxswh/7771%20Griddle%2028%20%20Cover%207771C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q6n4npjbmxtz65krrqrxswh/v/1279457719/original/7771%20Griddle%2028%20Cover%207771C_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=LuIaPn4iHeTYeAypnfalMCmhWOw=",
-      "url": "https://storage-us-gcs.bfldr.com/q6n4npjbmxtz65krrqrxswh/v/1279457719/original/7771%20Griddle%2028%20Cover%207771C_rgb.png?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=LuIaPn4iHeTYeAypnfalMCmhWOw="
+      "original_url": "https://storage-us-gcs.bfldr.com/q6n4npjbmxtz65krrqrxswh/v/1279457719/original/7771%20Griddle%2028%20Cover%207771C_rgb.png?Expires=1784897426&KeyName=gcs-bfldr-prod&Signature=PzleYEFnV78G_4KqT44vGmgK3xQ=",
+      "url": "https://storage-us-gcs.bfldr.com/q6n4npjbmxtz65krrqrxswh/v/1279457719/original/7771%20Griddle%2028%20Cover%207771C_rgb.png?Expires=1784897426&KeyName=gcs-bfldr-prod&Signature=PzleYEFnV78G_4KqT44vGmgK3xQ="
     },
     {
       "attachment_id": "j62sv9wjbqmb5pfgvg59f4f",
@@ -219,8 +219,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j62sv9wjbqmb5pfgvg59f4f/7771YM1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/j62sv9wjbqmb5pfgvg59f4f/v/1279457721/original/7771YM1_rgb.jpg?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=TGl_nEL6UDnMdcOG5pHX7FicNTI=",
-      "url": "https://storage-us-gcs.bfldr.com/j62sv9wjbqmb5pfgvg59f4f/v/1279457721/original/7771YM1_rgb.jpg?Expires=1784652388&KeyName=gcs-bfldr-prod&Signature=TGl_nEL6UDnMdcOG5pHX7FicNTI="
+      "original_url": "https://storage-us-gcs.bfldr.com/j62sv9wjbqmb5pfgvg59f4f/v/1279457721/original/7771YM1_rgb.jpg?Expires=1784897426&KeyName=gcs-bfldr-prod&Signature=SoF3JiLxuGo3_ooA55r_ENF39R8=",
+      "url": "https://storage-us-gcs.bfldr.com/j62sv9wjbqmb5pfgvg59f4f/v/1279457721/original/7771YM1_rgb.jpg?Expires=1784897426&KeyName=gcs-bfldr-prod&Signature=SoF3JiLxuGo3_ooA55r_ENF39R8="
     }
   ]
 }

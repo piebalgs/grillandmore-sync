@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400589",
   "assets": [
     {
@@ -18,9 +18,9 @@
         "3400589",
         "3401191",
         "3401488",
+        "3401307",
         "3401219",
-        "3401201",
-        "3401307"
+        "3401201"
       ]
     },
     {
@@ -28,15 +28,15 @@
       "asset_name": "[Global]  Smart Wireless Probe w/ Charger",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401307",
-        "3401789",
-        "3400603",
-        "3400589",
-        "3401201",
-        "3400604",
         "3400620",
+        "3400603",
+        "3401789",
+        "3400604",
+        "3401201",
+        "3401191",
+        "3401307",
         "3401219",
-        "3401191"
+        "3400589"
       ]
     },
     {
@@ -44,16 +44,16 @@
       "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400589",
-        "3401488",
-        "3401201",
+        "3401219",
         "3401307",
         "3401191",
         "3401789",
+        "3401488",
         "3400604",
-        "3400603",
+        "3401201",
+        "3400589",
         "3400620",
-        "3401219"
+        "3400603"
       ]
     },
     {
@@ -61,16 +61,16 @@
       "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3400604",
+        "3401191",
+        "3401488",
+        "3401201",
+        "3400589",
+        "3400603",
         "3400620",
         "3401307",
-        "3401488",
         "3401789",
-        "3401191",
-        "3401201",
-        "3400603",
-        "3401219",
-        "3400604",
-        "3400589"
+        "3401219"
       ]
     },
     {
@@ -78,16 +78,16 @@
       "asset_name": "[Global]  Smart Wireless Probe w/ Charger or Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401488",
-        "3401201",
         "3400589",
-        "3400604",
-        "3401191",
-        "3401219",
-        "3400603",
-        "3401307",
+        "3401789",
         "3400620",
-        "3401789"
+        "3401201",
+        "3401191",
+        "3400604",
+        "3401219",
+        "3401307",
+        "3400603",
+        "3401488"
       ]
     },
     {
@@ -95,11 +95,11 @@
       "asset_name": "Wireless Probe Plus with Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400589",
-        "3400604",
-        "3400620",
         "3400603",
-        "3401789"
+        "3400620",
+        "3400604",
+        "3401789",
+        "3400589"
       ]
     },
     {
@@ -235,11 +235,11 @@
       "asset_name": "Smart Wireless Probe w/ Charger or Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400589",
-        "3400604",
-        "3401789",
         "3400603",
-        "3400620"
+        "3400589",
+        "3400620",
+        "3401789",
+        "3400604"
       ]
     },
     {
@@ -247,11 +247,11 @@
       "asset_name": "Smart Wireless Probe w/ Charger or Booster",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400620",
+        "3400604",
+        "3400603",
         "3400589",
         "3401789",
-        "3400603",
-        "3400604"
+        "3400620"
       ]
     },
     {
@@ -259,11 +259,11 @@
       "asset_name": "How To: Understanding the Booster and Charger Icons",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401789",
-        "3400589",
         "3400603",
         "3400620",
-        "3400604"
+        "3401789",
+        "3400604",
+        "3400589"
       ]
     },
     {
@@ -272,10 +272,10 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "3400589",
+        "3400620",
         "3401789",
-        "3400604",
         "3400603",
-        "3400620"
+        "3400604"
       ]
     },
     {
@@ -283,11 +283,11 @@
       "asset_name": "How To: Maintaining the Best Connection",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401789",
-        "3400603",
         "3400620",
+        "3401789",
+        "3400604",
         "3400589",
-        "3400604"
+        "3400603"
       ]
     }
   ],
@@ -303,8 +303,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jftg5xw9vkbh79z6xnk6t5t/3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/jftg5xw9vkbh79z6xnk6t5t/v/1324099895/original/3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg?Expires=1784652442&KeyName=gcs-bfldr-prod&Signature=kHE5uz8-DAetaWUHgYrQ9kO83Dg=",
-      "url": "https://storage-us-gcs.bfldr.com/jftg5xw9vkbh79z6xnk6t5t/v/1324099895/original/3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg?Expires=1784652442&KeyName=gcs-bfldr-prod&Signature=kHE5uz8-DAetaWUHgYrQ9kO83Dg="
+      "original_url": "https://storage-us-gcs.bfldr.com/jftg5xw9vkbh79z6xnk6t5t/v/1324099895/original/3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=2aitGVdlYCRuLuEUcaZmSfPfB5A=",
+      "url": "https://storage-us-gcs.bfldr.com/jftg5xw9vkbh79z6xnk6t5t/v/1324099895/original/3400603_001_WirelessProbePlus_FY2026_US_CA_rgb.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=2aitGVdlYCRuLuEUcaZmSfPfB5A="
     },
     {
       "attachment_id": "n7qct3nxpvvjg73sgrbhwspv",
@@ -317,8 +317,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n7qct3nxpvvjg73sgrbhwspv/3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/n7qct3nxpvvjg73sgrbhwspv/v/1324099894/original/3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg?Expires=1784652442&KeyName=gcs-bfldr-prod&Signature=yl3sAXy22tASoI8if9Iaf880oLY=",
-      "url": "https://storage-us-gcs.bfldr.com/n7qct3nxpvvjg73sgrbhwspv/v/1324099894/original/3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg?Expires=1784652442&KeyName=gcs-bfldr-prod&Signature=yl3sAXy22tASoI8if9Iaf880oLY="
+      "original_url": "https://storage-us-gcs.bfldr.com/n7qct3nxpvvjg73sgrbhwspv/v/1324099894/original/3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=YeN_K0Qg1XIlYdLMF9jbr1ZR_hc=",
+      "url": "https://storage-us-gcs.bfldr.com/n7qct3nxpvvjg73sgrbhwspv/v/1324099894/original/3400603_001_WirelessProbePlus_FY2026_US_CA_V2_rgb.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=YeN_K0Qg1XIlYdLMF9jbr1ZR_hc="
     },
     {
       "attachment_id": "cxk2gn5x3cff4kgfkvnbhw",
@@ -331,8 +331,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cxk2gn5x3cff4kgfkvnbhw/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cxk2gn5x3cff4kgfkvnbhw/v/1280375316/original/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=gd9-w8ZBitXH3yI1jGvxOfgDVyA=",
-      "url": "https://storage-us-gcs.bfldr.com/cxk2gn5x3cff4kgfkvnbhw/v/1280375316/original/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=gd9-w8ZBitXH3yI1jGvxOfgDVyA="
+      "original_url": "https://storage-us-gcs.bfldr.com/cxk2gn5x3cff4kgfkvnbhw/v/1280375316/original/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=no5ZgiK2elmiNXed-6dL2JvP_v4=",
+      "url": "https://storage-us-gcs.bfldr.com/cxk2gn5x3cff4kgfkvnbhw/v/1280375316/original/3400603_004-GIF_WirelessProbePlus_FY2026_US_CA.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=no5ZgiK2elmiNXed-6dL2JvP_v4="
     },
     {
       "attachment_id": "bt85bjwwxq5j6p6qmx7sx9sn",
@@ -345,8 +345,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bt85bjwwxq5j6p6qmx7sx9sn/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bt85bjwwxq5j6p6qmx7sx9sn/v/1280374464/original/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=VjbW8Z32pag62sCnqdjaiWi2hzk=",
-      "url": "https://storage-us-gcs.bfldr.com/bt85bjwwxq5j6p6qmx7sx9sn/v/1280374464/original/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=VjbW8Z32pag62sCnqdjaiWi2hzk="
+      "original_url": "https://storage-us-gcs.bfldr.com/bt85bjwwxq5j6p6qmx7sx9sn/v/1280374464/original/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=3FKpJi76Vy-omCZo88VQRv039PY=",
+      "url": "https://storage-us-gcs.bfldr.com/bt85bjwwxq5j6p6qmx7sx9sn/v/1280374464/original/3400603_014_WirelessProbePlus_FY2026_US_CA_V2.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=3FKpJi76Vy-omCZo88VQRv039PY="
     },
     {
       "attachment_id": "rqgmr5hgvh276g5v8prbrhz",
@@ -359,8 +359,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rqgmr5hgvh276g5v8prbrhz/3400603_Wireless%20Probe%20Plus%20WBooster_AB_AMER.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rqgmr5hgvh276g5v8prbrhz/v/1304915096/original/3400603_Wireless%20Probe%20Plus%20WBooster_AB_AMER.png?Expires=1784652442&KeyName=gcs-bfldr-prod&Signature=5F2jaifo-VZAPisBSUP_fSv35_M=",
-      "url": "https://storage-us-gcs.bfldr.com/rqgmr5hgvh276g5v8prbrhz/v/1304915096/original/3400603_Wireless%20Probe%20Plus%20WBooster_AB_AMER.png?Expires=1784652442&KeyName=gcs-bfldr-prod&Signature=5F2jaifo-VZAPisBSUP_fSv35_M="
+      "original_url": "https://storage-us-gcs.bfldr.com/rqgmr5hgvh276g5v8prbrhz/v/1304915096/original/3400603_Wireless%20Probe%20Plus%20WBooster_AB_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=uDYwBrkF_pwImPZbYofrsZJP6fM=",
+      "url": "https://storage-us-gcs.bfldr.com/rqgmr5hgvh276g5v8prbrhz/v/1304915096/original/3400603_Wireless%20Probe%20Plus%20WBooster_AB_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=uDYwBrkF_pwImPZbYofrsZJP6fM="
     },
     {
       "attachment_id": "9cpbw2vpxwf8kq25rmtn9v",
@@ -373,8 +373,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9cpbw2vpxwf8kq25rmtn9v/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9cpbw2vpxwf8kq25rmtn9v/v/1291470694/original/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=q3k86ZHNvsd5UwVz7jqwTpCPABY=",
-      "url": "https://storage-us-gcs.bfldr.com/9cpbw2vpxwf8kq25rmtn9v/v/1291470694/original/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=q3k86ZHNvsd5UwVz7jqwTpCPABY="
+      "original_url": "https://storage-us-gcs.bfldr.com/9cpbw2vpxwf8kq25rmtn9v/v/1291470694/original/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=UILULymLj4PDW2r8OG9dCpwUoZo=",
+      "url": "https://storage-us-gcs.bfldr.com/9cpbw2vpxwf8kq25rmtn9v/v/1291470694/original/3400603_Wireless%20Probe%20Plus%20WBooster_AC_AMER_rgb.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=UILULymLj4PDW2r8OG9dCpwUoZo="
     },
     {
       "attachment_id": "9jcth7jzkz6p7kfn5wks7cx",
@@ -387,8 +387,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9jcth7jzkz6p7kfn5wks7cx/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9jcth7jzkz6p7kfn5wks7cx/v/1291470695/original/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=SKATGUaHUcfk6sQUJpA2DSvYaFs=",
-      "url": "https://storage-us-gcs.bfldr.com/9jcth7jzkz6p7kfn5wks7cx/v/1291470695/original/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=SKATGUaHUcfk6sQUJpA2DSvYaFs="
+      "original_url": "https://storage-us-gcs.bfldr.com/9jcth7jzkz6p7kfn5wks7cx/v/1291470695/original/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=nvXYrXv_LB325B3inaS8wlUPpPo=",
+      "url": "https://storage-us-gcs.bfldr.com/9jcth7jzkz6p7kfn5wks7cx/v/1291470695/original/3400603_Wireless%20Probe%20Plus%20WBooster_A_AMER_rgb.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=nvXYrXv_LB325B3inaS8wlUPpPo="
     },
     {
       "attachment_id": "f6mxcf4cb8rh43j6x4fjc46p",
@@ -401,8 +401,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f6mxcf4cb8rh43j6x4fjc46p/3400603_Wireless%20Probe%20Plus%20WBooster_BB_AMER.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/f6mxcf4cb8rh43j6x4fjc46p/v/1304915102/original/3400603_Wireless%20Probe%20Plus%20WBooster_BB_AMER.png?Expires=1784652442&KeyName=gcs-bfldr-prod&Signature=u0j4_kSbpIaUREcCprsjvepmVNc=",
-      "url": "https://storage-us-gcs.bfldr.com/f6mxcf4cb8rh43j6x4fjc46p/v/1304915102/original/3400603_Wireless%20Probe%20Plus%20WBooster_BB_AMER.png?Expires=1784652442&KeyName=gcs-bfldr-prod&Signature=u0j4_kSbpIaUREcCprsjvepmVNc="
+      "original_url": "https://storage-us-gcs.bfldr.com/f6mxcf4cb8rh43j6x4fjc46p/v/1304915102/original/3400603_Wireless%20Probe%20Plus%20WBooster_BB_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=rfzYaYIJLZF5OFdezxEWEH4aDdw=",
+      "url": "https://storage-us-gcs.bfldr.com/f6mxcf4cb8rh43j6x4fjc46p/v/1304915102/original/3400603_Wireless%20Probe%20Plus%20WBooster_BB_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=rfzYaYIJLZF5OFdezxEWEH4aDdw="
     },
     {
       "attachment_id": "tkfwg6gt9pg67rj8h68ngc",
@@ -415,8 +415,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tkfwg6gt9pg67rj8h68ngc/3400603_Wireless%20Probe%20Plus%20WBooster_BC_AMER.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tkfwg6gt9pg67rj8h68ngc/v/1304915108/original/3400603_Wireless%20Probe%20Plus%20WBooster_BC_AMER.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=gRPFTOJUuL7h4WKLAtsFoxLVeCo=",
-      "url": "https://storage-us-gcs.bfldr.com/tkfwg6gt9pg67rj8h68ngc/v/1304915108/original/3400603_Wireless%20Probe%20Plus%20WBooster_BC_AMER.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=gRPFTOJUuL7h4WKLAtsFoxLVeCo="
+      "original_url": "https://storage-us-gcs.bfldr.com/tkfwg6gt9pg67rj8h68ngc/v/1304915108/original/3400603_Wireless%20Probe%20Plus%20WBooster_BC_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=NeYWHldFXUwr-0zr4tAYHAcIW1Q=",
+      "url": "https://storage-us-gcs.bfldr.com/tkfwg6gt9pg67rj8h68ngc/v/1304915108/original/3400603_Wireless%20Probe%20Plus%20WBooster_BC_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=NeYWHldFXUwr-0zr4tAYHAcIW1Q="
     },
     {
       "attachment_id": "3x78gntpm4sv74zwm369rqh",
@@ -429,8 +429,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3x78gntpm4sv74zwm369rqh/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/3x78gntpm4sv74zwm369rqh/v/1291470699/original/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=hHtrqVRUJCAsMET4JCLZpJjhru4=",
-      "url": "https://storage-us-gcs.bfldr.com/3x78gntpm4sv74zwm369rqh/v/1291470699/original/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=hHtrqVRUJCAsMET4JCLZpJjhru4="
+      "original_url": "https://storage-us-gcs.bfldr.com/3x78gntpm4sv74zwm369rqh/v/1291470699/original/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=4UPRKz47Rwh-y5VDK_G5xPpI_Vs=",
+      "url": "https://storage-us-gcs.bfldr.com/3x78gntpm4sv74zwm369rqh/v/1291470699/original/3400603_Wireless%20Probe%20Plus%20WBooster_B_AMER_rgb.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=4UPRKz47Rwh-y5VDK_G5xPpI_Vs="
     },
     {
       "attachment_id": "c4pp6m9pj46r3k25r6c8xk",
@@ -443,8 +443,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/c4pp6m9pj46r3k25r6c8xk/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/c4pp6m9pj46r3k25r6c8xk/v/1291470700/original/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=X6XEPWC1U3CM7k1FxyXDzgnThZc=",
-      "url": "https://storage-us-gcs.bfldr.com/c4pp6m9pj46r3k25r6c8xk/v/1291470700/original/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=X6XEPWC1U3CM7k1FxyXDzgnThZc="
+      "original_url": "https://storage-us-gcs.bfldr.com/c4pp6m9pj46r3k25r6c8xk/v/1291470700/original/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=uB_L0aynlfy6PcN5IRuLVWp49rY=",
+      "url": "https://storage-us-gcs.bfldr.com/c4pp6m9pj46r3k25r6c8xk/v/1291470700/original/3400603_Wireless%20Probe%20Plus%20WBooster_CB_AMER_rgb.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=uB_L0aynlfy6PcN5IRuLVWp49rY="
     },
     {
       "attachment_id": "kmks7f7tkvbqqf6tbskc2s",
@@ -457,8 +457,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kmks7f7tkvbqqf6tbskc2s/3400603_Wireless%20Probe%20Plus%20WBooster_CC_AMER.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kmks7f7tkvbqqf6tbskc2s/v/1304915115/original/3400603_Wireless%20Probe%20Plus%20WBooster_CC_AMER.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=zwKCoo9sUE0KNe3IQM30bDaC0TA=",
-      "url": "https://storage-us-gcs.bfldr.com/kmks7f7tkvbqqf6tbskc2s/v/1304915115/original/3400603_Wireless%20Probe%20Plus%20WBooster_CC_AMER.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=zwKCoo9sUE0KNe3IQM30bDaC0TA="
+      "original_url": "https://storage-us-gcs.bfldr.com/kmks7f7tkvbqqf6tbskc2s/v/1304915115/original/3400603_Wireless%20Probe%20Plus%20WBooster_CC_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=fDILuy_EO9pZiNV6iFZW94nEYqE=",
+      "url": "https://storage-us-gcs.bfldr.com/kmks7f7tkvbqqf6tbskc2s/v/1304915115/original/3400603_Wireless%20Probe%20Plus%20WBooster_CC_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=fDILuy_EO9pZiNV6iFZW94nEYqE="
     },
     {
       "attachment_id": "2vhvw44qcj94q7pbj2r7",
@@ -471,8 +471,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2vhvw44qcj94q7pbj2r7/3400603_Wireless%20Probe%20Plus%20WBooster_C_AMER.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2vhvw44qcj94q7pbj2r7/v/1304915121/original/3400603_Wireless%20Probe%20Plus%20WBooster_C_AMER.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=3z3q1CdL_ODz6Wmo-GSMzyBTdw8=",
-      "url": "https://storage-us-gcs.bfldr.com/2vhvw44qcj94q7pbj2r7/v/1304915121/original/3400603_Wireless%20Probe%20Plus%20WBooster_C_AMER.png?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=3z3q1CdL_ODz6Wmo-GSMzyBTdw8="
+      "original_url": "https://storage-us-gcs.bfldr.com/2vhvw44qcj94q7pbj2r7/v/1304915121/original/3400603_Wireless%20Probe%20Plus%20WBooster_C_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=xMn_Tm3qaDj2Mgpx-hH_pT7HCtM=",
+      "url": "https://storage-us-gcs.bfldr.com/2vhvw44qcj94q7pbj2r7/v/1304915121/original/3400603_Wireless%20Probe%20Plus%20WBooster_C_AMER.png?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=xMn_Tm3qaDj2Mgpx-hH_pT7HCtM="
     },
     {
       "attachment_id": "68smh5pv46mktkmh94q66qh",
@@ -485,8 +485,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/68smh5pv46mktkmh94q66qh/3400626_022_SmartHub_FY2026_US_CA.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/68smh5pv46mktkmh94q66qh/v/1278478927/original/3400626_022_SmartHub_FY2026_US_CA.jpg?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=wP_SOfL8660d6Grgzhq4l5s8NfI=",
-      "url": "https://storage-us-gcs.bfldr.com/68smh5pv46mktkmh94q66qh/v/1278478927/original/3400626_022_SmartHub_FY2026_US_CA.jpg?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=wP_SOfL8660d6Grgzhq4l5s8NfI="
+      "original_url": "https://storage-us-gcs.bfldr.com/68smh5pv46mktkmh94q66qh/v/1278478927/original/3400626_022_SmartHub_FY2026_US_CA.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=HhhSfNdSX3Duwpz5xF1-KCKqRFw=",
+      "url": "https://storage-us-gcs.bfldr.com/68smh5pv46mktkmh94q66qh/v/1278478927/original/3400626_022_SmartHub_FY2026_US_CA.jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=HhhSfNdSX3Duwpz5xF1-KCKqRFw="
     },
     {
       "attachment_id": "bvb4779m3sc927rm9pq7",
@@ -499,8 +499,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bvb4779m3sc927rm9pq7/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20%282%29.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bvb4779m3sc927rm9pq7/v/1278854434/original/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20(2).jpg?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=3TzlITjP0lPNy_4uUXXhxu7kQHE=",
-      "url": "https://storage-us-gcs.bfldr.com/bvb4779m3sc927rm9pq7/v/1278854434/original/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20(2).jpg?Expires=1784652441&KeyName=gcs-bfldr-prod&Signature=3TzlITjP0lPNy_4uUXXhxu7kQHE="
+      "original_url": "https://storage-us-gcs.bfldr.com/bvb4779m3sc927rm9pq7/v/1278854434/original/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20(2).jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=8uPJPQHbTlIdpiWXjvod4fc2N-Y=",
+      "url": "https://storage-us-gcs.bfldr.com/bvb4779m3sc927rm9pq7/v/1278854434/original/3401191_003_SmartWirelessProbeBLK_FY2026_US_CA_V2%20(2).jpg?Expires=1784897554&KeyName=gcs-bfldr-prod&Signature=8uPJPQHbTlIdpiWXjvod4fc2N-Y="
     }
   ]
 }

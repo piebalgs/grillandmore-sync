@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "8449",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Adapter Kit 8449 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "8449"
+        "8449",
+        "1000"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Adapter Kit 8449 Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "8449"
+        "8449",
+        "1000"
       ]
     },
     {
@@ -39,8 +41,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi5fmp-6ynpe8-fqxq7k/8449C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi5fmp-6ynpe8-fqxq7k/v/2648727/original/8449C.png?Expires=1784652460&KeyName=gcs-bfldr-prod&Signature=I1VTP7xZApx-SLd3TzUzKJy-kHY=",
-      "url": "https://storage-us-gcs.bfldr.com/pi5fmp-6ynpe8-fqxq7k/v/2648727/original/8449C.png?Expires=1784652460&KeyName=gcs-bfldr-prod&Signature=I1VTP7xZApx-SLd3TzUzKJy-kHY="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi5fmp-6ynpe8-fqxq7k/v/2648727/original/8449C.png?Expires=1784897595&KeyName=gcs-bfldr-prod&Signature=RBI_PV4FMTZSv-PeTgMgIjgUhLg=",
+      "url": "https://storage-us-gcs.bfldr.com/pi5fmp-6ynpe8-fqxq7k/v/2648727/original/8449C.png?Expires=1784897595&KeyName=gcs-bfldr-prod&Signature=RBI_PV4FMTZSv-PeTgMgIjgUhLg="
     },
     {
       "attachment_id": "pi5fmp-6ynpe8-8ffybd",
@@ -53,8 +55,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi5fmp-6ynpe8-8ffybd/8449Y1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi5fmp-6ynpe8-8ffybd/v/2648728/original/8449Y1.jpg?Expires=1784652460&KeyName=gcs-bfldr-prod&Signature=lxQPa4fGNfM6V27NynuIzMjVO8U=",
-      "url": "https://storage-us-gcs.bfldr.com/pi5fmp-6ynpe8-8ffybd/v/2648728/original/8449Y1.jpg?Expires=1784652460&KeyName=gcs-bfldr-prod&Signature=lxQPa4fGNfM6V27NynuIzMjVO8U="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi5fmp-6ynpe8-8ffybd/v/2648728/original/8449Y1.jpg?Expires=1784897595&KeyName=gcs-bfldr-prod&Signature=K4L8prkO13S8IFfnuJNZ7GVRtmg=",
+      "url": "https://storage-us-gcs.bfldr.com/pi5fmp-6ynpe8-8ffybd/v/2648728/original/8449Y1.jpg?Expires=1784897595&KeyName=gcs-bfldr-prod&Signature=K4L8prkO13S8IFfnuJNZ7GVRtmg="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "18201004",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "18201004 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201004"
+        "18201004",
+        "2021"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "18201004 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201004"
+        "18201004",
+        "2021"
       ]
     },
     {
@@ -24,7 +26,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "18201001"
+        "18201001",
+        "2021"
       ]
     },
     {
@@ -33,7 +36,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201001",
-        "18201004"
+        "18201004",
+        "2021"
       ]
     },
     {
@@ -41,8 +45,9 @@
       "asset_name": "Summit Kamado E6 Lifestyle",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201001",
         "18201004",
-        "18201001"
+        "2021"
       ]
     },
     {
@@ -51,7 +56,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "18201001"
+        "18201001",
+        "2021"
       ]
     },
     {
@@ -60,7 +66,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "18201001"
+        "18201001",
+        "2021"
       ]
     },
     {
@@ -69,6 +76,17 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201001",
+        "18201004",
+        "2021"
+      ]
+    },
+    {
+      "asset_id": "wpk65gbtp3c58mjfrh43tph4",
+      "asset_name": "DE Summit Kamado Launch Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "18501104",
+        "2021",
         "18201004"
       ]
     },
@@ -77,8 +95,9 @@
       "asset_name": "Summit Kamado E6 Capacity",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201004",
         "18201001",
-        "18201004"
+        "2021"
       ]
     },
     {
@@ -104,9 +123,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501311",
+        "18201001",
         "18201004",
-        "18201001"
+        "1501311"
       ]
     },
     {
@@ -124,9 +143,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201001",
         "1501311",
-        "18201004",
-        "18201001"
+        "18201004"
       ]
     },
     {
@@ -135,8 +154,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501311",
-        "18201001",
-        "18201004"
+        "18201004",
+        "18201001"
       ]
     },
     {
@@ -145,8 +164,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501311",
-        "18201001",
-        "18201004"
+        "18201004",
+        "18201001"
       ]
     },
     {
@@ -175,8 +194,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "18201001",
-        "1501311"
+        "1501311",
+        "18201001"
       ]
     },
     {
@@ -184,23 +203,13 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201004",
         "18201001",
-        "1501311"
+        "1501311",
+        "18201004"
       ]
     },
     {
       "asset_id": "ftq38m9jhwtwqnjjhrssbnw",
-      "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
-      "cdn_key": "XBRZ2A26",
-      "skus": [
-        "18201001",
-        "18201004",
-        "1501311"
-      ]
-    },
-    {
-      "asset_id": "3kq7mhb5nxh73gpg6mkbsgf",
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
@@ -210,13 +219,23 @@
       ]
     },
     {
+      "asset_id": "3kq7mhb5nxh73gpg6mkbsgf",
+      "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "1501311",
+        "18201004",
+        "18201001"
+      ]
+    },
+    {
       "asset_id": "bvwfzrc838wtfmkgt3hj38v",
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201004",
         "1501311",
-        "18201001"
+        "18201001",
+        "18201004"
       ]
     },
     {
@@ -224,8 +243,8 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201004",
         "1501311",
+        "18201004",
         "18201001"
       ]
     },
@@ -235,8 +254,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201001",
-        "18201004",
-        "1501311"
+        "1501311",
+        "18201004"
       ]
     },
     {
@@ -244,8 +263,8 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "1501311",
+        "18201001",
         "18201004"
       ]
     },
@@ -255,8 +274,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201001",
-        "18201004",
-        "1501311"
+        "1501311",
+        "18201004"
       ]
     },
     {
@@ -264,9 +283,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201001",
         "18201004",
-        "1501311",
-        "18201001"
+        "1501311"
       ]
     },
     {
@@ -274,9 +293,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201004",
         "18201001",
-        "1501311",
-        "18201004"
+        "1501311"
       ]
     },
     {
@@ -284,9 +303,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201004",
         "18201001",
-        "1501311",
-        "18201004"
+        "1501311"
       ]
     },
     {
@@ -304,8 +323,8 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "1501311",
+        "18201001",
         "18201004"
       ]
     },
@@ -315,8 +334,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501311",
-        "18201004",
-        "18201001"
+        "18201001",
+        "18201004"
       ]
     },
     {
@@ -324,9 +343,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201001",
         "18201004",
-        "1501311",
-        "18201001"
+        "1501311"
       ]
     },
     {
@@ -335,8 +354,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "1501311",
-        "18201001"
+        "18201001",
+        "1501311"
       ]
     },
     {
@@ -344,9 +363,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "1501311",
-        "18201004"
+        "18201004",
+        "18201001"
       ]
     },
     {
@@ -354,8 +373,8 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201004",
         "18201001",
+        "18201004",
         "1501311"
       ]
     },
@@ -374,9 +393,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201004",
         "18201001",
-        "1501311",
-        "18201004"
+        "1501311"
       ]
     },
     {
@@ -384,9 +403,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201004",
         "1501311",
-        "18201001",
-        "18201004"
+        "18201001"
       ]
     },
     {
@@ -394,8 +413,8 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "18201004",
+        "18201001",
         "1501311"
       ]
     },
@@ -405,8 +424,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501311",
-        "18201004",
-        "18201001"
+        "18201001",
+        "18201004"
       ]
     },
     {
@@ -414,9 +433,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501311",
         "18201004",
-        "18201001"
+        "18201001",
+        "1501311"
       ]
     },
     {
@@ -424,9 +443,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "1501311",
         "18201001",
-        "18201004",
-        "1501311"
+        "18201004"
       ]
     },
     {
@@ -445,8 +464,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501311",
-        "18201004",
-        "18201001"
+        "18201001",
+        "18201004"
       ]
     },
     {
@@ -455,8 +474,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501311",
-        "18201004",
-        "18201001"
+        "18201001",
+        "18201004"
       ]
     },
     {
@@ -474,9 +493,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501311",
         "18201004",
-        "18201001"
+        "18201001",
+        "1501311"
       ]
     },
     {
@@ -484,9 +503,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "18201001",
         "18201004",
-        "1501311",
-        "18201001"
+        "1501311"
       ]
     },
     {
@@ -494,8 +513,8 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "1501311",
+        "18201001",
         "18201004"
       ]
     },
@@ -505,8 +524,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501311",
-        "18201004",
-        "18201001"
+        "18201001",
+        "18201004"
       ]
     },
     {
@@ -524,9 +543,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501311",
+        "18201001",
         "18201004",
-        "18201001"
+        "1501311"
       ]
     },
     {
@@ -545,8 +564,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "1501311",
-        "18201001"
+        "18201001",
+        "1501311"
       ]
     },
     {
@@ -555,8 +574,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "1501311",
-        "18201001"
+        "18201001",
+        "1501311"
       ]
     },
     {
@@ -564,9 +583,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
+        "1501311",
         "18201004",
-        "1501311"
+        "18201001"
       ]
     },
     {
@@ -584,9 +603,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501311",
+        "18201001",
         "18201004",
-        "18201001"
+        "1501311"
       ]
     },
     {
@@ -605,8 +624,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1501311",
-        "18201004",
-        "18201001"
+        "18201001",
+        "18201004"
       ]
     },
     {
@@ -614,8 +633,8 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "18201004",
+        "18201001",
         "1501311"
       ]
     },
@@ -625,8 +644,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201001",
-        "1501311",
-        "18201004"
+        "18201004",
+        "1501311"
       ]
     },
     {
@@ -644,9 +663,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201004",
         "18201001",
-        "1501311"
+        "1501311",
+        "18201004"
       ]
     },
     {
@@ -665,8 +684,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "1501311",
-        "18201001"
+        "18201001",
+        "1501311"
       ]
     },
     {
@@ -695,8 +714,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "18201001",
-        "1501311"
+        "1501311",
+        "18201001"
       ]
     },
     {
@@ -714,9 +733,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "1501311",
-        "18201004"
+        "18201004",
+        "18201001"
       ]
     },
     {
@@ -725,8 +744,8 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "18201004",
-        "18201001",
-        "1501311"
+        "1501311",
+        "18201001"
       ]
     },
     {
@@ -744,9 +763,9 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "18201004",
-        "1501311"
+        "1501311",
+        "18201001"
       ]
     },
     {
@@ -754,8 +773,8 @@
       "asset_name": "[AMER/LATAM/EMEA] Summit Kamado E6",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18201001",
         "1501311",
+        "18201001",
         "18201004"
       ]
     },
@@ -780,8 +799,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9zw6brgf2rxwc7kqf7w7wffr/18201004BBR_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9zw6brgf2rxwc7kqf7w7wffr/v/1277910785/original/18201004BBR_rgb.png?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=wAsS78NoyPuxTeA5VQAWIJV7pSA=",
-      "url": "https://storage-us-gcs.bfldr.com/9zw6brgf2rxwc7kqf7w7wffr/v/1277910785/original/18201004BBR_rgb.png?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=wAsS78NoyPuxTeA5VQAWIJV7pSA="
+      "original_url": "https://storage-us-gcs.bfldr.com/9zw6brgf2rxwc7kqf7w7wffr/v/1277910785/original/18201004BBR_rgb.png?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=azEXwxjWzFK10WELnsB8dSi4HKI=",
+      "url": "https://storage-us-gcs.bfldr.com/9zw6brgf2rxwc7kqf7w7wffr/v/1277910785/original/18201004BBR_rgb.png?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=azEXwxjWzFK10WELnsB8dSi4HKI="
     },
     {
       "attachment_id": "9vs5phtt8xmqbgpzqgc3gpm",
@@ -836,8 +855,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mbphj7647w7xc9wqctnxkfwn/Summit_Kamado_E6_Ash_Catcher_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mbphj7647w7xc9wqctnxkfwn/v/1277904483/original/Summit_Kamado_E6_Ash_Catcher_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=sxQQybAU1o1MdzqHJzJNp09WjkM=",
-      "url": "https://storage-us-gcs.bfldr.com/mbphj7647w7xc9wqctnxkfwn/v/1277904483/original/Summit_Kamado_E6_Ash_Catcher_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=sxQQybAU1o1MdzqHJzJNp09WjkM="
+      "original_url": "https://storage-us-gcs.bfldr.com/mbphj7647w7xc9wqctnxkfwn/v/1277904483/original/Summit_Kamado_E6_Ash_Catcher_2_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=tvS8CzqMZ_-SP57Bsrc_jsHq1tI=",
+      "url": "https://storage-us-gcs.bfldr.com/mbphj7647w7xc9wqctnxkfwn/v/1277904483/original/Summit_Kamado_E6_Ash_Catcher_2_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=tvS8CzqMZ_-SP57Bsrc_jsHq1tI="
     },
     {
       "attachment_id": "bshthsmf6bv6fns9nhtzr8wj",
@@ -850,8 +869,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bshthsmf6bv6fns9nhtzr8wj/Summit_Kamado_E6_Ash_Catcher_3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bshthsmf6bv6fns9nhtzr8wj/v/1277904485/original/Summit_Kamado_E6_Ash_Catcher_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ZfXAlRW_7NLsKLVxyeik4-o24p0=",
-      "url": "https://storage-us-gcs.bfldr.com/bshthsmf6bv6fns9nhtzr8wj/v/1277904485/original/Summit_Kamado_E6_Ash_Catcher_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ZfXAlRW_7NLsKLVxyeik4-o24p0="
+      "original_url": "https://storage-us-gcs.bfldr.com/bshthsmf6bv6fns9nhtzr8wj/v/1277904485/original/Summit_Kamado_E6_Ash_Catcher_3_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=pVBpzvpMS2uKzSi5tn_CFZoaDkE=",
+      "url": "https://storage-us-gcs.bfldr.com/bshthsmf6bv6fns9nhtzr8wj/v/1277904485/original/Summit_Kamado_E6_Ash_Catcher_3_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=pVBpzvpMS2uKzSi5tn_CFZoaDkE="
     },
     {
       "attachment_id": "73kh6xcg9ts2v972tkf5mb6",
@@ -892,8 +911,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j7bkxh2hnjt5p8rnrtbh9wbm/Summit_Kamado_E6_Char-Baskets_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/j7bkxh2hnjt5p8rnrtbh9wbm/v/1277904488/original/Summit_Kamado_E6_Char-Baskets_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=z0nHtJu49yoSEnS0vty4eQ7G7vg=",
-      "url": "https://storage-us-gcs.bfldr.com/j7bkxh2hnjt5p8rnrtbh9wbm/v/1277904488/original/Summit_Kamado_E6_Char-Baskets_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=z0nHtJu49yoSEnS0vty4eQ7G7vg="
+      "original_url": "https://storage-us-gcs.bfldr.com/j7bkxh2hnjt5p8rnrtbh9wbm/v/1277904488/original/Summit_Kamado_E6_Char-Baskets_1_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=RvtzMMK6Gs4n0JbYYAwme7dh70E=",
+      "url": "https://storage-us-gcs.bfldr.com/j7bkxh2hnjt5p8rnrtbh9wbm/v/1277904488/original/Summit_Kamado_E6_Char-Baskets_1_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=RvtzMMK6Gs4n0JbYYAwme7dh70E="
     },
     {
       "attachment_id": "qvmqb4mbt5gvtgkm5rcq9qc",
@@ -906,8 +925,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qvmqb4mbt5gvtgkm5rcq9qc/Summit_Kamado_E6_Charcoal_Grate_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qvmqb4mbt5gvtgkm5rcq9qc/v/1277904489/original/Summit_Kamado_E6_Charcoal_Grate_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=beIoBfYAve7cErHJsKbIqGuzLog=",
-      "url": "https://storage-us-gcs.bfldr.com/qvmqb4mbt5gvtgkm5rcq9qc/v/1277904489/original/Summit_Kamado_E6_Charcoal_Grate_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=beIoBfYAve7cErHJsKbIqGuzLog="
+      "original_url": "https://storage-us-gcs.bfldr.com/qvmqb4mbt5gvtgkm5rcq9qc/v/1277904489/original/Summit_Kamado_E6_Charcoal_Grate_1_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=Ga3VaOIQB7KIeMEgL6DhiHtTpQc=",
+      "url": "https://storage-us-gcs.bfldr.com/qvmqb4mbt5gvtgkm5rcq9qc/v/1277904489/original/Summit_Kamado_E6_Charcoal_Grate_1_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=Ga3VaOIQB7KIeMEgL6DhiHtTpQc="
     },
     {
       "attachment_id": "bgggr6scsqs6fq64cfkpt988",
@@ -920,8 +939,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bgggr6scsqs6fq64cfkpt988/Summit_Kamado_E6_Charcoal_Grate_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bgggr6scsqs6fq64cfkpt988/v/1277904490/original/Summit_Kamado_E6_Charcoal_Grate_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=exNf-tnu_huHPqzLz7_6iBgy5Ig=",
-      "url": "https://storage-us-gcs.bfldr.com/bgggr6scsqs6fq64cfkpt988/v/1277904490/original/Summit_Kamado_E6_Charcoal_Grate_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=exNf-tnu_huHPqzLz7_6iBgy5Ig="
+      "original_url": "https://storage-us-gcs.bfldr.com/bgggr6scsqs6fq64cfkpt988/v/1277904490/original/Summit_Kamado_E6_Charcoal_Grate_2_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=glFZHw_lYnErYSICEkIrDNAUyVo=",
+      "url": "https://storage-us-gcs.bfldr.com/bgggr6scsqs6fq64cfkpt988/v/1277904490/original/Summit_Kamado_E6_Charcoal_Grate_2_rgb.jpg?Expires=1784897119&KeyName=gcs-bfldr-prod&Signature=glFZHw_lYnErYSICEkIrDNAUyVo="
     },
     {
       "attachment_id": "2gpxs878m4c4tpvb9gj97pk",
@@ -934,8 +953,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2gpxs878m4c4tpvb9gj97pk/Summit_Kamado_E6_ChickenSteak_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2gpxs878m4c4tpvb9gj97pk/v/1277904491/original/Summit_Kamado_E6_ChickenSteak_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=3u6jVpdet9A9UN5k1sFVixePvIs=",
-      "url": "https://storage-us-gcs.bfldr.com/2gpxs878m4c4tpvb9gj97pk/v/1277904491/original/Summit_Kamado_E6_ChickenSteak_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=3u6jVpdet9A9UN5k1sFVixePvIs="
+      "original_url": "https://storage-us-gcs.bfldr.com/2gpxs878m4c4tpvb9gj97pk/v/1277904491/original/Summit_Kamado_E6_ChickenSteak_1_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=d19AA1kgVnVGZoQMFBUDS75Al9c=",
+      "url": "https://storage-us-gcs.bfldr.com/2gpxs878m4c4tpvb9gj97pk/v/1277904491/original/Summit_Kamado_E6_ChickenSteak_1_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=d19AA1kgVnVGZoQMFBUDS75Al9c="
     },
     {
       "attachment_id": "6q7w4n58tswt2w5q4z68s9qk",
@@ -948,8 +967,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6q7w4n58tswt2w5q4z68s9qk/Summit_Kamado_E6_ChickenSteak_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6q7w4n58tswt2w5q4z68s9qk/v/1277904493/original/Summit_Kamado_E6_ChickenSteak_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=NRYyuXjmFgfEhl-KFpkh2JWFiZw=",
-      "url": "https://storage-us-gcs.bfldr.com/6q7w4n58tswt2w5q4z68s9qk/v/1277904493/original/Summit_Kamado_E6_ChickenSteak_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=NRYyuXjmFgfEhl-KFpkh2JWFiZw="
+      "original_url": "https://storage-us-gcs.bfldr.com/6q7w4n58tswt2w5q4z68s9qk/v/1277904493/original/Summit_Kamado_E6_ChickenSteak_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=dN5ni_sU_rSBLAu2ohvx3ixyYlE=",
+      "url": "https://storage-us-gcs.bfldr.com/6q7w4n58tswt2w5q4z68s9qk/v/1277904493/original/Summit_Kamado_E6_ChickenSteak_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=dN5ni_sU_rSBLAu2ohvx3ixyYlE="
     },
     {
       "attachment_id": "fgmgmknm63wqm734hj4np79n",
@@ -962,8 +981,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fgmgmknm63wqm734hj4np79n/Summit_Kamado_E6_ChickenSteak_4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/fgmgmknm63wqm734hj4np79n/v/1277904494/original/Summit_Kamado_E6_ChickenSteak_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=WcWVrXC7Y-6jINgyfim_UiFxM7I=",
-      "url": "https://storage-us-gcs.bfldr.com/fgmgmknm63wqm734hj4np79n/v/1277904494/original/Summit_Kamado_E6_ChickenSteak_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=WcWVrXC7Y-6jINgyfim_UiFxM7I="
+      "original_url": "https://storage-us-gcs.bfldr.com/fgmgmknm63wqm734hj4np79n/v/1277904494/original/Summit_Kamado_E6_ChickenSteak_4_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=O38EpnvcTTaXQ6WyaPeIHaRpnJI=",
+      "url": "https://storage-us-gcs.bfldr.com/fgmgmknm63wqm734hj4np79n/v/1277904494/original/Summit_Kamado_E6_ChickenSteak_4_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=O38EpnvcTTaXQ6WyaPeIHaRpnJI="
     },
     {
       "attachment_id": "9vkxjs8zc7g7j56bmw33tgb3",
@@ -976,8 +995,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9vkxjs8zc7g7j56bmw33tgb3/Summit_Kamado_E6_ChickenSteak_5_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9vkxjs8zc7g7j56bmw33tgb3/v/1277904495/original/Summit_Kamado_E6_ChickenSteak_5_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=kZMbJ3rOeioGd2j4-7-RK4gQk5I=",
-      "url": "https://storage-us-gcs.bfldr.com/9vkxjs8zc7g7j56bmw33tgb3/v/1277904495/original/Summit_Kamado_E6_ChickenSteak_5_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=kZMbJ3rOeioGd2j4-7-RK4gQk5I="
+      "original_url": "https://storage-us-gcs.bfldr.com/9vkxjs8zc7g7j56bmw33tgb3/v/1277904495/original/Summit_Kamado_E6_ChickenSteak_5_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=gG0h4-LgBiRdkeoAJEugPPgNq5M=",
+      "url": "https://storage-us-gcs.bfldr.com/9vkxjs8zc7g7j56bmw33tgb3/v/1277904495/original/Summit_Kamado_E6_ChickenSteak_5_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=gG0h4-LgBiRdkeoAJEugPPgNq5M="
     },
     {
       "attachment_id": "h35xp9k6c45747zrjqfpbsh",
@@ -990,8 +1009,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/h35xp9k6c45747zrjqfpbsh/Summit_Kamado_E6_ChickenSteak_6_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/h35xp9k6c45747zrjqfpbsh/v/1277904496/original/Summit_Kamado_E6_ChickenSteak_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=-FKlAoOCrVtk_P3oZ51aTGIsrts=",
-      "url": "https://storage-us-gcs.bfldr.com/h35xp9k6c45747zrjqfpbsh/v/1277904496/original/Summit_Kamado_E6_ChickenSteak_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=-FKlAoOCrVtk_P3oZ51aTGIsrts="
+      "original_url": "https://storage-us-gcs.bfldr.com/h35xp9k6c45747zrjqfpbsh/v/1277904496/original/Summit_Kamado_E6_ChickenSteak_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=XXWTdNlghTOakCqYVerHn78LnUE=",
+      "url": "https://storage-us-gcs.bfldr.com/h35xp9k6c45747zrjqfpbsh/v/1277904496/original/Summit_Kamado_E6_ChickenSteak_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=XXWTdNlghTOakCqYVerHn78LnUE="
     },
     {
       "attachment_id": "vkpcb4kq2vmhfcqnv8jf8vxf",
@@ -1004,8 +1023,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vkpcb4kq2vmhfcqnv8jf8vxf/Summit_Kamado_E6_ChickenSteak_7_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vkpcb4kq2vmhfcqnv8jf8vxf/v/1277904498/original/Summit_Kamado_E6_ChickenSteak_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ANKrfR6X6nuFkm77MMUUa7njiiI=",
-      "url": "https://storage-us-gcs.bfldr.com/vkpcb4kq2vmhfcqnv8jf8vxf/v/1277904498/original/Summit_Kamado_E6_ChickenSteak_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ANKrfR6X6nuFkm77MMUUa7njiiI="
+      "original_url": "https://storage-us-gcs.bfldr.com/vkpcb4kq2vmhfcqnv8jf8vxf/v/1277904498/original/Summit_Kamado_E6_ChickenSteak_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=K3rBKKbw-n4jc1m_felsKp__B8I=",
+      "url": "https://storage-us-gcs.bfldr.com/vkpcb4kq2vmhfcqnv8jf8vxf/v/1277904498/original/Summit_Kamado_E6_ChickenSteak_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=K3rBKKbw-n4jc1m_felsKp__B8I="
     },
     {
       "attachment_id": "xt7h4v2r7pbs9m394w5zqh5r",
@@ -1018,8 +1037,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xt7h4v2r7pbs9m394w5zqh5r/Summit_Kamado_E6_ChickenSteak_8_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xt7h4v2r7pbs9m394w5zqh5r/v/1277904500/original/Summit_Kamado_E6_ChickenSteak_8_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=MCfV2U2-7pbsBWC_Rwe9JlRLwmg=",
-      "url": "https://storage-us-gcs.bfldr.com/xt7h4v2r7pbs9m394w5zqh5r/v/1277904500/original/Summit_Kamado_E6_ChickenSteak_8_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=MCfV2U2-7pbsBWC_Rwe9JlRLwmg="
+      "original_url": "https://storage-us-gcs.bfldr.com/xt7h4v2r7pbs9m394w5zqh5r/v/1277904500/original/Summit_Kamado_E6_ChickenSteak_8_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=CTdYLpHPmEflaQUqg727uvXd2M8=",
+      "url": "https://storage-us-gcs.bfldr.com/xt7h4v2r7pbs9m394w5zqh5r/v/1277904500/original/Summit_Kamado_E6_ChickenSteak_8_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=CTdYLpHPmEflaQUqg727uvXd2M8="
     },
     {
       "attachment_id": "4xptctc7nkfz5mbr7nhrz88",
@@ -1046,8 +1065,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4qqpsnvssrxxj3ssvs9h9jt/Summit_Kamado_E6_Damper_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4qqpsnvssrxxj3ssvs9h9jt/v/1277904502/original/Summit_Kamado_E6_Damper_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ooJ85mxLI0SIqxdnvfCwDcFZ244=",
-      "url": "https://storage-us-gcs.bfldr.com/4qqpsnvssrxxj3ssvs9h9jt/v/1277904502/original/Summit_Kamado_E6_Damper_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ooJ85mxLI0SIqxdnvfCwDcFZ244="
+      "original_url": "https://storage-us-gcs.bfldr.com/4qqpsnvssrxxj3ssvs9h9jt/v/1277904502/original/Summit_Kamado_E6_Damper_1_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=v7MORYBqoC6g9mO9VjUSx9JRc70=",
+      "url": "https://storage-us-gcs.bfldr.com/4qqpsnvssrxxj3ssvs9h9jt/v/1277904502/original/Summit_Kamado_E6_Damper_1_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=v7MORYBqoC6g9mO9VjUSx9JRc70="
     },
     {
       "attachment_id": "bz7gk9qf8x3tbv8kjks3x4k",
@@ -1060,8 +1079,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bz7gk9qf8x3tbv8kjks3x4k/Summit_Kamado_E6_Damper_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bz7gk9qf8x3tbv8kjks3x4k/v/1277904503/original/Summit_Kamado_E6_Damper_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=bO57x1tvJ4s5stCCw_7AJJMSbHo=",
-      "url": "https://storage-us-gcs.bfldr.com/bz7gk9qf8x3tbv8kjks3x4k/v/1277904503/original/Summit_Kamado_E6_Damper_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=bO57x1tvJ4s5stCCw_7AJJMSbHo="
+      "original_url": "https://storage-us-gcs.bfldr.com/bz7gk9qf8x3tbv8kjks3x4k/v/1277904503/original/Summit_Kamado_E6_Damper_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=mFxmfUkenZbmxfNHRI-MANoXmns=",
+      "url": "https://storage-us-gcs.bfldr.com/bz7gk9qf8x3tbv8kjks3x4k/v/1277904503/original/Summit_Kamado_E6_Damper_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=mFxmfUkenZbmxfNHRI-MANoXmns="
     },
     {
       "attachment_id": "3xrwskjj2pccczx54h8jttxq",
@@ -1074,8 +1093,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3xrwskjj2pccczx54h8jttxq/Summit_Kamado_E6_Damper_3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/3xrwskjj2pccczx54h8jttxq/v/1277904504/original/Summit_Kamado_E6_Damper_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Mxl1p34A5XOq_97Dk8BIYATjm-s=",
-      "url": "https://storage-us-gcs.bfldr.com/3xrwskjj2pccczx54h8jttxq/v/1277904504/original/Summit_Kamado_E6_Damper_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Mxl1p34A5XOq_97Dk8BIYATjm-s="
+      "original_url": "https://storage-us-gcs.bfldr.com/3xrwskjj2pccczx54h8jttxq/v/1277904504/original/Summit_Kamado_E6_Damper_3_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=_5fzrv2xAqpvDWZCiE90_7iX8rs=",
+      "url": "https://storage-us-gcs.bfldr.com/3xrwskjj2pccczx54h8jttxq/v/1277904504/original/Summit_Kamado_E6_Damper_3_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=_5fzrv2xAqpvDWZCiE90_7iX8rs="
     },
     {
       "attachment_id": "q3wgnnr6mg9wnsknwqp9vst",
@@ -1088,8 +1107,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q3wgnnr6mg9wnsknwqp9vst/Summit_Kamado_E6_Damper_4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q3wgnnr6mg9wnsknwqp9vst/v/1277904505/original/Summit_Kamado_E6_Damper_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Y7lwidyrUByADMxd3t1dG6I8XBY=",
-      "url": "https://storage-us-gcs.bfldr.com/q3wgnnr6mg9wnsknwqp9vst/v/1277904505/original/Summit_Kamado_E6_Damper_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Y7lwidyrUByADMxd3t1dG6I8XBY="
+      "original_url": "https://storage-us-gcs.bfldr.com/q3wgnnr6mg9wnsknwqp9vst/v/1277904505/original/Summit_Kamado_E6_Damper_4_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=ddvA8rLN9o4dwxiRnys2dH6xxCQ=",
+      "url": "https://storage-us-gcs.bfldr.com/q3wgnnr6mg9wnsknwqp9vst/v/1277904505/original/Summit_Kamado_E6_Damper_4_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=ddvA8rLN9o4dwxiRnys2dH6xxCQ="
     },
     {
       "attachment_id": "p6fkbq992khrkm3tjtq7sg8",
@@ -1102,8 +1121,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/p6fkbq992khrkm3tjtq7sg8/Summit_Kamado_E6_Damper_5_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/p6fkbq992khrkm3tjtq7sg8/v/1277904506/original/Summit_Kamado_E6_Damper_5_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=lqgwD55QQrL2e0MbZu5aqpH6o4Y=",
-      "url": "https://storage-us-gcs.bfldr.com/p6fkbq992khrkm3tjtq7sg8/v/1277904506/original/Summit_Kamado_E6_Damper_5_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=lqgwD55QQrL2e0MbZu5aqpH6o4Y="
+      "original_url": "https://storage-us-gcs.bfldr.com/p6fkbq992khrkm3tjtq7sg8/v/1277904506/original/Summit_Kamado_E6_Damper_5_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=IpkO-XpmtkFYLyliTjP3NkwaEvk=",
+      "url": "https://storage-us-gcs.bfldr.com/p6fkbq992khrkm3tjtq7sg8/v/1277904506/original/Summit_Kamado_E6_Damper_5_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=IpkO-XpmtkFYLyliTjP3NkwaEvk="
     },
     {
       "attachment_id": "3rtfk6pkg5gsgf93tm7v6zp3",
@@ -1116,8 +1135,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3rtfk6pkg5gsgf93tm7v6zp3/Summit_Kamado_E6_Damper_6_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/3rtfk6pkg5gsgf93tm7v6zp3/v/1277904507/original/Summit_Kamado_E6_Damper_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=-9e27sfzBimydR_FuQkNVYs0wU4=",
-      "url": "https://storage-us-gcs.bfldr.com/3rtfk6pkg5gsgf93tm7v6zp3/v/1277904507/original/Summit_Kamado_E6_Damper_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=-9e27sfzBimydR_FuQkNVYs0wU4="
+      "original_url": "https://storage-us-gcs.bfldr.com/3rtfk6pkg5gsgf93tm7v6zp3/v/1277904507/original/Summit_Kamado_E6_Damper_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=TLQkgqDvWosXx0W7OmfWufHtIcs=",
+      "url": "https://storage-us-gcs.bfldr.com/3rtfk6pkg5gsgf93tm7v6zp3/v/1277904507/original/Summit_Kamado_E6_Damper_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=TLQkgqDvWosXx0W7OmfWufHtIcs="
     },
     {
       "attachment_id": "54hh5gmt7xptjzfgghr9j79f",
@@ -1130,8 +1149,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/54hh5gmt7xptjzfgghr9j79f/Summit_Kamado_E6_Damper_7_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/54hh5gmt7xptjzfgghr9j79f/v/1277904508/original/Summit_Kamado_E6_Damper_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ObflFVWis3kfx-_lbXdrO-zH44Q=",
-      "url": "https://storage-us-gcs.bfldr.com/54hh5gmt7xptjzfgghr9j79f/v/1277904508/original/Summit_Kamado_E6_Damper_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ObflFVWis3kfx-_lbXdrO-zH44Q="
+      "original_url": "https://storage-us-gcs.bfldr.com/54hh5gmt7xptjzfgghr9j79f/v/1277904508/original/Summit_Kamado_E6_Damper_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=slUJ-BuFdhXb0viLHUJWUdhCD48=",
+      "url": "https://storage-us-gcs.bfldr.com/54hh5gmt7xptjzfgghr9j79f/v/1277904508/original/Summit_Kamado_E6_Damper_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=slUJ-BuFdhXb0viLHUJWUdhCD48="
     },
     {
       "attachment_id": "2x6j439sn5vkt78mqv8kfc7",
@@ -1158,8 +1177,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vzb5c9842cfjspg85gwfpq/Summit_Kamado_E6_Damper_9_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vzb5c9842cfjspg85gwfpq/v/1277904510/original/Summit_Kamado_E6_Damper_9_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Y8kEsF-0GBb8k1F6GbEn3JTmDQU=",
-      "url": "https://storage-us-gcs.bfldr.com/vzb5c9842cfjspg85gwfpq/v/1277904510/original/Summit_Kamado_E6_Damper_9_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Y8kEsF-0GBb8k1F6GbEn3JTmDQU="
+      "original_url": "https://storage-us-gcs.bfldr.com/vzb5c9842cfjspg85gwfpq/v/1277904510/original/Summit_Kamado_E6_Damper_9_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=xdBfQtECaEOx5o8g8yH32KlodGM=",
+      "url": "https://storage-us-gcs.bfldr.com/vzb5c9842cfjspg85gwfpq/v/1277904510/original/Summit_Kamado_E6_Damper_9_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=xdBfQtECaEOx5o8g8yH32KlodGM="
     },
     {
       "attachment_id": "f7xzp29hmg9vwrh7nvkh8r",
@@ -1186,8 +1205,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8mg7s3352hwpkr8hkv3c9935/Summit_Kamado_E6_Fajitas_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8mg7s3352hwpkr8hkv3c9935/v/1277904512/original/Summit_Kamado_E6_Fajitas_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=RHFcglGYkZsXVPVB0LfenlPEaBE=",
-      "url": "https://storage-us-gcs.bfldr.com/8mg7s3352hwpkr8hkv3c9935/v/1277904512/original/Summit_Kamado_E6_Fajitas_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=RHFcglGYkZsXVPVB0LfenlPEaBE="
+      "original_url": "https://storage-us-gcs.bfldr.com/8mg7s3352hwpkr8hkv3c9935/v/1277904512/original/Summit_Kamado_E6_Fajitas_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=9mG7veXfgpeqUe8ziRjof-Z63PI=",
+      "url": "https://storage-us-gcs.bfldr.com/8mg7s3352hwpkr8hkv3c9935/v/1277904512/original/Summit_Kamado_E6_Fajitas_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=9mG7veXfgpeqUe8ziRjof-Z63PI="
     },
     {
       "attachment_id": "wfqkxxjbmtgnhkcjshmrcm5",
@@ -1200,8 +1219,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wfqkxxjbmtgnhkcjshmrcm5/Summit_Kamado_E6_Fajitas_3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wfqkxxjbmtgnhkcjshmrcm5/v/1277904514/original/Summit_Kamado_E6_Fajitas_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=pRD16Z6m-csLs2uRPmXeOK1uInM=",
-      "url": "https://storage-us-gcs.bfldr.com/wfqkxxjbmtgnhkcjshmrcm5/v/1277904514/original/Summit_Kamado_E6_Fajitas_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=pRD16Z6m-csLs2uRPmXeOK1uInM="
+      "original_url": "https://storage-us-gcs.bfldr.com/wfqkxxjbmtgnhkcjshmrcm5/v/1277904514/original/Summit_Kamado_E6_Fajitas_3_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=ZXqZfM29d-qMoiKnS3J_hZMVx0E=",
+      "url": "https://storage-us-gcs.bfldr.com/wfqkxxjbmtgnhkcjshmrcm5/v/1277904514/original/Summit_Kamado_E6_Fajitas_3_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=ZXqZfM29d-qMoiKnS3J_hZMVx0E="
     },
     {
       "attachment_id": "rfrzcwm8x59j9bwcxq3xhvx",
@@ -1214,8 +1233,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rfrzcwm8x59j9bwcxq3xhvx/Summit_Kamado_E6_Fajitas_4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rfrzcwm8x59j9bwcxq3xhvx/v/1277904516/original/Summit_Kamado_E6_Fajitas_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ZOy5raWEryXIELNfuKK9qolZEOE=",
-      "url": "https://storage-us-gcs.bfldr.com/rfrzcwm8x59j9bwcxq3xhvx/v/1277904516/original/Summit_Kamado_E6_Fajitas_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ZOy5raWEryXIELNfuKK9qolZEOE="
+      "original_url": "https://storage-us-gcs.bfldr.com/rfrzcwm8x59j9bwcxq3xhvx/v/1277904516/original/Summit_Kamado_E6_Fajitas_4_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=3nuHoKiE55pe1E0jjFX9aERsZgI=",
+      "url": "https://storage-us-gcs.bfldr.com/rfrzcwm8x59j9bwcxq3xhvx/v/1277904516/original/Summit_Kamado_E6_Fajitas_4_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=3nuHoKiE55pe1E0jjFX9aERsZgI="
     },
     {
       "attachment_id": "36782n5qj3mjhqpbm4nqrh75",
@@ -1228,8 +1247,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/36782n5qj3mjhqpbm4nqrh75/Summit_Kamado_E6_Fajitas_5_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/36782n5qj3mjhqpbm4nqrh75/v/1277904517/original/Summit_Kamado_E6_Fajitas_5_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=KdvyKx-TZFE8zdaZvmSwFGmuc3g=",
-      "url": "https://storage-us-gcs.bfldr.com/36782n5qj3mjhqpbm4nqrh75/v/1277904517/original/Summit_Kamado_E6_Fajitas_5_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=KdvyKx-TZFE8zdaZvmSwFGmuc3g="
+      "original_url": "https://storage-us-gcs.bfldr.com/36782n5qj3mjhqpbm4nqrh75/v/1277904517/original/Summit_Kamado_E6_Fajitas_5_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=zVYO8wxkEwKQjpbJqf5H3fXOhzk=",
+      "url": "https://storage-us-gcs.bfldr.com/36782n5qj3mjhqpbm4nqrh75/v/1277904517/original/Summit_Kamado_E6_Fajitas_5_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=zVYO8wxkEwKQjpbJqf5H3fXOhzk="
     },
     {
       "attachment_id": "rj73c9ffwk2x2wh6s46s",
@@ -1242,8 +1261,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rj73c9ffwk2x2wh6s46s/Summit_Kamado_E6_Fajitas_6_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rj73c9ffwk2x2wh6s46s/v/1277904518/original/Summit_Kamado_E6_Fajitas_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=65K-UmS2IGDn1K30_YeUCf8WKME=",
-      "url": "https://storage-us-gcs.bfldr.com/rj73c9ffwk2x2wh6s46s/v/1277904518/original/Summit_Kamado_E6_Fajitas_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=65K-UmS2IGDn1K30_YeUCf8WKME="
+      "original_url": "https://storage-us-gcs.bfldr.com/rj73c9ffwk2x2wh6s46s/v/1277904518/original/Summit_Kamado_E6_Fajitas_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=in0sh6sPA4yIZGBxUjjz474uWZs=",
+      "url": "https://storage-us-gcs.bfldr.com/rj73c9ffwk2x2wh6s46s/v/1277904518/original/Summit_Kamado_E6_Fajitas_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=in0sh6sPA4yIZGBxUjjz474uWZs="
     },
     {
       "attachment_id": "67jqphrgvz63krqwwt5w",
@@ -1256,8 +1275,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/67jqphrgvz63krqwwt5w/Summit_Kamado_E6_Fajitas_7_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/67jqphrgvz63krqwwt5w/v/1277904519/original/Summit_Kamado_E6_Fajitas_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=tsR3F4q8BBRkxQnZIzoI3dOSKhg=",
-      "url": "https://storage-us-gcs.bfldr.com/67jqphrgvz63krqwwt5w/v/1277904519/original/Summit_Kamado_E6_Fajitas_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=tsR3F4q8BBRkxQnZIzoI3dOSKhg="
+      "original_url": "https://storage-us-gcs.bfldr.com/67jqphrgvz63krqwwt5w/v/1277904519/original/Summit_Kamado_E6_Fajitas_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=EBpHit2AjcHrKPWifuXkrKyyPDs=",
+      "url": "https://storage-us-gcs.bfldr.com/67jqphrgvz63krqwwt5w/v/1277904519/original/Summit_Kamado_E6_Fajitas_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=EBpHit2AjcHrKPWifuXkrKyyPDs="
     },
     {
       "attachment_id": "cr4vv3spxs64x83hmkcb3p9h",
@@ -1270,8 +1289,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cr4vv3spxs64x83hmkcb3p9h/Summit_Kamado_E6_Handle_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cr4vv3spxs64x83hmkcb3p9h/v/1277904520/original/Summit_Kamado_E6_Handle_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=zhb3jLeaA7AQJbqrsd71k1YndUE=",
-      "url": "https://storage-us-gcs.bfldr.com/cr4vv3spxs64x83hmkcb3p9h/v/1277904520/original/Summit_Kamado_E6_Handle_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=zhb3jLeaA7AQJbqrsd71k1YndUE="
+      "original_url": "https://storage-us-gcs.bfldr.com/cr4vv3spxs64x83hmkcb3p9h/v/1277904520/original/Summit_Kamado_E6_Handle_1_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=3p2zYuLCdI0xdPZW3XyUDsbTOr8=",
+      "url": "https://storage-us-gcs.bfldr.com/cr4vv3spxs64x83hmkcb3p9h/v/1277904520/original/Summit_Kamado_E6_Handle_1_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=3p2zYuLCdI0xdPZW3XyUDsbTOr8="
     },
     {
       "attachment_id": "2g6bjhnm9wcp7q5rpf8r964",
@@ -1284,8 +1303,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2g6bjhnm9wcp7q5rpf8r964/Summit_Kamado_E6_Lifestyle_3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2g6bjhnm9wcp7q5rpf8r964/v/1277904542/original/Summit_Kamado_E6_Lifestyle_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=hNhVXwQ0zW_YvyAosRA98PWDJMw=",
-      "url": "https://storage-us-gcs.bfldr.com/2g6bjhnm9wcp7q5rpf8r964/v/1277904542/original/Summit_Kamado_E6_Lifestyle_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=hNhVXwQ0zW_YvyAosRA98PWDJMw="
+      "original_url": "https://storage-us-gcs.bfldr.com/2g6bjhnm9wcp7q5rpf8r964/v/1277904542/original/Summit_Kamado_E6_Lifestyle_3_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=z9wt2D4Kelo8T00-_gYFRJCBWPs=",
+      "url": "https://storage-us-gcs.bfldr.com/2g6bjhnm9wcp7q5rpf8r964/v/1277904542/original/Summit_Kamado_E6_Lifestyle_3_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=z9wt2D4Kelo8T00-_gYFRJCBWPs="
     },
     {
       "attachment_id": "qhcrbh5979pr6xt57kp59rv",
@@ -1298,8 +1317,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qhcrbh5979pr6xt57kp59rv/Summit_Kamado_E6_Lifestyle_4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qhcrbh5979pr6xt57kp59rv/v/1277904543/original/Summit_Kamado_E6_Lifestyle_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=F4p560krqQmDOkbWw8WkizpCNZw=",
-      "url": "https://storage-us-gcs.bfldr.com/qhcrbh5979pr6xt57kp59rv/v/1277904543/original/Summit_Kamado_E6_Lifestyle_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=F4p560krqQmDOkbWw8WkizpCNZw="
+      "original_url": "https://storage-us-gcs.bfldr.com/qhcrbh5979pr6xt57kp59rv/v/1277904543/original/Summit_Kamado_E6_Lifestyle_4_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=sAd7z9FAV7Nb76rwXzV7bupylq0=",
+      "url": "https://storage-us-gcs.bfldr.com/qhcrbh5979pr6xt57kp59rv/v/1277904543/original/Summit_Kamado_E6_Lifestyle_4_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=sAd7z9FAV7Nb76rwXzV7bupylq0="
     },
     {
       "attachment_id": "n68rjqwnbx7mxj3mbvn4ctf",
@@ -1312,8 +1331,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/n68rjqwnbx7mxj3mbvn4ctf/Summit_Kamado_E6_Lifestyle_5_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/n68rjqwnbx7mxj3mbvn4ctf/v/1277904544/original/Summit_Kamado_E6_Lifestyle_5_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=9WLzQ-Rui1fqDpJb8vqhUvsnQd4=",
-      "url": "https://storage-us-gcs.bfldr.com/n68rjqwnbx7mxj3mbvn4ctf/v/1277904544/original/Summit_Kamado_E6_Lifestyle_5_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=9WLzQ-Rui1fqDpJb8vqhUvsnQd4="
+      "original_url": "https://storage-us-gcs.bfldr.com/n68rjqwnbx7mxj3mbvn4ctf/v/1277904544/original/Summit_Kamado_E6_Lifestyle_5_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=2Xv4o5rjLpnzMqpqppLo8_22a7I=",
+      "url": "https://storage-us-gcs.bfldr.com/n68rjqwnbx7mxj3mbvn4ctf/v/1277904544/original/Summit_Kamado_E6_Lifestyle_5_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=2Xv4o5rjLpnzMqpqppLo8_22a7I="
     },
     {
       "attachment_id": "hsr6jsqftnpmwqk4g72r5fg9",
@@ -1326,8 +1345,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hsr6jsqftnpmwqk4g72r5fg9/Summit_Kamado_E6_Lifestyle_6_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hsr6jsqftnpmwqk4g72r5fg9/v/1277904545/original/Summit_Kamado_E6_Lifestyle_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=nEYVAIlFXF4EcFbHX4oY-syYgAg=",
-      "url": "https://storage-us-gcs.bfldr.com/hsr6jsqftnpmwqk4g72r5fg9/v/1277904545/original/Summit_Kamado_E6_Lifestyle_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=nEYVAIlFXF4EcFbHX4oY-syYgAg="
+      "original_url": "https://storage-us-gcs.bfldr.com/hsr6jsqftnpmwqk4g72r5fg9/v/1277904545/original/Summit_Kamado_E6_Lifestyle_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=bvnk23MDk3n_B_zgLeC1xxsf2ys=",
+      "url": "https://storage-us-gcs.bfldr.com/hsr6jsqftnpmwqk4g72r5fg9/v/1277904545/original/Summit_Kamado_E6_Lifestyle_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=bvnk23MDk3n_B_zgLeC1xxsf2ys="
     },
     {
       "attachment_id": "kphqm5pk37n8qmscnhvmp5sx",
@@ -1340,8 +1359,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kphqm5pk37n8qmscnhvmp5sx/Summit_Kamado_E6_Lifestyle_7_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kphqm5pk37n8qmscnhvmp5sx/v/1277904546/original/Summit_Kamado_E6_Lifestyle_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=fNr-GL6HL3c-hmDT81ki35EJ-QM=",
-      "url": "https://storage-us-gcs.bfldr.com/kphqm5pk37n8qmscnhvmp5sx/v/1277904546/original/Summit_Kamado_E6_Lifestyle_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=fNr-GL6HL3c-hmDT81ki35EJ-QM="
+      "original_url": "https://storage-us-gcs.bfldr.com/kphqm5pk37n8qmscnhvmp5sx/v/1277904546/original/Summit_Kamado_E6_Lifestyle_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=zyyHhzqDjlnUGbarJ9h8Y1zL-9Y=",
+      "url": "https://storage-us-gcs.bfldr.com/kphqm5pk37n8qmscnhvmp5sx/v/1277904546/original/Summit_Kamado_E6_Lifestyle_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=zyyHhzqDjlnUGbarJ9h8Y1zL-9Y="
     },
     {
       "attachment_id": "47ht3qcn9bvtt4m4qg4ghc44",
@@ -1354,8 +1373,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/47ht3qcn9bvtt4m4qg4ghc44/Summit_Kamado_E6_Lifestyle_8_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/47ht3qcn9bvtt4m4qg4ghc44/v/1277904547/original/Summit_Kamado_E6_Lifestyle_8_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=BIxN_O8cSPIsPbl7_KteFmzks3M=",
-      "url": "https://storage-us-gcs.bfldr.com/47ht3qcn9bvtt4m4qg4ghc44/v/1277904547/original/Summit_Kamado_E6_Lifestyle_8_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=BIxN_O8cSPIsPbl7_KteFmzks3M="
+      "original_url": "https://storage-us-gcs.bfldr.com/47ht3qcn9bvtt4m4qg4ghc44/v/1277904547/original/Summit_Kamado_E6_Lifestyle_8_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=LMDMXdcIcHLAHyrXrLsXZtBfp_s=",
+      "url": "https://storage-us-gcs.bfldr.com/47ht3qcn9bvtt4m4qg4ghc44/v/1277904547/original/Summit_Kamado_E6_Lifestyle_8_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=LMDMXdcIcHLAHyrXrLsXZtBfp_s="
     },
     {
       "attachment_id": "45mt4bcqg4chpxwvgv9q8ppx",
@@ -1368,8 +1387,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/45mt4bcqg4chpxwvgv9q8ppx/Summit_Kamado_E6_Lifestyle_9_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/45mt4bcqg4chpxwvgv9q8ppx/v/1277904548/original/Summit_Kamado_E6_Lifestyle_9_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=mWppW-I28raVjVGIZkKS8GkFUt4=",
-      "url": "https://storage-us-gcs.bfldr.com/45mt4bcqg4chpxwvgv9q8ppx/v/1277904548/original/Summit_Kamado_E6_Lifestyle_9_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=mWppW-I28raVjVGIZkKS8GkFUt4="
+      "original_url": "https://storage-us-gcs.bfldr.com/45mt4bcqg4chpxwvgv9q8ppx/v/1277904548/original/Summit_Kamado_E6_Lifestyle_9_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=ci_PcxK06K15EWXGF_Us_coJICk=",
+      "url": "https://storage-us-gcs.bfldr.com/45mt4bcqg4chpxwvgv9q8ppx/v/1277904548/original/Summit_Kamado_E6_Lifestyle_9_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=ci_PcxK06K15EWXGF_Us_coJICk="
     },
     {
       "attachment_id": "t94jvnh9qh5s87twfkvrrhc",
@@ -1382,8 +1401,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/t94jvnh9qh5s87twfkvrrhc/Summit_Kamado_E6_Lifestyle_10_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/t94jvnh9qh5s87twfkvrrhc/v/1277904521/original/Summit_Kamado_E6_Lifestyle_10_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=x_J1m3cQrsht5KyDWU_0jV9lsh8=",
-      "url": "https://storage-us-gcs.bfldr.com/t94jvnh9qh5s87twfkvrrhc/v/1277904521/original/Summit_Kamado_E6_Lifestyle_10_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=x_J1m3cQrsht5KyDWU_0jV9lsh8="
+      "original_url": "https://storage-us-gcs.bfldr.com/t94jvnh9qh5s87twfkvrrhc/v/1277904521/original/Summit_Kamado_E6_Lifestyle_10_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=5LqAHaNo7W8vtrUDMRHg0HfUffg=",
+      "url": "https://storage-us-gcs.bfldr.com/t94jvnh9qh5s87twfkvrrhc/v/1277904521/original/Summit_Kamado_E6_Lifestyle_10_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=5LqAHaNo7W8vtrUDMRHg0HfUffg="
     },
     {
       "attachment_id": "wj7bvqr3759szxpbqc9ctq9",
@@ -1396,8 +1415,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wj7bvqr3759szxpbqc9ctq9/Summit_Kamado_E6_Lifestyle_11_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wj7bvqr3759szxpbqc9ctq9/v/1277904522/original/Summit_Kamado_E6_Lifestyle_11_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=zL9dkV7SZqAW6iH_Fl4-9wEAnIU=",
-      "url": "https://storage-us-gcs.bfldr.com/wj7bvqr3759szxpbqc9ctq9/v/1277904522/original/Summit_Kamado_E6_Lifestyle_11_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=zL9dkV7SZqAW6iH_Fl4-9wEAnIU="
+      "original_url": "https://storage-us-gcs.bfldr.com/wj7bvqr3759szxpbqc9ctq9/v/1277904522/original/Summit_Kamado_E6_Lifestyle_11_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=JTL_frSZLRdwstkhzM-lpeLNQ1Q=",
+      "url": "https://storage-us-gcs.bfldr.com/wj7bvqr3759szxpbqc9ctq9/v/1277904522/original/Summit_Kamado_E6_Lifestyle_11_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=JTL_frSZLRdwstkhzM-lpeLNQ1Q="
     },
     {
       "attachment_id": "9629vj4jrsb637st3n2f7739",
@@ -1410,8 +1429,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9629vj4jrsb637st3n2f7739/Summit_Kamado_E6_Lifestyle_12_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9629vj4jrsb637st3n2f7739/v/1277904523/original/Summit_Kamado_E6_Lifestyle_12_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=PUl719_zhtXDr3eIozdU9aLRNW0=",
-      "url": "https://storage-us-gcs.bfldr.com/9629vj4jrsb637st3n2f7739/v/1277904523/original/Summit_Kamado_E6_Lifestyle_12_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=PUl719_zhtXDr3eIozdU9aLRNW0="
+      "original_url": "https://storage-us-gcs.bfldr.com/9629vj4jrsb637st3n2f7739/v/1277904523/original/Summit_Kamado_E6_Lifestyle_12_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=JGeyAzIQEU-NHF0QaB-AzgHS-qI=",
+      "url": "https://storage-us-gcs.bfldr.com/9629vj4jrsb637st3n2f7739/v/1277904523/original/Summit_Kamado_E6_Lifestyle_12_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=JGeyAzIQEU-NHF0QaB-AzgHS-qI="
     },
     {
       "attachment_id": "sgc5w6rkpnwj532k5h6wn6r",
@@ -1424,8 +1443,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sgc5w6rkpnwj532k5h6wn6r/Summit_Kamado_E6_Lifestyle_13_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/sgc5w6rkpnwj532k5h6wn6r/v/1277904525/original/Summit_Kamado_E6_Lifestyle_13_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=011LSNKWYWJcPJ4nKvPj1FuI-Yc=",
-      "url": "https://storage-us-gcs.bfldr.com/sgc5w6rkpnwj532k5h6wn6r/v/1277904525/original/Summit_Kamado_E6_Lifestyle_13_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=011LSNKWYWJcPJ4nKvPj1FuI-Yc="
+      "original_url": "https://storage-us-gcs.bfldr.com/sgc5w6rkpnwj532k5h6wn6r/v/1277904525/original/Summit_Kamado_E6_Lifestyle_13_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=m7O4wsj-p92s858WnD6jUUL6gU4=",
+      "url": "https://storage-us-gcs.bfldr.com/sgc5w6rkpnwj532k5h6wn6r/v/1277904525/original/Summit_Kamado_E6_Lifestyle_13_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=m7O4wsj-p92s858WnD6jUUL6gU4="
     },
     {
       "attachment_id": "tw356cmk4384wvphhvrjtpjw",
@@ -1438,8 +1457,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tw356cmk4384wvphhvrjtpjw/Summit_Kamado_E6_Lifestyle_14_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tw356cmk4384wvphhvrjtpjw/v/1277904527/original/Summit_Kamado_E6_Lifestyle_14_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=tpcXQcHtiohSfOtD7wI3B9nJIgk=",
-      "url": "https://storage-us-gcs.bfldr.com/tw356cmk4384wvphhvrjtpjw/v/1277904527/original/Summit_Kamado_E6_Lifestyle_14_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=tpcXQcHtiohSfOtD7wI3B9nJIgk="
+      "original_url": "https://storage-us-gcs.bfldr.com/tw356cmk4384wvphhvrjtpjw/v/1277904527/original/Summit_Kamado_E6_Lifestyle_14_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=xtWq80eHI6QJRH_OfQMU4TFoopc=",
+      "url": "https://storage-us-gcs.bfldr.com/tw356cmk4384wvphhvrjtpjw/v/1277904527/original/Summit_Kamado_E6_Lifestyle_14_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=xtWq80eHI6QJRH_OfQMU4TFoopc="
     },
     {
       "attachment_id": "2wssnkp63gv64hgs2skxm3",
@@ -1452,8 +1471,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2wssnkp63gv64hgs2skxm3/Summit_Kamado_E6_Lifestyle_15_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2wssnkp63gv64hgs2skxm3/v/1277904528/original/Summit_Kamado_E6_Lifestyle_15_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=T7rjsamlTlwZ9VyTOpxEJAEBKyE=",
-      "url": "https://storage-us-gcs.bfldr.com/2wssnkp63gv64hgs2skxm3/v/1277904528/original/Summit_Kamado_E6_Lifestyle_15_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=T7rjsamlTlwZ9VyTOpxEJAEBKyE="
+      "original_url": "https://storage-us-gcs.bfldr.com/2wssnkp63gv64hgs2skxm3/v/1277904528/original/Summit_Kamado_E6_Lifestyle_15_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=yfhJARRZOg4GSne1crdR8sl3a0A=",
+      "url": "https://storage-us-gcs.bfldr.com/2wssnkp63gv64hgs2skxm3/v/1277904528/original/Summit_Kamado_E6_Lifestyle_15_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=yfhJARRZOg4GSne1crdR8sl3a0A="
     },
     {
       "attachment_id": "hhfnx7rctftcgkn4hjv9xxq",
@@ -1466,8 +1485,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hhfnx7rctftcgkn4hjv9xxq/Summit_Kamado_E6_Lifestyle_16_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hhfnx7rctftcgkn4hjv9xxq/v/1277904529/original/Summit_Kamado_E6_Lifestyle_16_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=TsnY2XuwLN2-bVIsBCC_hiCZLSg=",
-      "url": "https://storage-us-gcs.bfldr.com/hhfnx7rctftcgkn4hjv9xxq/v/1277904529/original/Summit_Kamado_E6_Lifestyle_16_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=TsnY2XuwLN2-bVIsBCC_hiCZLSg="
+      "original_url": "https://storage-us-gcs.bfldr.com/hhfnx7rctftcgkn4hjv9xxq/v/1277904529/original/Summit_Kamado_E6_Lifestyle_16_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=TYOmFtofAAV1A86TXyKaH3dxQA4=",
+      "url": "https://storage-us-gcs.bfldr.com/hhfnx7rctftcgkn4hjv9xxq/v/1277904529/original/Summit_Kamado_E6_Lifestyle_16_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=TYOmFtofAAV1A86TXyKaH3dxQA4="
     },
     {
       "attachment_id": "vtb2nwqqzq9m7b483srpj",
@@ -1480,8 +1499,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vtb2nwqqzq9m7b483srpj/Summit_Kamado_E6_Lifestyle_17_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vtb2nwqqzq9m7b483srpj/v/1277904530/original/Summit_Kamado_E6_Lifestyle_17_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=GtXcfMKJH84AajCqhO3QLmSKWuM=",
-      "url": "https://storage-us-gcs.bfldr.com/vtb2nwqqzq9m7b483srpj/v/1277904530/original/Summit_Kamado_E6_Lifestyle_17_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=GtXcfMKJH84AajCqhO3QLmSKWuM="
+      "original_url": "https://storage-us-gcs.bfldr.com/vtb2nwqqzq9m7b483srpj/v/1277904530/original/Summit_Kamado_E6_Lifestyle_17_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=o3vnGlwNnn5pfY3bOVYyJB0lH3I=",
+      "url": "https://storage-us-gcs.bfldr.com/vtb2nwqqzq9m7b483srpj/v/1277904530/original/Summit_Kamado_E6_Lifestyle_17_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=o3vnGlwNnn5pfY3bOVYyJB0lH3I="
     },
     {
       "attachment_id": "9s9m8tr7wstrjm7zm6bxkhgb",
@@ -1494,8 +1513,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9s9m8tr7wstrjm7zm6bxkhgb/Summit_Kamado_E6_Lifestyle_18_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9s9m8tr7wstrjm7zm6bxkhgb/v/1277904532/original/Summit_Kamado_E6_Lifestyle_18_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Hpp4m8flO3ZO0qBrXyia0RjzF1g=",
-      "url": "https://storage-us-gcs.bfldr.com/9s9m8tr7wstrjm7zm6bxkhgb/v/1277904532/original/Summit_Kamado_E6_Lifestyle_18_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Hpp4m8flO3ZO0qBrXyia0RjzF1g="
+      "original_url": "https://storage-us-gcs.bfldr.com/9s9m8tr7wstrjm7zm6bxkhgb/v/1277904532/original/Summit_Kamado_E6_Lifestyle_18_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=mn0isMjm97u1tXpxuJiMauywO3Y=",
+      "url": "https://storage-us-gcs.bfldr.com/9s9m8tr7wstrjm7zm6bxkhgb/v/1277904532/original/Summit_Kamado_E6_Lifestyle_18_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=mn0isMjm97u1tXpxuJiMauywO3Y="
     },
     {
       "attachment_id": "cp8cpbhg8rmnjkntvggppw5m",
@@ -1508,8 +1527,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cp8cpbhg8rmnjkntvggppw5m/Summit_Kamado_E6_Lifestyle_19_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cp8cpbhg8rmnjkntvggppw5m/v/1277904533/original/Summit_Kamado_E6_Lifestyle_19_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=L4dmDHSlDCvJcYrrkIJKtmcNy7w=",
-      "url": "https://storage-us-gcs.bfldr.com/cp8cpbhg8rmnjkntvggppw5m/v/1277904533/original/Summit_Kamado_E6_Lifestyle_19_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=L4dmDHSlDCvJcYrrkIJKtmcNy7w="
+      "original_url": "https://storage-us-gcs.bfldr.com/cp8cpbhg8rmnjkntvggppw5m/v/1277904533/original/Summit_Kamado_E6_Lifestyle_19_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=Pei47cV0b78pzZkFGK1ZcwomJNc=",
+      "url": "https://storage-us-gcs.bfldr.com/cp8cpbhg8rmnjkntvggppw5m/v/1277904533/original/Summit_Kamado_E6_Lifestyle_19_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=Pei47cV0b78pzZkFGK1ZcwomJNc="
     },
     {
       "attachment_id": "wfhj2zjfgsr6vzt7w84mpt",
@@ -1522,8 +1541,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wfhj2zjfgsr6vzt7w84mpt/Summit_Kamado_E6_Lifestyle_20_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wfhj2zjfgsr6vzt7w84mpt/v/1277904534/original/Summit_Kamado_E6_Lifestyle_20_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=2bx9NwRET0s4Ds2N8tM9Q1HKntM=",
-      "url": "https://storage-us-gcs.bfldr.com/wfhj2zjfgsr6vzt7w84mpt/v/1277904534/original/Summit_Kamado_E6_Lifestyle_20_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=2bx9NwRET0s4Ds2N8tM9Q1HKntM="
+      "original_url": "https://storage-us-gcs.bfldr.com/wfhj2zjfgsr6vzt7w84mpt/v/1277904534/original/Summit_Kamado_E6_Lifestyle_20_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=4YIvxkUlMe6KXDkLDJ85tJ0foPA=",
+      "url": "https://storage-us-gcs.bfldr.com/wfhj2zjfgsr6vzt7w84mpt/v/1277904534/original/Summit_Kamado_E6_Lifestyle_20_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=4YIvxkUlMe6KXDkLDJ85tJ0foPA="
     },
     {
       "attachment_id": "5pxmfntxjmxwfgn9trn6s5c",
@@ -1536,8 +1555,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5pxmfntxjmxwfgn9trn6s5c/Summit_Kamado_E6_Lifestyle_21_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5pxmfntxjmxwfgn9trn6s5c/v/1277904535/original/Summit_Kamado_E6_Lifestyle_21_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=GxezqHXA0BHGGyHXEPmCqezu6sE=",
-      "url": "https://storage-us-gcs.bfldr.com/5pxmfntxjmxwfgn9trn6s5c/v/1277904535/original/Summit_Kamado_E6_Lifestyle_21_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=GxezqHXA0BHGGyHXEPmCqezu6sE="
+      "original_url": "https://storage-us-gcs.bfldr.com/5pxmfntxjmxwfgn9trn6s5c/v/1277904535/original/Summit_Kamado_E6_Lifestyle_21_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=jVkIkHIsM37y8YkMpbsz3DKhuL0=",
+      "url": "https://storage-us-gcs.bfldr.com/5pxmfntxjmxwfgn9trn6s5c/v/1277904535/original/Summit_Kamado_E6_Lifestyle_21_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=jVkIkHIsM37y8YkMpbsz3DKhuL0="
     },
     {
       "attachment_id": "8nskwnftr99tgstc9c4qt4z",
@@ -1550,8 +1569,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8nskwnftr99tgstc9c4qt4z/Summit_Kamado_E6_Lifestyle_22_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8nskwnftr99tgstc9c4qt4z/v/1277904536/original/Summit_Kamado_E6_Lifestyle_22_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=2BGWC7WFrjo9vClqSWX-NNXo_5A=",
-      "url": "https://storage-us-gcs.bfldr.com/8nskwnftr99tgstc9c4qt4z/v/1277904536/original/Summit_Kamado_E6_Lifestyle_22_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=2BGWC7WFrjo9vClqSWX-NNXo_5A="
+      "original_url": "https://storage-us-gcs.bfldr.com/8nskwnftr99tgstc9c4qt4z/v/1277904536/original/Summit_Kamado_E6_Lifestyle_22_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=SNDuluwvJAAevjistb-oDASo4K8=",
+      "url": "https://storage-us-gcs.bfldr.com/8nskwnftr99tgstc9c4qt4z/v/1277904536/original/Summit_Kamado_E6_Lifestyle_22_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=SNDuluwvJAAevjistb-oDASo4K8="
     },
     {
       "attachment_id": "fs9pwrnqtrbsjpp8kf6pkkfk",
@@ -1564,8 +1583,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fs9pwrnqtrbsjpp8kf6pkkfk/Summit_Kamado_E6_Lifestyle_23_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/fs9pwrnqtrbsjpp8kf6pkkfk/v/1277904537/original/Summit_Kamado_E6_Lifestyle_23_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=IiZ8tjoj8FxL7kRCyRYsgFSTvOw=",
-      "url": "https://storage-us-gcs.bfldr.com/fs9pwrnqtrbsjpp8kf6pkkfk/v/1277904537/original/Summit_Kamado_E6_Lifestyle_23_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=IiZ8tjoj8FxL7kRCyRYsgFSTvOw="
+      "original_url": "https://storage-us-gcs.bfldr.com/fs9pwrnqtrbsjpp8kf6pkkfk/v/1277904537/original/Summit_Kamado_E6_Lifestyle_23_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=Tmw5NBt9fWdhJfCN4ISCEI5hTjE=",
+      "url": "https://storage-us-gcs.bfldr.com/fs9pwrnqtrbsjpp8kf6pkkfk/v/1277904537/original/Summit_Kamado_E6_Lifestyle_23_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=Tmw5NBt9fWdhJfCN4ISCEI5hTjE="
     },
     {
       "attachment_id": "c6kpwj37j5nx4nbw49xzfhpr",
@@ -1592,8 +1611,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/44fsv9v3s6b393ktc2ms4ss/Summit_Kamado_E6_Lifestyle_25_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/44fsv9v3s6b393ktc2ms4ss/v/1277904539/original/Summit_Kamado_E6_Lifestyle_25_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=3a2xR_em03AMUzg8Sz0-CuLPLSM=",
-      "url": "https://storage-us-gcs.bfldr.com/44fsv9v3s6b393ktc2ms4ss/v/1277904539/original/Summit_Kamado_E6_Lifestyle_25_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=3a2xR_em03AMUzg8Sz0-CuLPLSM="
+      "original_url": "https://storage-us-gcs.bfldr.com/44fsv9v3s6b393ktc2ms4ss/v/1277904539/original/Summit_Kamado_E6_Lifestyle_25_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=EvjtoUrgM5h0be5ifIZ5wn_27Mw=",
+      "url": "https://storage-us-gcs.bfldr.com/44fsv9v3s6b393ktc2ms4ss/v/1277904539/original/Summit_Kamado_E6_Lifestyle_25_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=EvjtoUrgM5h0be5ifIZ5wn_27Mw="
     },
     {
       "attachment_id": "3p7q2v5p2zp82pc45b7c54w",
@@ -1606,8 +1625,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3p7q2v5p2zp82pc45b7c54w/Summit_Kamado_E6_Lifestyle_26_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/3p7q2v5p2zp82pc45b7c54w/v/1277904540/original/Summit_Kamado_E6_Lifestyle_26_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=czK1rnif26xw2rAinsTmm6nwY6M=",
-      "url": "https://storage-us-gcs.bfldr.com/3p7q2v5p2zp82pc45b7c54w/v/1277904540/original/Summit_Kamado_E6_Lifestyle_26_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=czK1rnif26xw2rAinsTmm6nwY6M="
+      "original_url": "https://storage-us-gcs.bfldr.com/3p7q2v5p2zp82pc45b7c54w/v/1277904540/original/Summit_Kamado_E6_Lifestyle_26_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=EM4JQm3FzBW0YVB9V42KIZvgwbo=",
+      "url": "https://storage-us-gcs.bfldr.com/3p7q2v5p2zp82pc45b7c54w/v/1277904540/original/Summit_Kamado_E6_Lifestyle_26_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=EM4JQm3FzBW0YVB9V42KIZvgwbo="
     },
     {
       "attachment_id": "2khtpt47m5xkbw5ccng7bzr9",
@@ -1620,8 +1639,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2khtpt47m5xkbw5ccng7bzr9/Summit_Kamado_E6_Lifestyle_27_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2khtpt47m5xkbw5ccng7bzr9/v/1277904541/original/Summit_Kamado_E6_Lifestyle_27_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=4QvzE7eKRbhi0H0YSGiNGQWZbhU=",
-      "url": "https://storage-us-gcs.bfldr.com/2khtpt47m5xkbw5ccng7bzr9/v/1277904541/original/Summit_Kamado_E6_Lifestyle_27_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=4QvzE7eKRbhi0H0YSGiNGQWZbhU="
+      "original_url": "https://storage-us-gcs.bfldr.com/2khtpt47m5xkbw5ccng7bzr9/v/1277904541/original/Summit_Kamado_E6_Lifestyle_27_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=MHKLUUwe0BtwXFVABkOOYRFgn5g=",
+      "url": "https://storage-us-gcs.bfldr.com/2khtpt47m5xkbw5ccng7bzr9/v/1277904541/original/Summit_Kamado_E6_Lifestyle_27_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=MHKLUUwe0BtwXFVABkOOYRFgn5g="
     },
     {
       "attachment_id": "2tj49nrsf4mx2nm5bzxwknxn",
@@ -1648,8 +1667,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fwvrf5kb9r4473vs7c74g4j3/Summit_Kamado_E6_Logo_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/fwvrf5kb9r4473vs7c74g4j3/v/1277904550/original/Summit_Kamado_E6_Logo_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=o2nYj1rpGb66t9d4zOrlMvphmWA=",
-      "url": "https://storage-us-gcs.bfldr.com/fwvrf5kb9r4473vs7c74g4j3/v/1277904550/original/Summit_Kamado_E6_Logo_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=o2nYj1rpGb66t9d4zOrlMvphmWA="
+      "original_url": "https://storage-us-gcs.bfldr.com/fwvrf5kb9r4473vs7c74g4j3/v/1277904550/original/Summit_Kamado_E6_Logo_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=iR-bGl2gLMqJPcOD5sfXZXdWVnE=",
+      "url": "https://storage-us-gcs.bfldr.com/fwvrf5kb9r4473vs7c74g4j3/v/1277904550/original/Summit_Kamado_E6_Logo_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=iR-bGl2gLMqJPcOD5sfXZXdWVnE="
     },
     {
       "attachment_id": "pg3cbzm9nnckhs4gwnsn9v3n",
@@ -1676,8 +1695,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vvqc2wrttqthc85jzjg7j2x/Summit_Kamado_E6_Mood_6_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vvqc2wrttqthc85jzjg7j2x/v/1277904552/original/Summit_Kamado_E6_Mood_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ZdxbMsU1soSeaDrKpUHLClIDb2g=",
-      "url": "https://storage-us-gcs.bfldr.com/vvqc2wrttqthc85jzjg7j2x/v/1277904552/original/Summit_Kamado_E6_Mood_6_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=ZdxbMsU1soSeaDrKpUHLClIDb2g="
+      "original_url": "https://storage-us-gcs.bfldr.com/vvqc2wrttqthc85jzjg7j2x/v/1277904552/original/Summit_Kamado_E6_Mood_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=mqmnsO0fevDhe6PrSlPOktYyzEo=",
+      "url": "https://storage-us-gcs.bfldr.com/vvqc2wrttqthc85jzjg7j2x/v/1277904552/original/Summit_Kamado_E6_Mood_6_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=mqmnsO0fevDhe6PrSlPOktYyzEo="
     },
     {
       "attachment_id": "g536k92j869tkzcw8przjmk",
@@ -1690,8 +1709,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g536k92j869tkzcw8przjmk/Summit_Kamado_E6_Mood_7_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/g536k92j869tkzcw8przjmk/v/1277904553/original/Summit_Kamado_E6_Mood_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=J6OfK9um-p5BL5if6XCRkZccTA8=",
-      "url": "https://storage-us-gcs.bfldr.com/g536k92j869tkzcw8przjmk/v/1277904553/original/Summit_Kamado_E6_Mood_7_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=J6OfK9um-p5BL5if6XCRkZccTA8="
+      "original_url": "https://storage-us-gcs.bfldr.com/g536k92j869tkzcw8przjmk/v/1277904553/original/Summit_Kamado_E6_Mood_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=pGrBrC0qg-4vtrKqVhPfGmsygM8=",
+      "url": "https://storage-us-gcs.bfldr.com/g536k92j869tkzcw8przjmk/v/1277904553/original/Summit_Kamado_E6_Mood_7_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=pGrBrC0qg-4vtrKqVhPfGmsygM8="
     },
     {
       "attachment_id": "93cw8rvvwvvkk3c4jqcrvwp",
@@ -1704,8 +1723,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/93cw8rvvwvvkk3c4jqcrvwp/Summit_Kamado_E6_Thermometer_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/93cw8rvvwvvkk3c4jqcrvwp/v/1277904554/original/Summit_Kamado_E6_Thermometer_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=cB_7yi17P9-fdv-iuDqdSHKAGJw=",
-      "url": "https://storage-us-gcs.bfldr.com/93cw8rvvwvvkk3c4jqcrvwp/v/1277904554/original/Summit_Kamado_E6_Thermometer_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=cB_7yi17P9-fdv-iuDqdSHKAGJw="
+      "original_url": "https://storage-us-gcs.bfldr.com/93cw8rvvwvvkk3c4jqcrvwp/v/1277904554/original/Summit_Kamado_E6_Thermometer_1_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=HBhL-sRjnbSq8mHCss1nX58Vt0g=",
+      "url": "https://storage-us-gcs.bfldr.com/93cw8rvvwvvkk3c4jqcrvwp/v/1277904554/original/Summit_Kamado_E6_Thermometer_1_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=HBhL-sRjnbSq8mHCss1nX58Vt0g="
     },
     {
       "attachment_id": "j7rs2ggnprjm77ffx7566qv",
@@ -1718,8 +1737,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j7rs2ggnprjm77ffx7566qv/Summit_Kamado_E6_Thermometer_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/j7rs2ggnprjm77ffx7566qv/v/1277904555/original/Summit_Kamado_E6_Thermometer_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=bjigdgO7JYkyV-HcVAnBXOdVIJI=",
-      "url": "https://storage-us-gcs.bfldr.com/j7rs2ggnprjm77ffx7566qv/v/1277904555/original/Summit_Kamado_E6_Thermometer_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=bjigdgO7JYkyV-HcVAnBXOdVIJI="
+      "original_url": "https://storage-us-gcs.bfldr.com/j7rs2ggnprjm77ffx7566qv/v/1277904555/original/Summit_Kamado_E6_Thermometer_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=Jt7LspmeDjV-yXRhpyGOQmDsKEI=",
+      "url": "https://storage-us-gcs.bfldr.com/j7rs2ggnprjm77ffx7566qv/v/1277904555/original/Summit_Kamado_E6_Thermometer_2_rgb.jpg?Expires=1784897120&KeyName=gcs-bfldr-prod&Signature=Jt7LspmeDjV-yXRhpyGOQmDsKEI="
     },
     {
       "attachment_id": "j383xvstj8hfgnw4m6jqp29",
@@ -1732,8 +1751,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j383xvstj8hfgnw4m6jqp29/Summit_Kamado_E6_Tool_Hooks_1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/j383xvstj8hfgnw4m6jqp29/v/1277904556/original/Summit_Kamado_E6_Tool_Hooks_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Q6GiioN4csBBoMRlJ_PSHf6z64s=",
-      "url": "https://storage-us-gcs.bfldr.com/j383xvstj8hfgnw4m6jqp29/v/1277904556/original/Summit_Kamado_E6_Tool_Hooks_1_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=Q6GiioN4csBBoMRlJ_PSHf6z64s="
+      "original_url": "https://storage-us-gcs.bfldr.com/j383xvstj8hfgnw4m6jqp29/v/1277904556/original/Summit_Kamado_E6_Tool_Hooks_1_rgb.jpg?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=oBDOMo33Vtd0RGN2H-OsgB14chk=",
+      "url": "https://storage-us-gcs.bfldr.com/j383xvstj8hfgnw4m6jqp29/v/1277904556/original/Summit_Kamado_E6_Tool_Hooks_1_rgb.jpg?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=oBDOMo33Vtd0RGN2H-OsgB14chk="
     },
     {
       "attachment_id": "kgqsh8cpffnr7gv4frgnksj",
@@ -1746,8 +1765,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kgqsh8cpffnr7gv4frgnksj/Summit_Kamado_E6_Tool_Hooks_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kgqsh8cpffnr7gv4frgnksj/v/1277904557/original/Summit_Kamado_E6_Tool_Hooks_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=JpyUvP9CiHJGz-p5xKKX5nz6mXU=",
-      "url": "https://storage-us-gcs.bfldr.com/kgqsh8cpffnr7gv4frgnksj/v/1277904557/original/Summit_Kamado_E6_Tool_Hooks_2_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=JpyUvP9CiHJGz-p5xKKX5nz6mXU="
+      "original_url": "https://storage-us-gcs.bfldr.com/kgqsh8cpffnr7gv4frgnksj/v/1277904557/original/Summit_Kamado_E6_Tool_Hooks_2_rgb.jpg?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=GvDTa3unYmXtUevnvmTvH6YUJhU=",
+      "url": "https://storage-us-gcs.bfldr.com/kgqsh8cpffnr7gv4frgnksj/v/1277904557/original/Summit_Kamado_E6_Tool_Hooks_2_rgb.jpg?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=GvDTa3unYmXtUevnvmTvH6YUJhU="
     },
     {
       "attachment_id": "qzmsrz97hfzc9qscrgx4bpg",
@@ -1760,8 +1779,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qzmsrz97hfzc9qscrgx4bpg/Summit_Kamado_E6_Tool_Hooks_3_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qzmsrz97hfzc9qscrgx4bpg/v/1277904558/original/Summit_Kamado_E6_Tool_Hooks_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=2-p3NJ_CtlHBulr9EC2d80fZV4c=",
-      "url": "https://storage-us-gcs.bfldr.com/qzmsrz97hfzc9qscrgx4bpg/v/1277904558/original/Summit_Kamado_E6_Tool_Hooks_3_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=2-p3NJ_CtlHBulr9EC2d80fZV4c="
+      "original_url": "https://storage-us-gcs.bfldr.com/qzmsrz97hfzc9qscrgx4bpg/v/1277904558/original/Summit_Kamado_E6_Tool_Hooks_3_rgb.jpg?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=4Kv19GiZ2QzvFCQMoG_2p9swC6Q=",
+      "url": "https://storage-us-gcs.bfldr.com/qzmsrz97hfzc9qscrgx4bpg/v/1277904558/original/Summit_Kamado_E6_Tool_Hooks_3_rgb.jpg?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=4Kv19GiZ2QzvFCQMoG_2p9swC6Q="
     },
     {
       "attachment_id": "csrc6738rw74j6jrfnbtms",
@@ -1774,8 +1793,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/csrc6738rw74j6jrfnbtms/Summit_Kamado_E6_Tool_Hooks_4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/csrc6738rw74j6jrfnbtms/v/1277904559/original/Summit_Kamado_E6_Tool_Hooks_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=RQUI7C9ojyFq6gUzinGhTo4KAr0=",
-      "url": "https://storage-us-gcs.bfldr.com/csrc6738rw74j6jrfnbtms/v/1277904559/original/Summit_Kamado_E6_Tool_Hooks_4_rgb.jpg?Expires=1784652245&KeyName=gcs-bfldr-prod&Signature=RQUI7C9ojyFq6gUzinGhTo4KAr0="
+      "original_url": "https://storage-us-gcs.bfldr.com/csrc6738rw74j6jrfnbtms/v/1277904559/original/Summit_Kamado_E6_Tool_Hooks_4_rgb.jpg?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=Mz7MncVm1BWVBRQNQDjnTCg8vb8=",
+      "url": "https://storage-us-gcs.bfldr.com/csrc6738rw74j6jrfnbtms/v/1277904559/original/Summit_Kamado_E6_Tool_Hooks_4_rgb.jpg?Expires=1784897121&KeyName=gcs-bfldr-prod&Signature=Mz7MncVm1BWVBRQNQDjnTCg8vb8="
     },
     {
       "attachment_id": "pw6ffbx5nctt337zsznmh93p",

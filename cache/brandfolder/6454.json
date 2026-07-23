@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6454",
   "assets": [
     {
@@ -55,8 +55,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkew1e-3wrvo8-3qga5f/6454A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-3qga5f/v/2838689/original/6454A.png?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=gC0ESNQOW2z4GSkBppxYDcOdxCs=",
-      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-3qga5f/v/2838689/original/6454A.png?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=gC0ESNQOW2z4GSkBppxYDcOdxCs="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-3qga5f/v/2838689/original/6454A.png?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=0xAL5eVm3y_mIh9MseSyejYxS4k=",
+      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-3qga5f/v/2838689/original/6454A.png?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=0xAL5eVm3y_mIh9MseSyejYxS4k="
     },
     {
       "attachment_id": "pkew1e-3wrvo8-6oi4bm",
@@ -69,8 +69,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkew1e-3wrvo8-6oi4bm/6454B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-6oi4bm/v/2838690/original/6454B.png?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=5oqW1U_iSB_xUy2wVwPkPnKFu4I=",
-      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-6oi4bm/v/2838690/original/6454B.png?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=5oqW1U_iSB_xUy2wVwPkPnKFu4I="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-6oi4bm/v/2838690/original/6454B.png?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=lYorIzNsNbWheGMjbgrg8FAqvV4=",
+      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-6oi4bm/v/2838690/original/6454B.png?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=lYorIzNsNbWheGMjbgrg8FAqvV4="
     },
     {
       "attachment_id": "pkew1e-3wrvo8-aev4j6",
@@ -83,8 +83,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkew1e-3wrvo8-aev4j6/6454C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-aev4j6/v/2838691/original/6454C.png?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=G-XJx5erbVQVvM6EuYGCEWI5CSI=",
-      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-aev4j6/v/2838691/original/6454C.png?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=G-XJx5erbVQVvM6EuYGCEWI5CSI="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-aev4j6/v/2838691/original/6454C.png?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=E7X7R18nRXxnBmjlCg9YsmdP8mQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-aev4j6/v/2838691/original/6454C.png?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=E7X7R18nRXxnBmjlCg9YsmdP8mQ="
     },
     {
       "attachment_id": "pkew1e-3wrvo8-ljxwd",
@@ -97,8 +97,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkew1e-3wrvo8-ljxwd/6454Y.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-ljxwd/v/2838694/original/6454Y.jpg?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=o5ZTLvdMdawDM4jj5fm6SssD-NY=",
-      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-ljxwd/v/2838694/original/6454Y.jpg?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=o5ZTLvdMdawDM4jj5fm6SssD-NY="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-ljxwd/v/2838694/original/6454Y.jpg?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=GSdUPkHLwjI-YaPfZEo00owonqw=",
+      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-ljxwd/v/2838694/original/6454Y.jpg?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=GSdUPkHLwjI-YaPfZEo00owonqw="
     },
     {
       "attachment_id": "pkew1e-3wrvo8-2g8z8j",
@@ -111,8 +111,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkew1e-3wrvo8-2g8z8j/6454M1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-2g8z8j/v/2838692/original/6454M1.jpg?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=QBKg9a5bBEFMJew1ZOMEDcembGk=",
-      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-2g8z8j/v/2838692/original/6454M1.jpg?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=QBKg9a5bBEFMJew1ZOMEDcembGk="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-2g8z8j/v/2838692/original/6454M1.jpg?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=Uay6E1sJGwvGDBTjDkh3iXpMHGQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-2g8z8j/v/2838692/original/6454M1.jpg?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=Uay6E1sJGwvGDBTjDkh3iXpMHGQ="
     },
     {
       "attachment_id": "pkew1e-3wrvo8-fib7x1",
@@ -125,8 +125,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkew1e-3wrvo8-fib7x1/6454M2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-fib7x1/v/2838693/original/6454M2.jpg?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=xGxv1DwJFbcJHjDpvNbnmlHF84o=",
-      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-fib7x1/v/2838693/original/6454M2.jpg?Expires=1784652385&KeyName=gcs-bfldr-prod&Signature=xGxv1DwJFbcJHjDpvNbnmlHF84o="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-fib7x1/v/2838693/original/6454M2.jpg?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=7_P61-bOKUbCuURL2ggAVowkAdw=",
+      "url": "https://storage-us-gcs.bfldr.com/pkew1e-3wrvo8-fib7x1/v/2838693/original/6454M2.jpg?Expires=1784897423&KeyName=gcs-bfldr-prod&Signature=7_P61-bOKUbCuURL2ggAVowkAdw="
     }
   ]
 }

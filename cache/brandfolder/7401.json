@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7401",
   "assets": [
     {
@@ -39,8 +39,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgp9gf-1vj6dk-b3fu98/7401A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgp9gf-1vj6dk-b3fu98/v/2509471/original/7401A.png?Expires=1784652092&KeyName=gcs-bfldr-prod&Signature=oWuP33hjBWTp-WT4mEG0GeJvLAk=",
-      "url": "https://storage-us-gcs.bfldr.com/pgp9gf-1vj6dk-b3fu98/v/2509471/original/7401A.png?Expires=1784652092&KeyName=gcs-bfldr-prod&Signature=oWuP33hjBWTp-WT4mEG0GeJvLAk="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgp9gf-1vj6dk-b3fu98/v/2509471/original/7401A.png?Expires=1784896862&KeyName=gcs-bfldr-prod&Signature=PnP215bkp94aPfCAV5KjrwjpH7s=",
+      "url": "https://storage-us-gcs.bfldr.com/pgp9gf-1vj6dk-b3fu98/v/2509471/original/7401A.png?Expires=1784896862&KeyName=gcs-bfldr-prod&Signature=PnP215bkp94aPfCAV5KjrwjpH7s="
     },
     {
       "attachment_id": "ploxsp-dezn8w-e42x8l",
@@ -53,8 +53,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ploxsp-dezn8w-e42x8l/7401Y.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ploxsp-dezn8w-e42x8l/v/2998732/original/7401Y.jpg?Expires=1784652092&KeyName=gcs-bfldr-prod&Signature=-X2n7EYFIJFlKhDtNB5haTKXxDk=",
-      "url": "https://storage-us-gcs.bfldr.com/ploxsp-dezn8w-e42x8l/v/2998732/original/7401Y.jpg?Expires=1784652092&KeyName=gcs-bfldr-prod&Signature=-X2n7EYFIJFlKhDtNB5haTKXxDk="
+      "original_url": "https://storage-us-gcs.bfldr.com/ploxsp-dezn8w-e42x8l/v/2998732/original/7401Y.jpg?Expires=1784896862&KeyName=gcs-bfldr-prod&Signature=D2_sWbSwYRbPiB_s_77WFyNA7KY=",
+      "url": "https://storage-us-gcs.bfldr.com/ploxsp-dezn8w-e42x8l/v/2998732/original/7401Y.jpg?Expires=1784896862&KeyName=gcs-bfldr-prod&Signature=D2_sWbSwYRbPiB_s_77WFyNA7KY="
     }
   ]
 }

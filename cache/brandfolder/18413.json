@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "18413",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Pizza Stone 18412 EMEA Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18413"
+        "18413",
+        "18412"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Pizza Stone 18412 EMEA Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "18413"
+        "18413",
+        "18412"
       ]
     },
     {

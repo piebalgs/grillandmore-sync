@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7034",
   "assets": [
     {
@@ -47,22 +47,22 @@
       "asset_name": "Weber Traveler WW",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501746",
-        "1501744",
-        "1501696",
-        "1501760",
-        "1501740",
         "1501734",
         "1501743",
-        "3400074",
-        "1501733",
-        "1501719",
-        "1501718",
-        "1501732",
-        "1501742",
-        "7034",
         "1501761",
-        "1501745"
+        "3400074",
+        "7034",
+        "1501745",
+        "1501740",
+        "1501696",
+        "1501733",
+        "1501718",
+        "1501719",
+        "1501746",
+        "1501742",
+        "1501732",
+        "1501760",
+        "1501744"
       ]
     },
     {
@@ -70,22 +70,22 @@
       "asset_name": "Weber Traveler WW",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501740",
-        "1501743",
-        "7034",
-        "1501746",
         "1501732",
-        "1501760",
-        "3400074",
-        "1501734",
-        "1501744",
-        "1501718",
-        "1501761",
-        "1501733",
         "1501696",
-        "1501719",
+        "1501742",
+        "1501718",
+        "1501740",
         "1501745",
-        "1501742"
+        "7034",
+        "1501733",
+        "1501743",
+        "1501719",
+        "1501744",
+        "1501746",
+        "1501760",
+        "1501761",
+        "3400074",
+        "1501734"
       ]
     },
     {
@@ -93,22 +93,22 @@
       "asset_name": "Weber Traveler WW",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501732",
-        "1501742",
-        "1501734",
-        "1501743",
-        "3400074",
+        "1501745",
+        "1501746",
+        "1501696",
         "1501733",
+        "1501760",
+        "1501719",
+        "1501734",
+        "3400074",
+        "1501732",
+        "1501718",
         "1501740",
         "1501744",
-        "1501746",
-        "1501745",
         "7034",
-        "1501760",
-        "1501761",
-        "1501718",
-        "1501719",
-        "1501696"
+        "1501742",
+        "1501743",
+        "1501761"
       ]
     },
     {
@@ -116,21 +116,21 @@
       "asset_name": "Weber Traveler WW",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1501696",
-        "1501746",
-        "1501745",
-        "1501734",
-        "1501718",
-        "1501761",
-        "1501742",
-        "1501733",
-        "1501732",
-        "1501760",
-        "1501744",
-        "1501743",
         "1501719",
+        "1501760",
         "1501740",
-        "7034"
+        "1501744",
+        "1501732",
+        "1501718",
+        "1501746",
+        "1501761",
+        "1501734",
+        "1501742",
+        "7034",
+        "1501743",
+        "1501696",
+        "1501733",
+        "1501745"
       ]
     },
     {
@@ -154,8 +154,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5cjjwcsjknqvrnwrkxhc72v/7034A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5cjjwcsjknqvrnwrkxhc72v/v/1274845891/original/7034A_rgb.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=cLmdbETwZnLOF-05rgjeOAsPxGg=",
-      "url": "https://storage-us-gcs.bfldr.com/5cjjwcsjknqvrnwrkxhc72v/v/1274845891/original/7034A_rgb.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=cLmdbETwZnLOF-05rgjeOAsPxGg="
+      "original_url": "https://storage-us-gcs.bfldr.com/5cjjwcsjknqvrnwrkxhc72v/v/1274845891/original/7034A_rgb.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=jH21qvLaBJlRg7VDw-TBJ9YpeTU=",
+      "url": "https://storage-us-gcs.bfldr.com/5cjjwcsjknqvrnwrkxhc72v/v/1274845891/original/7034A_rgb.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=jH21qvLaBJlRg7VDw-TBJ9YpeTU="
     },
     {
       "attachment_id": "nqrsknqm93prs6vwg5nrs6cb",
@@ -168,8 +168,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/nqrsknqm93prs6vwg5nrs6cb/7034B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/nqrsknqm93prs6vwg5nrs6cb/v/1274845892/original/7034B_rgb.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=dNPFLtSKhiBkJUEs_rT_deu_1Rs=",
-      "url": "https://storage-us-gcs.bfldr.com/nqrsknqm93prs6vwg5nrs6cb/v/1274845892/original/7034B_rgb.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=dNPFLtSKhiBkJUEs_rT_deu_1Rs="
+      "original_url": "https://storage-us-gcs.bfldr.com/nqrsknqm93prs6vwg5nrs6cb/v/1274845892/original/7034B_rgb.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=u179H-cdq9WZjlVSFykC2OoKKHI=",
+      "url": "https://storage-us-gcs.bfldr.com/nqrsknqm93prs6vwg5nrs6cb/v/1274845892/original/7034B_rgb.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=u179H-cdq9WZjlVSFykC2OoKKHI="
     },
     {
       "attachment_id": "whb9f83jb9nqjcqbjbmnb2s",
@@ -182,8 +182,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/whb9f83jb9nqjcqbjbmnb2s/7034C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/whb9f83jb9nqjcqbjbmnb2s/v/1274845893/original/7034C_rgb.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=fFnWGrqSs3n_ze0u8v8k8B7bV-o=",
-      "url": "https://storage-us-gcs.bfldr.com/whb9f83jb9nqjcqbjbmnb2s/v/1274845893/original/7034C_rgb.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=fFnWGrqSs3n_ze0u8v8k8B7bV-o="
+      "original_url": "https://storage-us-gcs.bfldr.com/whb9f83jb9nqjcqbjbmnb2s/v/1274845893/original/7034C_rgb.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=QcDS67S5KYjFaRpzENjjlqoL9xM=",
+      "url": "https://storage-us-gcs.bfldr.com/whb9f83jb9nqjcqbjbmnb2s/v/1274845893/original/7034C_rgb.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=QcDS67S5KYjFaRpzENjjlqoL9xM="
     },
     {
       "attachment_id": "h9snx879vrg6xbnnkt7gxs6",
@@ -196,8 +196,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/h9snx879vrg6xbnnkt7gxs6/7034YM_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/h9snx879vrg6xbnnkt7gxs6/v/1274845894/original/7034YM_rgb.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=0bQwPbqguq28hnnlGhO6u9Zrn5c=",
-      "url": "https://storage-us-gcs.bfldr.com/h9snx879vrg6xbnnkt7gxs6/v/1274845894/original/7034YM_rgb.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=0bQwPbqguq28hnnlGhO6u9Zrn5c="
+      "original_url": "https://storage-us-gcs.bfldr.com/h9snx879vrg6xbnnkt7gxs6/v/1274845894/original/7034YM_rgb.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=vYwDsvoAFAyvpofCDyHyM9pLY6E=",
+      "url": "https://storage-us-gcs.bfldr.com/h9snx879vrg6xbnnkt7gxs6/v/1274845894/original/7034YM_rgb.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=vYwDsvoAFAyvpofCDyHyM9pLY6E="
     },
     {
       "attachment_id": "7rqjgkrzcgg5m3w5xrh69",
@@ -210,8 +210,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7rqjgkrzcgg5m3w5xrh69/7034_A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/7rqjgkrzcgg5m3w5xrh69/v/1274845895/original/7034_A.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=zmAGJsq2sa6dfPXCqQE7xakYi44=",
-      "url": "https://storage-us-gcs.bfldr.com/7rqjgkrzcgg5m3w5xrh69/v/1274845895/original/7034_A.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=zmAGJsq2sa6dfPXCqQE7xakYi44="
+      "original_url": "https://storage-us-gcs.bfldr.com/7rqjgkrzcgg5m3w5xrh69/v/1274845895/original/7034_A.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=SPG-LsZoqC4Nc-1TsvL3dhpKmTc=",
+      "url": "https://storage-us-gcs.bfldr.com/7rqjgkrzcgg5m3w5xrh69/v/1274845895/original/7034_A.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=SPG-LsZoqC4Nc-1TsvL3dhpKmTc="
     },
     {
       "attachment_id": "t957gztrrqnhx8gsxzq4nk8p",
@@ -224,8 +224,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/t957gztrrqnhx8gsxzq4nk8p/7034_B1.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/t957gztrrqnhx8gsxzq4nk8p/v/1274845897/original/7034_B1.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=FgzkTxGrHWitv80UqnFYx1BmwAw=",
-      "url": "https://storage-us-gcs.bfldr.com/t957gztrrqnhx8gsxzq4nk8p/v/1274845897/original/7034_B1.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=FgzkTxGrHWitv80UqnFYx1BmwAw="
+      "original_url": "https://storage-us-gcs.bfldr.com/t957gztrrqnhx8gsxzq4nk8p/v/1274845897/original/7034_B1.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=b7wQuC3ptNMcABq8Vx3pYa338qM=",
+      "url": "https://storage-us-gcs.bfldr.com/t957gztrrqnhx8gsxzq4nk8p/v/1274845897/original/7034_B1.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=b7wQuC3ptNMcABq8Vx3pYa338qM="
     },
     {
       "attachment_id": "ctz6m4qq7vwpcs6pvww8r3",
@@ -238,8 +238,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/ctz6m4qq7vwpcs6pvww8r3/7034_B2.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/ctz6m4qq7vwpcs6pvww8r3/v/1274845899/original/7034_B2.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=xY42xfsVGytzZs08HyDMBsCM_dE=",
-      "url": "https://storage-us-gcs.bfldr.com/ctz6m4qq7vwpcs6pvww8r3/v/1274845899/original/7034_B2.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=xY42xfsVGytzZs08HyDMBsCM_dE="
+      "original_url": "https://storage-us-gcs.bfldr.com/ctz6m4qq7vwpcs6pvww8r3/v/1274845899/original/7034_B2.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=frdPBQfz3Q0ZoyZrNTy0sosbkng=",
+      "url": "https://storage-us-gcs.bfldr.com/ctz6m4qq7vwpcs6pvww8r3/v/1274845899/original/7034_B2.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=frdPBQfz3Q0ZoyZrNTy0sosbkng="
     },
     {
       "attachment_id": "9q2qx6fh6q2zgf6x5pxz9qt",
@@ -252,8 +252,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/9q2qx6fh6q2zgf6x5pxz9qt/7034_B3.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/9q2qx6fh6q2zgf6x5pxz9qt/v/1274845900/original/7034_B3.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=HEaBzn5ISfGlSUzR87Ry3G9oxRI=",
-      "url": "https://storage-us-gcs.bfldr.com/9q2qx6fh6q2zgf6x5pxz9qt/v/1274845900/original/7034_B3.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=HEaBzn5ISfGlSUzR87Ry3G9oxRI="
+      "original_url": "https://storage-us-gcs.bfldr.com/9q2qx6fh6q2zgf6x5pxz9qt/v/1274845900/original/7034_B3.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=KVWweRv8NQs9-UpgsXS4XDwML_Q=",
+      "url": "https://storage-us-gcs.bfldr.com/9q2qx6fh6q2zgf6x5pxz9qt/v/1274845900/original/7034_B3.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=KVWweRv8NQs9-UpgsXS4XDwML_Q="
     },
     {
       "attachment_id": "37sstx98b64fn6g52ft5hq",
@@ -266,8 +266,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/37sstx98b64fn6g52ft5hq/7034_B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/37sstx98b64fn6g52ft5hq/v/1274845896/original/7034_B.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=xVYFN-ZZgNO8Bsx7tO7rfVogU2o=",
-      "url": "https://storage-us-gcs.bfldr.com/37sstx98b64fn6g52ft5hq/v/1274845896/original/7034_B.png?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=xVYFN-ZZgNO8Bsx7tO7rfVogU2o="
+      "original_url": "https://storage-us-gcs.bfldr.com/37sstx98b64fn6g52ft5hq/v/1274845896/original/7034_B.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=_x0WuONp1yn8ZQHprtXzhT5IqQg=",
+      "url": "https://storage-us-gcs.bfldr.com/37sstx98b64fn6g52ft5hq/v/1274845896/original/7034_B.png?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=_x0WuONp1yn8ZQHprtXzhT5IqQg="
     },
     {
       "attachment_id": "sr5k2w8pg4r48h9wr2bsc7f",
@@ -280,8 +280,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/sr5k2w8pg4r48h9wr2bsc7f/7034_Traveler_Griddle_1000x1000.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/sr5k2w8pg4r48h9wr2bsc7f/v/1274845901/original/7034_Traveler_Griddle_1000x1000.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=URawNA8861JWlSKgl9J_xj0szQo=",
-      "url": "https://storage-us-gcs.bfldr.com/sr5k2w8pg4r48h9wr2bsc7f/v/1274845901/original/7034_Traveler_Griddle_1000x1000.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=URawNA8861JWlSKgl9J_xj0szQo="
+      "original_url": "https://storage-us-gcs.bfldr.com/sr5k2w8pg4r48h9wr2bsc7f/v/1274845901/original/7034_Traveler_Griddle_1000x1000.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=96lKkTiq_O2AReEi1la6WbZn_SQ=",
+      "url": "https://storage-us-gcs.bfldr.com/sr5k2w8pg4r48h9wr2bsc7f/v/1274845901/original/7034_Traveler_Griddle_1000x1000.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=96lKkTiq_O2AReEi1la6WbZn_SQ="
     },
     {
       "attachment_id": "hvwqbth7cmh78p5stg5jnk9",
@@ -294,8 +294,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/hvwqbth7cmh78p5stg5jnk9/7034_Traveler_Griddle_1000x10002.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/hvwqbth7cmh78p5stg5jnk9/v/1274845903/original/7034_Traveler_Griddle_1000x10002.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=o94k9-48EPrHn4EWT3T8IzYMMzA=",
-      "url": "https://storage-us-gcs.bfldr.com/hvwqbth7cmh78p5stg5jnk9/v/1274845903/original/7034_Traveler_Griddle_1000x10002.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=o94k9-48EPrHn4EWT3T8IzYMMzA="
+      "original_url": "https://storage-us-gcs.bfldr.com/hvwqbth7cmh78p5stg5jnk9/v/1274845903/original/7034_Traveler_Griddle_1000x10002.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=GnH4hr089-pBdq3S6mKY271xwZg=",
+      "url": "https://storage-us-gcs.bfldr.com/hvwqbth7cmh78p5stg5jnk9/v/1274845903/original/7034_Traveler_Griddle_1000x10002.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=GnH4hr089-pBdq3S6mKY271xwZg="
     },
     {
       "attachment_id": "q959cptpjmxhnxgnjbwswcc",
@@ -308,8 +308,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q959cptpjmxhnxgnjbwswcc/1501740_042_TravelerWW_FY2026_AMER%20%283%29.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q959cptpjmxhnxgnjbwswcc/v/1300358019/original/1501740_042_TravelerWW_FY2026_AMER%20(3).jpg?Expires=1784652293&KeyName=gcs-bfldr-prod&Signature=QzYHHt0pZxPiD6VEFYkvQJiTWQs=",
-      "url": "https://storage-us-gcs.bfldr.com/q959cptpjmxhnxgnjbwswcc/v/1300358019/original/1501740_042_TravelerWW_FY2026_AMER%20(3).jpg?Expires=1784652293&KeyName=gcs-bfldr-prod&Signature=QzYHHt0pZxPiD6VEFYkvQJiTWQs="
+      "original_url": "https://storage-us-gcs.bfldr.com/q959cptpjmxhnxgnjbwswcc/v/1300358019/original/1501740_042_TravelerWW_FY2026_AMER%20(3).jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=exWIcr3LtusCjN4KLhftx7l5Li0=",
+      "url": "https://storage-us-gcs.bfldr.com/q959cptpjmxhnxgnjbwswcc/v/1300358019/original/1501740_042_TravelerWW_FY2026_AMER%20(3).jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=exWIcr3LtusCjN4KLhftx7l5Li0="
     },
     {
       "attachment_id": "cxwk5zcqkqwgfxqbqz3899cm",
@@ -322,8 +322,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cxwk5zcqkqwgfxqbqz3899cm/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=gRanjB4BezDNiGjSBzYakeYHnUo=",
-      "url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=gRanjB4BezDNiGjSBzYakeYHnUo="
+      "original_url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=4984Mw9gJQQ5TrHcuw41AtBH0Dk=",
+      "url": "https://storage-us-gcs.bfldr.com/cxwk5zcqkqwgfxqbqz3899cm/v/1289709012/original/1501740_043_TravelerWW_FY2026_AMER_ALT1.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=4984Mw9gJQQ5TrHcuw41AtBH0Dk="
     },
     {
       "attachment_id": "pw3t9jsvr58hk9qjqftpcc8c",
@@ -336,8 +336,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pw3t9jsvr58hk9qjqftpcc8c/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=HW3gQx8fFo7BJvhSs0r4-InzO0I=",
-      "url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=HW3gQx8fFo7BJvhSs0r4-InzO0I="
+      "original_url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=anowmE3Gxzxj1SA7ntvAb6NsZsA=",
+      "url": "https://storage-us-gcs.bfldr.com/pw3t9jsvr58hk9qjqftpcc8c/v/1294489389/original/1501740_043_TravelerWW_FY2026_AMER_ALT2.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=anowmE3Gxzxj1SA7ntvAb6NsZsA="
     },
     {
       "attachment_id": "cwsrng968n5hv5m6cw89vjk",
@@ -350,8 +350,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/cwsrng968n5hv5m6cw89vjk/1501740_044_TravelerWW_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=cLTiR85tsbw_MbZY0nDVGQHQZko=",
-      "url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784652292&KeyName=gcs-bfldr-prod&Signature=cLTiR85tsbw_MbZY0nDVGQHQZko="
+      "original_url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=gv9rIVpKgKZCtwmGNkEX5G2Zgeo=",
+      "url": "https://storage-us-gcs.bfldr.com/cwsrng968n5hv5m6cw89vjk/v/1289709014/original/1501740_044_TravelerWW_FY2026_AMER.jpg?Expires=1784897195&KeyName=gcs-bfldr-prod&Signature=gv9rIVpKgKZCtwmGNkEX5G2Zgeo="
     }
   ]
 }

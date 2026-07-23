@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7009",
   "assets": [
     {
@@ -7,7 +7,9 @@
       "asset_name": "Glow Plug 7009 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7009"
+        "7009",
+        "22510001",
+        "23510001"
       ]
     },
     {

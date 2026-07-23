@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html
 import re
 import sys
 import time
@@ -33,7 +34,7 @@ from src.media_audit import (
 from src.woocommerce import load_products
 
 
-VERSION = "2.0.0"
+VERSION = "2.1.0"
 PROJECT_ROOT = Path(__file__).resolve().parent
 REPORTS_DIR = PROJECT_ROOT / "reports"
 
@@ -288,6 +289,193 @@ def save_csv(
             writer.writerow(result.to_dict())
 
 
+def html_report_path(csv_path: Path) -> Path:
+    """Atgriež HTML atskaites ceļu blakus CSV failam."""
+    return csv_path.with_suffix(".html")
+
+
+def save_html(
+    results: list[MediaAuditResult],
+    path: Path,
+    *,
+    brand: str | None,
+    exclude_brand: str | None,
+    elapsed: float,
+) -> None:
+    """Saglabā interaktīvu, pašpietiekamu HTML audita atskaiti."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    statistics = summarize_results(results)
+    generated_at = datetime.now().strftime("%d.%m.%Y. %H:%M:%S")
+    filter_text = brand or (
+        f"visi, izņemot {exclude_brand}" if exclude_brand else "visi zīmoli"
+    )
+    rows: list[str] = []
+
+    for result in results:
+        data = result.to_dict()
+        severity = str(data.get("severity") or "").upper()
+        product_id = str(data.get("product_id") or "").strip()
+        sku = str(data.get("sku") or "")
+        product = str(data.get("product") or "")
+        notes = str(data.get("notes") or "")
+        brand_name = str(data.get("brand") or "")
+        edit_url = (
+            "https://grillandmore.lv/shop/wp-admin/post.php?"
+            f"post={product_id}&action=edit"
+            if product_id
+            else ""
+        )
+        action = (
+            f'<a class="action-link" href="{html.escape(edit_url, quote=True)}" '
+            'target="_blank" rel="noopener noreferrer">Atvērt produktu</a>'
+            if edit_url
+            else '<span class="muted">Nav ID</span>'
+        )
+        searchable = " ".join(
+            [sku, product, brand_name, severity, notes]
+        ).casefold()
+        bf_value = (
+            data.get("bf_images")
+            if data.get("bf_images") is not None
+            else "Kļūda"
+        )
+        rows.append(
+            "<tr "
+            f'data-severity="{html.escape(severity, quote=True)}" '
+            f'data-search="{html.escape(searchable, quote=True)}">'
+            f'<td>{html.escape(str(data.get("catalogue_position") or ""))}</td>'
+            f'<td class="sku">{html.escape(sku)}</td>'
+            f'<td><strong>{html.escape(product)}</strong>'
+            f'<div class="notes">{html.escape(notes)}</div></td>'
+            f'<td>{html.escape(brand_name)}</td>'
+            f'<td class="number">{html.escape(str(data.get("wc_images") or 0))}</td>'
+            f'<td class="number">{html.escape(str(bf_value))}</td>'
+            f'<td class="number">{html.escape(str(data.get("missing_from_wc") or 0))}</td>'
+            f'<td class="number">{html.escape(str(data.get("extra_in_wc") or 0))}</td>'
+            f'<td><span class="badge {severity.lower()}">{html.escape(severity)}</span></td>'
+            f'<td class="number">{html.escape(str(data.get("health") or 0))}%</td>'
+            f'<td>{action}</td>'
+            "</tr>"
+        )
+
+    document = f"""<!doctype html>
+<html lang="lv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grillandmore attēlu audits</title>
+<style>
+:root {{ color-scheme:light dark; --bg:#f4f6f8; --panel:#fff; --text:#18212b; --muted:#6b7280; --line:#dfe3e8; --pass:#157347; --warning:#9a6700; --fail:#b42318; }}
+@media (prefers-color-scheme:dark) {{ :root {{ --bg:#111827; --panel:#1f2937; --text:#f3f4f6; --muted:#9ca3af; --line:#374151; }} }}
+* {{ box-sizing:border-box; }}
+body {{ margin:0; font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; background:var(--bg); color:var(--text); }}
+main {{ max-width:1600px; margin:auto; padding:24px; }}
+h1 {{ margin:0 0 4px; font-size:28px; }}
+.meta {{ color:var(--muted); margin-bottom:20px; }}
+.cards {{ display:grid; grid-template-columns:repeat(4,minmax(140px,1fr)); gap:12px; margin-bottom:18px; }}
+.card {{ background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:16px; box-shadow:0 2px 8px rgba(0,0,0,.04); }}
+.card .label {{ color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.05em; }}
+.card .value {{ font-size:30px; font-weight:700; margin-top:4px; }}
+.controls {{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:12px; margin-bottom:14px; position:sticky; top:0; z-index:10; }}
+input[type="search"] {{ flex:1 1 320px; padding:10px 12px; border:1px solid var(--line); border-radius:8px; background:var(--panel); color:var(--text); }}
+button {{ border:1px solid var(--line); background:var(--panel); color:var(--text); padding:9px 12px; border-radius:8px; cursor:pointer; }}
+button.active {{ outline:2px solid currentColor; }}
+.table-wrap {{ overflow:auto; background:var(--panel); border:1px solid var(--line); border-radius:12px; }}
+table {{ width:100%; border-collapse:collapse; min-width:1180px; }}
+th,td {{ padding:10px 12px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }}
+th {{ position:sticky; top:61px; background:var(--panel); z-index:5; cursor:pointer; white-space:nowrap; }}
+tbody tr:hover {{ background:rgba(127,127,127,.07); }}
+.number {{ text-align:right; font-variant-numeric:tabular-nums; }}
+.sku {{ white-space:nowrap; font-family:ui-monospace,SFMono-Regular,Menlo,monospace; }}
+.notes {{ color:var(--muted); margin-top:4px; max-width:620px; }}
+.badge {{ display:inline-block; border-radius:999px; padding:3px 8px; font-size:12px; font-weight:700; }}
+.badge.pass {{ color:#fff; background:var(--pass); }}
+.badge.warning {{ color:#fff; background:var(--warning); }}
+.badge.fail {{ color:#fff; background:var(--fail); }}
+.action-link {{ white-space:nowrap; }}
+.muted {{ color:var(--muted); }}
+.footer {{ color:var(--muted); margin-top:12px; }}
+@media (max-width:760px) {{ main {{ padding:12px; }} .cards {{ grid-template-columns:repeat(2,1fr); }} }}
+</style>
+</head>
+<body>
+<main>
+<h1>Grillandmore attēlu audits</h1>
+<div class="meta">Versija {VERSION} · filtrs: {html.escape(filter_text)} · izveidots {generated_at} · ilgums {format_duration(elapsed)}</div>
+<section class="cards">
+<div class="card"><div class="label">Kopā</div><div class="value">{len(results)}</div></div>
+<div class="card"><div class="label">PASS</div><div class="value">{statistics['pass']}</div></div>
+<div class="card"><div class="label">WARNING</div><div class="value">{statistics['warning']}</div></div>
+<div class="card"><div class="label">FAIL</div><div class="value">{statistics['fail']}</div></div>
+</section>
+<div class="controls">
+<input id="search" type="search" placeholder="Meklēt pēc SKU, produkta, zīmola vai piezīmēm…">
+<button class="filter active" data-filter="ALL">Visi</button>
+<button class="filter" data-filter="PASS">PASS</button>
+<button class="filter" data-filter="WARNING">WARNING</button>
+<button class="filter" data-filter="FAIL">FAIL</button>
+<span id="visibleCount" class="muted"></span>
+</div>
+<div class="table-wrap">
+<table id="auditTable">
+<thead><tr>
+<th data-col="0">Nr.</th><th data-col="1">SKU</th><th data-col="2">Produkts / piezīmes</th><th data-col="3">Zīmols</th><th data-col="4">WC</th><th data-col="5">BF</th><th data-col="6">Trūkst WC</th><th data-col="7">Lieki WC</th><th data-col="8">Statuss</th><th data-col="9">Veselība</th><th>Darbība</th>
+</tr></thead>
+<tbody>{''.join(rows)}</tbody>
+</table>
+</div>
+<div class="footer">CSV un HTML satur viena un tā paša audita rezultātus. Šī atskaite neveic izmaiņas WooCommerce.</div>
+</main>
+<script>
+const state={{filter:'ALL',query:'',sortCol:null,sortAsc:true}};
+const tbody=document.querySelector('#auditTable tbody');
+const rows=[...tbody.querySelectorAll('tr')];
+const count=document.getElementById('visibleCount');
+function applyFilters(){{
+ let visible=0;
+ for(const row of rows){{
+  const okFilter=state.filter==='ALL'||row.dataset.severity===state.filter;
+  const okSearch=!state.query||row.dataset.search.includes(state.query);
+  row.hidden=!(okFilter&&okSearch);
+  if(!row.hidden) visible++;
+ }}
+ count.textContent=`Redzami ${{visible}} no ${{rows.length}}`;
+}}
+document.getElementById('search').addEventListener('input',event=>{{
+ state.query=event.target.value.trim().toLocaleLowerCase('lv');
+ applyFilters();
+}});
+document.querySelectorAll('.filter').forEach(button=>button.addEventListener('click',()=>{{
+ document.querySelectorAll('.filter').forEach(item=>item.classList.remove('active'));
+ button.classList.add('active');
+ state.filter=button.dataset.filter;
+ applyFilters();
+}}));
+document.querySelectorAll('th[data-col]').forEach(header=>header.addEventListener('click',()=>{{
+ const col=Number(header.dataset.col);
+ state.sortAsc=state.sortCol===col?!state.sortAsc:true;
+ state.sortCol=col;
+ rows.sort((a,b)=>{{
+  const av=a.children[col].innerText.trim();
+  const bv=b.children[col].innerText.trim();
+  const an=Number(av.replace('%',''));
+  const bn=Number(bv.replace('%',''));
+  let comparison=Number.isFinite(an)&&Number.isFinite(bn)
+   ? an-bn
+   : av.localeCompare(bv,'lv',{{numeric:true,sensitivity:'base'}});
+  return state.sortAsc?comparison:-comparison;
+ }});
+ rows.forEach(row=>tbody.appendChild(row));
+ applyFilters();
+}}));
+applyFilters();
+</script>
+</body>
+</html>
+"""
+    path.write_text(document, encoding="utf-8")
+
+
 def print_result(
     result: MediaAuditResult,
     *,
@@ -396,6 +584,7 @@ def print_summary(
     )
     print(f"Izpildes laiks:                 {format_duration(elapsed)}")
     print(f"CSV atskaite:                   {report}")
+    print(f"HTML atskaite:                  {html_report_path(report)}")
     print("=" * 72)
 
     if statistics["fail"]:
@@ -645,6 +834,13 @@ def run_audit(args: argparse.Namespace) -> int:
     save_csv(results, output_path)
 
     elapsed = time.monotonic() - started_at
+    save_html(
+        results,
+        html_report_path(output_path),
+        brand=args.brand,
+        exclude_brand=args.exclude_brand,
+        elapsed=elapsed,
+    )
 
     print_summary(
         brand=args.brand,

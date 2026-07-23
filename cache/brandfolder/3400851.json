@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400851",
   "assets": [
     {
@@ -7,9 +7,9 @@
       "asset_name": "[AMER/EMEA/AUNZ] Q1000N/Q1200N Bonnet Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400151",
+        "3400851",
         "3401461",
-        "3400851"
+        "3400151"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgk95j24389mfqt7fvvthx/3400851A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgk95j24389mfqt7fvvthx/v/1263106590/original/3400851A_rgb.png?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=JeUh3VZRZfDDaz1OjZ6HUdWxWPA=",
-      "url": "https://storage-us-gcs.bfldr.com/pgk95j24389mfqt7fvvthx/v/1263106590/original/3400851A_rgb.png?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=JeUh3VZRZfDDaz1OjZ6HUdWxWPA="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgk95j24389mfqt7fvvthx/v/1263106590/original/3400851A_rgb.png?Expires=1784897187&KeyName=gcs-bfldr-prod&Signature=ROeCGAgwGu5F9HIo1R9ztn3NbsU=",
+      "url": "https://storage-us-gcs.bfldr.com/pgk95j24389mfqt7fvvthx/v/1263106590/original/3400851A_rgb.png?Expires=1784897187&KeyName=gcs-bfldr-prod&Signature=ROeCGAgwGu5F9HIo1R9ztn3NbsU="
     },
     {
       "attachment_id": "kwmb8kstnrvf977cmgkgggfk",
@@ -55,8 +55,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kwmb8kstnrvf977cmgkgggfk/3400851B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kwmb8kstnrvf977cmgkgggfk/v/1263106591/original/3400851B_rgb.png?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=9r-6kOmj_6skYy42QsgQlk9p4Qo=",
-      "url": "https://storage-us-gcs.bfldr.com/kwmb8kstnrvf977cmgkgggfk/v/1263106591/original/3400851B_rgb.png?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=9r-6kOmj_6skYy42QsgQlk9p4Qo="
+      "original_url": "https://storage-us-gcs.bfldr.com/kwmb8kstnrvf977cmgkgggfk/v/1263106591/original/3400851B_rgb.png?Expires=1784897187&KeyName=gcs-bfldr-prod&Signature=CLLVHz0DaT2plf8WoiRwPvNP7Zs=",
+      "url": "https://storage-us-gcs.bfldr.com/kwmb8kstnrvf977cmgkgggfk/v/1263106591/original/3400851B_rgb.png?Expires=1784897187&KeyName=gcs-bfldr-prod&Signature=CLLVHz0DaT2plf8WoiRwPvNP7Zs="
     },
     {
       "attachment_id": "4vv9n6kwstwpjrrwscchhrwh",
@@ -69,8 +69,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/4vv9n6kwstwpjrrwscchhrwh/3400851C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/4vv9n6kwstwpjrrwscchhrwh/v/1263106592/original/3400851C_rgb.png?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=bGsvVl0XukAs9helwU6HmEnG4Mk=",
-      "url": "https://storage-us-gcs.bfldr.com/4vv9n6kwstwpjrrwscchhrwh/v/1263106592/original/3400851C_rgb.png?Expires=1784652285&KeyName=gcs-bfldr-prod&Signature=bGsvVl0XukAs9helwU6HmEnG4Mk="
+      "original_url": "https://storage-us-gcs.bfldr.com/4vv9n6kwstwpjrrwscchhrwh/v/1263106592/original/3400851C_rgb.png?Expires=1784897187&KeyName=gcs-bfldr-prod&Signature=usiiLGLjFTXqRdAZ-wAg5kNbUKA=",
+      "url": "https://storage-us-gcs.bfldr.com/4vv9n6kwstwpjrrwscchhrwh/v/1263106592/original/3400851C_rgb.png?Expires=1784897187&KeyName=gcs-bfldr-prod&Signature=usiiLGLjFTXqRdAZ-wAg5kNbUKA="
     }
   ]
 }

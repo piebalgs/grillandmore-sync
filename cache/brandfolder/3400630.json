@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400630",
   "assets": [
     {
@@ -161,8 +161,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j79qkkhcm42xnqv56nb33f6/3400608B_Cover_Plate_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/j79qkkhcm42xnqv56nb33f6/v/1279136719/original/3400608B_Cover_Plate_rgb.jpg?Expires=1784652424&KeyName=gcs-bfldr-prod&Signature=f7Ae9hWY8-n6wLf5W8Obhv7vWk8=",
-      "url": "https://storage-us-gcs.bfldr.com/j79qkkhcm42xnqv56nb33f6/v/1279136719/original/3400608B_Cover_Plate_rgb.jpg?Expires=1784652424&KeyName=gcs-bfldr-prod&Signature=f7Ae9hWY8-n6wLf5W8Obhv7vWk8="
+      "original_url": "https://storage-us-gcs.bfldr.com/j79qkkhcm42xnqv56nb33f6/v/1279136719/original/3400608B_Cover_Plate_rgb.jpg?Expires=1784897513&KeyName=gcs-bfldr-prod&Signature=iGru53tT191bp9LUzuktqFJsBXE=",
+      "url": "https://storage-us-gcs.bfldr.com/j79qkkhcm42xnqv56nb33f6/v/1279136719/original/3400608B_Cover_Plate_rgb.jpg?Expires=1784897513&KeyName=gcs-bfldr-prod&Signature=iGru53tT191bp9LUzuktqFJsBXE="
     },
     {
       "attachment_id": "2hqq2brww55v75h72ngkr8cc",
@@ -175,8 +175,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/2hqq2brww55v75h72ngkr8cc/PELLET%20XL34%20PLT%20CVR%203400608_A_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/2hqq2brww55v75h72ngkr8cc/v/1279136722/original/PELLET%20XL34%20PLT%20CVR%203400608_A_Cover_rgb.png?Expires=1784652424&KeyName=gcs-bfldr-prod&Signature=s7FQFN-BktbkG7K7LJk4WTEUhBU=",
-      "url": "https://storage-us-gcs.bfldr.com/2hqq2brww55v75h72ngkr8cc/v/1279136722/original/PELLET%20XL34%20PLT%20CVR%203400608_A_Cover_rgb.png?Expires=1784652424&KeyName=gcs-bfldr-prod&Signature=s7FQFN-BktbkG7K7LJk4WTEUhBU="
+      "original_url": "https://storage-us-gcs.bfldr.com/2hqq2brww55v75h72ngkr8cc/v/1279136722/original/PELLET%20XL34%20PLT%20CVR%203400608_A_Cover_rgb.png?Expires=1784897513&KeyName=gcs-bfldr-prod&Signature=7rv7AHVwaWE7BmywoKNjTp1DLXA=",
+      "url": "https://storage-us-gcs.bfldr.com/2hqq2brww55v75h72ngkr8cc/v/1279136722/original/PELLET%20XL34%20PLT%20CVR%203400608_A_Cover_rgb.png?Expires=1784897513&KeyName=gcs-bfldr-prod&Signature=7rv7AHVwaWE7BmywoKNjTp1DLXA="
     },
     {
       "attachment_id": "vwm6b9nhwzshwkh9rt4wr8c3",
@@ -189,8 +189,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/vwm6b9nhwzshwkh9rt4wr8c3/PELLET%20XL34%20PLT%20CVR%203400608_B_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/vwm6b9nhwzshwkh9rt4wr8c3/v/1279136723/original/PELLET%20XL34%20PLT%20CVR%203400608_B_Cover_rgb.png?Expires=1784652424&KeyName=gcs-bfldr-prod&Signature=yC85IlQy6DrfX8AlK3Z2_SYT0uU=",
-      "url": "https://storage-us-gcs.bfldr.com/vwm6b9nhwzshwkh9rt4wr8c3/v/1279136723/original/PELLET%20XL34%20PLT%20CVR%203400608_B_Cover_rgb.png?Expires=1784652424&KeyName=gcs-bfldr-prod&Signature=yC85IlQy6DrfX8AlK3Z2_SYT0uU="
+      "original_url": "https://storage-us-gcs.bfldr.com/vwm6b9nhwzshwkh9rt4wr8c3/v/1279136723/original/PELLET%20XL34%20PLT%20CVR%203400608_B_Cover_rgb.png?Expires=1784897513&KeyName=gcs-bfldr-prod&Signature=266u1VLlK--RTFeC80o1VQTRma8=",
+      "url": "https://storage-us-gcs.bfldr.com/vwm6b9nhwzshwkh9rt4wr8c3/v/1279136723/original/PELLET%20XL34%20PLT%20CVR%203400608_B_Cover_rgb.png?Expires=1784897513&KeyName=gcs-bfldr-prod&Signature=266u1VLlK--RTFeC80o1VQTRma8="
     },
     {
       "attachment_id": "g687rxv468ppgq86xn7s99r7",
@@ -203,8 +203,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/g687rxv468ppgq86xn7s99r7/PELLET%20XL34%20PLT%20CVR%203400608_C_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/g687rxv468ppgq86xn7s99r7/v/1279136724/original/PELLET%20XL34%20PLT%20CVR%203400608_C_Cover_rgb.png?Expires=1784652424&KeyName=gcs-bfldr-prod&Signature=4YiR6mnRAlQ8OvGXCiiV74nZU-k=",
-      "url": "https://storage-us-gcs.bfldr.com/g687rxv468ppgq86xn7s99r7/v/1279136724/original/PELLET%20XL34%20PLT%20CVR%203400608_C_Cover_rgb.png?Expires=1784652424&KeyName=gcs-bfldr-prod&Signature=4YiR6mnRAlQ8OvGXCiiV74nZU-k="
+      "original_url": "https://storage-us-gcs.bfldr.com/g687rxv468ppgq86xn7s99r7/v/1279136724/original/PELLET%20XL34%20PLT%20CVR%203400608_C_Cover_rgb.png?Expires=1784897513&KeyName=gcs-bfldr-prod&Signature=yUIPQy8xoYf65m1Ivtuwn-dtgAQ=",
+      "url": "https://storage-us-gcs.bfldr.com/g687rxv468ppgq86xn7s99r7/v/1279136724/original/PELLET%20XL34%20PLT%20CVR%203400608_C_Cover_rgb.png?Expires=1784897513&KeyName=gcs-bfldr-prod&Signature=yUIPQy8xoYf65m1Ivtuwn-dtgAQ="
     }
   ]
 }

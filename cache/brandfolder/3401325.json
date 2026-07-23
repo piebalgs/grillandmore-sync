@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401325",
   "assets": [
     {
@@ -183,8 +183,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/99gxn7x5bnbv9j7vqhvxqfs/3401325-%20WEBER%20WORKS%20CLIP_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/99gxn7x5bnbv9j7vqhvxqfs/v/1267593442/original/3401325-%20WEBER%20WORKS%20CLIP_A_rgb.png?Expires=1784652452&KeyName=gcs-bfldr-prod&Signature=uFyYYt9g8fpA80ZUY1lgBP6B0-w=",
-      "url": "https://storage-us-gcs.bfldr.com/99gxn7x5bnbv9j7vqhvxqfs/v/1267593442/original/3401325-%20WEBER%20WORKS%20CLIP_A_rgb.png?Expires=1784652452&KeyName=gcs-bfldr-prod&Signature=uFyYYt9g8fpA80ZUY1lgBP6B0-w="
+      "original_url": "https://storage-us-gcs.bfldr.com/99gxn7x5bnbv9j7vqhvxqfs/v/1267593442/original/3401325-%20WEBER%20WORKS%20CLIP_A_rgb.png?Expires=1784897578&KeyName=gcs-bfldr-prod&Signature=smewbrH5pr41VfSDw7nBj-GNL7g=",
+      "url": "https://storage-us-gcs.bfldr.com/99gxn7x5bnbv9j7vqhvxqfs/v/1267593442/original/3401325-%20WEBER%20WORKS%20CLIP_A_rgb.png?Expires=1784897578&KeyName=gcs-bfldr-prod&Signature=smewbrH5pr41VfSDw7nBj-GNL7g="
     },
     {
       "attachment_id": "h8ktnvccxspbcj9swmg74sf",
@@ -197,8 +197,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/h8ktnvccxspbcj9swmg74sf/3401325-%20WEBER%20WORKS%20CLIP_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/h8ktnvccxspbcj9swmg74sf/v/1267593443/original/3401325-%20WEBER%20WORKS%20CLIP_B_rgb.png?Expires=1784652452&KeyName=gcs-bfldr-prod&Signature=RKv9ErM27d22chKNe6Edx3bj614=",
-      "url": "https://storage-us-gcs.bfldr.com/h8ktnvccxspbcj9swmg74sf/v/1267593443/original/3401325-%20WEBER%20WORKS%20CLIP_B_rgb.png?Expires=1784652452&KeyName=gcs-bfldr-prod&Signature=RKv9ErM27d22chKNe6Edx3bj614="
+      "original_url": "https://storage-us-gcs.bfldr.com/h8ktnvccxspbcj9swmg74sf/v/1267593443/original/3401325-%20WEBER%20WORKS%20CLIP_B_rgb.png?Expires=1784897578&KeyName=gcs-bfldr-prod&Signature=4MwuzlqLkxSzV7KKTCcaIA1b6vs=",
+      "url": "https://storage-us-gcs.bfldr.com/h8ktnvccxspbcj9swmg74sf/v/1267593443/original/3401325-%20WEBER%20WORKS%20CLIP_B_rgb.png?Expires=1784897578&KeyName=gcs-bfldr-prod&Signature=4MwuzlqLkxSzV7KKTCcaIA1b6vs="
     },
     {
       "attachment_id": "pt7x5srmkhfw34vfv52qcqnm",
@@ -211,8 +211,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pt7x5srmkhfw34vfv52qcqnm/3401325-%20WEBER%20WORKS%20CLIP_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pt7x5srmkhfw34vfv52qcqnm/v/1267593444/original/3401325-%20WEBER%20WORKS%20CLIP_C_rgb.png?Expires=1784652452&KeyName=gcs-bfldr-prod&Signature=JNMp2muFYJL9OutUaMSMl9-TwzI=",
-      "url": "https://storage-us-gcs.bfldr.com/pt7x5srmkhfw34vfv52qcqnm/v/1267593444/original/3401325-%20WEBER%20WORKS%20CLIP_C_rgb.png?Expires=1784652452&KeyName=gcs-bfldr-prod&Signature=JNMp2muFYJL9OutUaMSMl9-TwzI="
+      "original_url": "https://storage-us-gcs.bfldr.com/pt7x5srmkhfw34vfv52qcqnm/v/1267593444/original/3401325-%20WEBER%20WORKS%20CLIP_C_rgb.png?Expires=1784897578&KeyName=gcs-bfldr-prod&Signature=S9xry6-zI5aUwg5Q-y-Ca-Sp58g=",
+      "url": "https://storage-us-gcs.bfldr.com/pt7x5srmkhfw34vfv52qcqnm/v/1267593444/original/3401325-%20WEBER%20WORKS%20CLIP_C_rgb.png?Expires=1784897578&KeyName=gcs-bfldr-prod&Signature=S9xry6-zI5aUwg5Q-y-Ca-Sp58g="
     },
     {
       "attachment_id": "pm9g53sthx7r3wm8q8q3g32c",
@@ -225,8 +225,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pm9g53sthx7r3wm8q8q3g32c/3401325_007_WW%20Tool%20Clip_FY26_Global.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pm9g53sthx7r3wm8q8q3g32c/v/1270157930/original/3401325_007_WW%20Tool%20Clip_FY26_Global.jpg?Expires=1784652452&KeyName=gcs-bfldr-prod&Signature=muodZY4UT2oCMvUVjGODnfQR5tQ=",
-      "url": "https://storage-us-gcs.bfldr.com/pm9g53sthx7r3wm8q8q3g32c/v/1270157930/original/3401325_007_WW%20Tool%20Clip_FY26_Global.jpg?Expires=1784652452&KeyName=gcs-bfldr-prod&Signature=muodZY4UT2oCMvUVjGODnfQR5tQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/pm9g53sthx7r3wm8q8q3g32c/v/1270157930/original/3401325_007_WW%20Tool%20Clip_FY26_Global.jpg?Expires=1784897578&KeyName=gcs-bfldr-prod&Signature=gUmj3yyHxqGJlembwWQzqMRJj0M=",
+      "url": "https://storage-us-gcs.bfldr.com/pm9g53sthx7r3wm8q8q3g32c/v/1270157930/original/3401325_007_WW%20Tool%20Clip_FY26_Global.jpg?Expires=1784897578&KeyName=gcs-bfldr-prod&Signature=gUmj3yyHxqGJlembwWQzqMRJj0M="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401050",
   "assets": [
     {
@@ -31,8 +31,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/tgqx5jqg8cwstrpm754wz9w/3401050_PelletFuel_Cherry_Back_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/tgqx5jqg8cwstrpm754wz9w/v/1263105726/original/3401050_PelletFuel_Cherry_Back_1800x1800.png?Expires=1784652299&KeyName=gcs-bfldr-prod&Signature=UC8I9fWVuzjXIK-H5MyVL5amT4M=",
-      "url": "https://storage-us-gcs.bfldr.com/tgqx5jqg8cwstrpm754wz9w/v/1263105726/original/3401050_PelletFuel_Cherry_Back_1800x1800.png?Expires=1784652299&KeyName=gcs-bfldr-prod&Signature=UC8I9fWVuzjXIK-H5MyVL5amT4M="
+      "original_url": "https://storage-us-gcs.bfldr.com/tgqx5jqg8cwstrpm754wz9w/v/1263105726/original/3401050_PelletFuel_Cherry_Back_1800x1800.png?Expires=1784897203&KeyName=gcs-bfldr-prod&Signature=I2Cr3h5AMNT34ltXfUST8q1vXYM=",
+      "url": "https://storage-us-gcs.bfldr.com/tgqx5jqg8cwstrpm754wz9w/v/1263105726/original/3401050_PelletFuel_Cherry_Back_1800x1800.png?Expires=1784897203&KeyName=gcs-bfldr-prod&Signature=I2Cr3h5AMNT34ltXfUST8q1vXYM="
     },
     {
       "attachment_id": "mkwmfgtnffj8hs7cx37fknz",
@@ -45,8 +45,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mkwmfgtnffj8hs7cx37fknz/3401050_PelletFuel_Cherry_Front_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mkwmfgtnffj8hs7cx37fknz/v/1263106603/original/3401050_PelletFuel_Cherry_Front_1800x1800.png?Expires=1784652299&KeyName=gcs-bfldr-prod&Signature=Zy62ucuawgcPCmMmUMzEEE1gDog=",
-      "url": "https://storage-us-gcs.bfldr.com/mkwmfgtnffj8hs7cx37fknz/v/1263106603/original/3401050_PelletFuel_Cherry_Front_1800x1800.png?Expires=1784652299&KeyName=gcs-bfldr-prod&Signature=Zy62ucuawgcPCmMmUMzEEE1gDog="
+      "original_url": "https://storage-us-gcs.bfldr.com/mkwmfgtnffj8hs7cx37fknz/v/1263106603/original/3401050_PelletFuel_Cherry_Front_1800x1800.png?Expires=1784897203&KeyName=gcs-bfldr-prod&Signature=jxHrGPHWqlInBbz93_bm63Wc7Ho=",
+      "url": "https://storage-us-gcs.bfldr.com/mkwmfgtnffj8hs7cx37fknz/v/1263106603/original/3401050_PelletFuel_Cherry_Front_1800x1800.png?Expires=1784897203&KeyName=gcs-bfldr-prod&Signature=jxHrGPHWqlInBbz93_bm63Wc7Ho="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7660",
   "assets": [
     {
@@ -7,7 +7,9 @@
       "asset_name": "Pulse Rotisserie 7660 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7660"
+        "7660",
+        "1000",
+        "2000"
       ]
     },
     {
@@ -15,7 +17,9 @@
       "asset_name": "Pulse Rotisserie 7660 Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7660"
+        "7660",
+        "2000",
+        "1000"
       ]
     },
     {
@@ -23,7 +27,9 @@
       "asset_name": "Pulse Rotisserie 7660 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7660"
+        "7660",
+        "1000",
+        "2000"
       ]
     },
     {
@@ -47,8 +53,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pianed-qfr48-26wnxv/7660C.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-26wnxv/v/2667284/original/7660C.png?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=RNxiZjYd4BEisNccr-Eqzj7pKyw=",
-      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-26wnxv/v/2667284/original/7660C.png?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=RNxiZjYd4BEisNccr-Eqzj7pKyw="
+      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-26wnxv/v/2667284/original/7660C.png?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=HJ8DdApaZKL5hgE1QaAaxHZLjeA=",
+      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-26wnxv/v/2667284/original/7660C.png?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=HJ8DdApaZKL5hgE1QaAaxHZLjeA="
     },
     {
       "attachment_id": "pianed-qfr48-6lxec8",
@@ -61,8 +67,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pianed-qfr48-6lxec8/7660Y1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-6lxec8/v/2667285/original/7660Y1.jpg?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=tB64NsPSSl777nrUOBC-DjGF6ko=",
-      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-6lxec8/v/2667285/original/7660Y1.jpg?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=tB64NsPSSl777nrUOBC-DjGF6ko="
+      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-6lxec8/v/2667285/original/7660Y1.jpg?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=nhNsmAJQkp-xyhDCdm9_RbNqPjM=",
+      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-6lxec8/v/2667285/original/7660Y1.jpg?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=nhNsmAJQkp-xyhDCdm9_RbNqPjM="
     },
     {
       "attachment_id": "pianed-qfr48-788b6c",
@@ -75,8 +81,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pianed-qfr48-788b6c/7660Y2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-788b6c/v/2667286/original/7660Y2.jpg?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=R3mBvOkEbqklQTJbx2KaopKwpac=",
-      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-788b6c/v/2667286/original/7660Y2.jpg?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=R3mBvOkEbqklQTJbx2KaopKwpac="
+      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-788b6c/v/2667286/original/7660Y2.jpg?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=LXlbuhrlnY9QSSAQ6RhVnYSnRvo=",
+      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-788b6c/v/2667286/original/7660Y2.jpg?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=LXlbuhrlnY9QSSAQ6RhVnYSnRvo="
     },
     {
       "attachment_id": "pianed-qfr48-6wgk7t",
@@ -89,8 +95,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pianed-qfr48-6wgk7t/7660Y3.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-6wgk7t/v/2667287/original/7660Y3.jpg?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=PKnf2UfGZ2Ed-vDeEyYeIttNp5M=",
-      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-6wgk7t/v/2667287/original/7660Y3.jpg?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=PKnf2UfGZ2Ed-vDeEyYeIttNp5M="
+      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-6wgk7t/v/2667287/original/7660Y3.jpg?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=DTNRBWmjPHEfg3t--WitQgtnWkE=",
+      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-6wgk7t/v/2667287/original/7660Y3.jpg?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=DTNRBWmjPHEfg3t--WitQgtnWkE="
     },
     {
       "attachment_id": "pianed-qfr48-4h94ty",
@@ -103,8 +109,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pianed-qfr48-4h94ty/7660Y4.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-4h94ty/v/2667288/original/7660Y4.jpg?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=-YUCaDVJ-1HFBQ9hQxUJV6iwltI=",
-      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-4h94ty/v/2667288/original/7660Y4.jpg?Expires=1784652289&KeyName=gcs-bfldr-prod&Signature=-YUCaDVJ-1HFBQ9hQxUJV6iwltI="
+      "original_url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-4h94ty/v/2667288/original/7660Y4.jpg?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=jKglTkWb_hL3uhMaZhVMf0usIX4=",
+      "url": "https://storage-us-gcs.bfldr.com/pianed-qfr48-4h94ty/v/2667288/original/7660Y4.jpg?Expires=1784897191&KeyName=gcs-bfldr-prod&Signature=jKglTkWb_hL3uhMaZhVMf0usIX4="
     }
   ]
 }

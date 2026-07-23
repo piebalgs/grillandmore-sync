@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{PAGE_TITLE}}</title>
+
+    <style>
+        :root {
+            color-scheme: light;
+
+            --background: #f3f5f7;
+            --panel: #ffffff;
+            --text: #18212b;
+            --muted: #667085;
+            --border: #dfe4ea;
+
+            --green-bg: #e8f7ee;
+            --green-text: #18794e;
+
+            --blue-bg: #e8f1ff;
+            --blue-text: #1d4ed8;
+
+            --orange-bg: #fff0e5;
+            --orange-text: #b54708;
+
+            --yellow-bg: #fff6dd;
+            --yellow-text: #8a5a00;
+
+            --red-bg: #fdecec;
+            --red-text: #b42318;
+
+            --gray-bg: #eef1f4;
+            --gray-text: #475467;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            background: var(--background);
+            color: var(--text);
+
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif;
+
+            font-size: 15px;
+            line-height: 1.5;
+        }
+
+        .page {
+            width: min(1500px, calc(100% - 32px));
+            margin: 28px auto 50px;
+        }
+
+        .header {
+            padding: 28px;
+
+            border-radius: 18px;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #17212b,
+                    #344054
+                );
+
+            color: #ffffff;
+
+            box-shadow:
+                0 8px 24px
+                rgba(16, 24, 40, 0.10);
+        }
+
+        .header h1 {
+            margin: 0 0 14px;
+
+            font-size:
+                clamp(
+                    28px,
+                    3vw,
+                    42px
+                );
+
+            line-height: 1.15;
+        }
+
+        .meta-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 24px;
+
+            color:
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.82
+                );
+        }
+
+        .meta-label {
+            margin-right: 6px;
+
+            color:
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.60
+                );
+        }
+
+        .meta-value {
+            color: #ffffff;
+            font-weight: 700;
+        }
+
+        .mode-live {
+            color: #9ff0bf;
+        }
+
+        .mode-dry-run {
+            color: #ffd98b;
+        }
+
+        .summary-grid {
+            display: grid;
+
+            grid-template-columns:
+                repeat(
+                    4,
+                    minmax(0, 1fr)
+                );
+
+            gap: 14px;
+
+            margin: 18px 0;
+        }
+
+        .summary-card {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+
+            min-height: 100px;
+            padding: 18px;
+
+            border: 1px solid var(--border);
+            border-radius: 14px;
+
+            background: var(--panel);
+
+            box-shadow:
+                0 3px 10px
+                rgba(16, 24, 40, 0.06);
+        }
+
+        .summary-icon {
+            font-size: 28px;
+        }
+
+        .summary-value {
+            font-size: 30px;
+            font-weight: 800;
+            line-height: 1;
+        }
+
+        .summary-label {
+            margin-top: 6px;
+
+            color: var(--muted);
+            font-size: 13px;
+            font-weight: 650;
+        }
+
+        .panel {
+            overflow: hidden;
+
+            border: 1px solid var(--border);
+            border-radius: 16px;
+
+            background: var(--panel);
+
+            box-shadow:
+                0 8px 24px
+                rgba(16, 24, 40, 0.08);
+        }
+
+        .panel-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 18px;
+
+            padding: 20px;
+
+            border-bottom: 1px solid var(--border);
+        }
+
+        .panel-header h2 {
+            margin: 0;
+
+            font-size: 20px;
+        }
+
+        .counter {
+            color: var(--muted);
+            font-size: 13px;
+        }
+
+        .toolbar {
+            display: grid;
+
+            grid-template-columns:
+                minmax(260px, 1fr)
+                minmax(180px, 230px)
+                auto;
+
+            gap: 12px;
+
+            padding: 16px 20px;
+
+            border-bottom: 1px solid var(--border);
+
+            background: #fafbfc;
+        }
+
+        .control label {
+            display: block;
+
+            margin-bottom: 6px;
+
+            color: var(--muted);
+            font-size: 12px;
+            font-weight: 650;
+        }
+
+        input,
+        select,
+        button {
+            min-height: 42px;
+
+            border: 1px solid var(--border);
+            border-radius: 10px;
+
+            background: #ffffff;
+            color: var(--text);
+
+            font: inherit;
+        }
+
+        input,
+        select {
+            width: 100%;
+            padding: 0 12px;
+        }
+
+        button {
+            align-self: end;
+
+            padding: 0 15px;
+
+            cursor: pointer;
+            font-weight: 650;
+        }
+
+        button:hover {
+            background: #f3f5f7;
+        }
+
+        .table-container {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            min-width: 1200px;
+
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 14px 15px;
+
+            border-bottom: 1px solid #edf0f3;
+
+            text-align: left;
+            vertical-align: top;
+        }
+
+        th {
+            position: sticky;
+            top: 0;
+            z-index: 2;
+
+            background: #f8fafb;
+            color: #475467;
+
+            font-size: 12px;
+            font-weight: 720;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            white-space: nowrap;
+        }
+
+        tbody tr:hover {
+            background: #fafcff;
+        }
+
+        .sku-cell {
+            font-family:
+                ui-monospace,
+                SFMono-Regular,
+                Menlo,
+                Monaco,
+                Consolas,
+                monospace;
+
+            white-space: nowrap;
+        }
+
+        .number-cell {
+            text-align: right;
+            white-space: nowrap;
+        }
+
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+
+            padding: 4px 10px;
+
+            border-radius: 999px;
+
+            font-size: 12px;
+            font-weight: 720;
+            white-space: nowrap;
+        }
+
+        .status-already-ok,
+        .status-verify-passed {
+            background: var(--green-bg);
+            color: var(--green-text);
+        }
+
+        .status-updated {
+            background: var(--blue-bg);
+            color: var(--blue-text);
+        }
+
+        .status-dry-run {
+            background: var(--yellow-bg);
+            color: var(--yellow-text);
+        }
+
+        .status-manual-review {
+            background: var(--orange-bg);
+            color: var(--orange-text);
+        }
+
+        .status-verify-failed,
+        .status-error {
+            background: var(--red-bg);
+            color: var(--red-text);
+        }
+
+        .status-unknown {
+            background: var(--gray-bg);
+            color: var(--gray-text);
+        }
+
+        details {
+            margin: 0;
+        }
+
+        summary {
+            cursor: pointer;
+
+            color: #344054;
+            font-weight: 650;
+        }
+
+        details[open] summary {
+            margin-bottom: 10px;
+        }
+
+        .image-list {
+            margin: 12px 0;
+            padding: 12px;
+
+            border: 1px solid var(--border);
+            border-radius: 10px;
+
+            background: #fafbfc;
+        }
+
+        .image-list ol {
+            margin: 8px 0 0;
+            padding-left: 22px;
+        }
+
+        .image-list li {
+            margin: 4px 0;
+            overflow-wrap: anywhere;
+        }
+
+        .raw-details {
+            margin-top: 12px;
+        }
+
+        pre {
+            max-height: 420px;
+            overflow: auto;
+
+            padding: 14px;
+
+            border-radius: 10px;
+
+            background: #111827;
+            color: #e5e7eb;
+
+            font-size: 12px;
+            white-space: pre-wrap;
+            overflow-wrap: anywhere;
+        }
+
+        .empty-row td {
+            padding: 34px;
+
+            color: var(--muted);
+            text-align: center;
+        }
+
+        .no-results {
+            display: none;
+
+            padding: 34px;
+
+            color: var(--muted);
+            text-align: center;
+        }
+
+        .footer {
+            margin-top: 16px;
+
+            color: var(--muted);
+            font-size: 13px;
+            text-align: center;
+        }
+
+        @media max-width: 1050px {
+            .summary-grid {
+                grid-template-columns:
+                    repeat(
+                        2,
+                        minmax(0, 1fr)
+                    );
+            }
+
+            .toolbar {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            button {
+                width: 100%;
+            }
+        }
+
+        @media max-width: 680px {
+            .page {
+                width: calc(100% - 20px);
+                margin-top: 10px;
+            }
+
+            .header {
+                padding: 22px;
+                border-radius: 14px;
+            }
+
+            .meta-grid {
+                display: grid;
+                grid-template-columns: 1fr;
+            }
+
+            .summary-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .toolbar {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media print {
+            body {
+                background: #ffffff;
+                font-size: 11px;
+            }
+
+            .page {
+                width: 100%;
+                margin: 0;
+            }
+
+            .toolbar {
+                display: none;
+            }
+
+            .header,
+            .panel,
+            .summary-card {
+                box-shadow: none;
+            }
+
+            table {
+                min-width: 0;
+            }
+
+            th {
+                position: static;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main class="page">
+        <header class="header">
+            <h1>
+                Attēlu sinhronizācijas atskaite
+            </h1>
+
+            <div class="meta-grid">
+                <div>
+                    <span class="meta-label">
+                        Izveidots:
+                    </span>
+
+                    <span class="meta-value">
+                        {{GENERATED_AT}}
+                    </span>
+                </div>
+
+                <div>
+                    <span class="meta-label">
+                        Režīms:
+                    </span>
+
+                    <span class="meta-value {{MODE_CLASS}}">
+                        {{MODE}}
+                    </span>
+                </div>
+
+                <div>
+                    <span class="meta-label">
+                        Atlase:
+                    </span>
+
+                    <span class="meta-value">
+                        {{SELECTION}}
+                    </span>
+                </div>
+            </div>
+        </header>
+
+        <section class="summary-grid">
+            {{SUMMARY_CARDS}}
+        </section>
+
+        <section class="panel">
+            <div class="panel-header">
+                <h2>
+                    Produktu rezultāti
+                </h2>
+
+                <div class="counter">
+                    Redzami:
+                    <strong id="visibleCount">
+                        {{TOTAL_RESULTS}}
+                    </strong>
+
+                    no
+
+                    <strong id="totalCount">
+                        {{TOTAL_RESULTS}}
+                    </strong>
+                </div>
+            </div>
+
+            <div class="toolbar">
+                <div class="control">
+                    <label for="searchInput">
+                        Meklēšana
+                    </label>
+
+                    <input
+                        id="searchInput"
+                        type="search"
+                        placeholder="Meklēt pēc SKU, produkta, statusa vai ziņojuma..."
+                        autocomplete="off"
+                    >
+                </div>
+
+                <div class="control">
+                    <label for="categoryFilter">
+                        Statuss
+                    </label>
+
+                    <select id="categoryFilter">
+                        <option value="">
+                            Visi statusi
+                        </option>
+
+                        <option value="already-ok">
+                            Jau kārtībā
+                        </option>
+
+                        <option value="updated">
+                            Atjaunināti
+                        </option>
+
+                        <option value="dry-run">
+                            Dry run
+                        </option>
+
+                        <option value="manual-review">
+                            Manuāli jāpārbauda
+                        </option>
+
+                        <option value="verify-failed">
+                            Verifikācija neizdevās
+                        </option>
+
+                        <option value="error">
+                            Kļūdas
+                        </option>
+
+                        <option value="unknown">
+                            Nezināms statuss
+                        </option>
+                    </select>
+                </div>
+
+                <button id="resetFilters" type="button">
+                    Notīrīt filtrus
+                </button>
+            </div>
+
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>SKU</th>
+                            <th>Produkts</th>
+                            <th>Statuss</th>
+                            <th>Verifikācija</th>
+                            <th>Attēli</th>
+                            <th>Ziņojums</th>
+                            <th>Plāns</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="resultsBody">
+                        {{TABLE_ROWS}}
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="noResults" class="no-results">
+                Neviens ieraksts neatbilst izvēlētajiem filtriem.
+            </div>
+        </section>
+
+        <footer class="footer">
+            GrillAndMore attēlu sinhronizācijas HTML atskaite
+        </footer>
+    </main>
+
+    <script>
+        "use strict";
+
+        const searchInput =
+            document.getElementById("searchInput");
+
+        const categoryFilter =
+            document.getElementById("categoryFilter");
+
+        const resetFilters =
+            document.getElementById("resetFilters");
+
+        const visibleCount =
+            document.getElementById("visibleCount");
+
+        const totalCount =
+            document.getElementById("totalCount");
+
+        const noResults =
+            document.getElementById("noResults");
+
+        const rows = Array.from(
+            document.querySelectorAll(
+                "#resultsBody tr:not(.empty-row)"
+            )
+        );
+
+        function normalize(value) {
+            return String(value || "")
+                .trim()
+                .toLocaleLowerCase("lv-LV");
+        }
+
+        function applyFilters() {
+            const query =
+                normalize(searchInput.value);
+
+            const selectedCategory =
+                normalize(categoryFilter.value);
+
+            let shown = 0;
+
+            rows.forEach((row) => {
+                const rowText =
+                    normalize(row.dataset.search);
+
+                const rowCategory =
+                    normalize(row.dataset.category);
+
+                const matchesSearch =
+                    !query
+                    || rowText.includes(query);
+
+                const matchesCategory =
+                    !selectedCategory
+                    || rowCategory === selectedCategory;
+
+                const isVisible =
+                    matchesSearch
+                    && matchesCategory;
+
+                row.hidden = !isVisible;
+
+                if (isVisible) {
+                    shown += 1;
+                }
+            });
+
+            visibleCount.textContent =
+                String(shown);
+
+            totalCount.textContent =
+                String(rows.length);
+
+            noResults.style.display =
+                rows.length > 0 && shown === 0
+                    ? "block"
+                    : "none";
+        }
+
+        function clearFilters() {
+            searchInput.value = "";
+            categoryFilter.value = "";
+
+            applyFilters();
+
+            searchInput.focus();
+        }
+
+        searchInput.addEventListener(
+            "input",
+            applyFilters
+        );
+
+        categoryFilter.addEventListener(
+            "change",
+            applyFilters
+        );
+
+        resetFilters.addEventListener(
+            "click",
+            clearFilters
+        );
+
+        applyFilters();
+    </script>
+</body>
+</html>

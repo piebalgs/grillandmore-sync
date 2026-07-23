@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401055",
   "assets": [
     {
@@ -31,8 +31,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/w72929cnxjrwctp9x5srjcmr/3401055_PelletFuel_Apple_Back_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/w72929cnxjrwctp9x5srjcmr/v/1266873609/original/3401055_PelletFuel_Apple_Back_1800x1800.png?Expires=1784652298&KeyName=gcs-bfldr-prod&Signature=6T-LNbFRSIQYVhMxpz77EYn13Os=",
-      "url": "https://storage-us-gcs.bfldr.com/w72929cnxjrwctp9x5srjcmr/v/1266873609/original/3401055_PelletFuel_Apple_Back_1800x1800.png?Expires=1784652298&KeyName=gcs-bfldr-prod&Signature=6T-LNbFRSIQYVhMxpz77EYn13Os="
+      "original_url": "https://storage-us-gcs.bfldr.com/w72929cnxjrwctp9x5srjcmr/v/1266873609/original/3401055_PelletFuel_Apple_Back_1800x1800.png?Expires=1784897202&KeyName=gcs-bfldr-prod&Signature=xXY-xhdFRrsUFiMJ2SqHgnFkICM=",
+      "url": "https://storage-us-gcs.bfldr.com/w72929cnxjrwctp9x5srjcmr/v/1266873609/original/3401055_PelletFuel_Apple_Back_1800x1800.png?Expires=1784897202&KeyName=gcs-bfldr-prod&Signature=xXY-xhdFRrsUFiMJ2SqHgnFkICM="
     },
     {
       "attachment_id": "gjpqgbv5mf8gg45hxxxq4t8k",
@@ -45,8 +45,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gjpqgbv5mf8gg45hxxxq4t8k/3401055_PelletFuel_Apple_Front_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gjpqgbv5mf8gg45hxxxq4t8k/v/1266873610/original/3401055_PelletFuel_Apple_Front_1800x1800.png?Expires=1784652298&KeyName=gcs-bfldr-prod&Signature=A6BoOiAI1UL9i8rLmd0zFFGvNMY=",
-      "url": "https://storage-us-gcs.bfldr.com/gjpqgbv5mf8gg45hxxxq4t8k/v/1266873610/original/3401055_PelletFuel_Apple_Front_1800x1800.png?Expires=1784652298&KeyName=gcs-bfldr-prod&Signature=A6BoOiAI1UL9i8rLmd0zFFGvNMY="
+      "original_url": "https://storage-us-gcs.bfldr.com/gjpqgbv5mf8gg45hxxxq4t8k/v/1266873610/original/3401055_PelletFuel_Apple_Front_1800x1800.png?Expires=1784897202&KeyName=gcs-bfldr-prod&Signature=K3MOcECFT9qliKDG9Q6tM9beOGw=",
+      "url": "https://storage-us-gcs.bfldr.com/gjpqgbv5mf8gg45hxxxq4t8k/v/1266873610/original/3401055_PelletFuel_Apple_Front_1800x1800.png?Expires=1784897202&KeyName=gcs-bfldr-prod&Signature=K3MOcECFT9qliKDG9Q6tM9beOGw="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17614",
   "assets": [
     {
@@ -15,7 +15,8 @@
       "asset_name": "Cold Smoking Accessories Grilltipps Video",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "17614"
+        "17614",
+        "17636"
       ]
     },
     {
@@ -39,8 +40,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pn4r6e-ft5bqo-g9hy6c/17614B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pn4r6e-ft5bqo-g9hy6c/v/3117652/original/17614B.png?Expires=1784652328&KeyName=gcs-bfldr-prod&Signature=-Z22h1ZGRIzwbUJpwcLTPE3g9VE=",
-      "url": "https://storage-us-gcs.bfldr.com/pn4r6e-ft5bqo-g9hy6c/v/3117652/original/17614B.png?Expires=1784652328&KeyName=gcs-bfldr-prod&Signature=-Z22h1ZGRIzwbUJpwcLTPE3g9VE="
+      "original_url": "https://storage-us-gcs.bfldr.com/pn4r6e-ft5bqo-g9hy6c/v/3117652/original/17614B.png?Expires=1784897281&KeyName=gcs-bfldr-prod&Signature=wbzRV8x09d_svhqGcqLAM0kShYQ=",
+      "url": "https://storage-us-gcs.bfldr.com/pn4r6e-ft5bqo-g9hy6c/v/3117652/original/17614B.png?Expires=1784897281&KeyName=gcs-bfldr-prod&Signature=wbzRV8x09d_svhqGcqLAM0kShYQ="
     }
   ]
 }

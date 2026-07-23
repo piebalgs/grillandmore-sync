@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "8844",
   "assets": [
     {
@@ -27,6 +27,21 @@
       ]
     },
     {
+      "asset_id": "qf9xdm-3hjrf4-2zevkz",
+      "asset_name": "DE GBS Grilltipps Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "N/A",
+        "7425",
+        "8834",
+        "8836",
+        "8844",
+        "8842",
+        "7421",
+        "8838"
+      ]
+    },
+    {
       "asset_id": "vwrhnn532wj9nrkq54pmnr64",
       "asset_name": "53377 0816 RevB",
       "cdn_key": "XBRZ2A26",
@@ -47,8 +62,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwmz2-918ocg-a3vykw/8844A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-a3vykw/v/3024700/original/8844A.png?Expires=1784652287&KeyName=gcs-bfldr-prod&Signature=jheA48GnVu3cbGuR2qZNT8NV9Mc=",
-      "url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-a3vykw/v/3024700/original/8844A.png?Expires=1784652287&KeyName=gcs-bfldr-prod&Signature=jheA48GnVu3cbGuR2qZNT8NV9Mc="
+      "original_url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-a3vykw/v/3024700/original/8844A.png?Expires=1784897189&KeyName=gcs-bfldr-prod&Signature=UvN2v_lo3fhE1293lwRNFB6zy6U=",
+      "url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-a3vykw/v/3024700/original/8844A.png?Expires=1784897189&KeyName=gcs-bfldr-prod&Signature=UvN2v_lo3fhE1293lwRNFB6zy6U="
     },
     {
       "attachment_id": "plwmz2-918ocg-4l2ewz",
@@ -61,8 +76,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/plwmz2-918ocg-4l2ewz/8844Y.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-4l2ewz/v/3024702/original/8844Y.jpg?Expires=1784652287&KeyName=gcs-bfldr-prod&Signature=xs8jK2rGUQr1PRBcQR5FGLHWMeg=",
-      "url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-4l2ewz/v/3024702/original/8844Y.jpg?Expires=1784652287&KeyName=gcs-bfldr-prod&Signature=xs8jK2rGUQr1PRBcQR5FGLHWMeg="
+      "original_url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-4l2ewz/v/3024702/original/8844Y.jpg?Expires=1784897189&KeyName=gcs-bfldr-prod&Signature=uTZnBMVX34YQMXqvNoiQ9WCw8WA=",
+      "url": "https://storage-us-gcs.bfldr.com/plwmz2-918ocg-4l2ewz/v/3024702/original/8844Y.jpg?Expires=1784897189&KeyName=gcs-bfldr-prod&Signature=uTZnBMVX34YQMXqvNoiQ9WCw8WA="
     }
   ]
 }

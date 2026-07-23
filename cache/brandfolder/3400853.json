@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400853",
   "assets": [
     {
@@ -7,9 +7,9 @@
       "asset_name": "Weber Q Premium Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3400160",
         "3400233",
-        "3400853",
-        "3400160"
+        "3400853"
       ]
     },
     {

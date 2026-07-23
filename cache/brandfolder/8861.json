@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "8861",
   "assets": [
     {
@@ -61,8 +61,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/74c8qtj4jcmcfbrhsj2v5k6g/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/74c8qtj4jcmcfbrhsj2v5k6g/v/1279534714/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861A_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=hTGfEWleTWH18TsGpZHDDGbFkdI=",
-      "url": "https://storage-us-gcs.bfldr.com/74c8qtj4jcmcfbrhsj2v5k6g/v/1279534714/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861A_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=hTGfEWleTWH18TsGpZHDDGbFkdI="
+      "original_url": "https://storage-us-gcs.bfldr.com/74c8qtj4jcmcfbrhsj2v5k6g/v/1279534714/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861A_rgb.png?Expires=1784897299&KeyName=gcs-bfldr-prod&Signature=P14_O4OVQRGOQJ2CeAN7M1vUOUk=",
+      "url": "https://storage-us-gcs.bfldr.com/74c8qtj4jcmcfbrhsj2v5k6g/v/1279534714/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861A_rgb.png?Expires=1784897299&KeyName=gcs-bfldr-prod&Signature=P14_O4OVQRGOQJ2CeAN7M1vUOUk="
     },
     {
       "attachment_id": "xrpwhg35xwv8kk4hwqmg498",
@@ -75,8 +75,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xrpwhg35xwv8kk4hwqmg498/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xrpwhg35xwv8kk4hwqmg498/v/1279534715/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861B_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=p_SCEL-IiWm2Q_S_LYx9B6B5_fo=",
-      "url": "https://storage-us-gcs.bfldr.com/xrpwhg35xwv8kk4hwqmg498/v/1279534715/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861B_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=p_SCEL-IiWm2Q_S_LYx9B6B5_fo="
+      "original_url": "https://storage-us-gcs.bfldr.com/xrpwhg35xwv8kk4hwqmg498/v/1279534715/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861B_rgb.png?Expires=1784897299&KeyName=gcs-bfldr-prod&Signature=rSKy-FUZ9YGCM55WUDv4BsFjH5w=",
+      "url": "https://storage-us-gcs.bfldr.com/xrpwhg35xwv8kk4hwqmg498/v/1279534715/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861B_rgb.png?Expires=1784897299&KeyName=gcs-bfldr-prod&Signature=rSKy-FUZ9YGCM55WUDv4BsFjH5w="
     },
     {
       "attachment_id": "btbst7bw7bbfm5k6csbm2zg8",
@@ -89,8 +89,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/btbst7bw7bbfm5k6csbm2zg8/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/btbst7bw7bbfm5k6csbm2zg8/v/1279534717/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861C_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=LqWoAzRw0ypUUNDmqcT_3F48Aio=",
-      "url": "https://storage-us-gcs.bfldr.com/btbst7bw7bbfm5k6csbm2zg8/v/1279534717/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861C_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=LqWoAzRw0ypUUNDmqcT_3F48Aio="
+      "original_url": "https://storage-us-gcs.bfldr.com/btbst7bw7bbfm5k6csbm2zg8/v/1279534717/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861C_rgb.png?Expires=1784897299&KeyName=gcs-bfldr-prod&Signature=_e_jMhdYLqviGe8lcDynnPJI7Ss=",
+      "url": "https://storage-us-gcs.bfldr.com/btbst7bw7bbfm5k6csbm2zg8/v/1279534717/original/Glazed%20Pizza%20Stone%208861%20EMEA%20Product%208861C_rgb.png?Expires=1784897299&KeyName=gcs-bfldr-prod&Signature=_e_jMhdYLqviGe8lcDynnPJI7Ss="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6202",
   "assets": [
     {
@@ -23,8 +23,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepak-79j5zk-6hpn2l/6202A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-6hpn2l/v/2838078/original/6202A.png?Expires=1784652350&KeyName=gcs-bfldr-prod&Signature=cLyHiRNEhl1SqQsm-okQgLl2Lok=",
-      "url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-6hpn2l/v/2838078/original/6202A.png?Expires=1784652350&KeyName=gcs-bfldr-prod&Signature=cLyHiRNEhl1SqQsm-okQgLl2Lok="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-6hpn2l/v/2838078/original/6202A.png?Expires=1784897338&KeyName=gcs-bfldr-prod&Signature=4lF6s3YZdV7MJKzBWys6URtP_c0=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-6hpn2l/v/2838078/original/6202A.png?Expires=1784897338&KeyName=gcs-bfldr-prod&Signature=4lF6s3YZdV7MJKzBWys6URtP_c0="
     },
     {
       "attachment_id": "pkepak-79j5zk-f0ptw1",
@@ -37,8 +37,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepak-79j5zk-f0ptw1/6202E.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-f0ptw1/v/2838082/original/6202E.png?Expires=1784652350&KeyName=gcs-bfldr-prod&Signature=N2bViNt0TqVZ89-dcI-7Jd-v7YI=",
-      "url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-f0ptw1/v/2838082/original/6202E.png?Expires=1784652350&KeyName=gcs-bfldr-prod&Signature=N2bViNt0TqVZ89-dcI-7Jd-v7YI="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-f0ptw1/v/2838082/original/6202E.png?Expires=1784897338&KeyName=gcs-bfldr-prod&Signature=ftintRdbnLPrpqLkU9BjSWHxXDM=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepak-79j5zk-f0ptw1/v/2838082/original/6202E.png?Expires=1784897338&KeyName=gcs-bfldr-prod&Signature=ftintRdbnLPrpqLkU9BjSWHxXDM="
     },
     {
       "attachment_id": "pkepj2-34xs20-eu02ea",
@@ -51,8 +51,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepj2-34xs20-eu02ea/6202F.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-eu02ea/v/2838197/original/6202F.png?Expires=1784652350&KeyName=gcs-bfldr-prod&Signature=DyUwfrxf4BmBkqkx6WIYPx3Li_E=",
-      "url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-eu02ea/v/2838197/original/6202F.png?Expires=1784652350&KeyName=gcs-bfldr-prod&Signature=DyUwfrxf4BmBkqkx6WIYPx3Li_E="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-eu02ea/v/2838197/original/6202F.png?Expires=1784897338&KeyName=gcs-bfldr-prod&Signature=7tqayxo38WjC3gNQb3zOjK1JtLY=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-eu02ea/v/2838197/original/6202F.png?Expires=1784897338&KeyName=gcs-bfldr-prod&Signature=7tqayxo38WjC3gNQb3zOjK1JtLY="
     },
     {
       "attachment_id": "pkepj2-34xs20-ciat7a",
@@ -65,8 +65,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pkepj2-34xs20-ciat7a/6202G.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-ciat7a/v/2838198/original/6202G.png?Expires=1784652350&KeyName=gcs-bfldr-prod&Signature=KE7TD6GYrAMAiOf-NRyWzIKGbUM=",
-      "url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-ciat7a/v/2838198/original/6202G.png?Expires=1784652350&KeyName=gcs-bfldr-prod&Signature=KE7TD6GYrAMAiOf-NRyWzIKGbUM="
+      "original_url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-ciat7a/v/2838198/original/6202G.png?Expires=1784897338&KeyName=gcs-bfldr-prod&Signature=-ySLWg-H8f_VgsH5FE7TPbaGgo0=",
+      "url": "https://storage-us-gcs.bfldr.com/pkepj2-34xs20-ciat7a/v/2838198/original/6202G.png?Expires=1784897338&KeyName=gcs-bfldr-prod&Signature=-ySLWg-H8f_VgsH5FE7TPbaGgo0="
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6279",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Detail Grill Brush 6279 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6279"
+        "6279",
+        "2021"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Detailing Brush 6279 Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6279"
+        "6279",
+        "2021"
       ]
     },
     {
@@ -23,7 +25,8 @@
       "asset_name": "Detailing Brush 6279 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6279"
+        "6279",
+        "2021"
       ]
     },
     {

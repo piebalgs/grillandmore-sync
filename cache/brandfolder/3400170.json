@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400170",
   "assets": [
     {
@@ -16,8 +16,8 @@
       "asset_name": "Searwood 600XL [36IN] Premium Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400146",
-        "3400170"
+        "3400170",
+        "3400146"
       ]
     },
     {
@@ -145,8 +145,8 @@
       "asset_name": "Searwood 600XL [36IN] Premium Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400146",
-        "3400170"
+        "3400170",
+        "3400146"
       ]
     },
     {
@@ -154,8 +154,8 @@
       "asset_name": "Searwood 600XL [36IN] Premium Cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400170",
-        "3400146"
+        "3400146",
+        "3400170"
       ]
     },
     {
@@ -179,8 +179,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fqsrjb8bmxwhzct7bfgjmhg/3400146T1_4_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/fqsrjb8bmxwhzct7bfgjmhg/v/1279127704/original/3400146T1_4_rgb.jpg?Expires=1784652392&KeyName=gcs-bfldr-prod&Signature=eMvBHVbiCrlbhcNDw0aL2wKAOgU=",
-      "url": "https://storage-us-gcs.bfldr.com/fqsrjb8bmxwhzct7bfgjmhg/v/1279127704/original/3400146T1_4_rgb.jpg?Expires=1784652392&KeyName=gcs-bfldr-prod&Signature=eMvBHVbiCrlbhcNDw0aL2wKAOgU="
+      "original_url": "https://storage-us-gcs.bfldr.com/fqsrjb8bmxwhzct7bfgjmhg/v/1279127704/original/3400146T1_4_rgb.jpg?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=_2HTYcBgLtBjTMOVpUQTbS-AWU0=",
+      "url": "https://storage-us-gcs.bfldr.com/fqsrjb8bmxwhzct7bfgjmhg/v/1279127704/original/3400146T1_4_rgb.jpg?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=_2HTYcBgLtBjTMOVpUQTbS-AWU0="
     },
     {
       "attachment_id": "r7fgx545shrhpzx63prj3sr",
@@ -193,8 +193,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r7fgx545shrhpzx63prj3sr/3400146T2_2_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/r7fgx545shrhpzx63prj3sr/v/1279127705/original/3400146T2_2_rgb.jpg?Expires=1784652392&KeyName=gcs-bfldr-prod&Signature=jsCN2Cy3Wur-v3tiO4c2DdVfH5g=",
-      "url": "https://storage-us-gcs.bfldr.com/r7fgx545shrhpzx63prj3sr/v/1279127705/original/3400146T2_2_rgb.jpg?Expires=1784652392&KeyName=gcs-bfldr-prod&Signature=jsCN2Cy3Wur-v3tiO4c2DdVfH5g="
+      "original_url": "https://storage-us-gcs.bfldr.com/r7fgx545shrhpzx63prj3sr/v/1279127705/original/3400146T2_2_rgb.jpg?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=gMiKXRgtSYVNhbKtl3Xx2VPrAaE=",
+      "url": "https://storage-us-gcs.bfldr.com/r7fgx545shrhpzx63prj3sr/v/1279127705/original/3400146T2_2_rgb.jpg?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=gMiKXRgtSYVNhbKtl3Xx2VPrAaE="
     },
     {
       "attachment_id": "8rvk63bpstvfkmb5gnk8m3sh",
@@ -207,8 +207,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8rvk63bpstvfkmb5gnk8m3sh/3400146Y_3_extended_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8rvk63bpstvfkmb5gnk8m3sh/v/1274631852/original/3400146Y_3_extended_rgb.jpg?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=y-xPr36uTDntoTH-BEc8f5aLLqk=",
-      "url": "https://storage-us-gcs.bfldr.com/8rvk63bpstvfkmb5gnk8m3sh/v/1274631852/original/3400146Y_3_extended_rgb.jpg?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=y-xPr36uTDntoTH-BEc8f5aLLqk="
+      "original_url": "https://storage-us-gcs.bfldr.com/8rvk63bpstvfkmb5gnk8m3sh/v/1274631852/original/3400146Y_3_extended_rgb.jpg?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=FHo4jtxx2uim39V81vz67o4NwZA=",
+      "url": "https://storage-us-gcs.bfldr.com/8rvk63bpstvfkmb5gnk8m3sh/v/1274631852/original/3400146Y_3_extended_rgb.jpg?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=FHo4jtxx2uim39V81vz67o4NwZA="
     },
     {
       "attachment_id": "kp87mvgxffbr97qrmsktm9",
@@ -221,8 +221,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kp87mvgxffbr97qrmsktm9/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kp87mvgxffbr97qrmsktm9/v/1271928574/original/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=zE0uTppsiVOJaWkPfWl8T5r5_lQ=",
-      "url": "https://storage-us-gcs.bfldr.com/kp87mvgxffbr97qrmsktm9/v/1271928574/original/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=zE0uTppsiVOJaWkPfWl8T5r5_lQ="
+      "original_url": "https://storage-us-gcs.bfldr.com/kp87mvgxffbr97qrmsktm9/v/1271928574/original/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=t2aqhCU2HpnY76EB7F0Bl4XiV2I=",
+      "url": "https://storage-us-gcs.bfldr.com/kp87mvgxffbr97qrmsktm9/v/1271928574/original/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=t2aqhCU2HpnY76EB7F0Bl4XiV2I="
     },
     {
       "attachment_id": "c6t94m29675ns4pz945fph9r",
@@ -235,8 +235,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/c6t94m29675ns4pz945fph9r/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/c6t94m29675ns4pz945fph9r/v/1271928572/original/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=zocqmNSYVCXnXk3yA9PW_fuqvQI=",
-      "url": "https://storage-us-gcs.bfldr.com/c6t94m29675ns4pz945fph9r/v/1271928572/original/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=zocqmNSYVCXnXk3yA9PW_fuqvQI="
+      "original_url": "https://storage-us-gcs.bfldr.com/c6t94m29675ns4pz945fph9r/v/1271928572/original/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=k9pA44Bxu9FyfnGkh-vQLwA0dtk=",
+      "url": "https://storage-us-gcs.bfldr.com/c6t94m29675ns4pz945fph9r/v/1271928572/original/3400146_014_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=k9pA44Bxu9FyfnGkh-vQLwA0dtk="
     },
     {
       "attachment_id": "r7g983rqxcgzsnv99jm5qf",
@@ -249,8 +249,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/r7g983rqxcgzsnv99jm5qf/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/r7g983rqxcgzsnv99jm5qf/v/1271928577/original/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=6dd5ZnaZ9KUWFicaEK7czZXAWgw=",
-      "url": "https://storage-us-gcs.bfldr.com/r7g983rqxcgzsnv99jm5qf/v/1271928577/original/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=6dd5ZnaZ9KUWFicaEK7czZXAWgw="
+      "original_url": "https://storage-us-gcs.bfldr.com/r7g983rqxcgzsnv99jm5qf/v/1271928577/original/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=Zr89ryQToMlGAaVh3ceTL39tfio=",
+      "url": "https://storage-us-gcs.bfldr.com/r7g983rqxcgzsnv99jm5qf/v/1271928577/original/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=Zr89ryQToMlGAaVh3ceTL39tfio="
     },
     {
       "attachment_id": "26hjpsfkr3k7k5kqjwb8w59",
@@ -263,8 +263,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/26hjpsfkr3k7k5kqjwb8w59/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/26hjpsfkr3k7k5kqjwb8w59/v/1271928575/original/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=A3Zsr73EGF88Cxe5he-WaX4xqCc=",
-      "url": "https://storage-us-gcs.bfldr.com/26hjpsfkr3k7k5kqjwb8w59/v/1271928575/original/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=A3Zsr73EGF88Cxe5he-WaX4xqCc="
+      "original_url": "https://storage-us-gcs.bfldr.com/26hjpsfkr3k7k5kqjwb8w59/v/1271928575/original/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=QDIMM9zfetmONAmh6e2kSg7X_pk=",
+      "url": "https://storage-us-gcs.bfldr.com/26hjpsfkr3k7k5kqjwb8w59/v/1271928575/original/3400146_015_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=QDIMM9zfetmONAmh6e2kSg7X_pk="
     },
     {
       "attachment_id": "mpv957bzxqczxzpr8b8k38k",
@@ -277,8 +277,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mpv957bzxqczxzpr8b8k38k/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mpv957bzxqczxzpr8b8k38k/v/1271928582/original/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=yxFJpbLCnn8T90XRmTtJ2EgPHhk=",
-      "url": "https://storage-us-gcs.bfldr.com/mpv957bzxqczxzpr8b8k38k/v/1271928582/original/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=yxFJpbLCnn8T90XRmTtJ2EgPHhk="
+      "original_url": "https://storage-us-gcs.bfldr.com/mpv957bzxqczxzpr8b8k38k/v/1271928582/original/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=jmEVbkc30SN5t8t73W6hu0Go0fg=",
+      "url": "https://storage-us-gcs.bfldr.com/mpv957bzxqczxzpr8b8k38k/v/1271928582/original/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_ALT_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=jmEVbkc30SN5t8t73W6hu0Go0fg="
     },
     {
       "attachment_id": "6nscsb4wph59s5ckwfh9kg",
@@ -291,8 +291,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/6nscsb4wph59s5ckwfh9kg/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/6nscsb4wph59s5ckwfh9kg/v/1271928578/original/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=OnX77b8R7ziEJByST5IhDDCkfOM=",
-      "url": "https://storage-us-gcs.bfldr.com/6nscsb4wph59s5ckwfh9kg/v/1271928578/original/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784652391&KeyName=gcs-bfldr-prod&Signature=OnX77b8R7ziEJByST5IhDDCkfOM="
+      "original_url": "https://storage-us-gcs.bfldr.com/6nscsb4wph59s5ckwfh9kg/v/1271928578/original/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=IJZNtdv70P7tewDZD9oc5RQ9P0g=",
+      "url": "https://storage-us-gcs.bfldr.com/6nscsb4wph59s5ckwfh9kg/v/1271928578/original/3400146_016_Searwood%2036IN%20Cover_FY26_AMER_rgb.png?Expires=1784897444&KeyName=gcs-bfldr-prod&Signature=IJZNtdv70P7tewDZD9oc5RQ9P0g="
     }
   ]
 }

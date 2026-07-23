@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7030",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Traveler Cargo Protector 7030 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7030"
+        "7030",
+        "2021"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "asset_name": "Traveler Cargo Protector 7030 Pockets",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7030"
+        "7030",
+        "2021"
       ]
     },
     {
@@ -23,7 +25,8 @@
       "asset_name": "Traveler Cargo Protector 7030 Straps",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7030"
+        "7030",
+        "2021"
       ]
     },
     {
@@ -31,7 +34,8 @@
       "asset_name": "Traveler Cargo Protector 7030 Lifestyle",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7030"
+        "7030",
+        "2021"
       ]
     },
     {
@@ -39,7 +43,8 @@
       "asset_name": "Traveler Cargo Protector 7030 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7030"
+        "7030",
+        "2021"
       ]
     }
   ],

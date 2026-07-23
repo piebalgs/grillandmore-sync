@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6275",
   "assets": [
     {
@@ -7,7 +7,8 @@
       "asset_name": "Bamboo Grill Brush 6275 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "6275"
+        "6275",
+        "2021"
       ]
     },
     {

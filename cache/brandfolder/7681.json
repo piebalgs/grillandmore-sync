@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7681",
   "assets": [
     {
@@ -7,32 +7,32 @@
       "asset_name": "Weber Crafted Overview Video",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7856",
-        "7674",
         "7677",
-        "7683",
-        "7675",
-        "7685",
-        "7607",
-        "7672",
-        "7680",
-        "7606",
-        "7673",
-        "7682",
         "7860",
+        "7671",
+        "7607",
         "7849",
-        "3400843",
-        "7688",
-        "7686",
         "7681",
         "7687",
-        "7671",
-        "7678",
         "7852",
-        "7854",
-        "7670",
+        "7678",
+        "7853",
+        "7675",
+        "7683",
         "7684",
-        "7853"
+        "7672",
+        "7670",
+        "7688",
+        "7685",
+        "7606",
+        "7674",
+        "7686",
+        "7854",
+        "3400843",
+        "7682",
+        "7673",
+        "7680",
+        "7856"
       ]
     },
     {
@@ -40,10 +40,10 @@
       "asset_name": "Weber Crafted Glazed Pizza Stone",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7671",
+        "1500011",
         "1500010",
         "7681",
-        "1500011"
+        "7671"
       ]
     },
     {
@@ -51,10 +51,10 @@
       "asset_name": "Weber Crafted Glazed Pizza Stone",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1500010",
+        "1500011",
         "7671",
-        "7681",
-        "1500011"
+        "1500010",
+        "7681"
       ]
     },
     {
@@ -71,8 +71,8 @@
       "asset_name": "Weber Crafted Glazed Pizza Stone",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7671",
-        "7681"
+        "7681",
+        "7671"
       ]
     },
     {
@@ -80,8 +80,8 @@
       "asset_name": "Weber Crafted Glazed Pizza Stone",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7671",
-        "7681"
+        "7681",
+        "7671"
       ]
     },
     {
@@ -116,8 +116,8 @@
       "asset_name": "Weber Crafted Glazed Pizza Stone",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7671",
-        "7681"
+        "7681",
+        "7671"
       ]
     },
     {
@@ -161,8 +161,8 @@
       "asset_name": "Weber Crafted Glazed Pizza Stone",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7681",
-        "7671"
+        "7671",
+        "7681"
       ]
     },
     {
@@ -170,8 +170,8 @@
       "asset_name": "Weber Crafted Glazed Pizza Stone",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7681",
-        "7671"
+        "7671",
+        "7681"
       ]
     },
     {
@@ -195,8 +195,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mgsxmvbw43c7gmcx94x5vgj/7671%20-%207681%20YM1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mgsxmvbw43c7gmcx94x5vgj/v/1279530013/original/7671%20-%207681%20YM1.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=LToydU8650kIBvAZMrzgQ9WvN4w=",
-      "url": "https://storage-us-gcs.bfldr.com/mgsxmvbw43c7gmcx94x5vgj/v/1279530013/original/7671%20-%207681%20YM1.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=LToydU8650kIBvAZMrzgQ9WvN4w="
+      "original_url": "https://storage-us-gcs.bfldr.com/mgsxmvbw43c7gmcx94x5vgj/v/1279530013/original/7671%20-%207681%20YM1.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=kaHM0KgF3o_TKkvhgRoOzNsjBQY=",
+      "url": "https://storage-us-gcs.bfldr.com/mgsxmvbw43c7gmcx94x5vgj/v/1279530013/original/7671%20-%207681%20YM1.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=kaHM0KgF3o_TKkvhgRoOzNsjBQY="
     },
     {
       "attachment_id": "f6482smwrjcm74c2fc8jhmh",
@@ -209,8 +209,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/f6482smwrjcm74c2fc8jhmh/7671%20-%207681%20YM2.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/f6482smwrjcm74c2fc8jhmh/v/1279530014/original/7671%20-%207681%20YM2.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=i4oqpuoZ8nZZRwQjCgY4QSmtUS0=",
-      "url": "https://storage-us-gcs.bfldr.com/f6482smwrjcm74c2fc8jhmh/v/1279530014/original/7671%20-%207681%20YM2.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=i4oqpuoZ8nZZRwQjCgY4QSmtUS0="
+      "original_url": "https://storage-us-gcs.bfldr.com/f6482smwrjcm74c2fc8jhmh/v/1279530014/original/7671%20-%207681%20YM2.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=pau8n05Akx3dQHKK2aPZi-Lvexg=",
+      "url": "https://storage-us-gcs.bfldr.com/f6482smwrjcm74c2fc8jhmh/v/1279530014/original/7671%20-%207681%20YM2.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=pau8n05Akx3dQHKK2aPZi-Lvexg="
     },
     {
       "attachment_id": "xrjk86n8hvh7rfnhjx3sn4",
@@ -223,8 +223,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/xrjk86n8hvh7rfnhjx3sn4/7671%20-%207681%20YM3.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/xrjk86n8hvh7rfnhjx3sn4/v/1279530015/original/7671%20-%207681%20YM3.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=nwWAtyh52oz0HdxR31K5R3_X8bU=",
-      "url": "https://storage-us-gcs.bfldr.com/xrjk86n8hvh7rfnhjx3sn4/v/1279530015/original/7671%20-%207681%20YM3.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=nwWAtyh52oz0HdxR31K5R3_X8bU="
+      "original_url": "https://storage-us-gcs.bfldr.com/xrjk86n8hvh7rfnhjx3sn4/v/1279530015/original/7671%20-%207681%20YM3.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=Uc9sPpA35D1Psp6TVpZrQ2J86NA=",
+      "url": "https://storage-us-gcs.bfldr.com/xrjk86n8hvh7rfnhjx3sn4/v/1279530015/original/7671%20-%207681%20YM3.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=Uc9sPpA35D1Psp6TVpZrQ2J86NA="
     },
     {
       "attachment_id": "mb9zhqthw82xb5kqgm76vt6",
@@ -237,8 +237,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mb9zhqthw82xb5kqgm76vt6/7671%20-%207681%20YM4.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mb9zhqthw82xb5kqgm76vt6/v/1279530016/original/7671%20-%207681%20YM4.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=Yrbaq5wmYosdhD47gRYYeYXtndU=",
-      "url": "https://storage-us-gcs.bfldr.com/mb9zhqthw82xb5kqgm76vt6/v/1279530016/original/7671%20-%207681%20YM4.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=Yrbaq5wmYosdhD47gRYYeYXtndU="
+      "original_url": "https://storage-us-gcs.bfldr.com/mb9zhqthw82xb5kqgm76vt6/v/1279530016/original/7671%20-%207681%20YM4.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=gNGHcOy_uxMoHXnuhmspij38aMA=",
+      "url": "https://storage-us-gcs.bfldr.com/mb9zhqthw82xb5kqgm76vt6/v/1279530016/original/7671%20-%207681%20YM4.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=gNGHcOy_uxMoHXnuhmspij38aMA="
     },
     {
       "attachment_id": "7xhqgww969j93p6vstb86wpk",
@@ -251,8 +251,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7xhqgww969j93p6vstb86wpk/7671%20-%207681%20YM5.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/7xhqgww969j93p6vstb86wpk/v/1279530017/original/7671%20-%207681%20YM5.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=SvMa26Bbb3yd9tuFict0RmPIhv4=",
-      "url": "https://storage-us-gcs.bfldr.com/7xhqgww969j93p6vstb86wpk/v/1279530017/original/7671%20-%207681%20YM5.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=SvMa26Bbb3yd9tuFict0RmPIhv4="
+      "original_url": "https://storage-us-gcs.bfldr.com/7xhqgww969j93p6vstb86wpk/v/1279530017/original/7671%20-%207681%20YM5.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=gXeWvFCM313yE-mdjlPbJDegGmc=",
+      "url": "https://storage-us-gcs.bfldr.com/7xhqgww969j93p6vstb86wpk/v/1279530017/original/7671%20-%207681%20YM5.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=gXeWvFCM313yE-mdjlPbJDegGmc="
     },
     {
       "attachment_id": "fhf9jnxpc8rrr9qrw3wbf4ks",
@@ -265,8 +265,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fhf9jnxpc8rrr9qrw3wbf4ks/1500010_019_GenesisE315_FY2026_AMER.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/fhf9jnxpc8rrr9qrw3wbf4ks/v/1279530010/original/1500010_019_GenesisE315_FY2026_AMER.jpg?Expires=1784652313&KeyName=gcs-bfldr-prod&Signature=EySC8Q5_YB9qFcG0cq_UEieZlz0=",
-      "url": "https://storage-us-gcs.bfldr.com/fhf9jnxpc8rrr9qrw3wbf4ks/v/1279530010/original/1500010_019_GenesisE315_FY2026_AMER.jpg?Expires=1784652313&KeyName=gcs-bfldr-prod&Signature=EySC8Q5_YB9qFcG0cq_UEieZlz0="
+      "original_url": "https://storage-us-gcs.bfldr.com/fhf9jnxpc8rrr9qrw3wbf4ks/v/1279530010/original/1500010_019_GenesisE315_FY2026_AMER.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=O5pRC83VKlMN75KktSnkS1VGkPs=",
+      "url": "https://storage-us-gcs.bfldr.com/fhf9jnxpc8rrr9qrw3wbf4ks/v/1279530010/original/1500010_019_GenesisE315_FY2026_AMER.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=O5pRC83VKlMN75KktSnkS1VGkPs="
     },
     {
       "attachment_id": "wx5zws653bg94w7mhwctfck",
@@ -279,8 +279,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wx5zws653bg94w7mhwctfck/1500010_019_GenesisE315_FY2026_AMER_V1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wx5zws653bg94w7mhwctfck/v/1279530012/original/1500010_019_GenesisE315_FY2026_AMER_V1.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=eA2rKXy2MLJRoQ93Bv06Sk2wptc=",
-      "url": "https://storage-us-gcs.bfldr.com/wx5zws653bg94w7mhwctfck/v/1279530012/original/1500010_019_GenesisE315_FY2026_AMER_V1.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=eA2rKXy2MLJRoQ93Bv06Sk2wptc="
+      "original_url": "https://storage-us-gcs.bfldr.com/wx5zws653bg94w7mhwctfck/v/1279530012/original/1500010_019_GenesisE315_FY2026_AMER_V1.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=BL1X3NpwVivZNJ4Mr_M_snDCE3E=",
+      "url": "https://storage-us-gcs.bfldr.com/wx5zws653bg94w7mhwctfck/v/1279530012/original/1500010_019_GenesisE315_FY2026_AMER_V1.jpg?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=BL1X3NpwVivZNJ4Mr_M_snDCE3E="
     },
     {
       "attachment_id": "j46rxvccmcsxbsbws76s76g",
@@ -293,8 +293,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j46rxvccmcsxbsbws76s76g/Glazed%20Pizza%20Stone%207671%207681%20Product%207671%20-%207681_E2_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/j46rxvccmcsxbsbws76s76g/v/1279530027/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671%20-%207681_E2_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=xN-BmKfDO24llLAgMHBbK776hlI=",
-      "url": "https://storage-us-gcs.bfldr.com/j46rxvccmcsxbsbws76s76g/v/1279530027/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671%20-%207681_E2_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=xN-BmKfDO24llLAgMHBbK776hlI="
+      "original_url": "https://storage-us-gcs.bfldr.com/j46rxvccmcsxbsbws76s76g/v/1279530027/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671%20-%207681_E2_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=4K06vQAelJ86oEHWFZwheSddwNU=",
+      "url": "https://storage-us-gcs.bfldr.com/j46rxvccmcsxbsbws76s76g/v/1279530027/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671%20-%207681_E2_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=4K06vQAelJ86oEHWFZwheSddwNU="
     },
     {
       "attachment_id": "csvjq7qhb8k5kk4fqb44rrc",
@@ -307,8 +307,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/csvjq7qhb8k5kk4fqb44rrc/Glazed%20Pizza%20Stone%207671%207681%20Product%207671A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/csvjq7qhb8k5kk4fqb44rrc/v/1279530029/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671A_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=AxXeYkO0ILJ_QhXkxTiWK-nsKsw=",
-      "url": "https://storage-us-gcs.bfldr.com/csvjq7qhb8k5kk4fqb44rrc/v/1279530029/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671A_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=AxXeYkO0ILJ_QhXkxTiWK-nsKsw="
+      "original_url": "https://storage-us-gcs.bfldr.com/csvjq7qhb8k5kk4fqb44rrc/v/1279530029/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671A_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=q7F9FiNbmp3vh0hm0J86I-TV55Y=",
+      "url": "https://storage-us-gcs.bfldr.com/csvjq7qhb8k5kk4fqb44rrc/v/1279530029/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671A_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=q7F9FiNbmp3vh0hm0J86I-TV55Y="
     },
     {
       "attachment_id": "gbh37357qvnt4m45jx78xsx",
@@ -321,8 +321,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gbh37357qvnt4m45jx78xsx/Glazed%20Pizza%20Stone%207671%207681%20Product%207671B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gbh37357qvnt4m45jx78xsx/v/1279530030/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671B_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=F8-ly65-A95oJbiu_IJ7X4erIb0=",
-      "url": "https://storage-us-gcs.bfldr.com/gbh37357qvnt4m45jx78xsx/v/1279530030/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671B_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=F8-ly65-A95oJbiu_IJ7X4erIb0="
+      "original_url": "https://storage-us-gcs.bfldr.com/gbh37357qvnt4m45jx78xsx/v/1279530030/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671B_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=-jtWCHjLPMtplRcPMfTXSyfbM7w=",
+      "url": "https://storage-us-gcs.bfldr.com/gbh37357qvnt4m45jx78xsx/v/1279530030/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671B_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=-jtWCHjLPMtplRcPMfTXSyfbM7w="
     },
     {
       "attachment_id": "5jnmt4frgw9cqfsjskp9gj2t",
@@ -335,8 +335,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5jnmt4frgw9cqfsjskp9gj2t/Glazed%20Pizza%20Stone%207671%207681%20Product%207671C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5jnmt4frgw9cqfsjskp9gj2t/v/1279530031/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671C_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=A5BDM3Lwjr2OmzIIUUf_0-8JrTc=",
-      "url": "https://storage-us-gcs.bfldr.com/5jnmt4frgw9cqfsjskp9gj2t/v/1279530031/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671C_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=A5BDM3Lwjr2OmzIIUUf_0-8JrTc="
+      "original_url": "https://storage-us-gcs.bfldr.com/5jnmt4frgw9cqfsjskp9gj2t/v/1279530031/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671C_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=DtPGVCH1TVWI7qzhKUymYSRisq0=",
+      "url": "https://storage-us-gcs.bfldr.com/5jnmt4frgw9cqfsjskp9gj2t/v/1279530031/original/Glazed%20Pizza%20Stone%207671%207681%20Product%207671C_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=DtPGVCH1TVWI7qzhKUymYSRisq0="
     },
     {
       "attachment_id": "h76jnm7b7rwpwqpp9zww8z5f",
@@ -349,8 +349,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/h76jnm7b7rwpwqpp9zww8z5f/7671%20-%207681_M3_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/h76jnm7b7rwpwqpp9zww8z5f/v/1279530018/original/7671%20-%207681_M3_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=I3PLHcmhngvlPW-0Xi9cOuBAxh0=",
-      "url": "https://storage-us-gcs.bfldr.com/h76jnm7b7rwpwqpp9zww8z5f/v/1279530018/original/7671%20-%207681_M3_rgb.png?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=I3PLHcmhngvlPW-0Xi9cOuBAxh0="
+      "original_url": "https://storage-us-gcs.bfldr.com/h76jnm7b7rwpwqpp9zww8z5f/v/1279530018/original/7671%20-%207681_M3_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=hMqdS2R4iAJDinwS1iRjBoIfIuY=",
+      "url": "https://storage-us-gcs.bfldr.com/h76jnm7b7rwpwqpp9zww8z5f/v/1279530018/original/7671%20-%207681_M3_rgb.png?Expires=1784897242&KeyName=gcs-bfldr-prod&Signature=hMqdS2R4iAJDinwS1iRjBoIfIuY="
     },
     {
       "attachment_id": "5mm6k8fx8wtx4c5rg7pcpwv",
@@ -363,8 +363,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5mm6k8fx8wtx4c5rg7pcpwv/7671-7681_M1_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5mm6k8fx8wtx4c5rg7pcpwv/v/1279530022/original/7671-7681_M1_rgb.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=tcDRXfttJOz0HvMK91A1p9OsjkE=",
-      "url": "https://storage-us-gcs.bfldr.com/5mm6k8fx8wtx4c5rg7pcpwv/v/1279530022/original/7671-7681_M1_rgb.jpg?Expires=1784652314&KeyName=gcs-bfldr-prod&Signature=tcDRXfttJOz0HvMK91A1p9OsjkE="
+      "original_url": "https://storage-us-gcs.bfldr.com/5mm6k8fx8wtx4c5rg7pcpwv/v/1279530022/original/7671-7681_M1_rgb.jpg?Expires=1784897243&KeyName=gcs-bfldr-prod&Signature=mSNaxWz0CuLqffkgu-Q6sqfF728=",
+      "url": "https://storage-us-gcs.bfldr.com/5mm6k8fx8wtx4c5rg7pcpwv/v/1279530022/original/7671-7681_M1_rgb.jpg?Expires=1784897243&KeyName=gcs-bfldr-prod&Signature=mSNaxWz0CuLqffkgu-Q6sqfF728="
     }
   ]
 }

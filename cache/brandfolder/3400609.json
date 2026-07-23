@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400609",
   "assets": [
     {
@@ -7,8 +7,8 @@
       "asset_name": "3400607B Cover Plate rgb",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400607",
-        "3400609"
+        "3400609",
+        "3400607"
       ]
     },
     {
@@ -16,8 +16,8 @@
       "asset_name": "PELLET 22 PLT CVR 3400607 A Cover rgb",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400607",
-        "3400609"
+        "3400609",
+        "3400607"
       ]
     },
     {
@@ -161,8 +161,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/8kxfwcz2cr3pv6gh7sct6cx/3400607B_Cover_Plate_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/8kxfwcz2cr3pv6gh7sct6cx/v/1279136391/original/3400607B_Cover_Plate_rgb.jpg?Expires=1784652420&KeyName=gcs-bfldr-prod&Signature=vOfyhz-byBXLow9PnzDvJwcqvQ8=",
-      "url": "https://storage-us-gcs.bfldr.com/8kxfwcz2cr3pv6gh7sct6cx/v/1279136391/original/3400607B_Cover_Plate_rgb.jpg?Expires=1784652420&KeyName=gcs-bfldr-prod&Signature=vOfyhz-byBXLow9PnzDvJwcqvQ8="
+      "original_url": "https://storage-us-gcs.bfldr.com/8kxfwcz2cr3pv6gh7sct6cx/v/1279136391/original/3400607B_Cover_Plate_rgb.jpg?Expires=1784897504&KeyName=gcs-bfldr-prod&Signature=J7PftUkIu5Bty6Slf3tp3nuh7X4=",
+      "url": "https://storage-us-gcs.bfldr.com/8kxfwcz2cr3pv6gh7sct6cx/v/1279136391/original/3400607B_Cover_Plate_rgb.jpg?Expires=1784897504&KeyName=gcs-bfldr-prod&Signature=J7PftUkIu5Bty6Slf3tp3nuh7X4="
     },
     {
       "attachment_id": "jrsvv2cjgvpjpmq9gckqgqk",
@@ -175,8 +175,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jrsvv2cjgvpjpmq9gckqgqk/PELLET%2022%20PLT%20CVR%203400607_A_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/jrsvv2cjgvpjpmq9gckqgqk/v/1279136394/original/PELLET%2022%20PLT%20CVR%203400607_A_Cover_rgb.png?Expires=1784652420&KeyName=gcs-bfldr-prod&Signature=n14LBW7GbMwyfUa22rP52yMOl0Y=",
-      "url": "https://storage-us-gcs.bfldr.com/jrsvv2cjgvpjpmq9gckqgqk/v/1279136394/original/PELLET%2022%20PLT%20CVR%203400607_A_Cover_rgb.png?Expires=1784652420&KeyName=gcs-bfldr-prod&Signature=n14LBW7GbMwyfUa22rP52yMOl0Y="
+      "original_url": "https://storage-us-gcs.bfldr.com/jrsvv2cjgvpjpmq9gckqgqk/v/1279136394/original/PELLET%2022%20PLT%20CVR%203400607_A_Cover_rgb.png?Expires=1784897504&KeyName=gcs-bfldr-prod&Signature=6i9p238zkQKu2C2YUR_5JTXpX2Q=",
+      "url": "https://storage-us-gcs.bfldr.com/jrsvv2cjgvpjpmq9gckqgqk/v/1279136394/original/PELLET%2022%20PLT%20CVR%203400607_A_Cover_rgb.png?Expires=1784897504&KeyName=gcs-bfldr-prod&Signature=6i9p238zkQKu2C2YUR_5JTXpX2Q="
     },
     {
       "attachment_id": "75ht4nhrnvkrz7b7gxxzhm",
@@ -189,8 +189,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/75ht4nhrnvkrz7b7gxxzhm/PELLET%2022%20PLT%20CVR%203400607_B_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/75ht4nhrnvkrz7b7gxxzhm/v/1279136395/original/PELLET%2022%20PLT%20CVR%203400607_B_Cover_rgb.png?Expires=1784652420&KeyName=gcs-bfldr-prod&Signature=Rm6s-VRl7_z5TiFl7QZyEpQAI7c=",
-      "url": "https://storage-us-gcs.bfldr.com/75ht4nhrnvkrz7b7gxxzhm/v/1279136395/original/PELLET%2022%20PLT%20CVR%203400607_B_Cover_rgb.png?Expires=1784652420&KeyName=gcs-bfldr-prod&Signature=Rm6s-VRl7_z5TiFl7QZyEpQAI7c="
+      "original_url": "https://storage-us-gcs.bfldr.com/75ht4nhrnvkrz7b7gxxzhm/v/1279136395/original/PELLET%2022%20PLT%20CVR%203400607_B_Cover_rgb.png?Expires=1784897504&KeyName=gcs-bfldr-prod&Signature=2lIvwb6fgyuwd7GwyLXM7cxS4GU=",
+      "url": "https://storage-us-gcs.bfldr.com/75ht4nhrnvkrz7b7gxxzhm/v/1279136395/original/PELLET%2022%20PLT%20CVR%203400607_B_Cover_rgb.png?Expires=1784897504&KeyName=gcs-bfldr-prod&Signature=2lIvwb6fgyuwd7GwyLXM7cxS4GU="
     },
     {
       "attachment_id": "j8tnbbnjr958mkx6bmxx3q6",
@@ -203,8 +203,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/j8tnbbnjr958mkx6bmxx3q6/PELLET%2022%20PLT%20CVR%203400607_C_Cover_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/j8tnbbnjr958mkx6bmxx3q6/v/1279136396/original/PELLET%2022%20PLT%20CVR%203400607_C_Cover_rgb.png?Expires=1784652420&KeyName=gcs-bfldr-prod&Signature=Vl8qgp8pFq2ON-Yb08ZS63XNVjM=",
-      "url": "https://storage-us-gcs.bfldr.com/j8tnbbnjr958mkx6bmxx3q6/v/1279136396/original/PELLET%2022%20PLT%20CVR%203400607_C_Cover_rgb.png?Expires=1784652420&KeyName=gcs-bfldr-prod&Signature=Vl8qgp8pFq2ON-Yb08ZS63XNVjM="
+      "original_url": "https://storage-us-gcs.bfldr.com/j8tnbbnjr958mkx6bmxx3q6/v/1279136396/original/PELLET%2022%20PLT%20CVR%203400607_C_Cover_rgb.png?Expires=1784897504&KeyName=gcs-bfldr-prod&Signature=kH3x6qNhf6qkc7hGzmKCmmjaICI=",
+      "url": "https://storage-us-gcs.bfldr.com/j8tnbbnjr958mkx6bmxx3q6/v/1279136396/original/PELLET%2022%20PLT%20CVR%203400607_C_Cover_rgb.png?Expires=1784897504&KeyName=gcs-bfldr-prod&Signature=kH3x6qNhf6qkc7hGzmKCmmjaICI="
     }
   ]
 }

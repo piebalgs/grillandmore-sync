@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7002",
   "assets": [
     {
@@ -7,7 +7,11 @@
       "asset_name": "EX4 Front Shelf 7002 Feature",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7002"
+        "7002",
+        "22511094",
+        "22510001",
+        "22511004",
+        "22511069"
       ]
     },
     {
@@ -15,7 +19,11 @@
       "asset_name": "EX4 Front Shelf 7002 Packaging",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7002"
+        "7002",
+        "22510001",
+        "22511069",
+        "22511004",
+        "22511094"
       ]
     },
     {

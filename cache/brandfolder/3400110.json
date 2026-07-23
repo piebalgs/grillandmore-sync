@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400110",
   "assets": [
     {
@@ -16,8 +16,8 @@
       "asset_name": "30IN / 76cm Slate Griddle Premium cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400110",
-        "3400119"
+        "3400119",
+        "3400110"
       ]
     },
     {
@@ -34,8 +34,8 @@
       "asset_name": "30IN / 76cm Slate Griddle Premium cover",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400110",
-        "3400119"
+        "3400119",
+        "3400110"
       ]
     },
     {
@@ -179,8 +179,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bk8xtpmwvm8nmfh3ng2wn99n/3400119Y_INSET_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bk8xtpmwvm8nmfh3ng2wn99n/v/1279353683/original/3400119Y_INSET_rgb.jpg?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=lYEJwvBB2_ZdbJFWYYbxLGANH1I=",
-      "url": "https://storage-us-gcs.bfldr.com/bk8xtpmwvm8nmfh3ng2wn99n/v/1279353683/original/3400119Y_INSET_rgb.jpg?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=lYEJwvBB2_ZdbJFWYYbxLGANH1I="
+      "original_url": "https://storage-us-gcs.bfldr.com/bk8xtpmwvm8nmfh3ng2wn99n/v/1279353683/original/3400119Y_INSET_rgb.jpg?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=3AqFVckv6zj-bJUI6xCIlndRnW0=",
+      "url": "https://storage-us-gcs.bfldr.com/bk8xtpmwvm8nmfh3ng2wn99n/v/1279353683/original/3400119Y_INSET_rgb.jpg?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=3AqFVckv6zj-bJUI6xCIlndRnW0="
     },
     {
       "attachment_id": "gqcvcwq7wmnx9hv4gxhc544r",
@@ -193,8 +193,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/gqcvcwq7wmnx9hv4gxhc544r/3400119Y_rgb.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/gqcvcwq7wmnx9hv4gxhc544r/v/1279353684/original/3400119Y_rgb.jpg?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=3kNj3E-s1OPJRbREBykkdcrnQZA=",
-      "url": "https://storage-us-gcs.bfldr.com/gqcvcwq7wmnx9hv4gxhc544r/v/1279353684/original/3400119Y_rgb.jpg?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=3kNj3E-s1OPJRbREBykkdcrnQZA="
+      "original_url": "https://storage-us-gcs.bfldr.com/gqcvcwq7wmnx9hv4gxhc544r/v/1279353684/original/3400119Y_rgb.jpg?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=Pn60psQcdUHktbL6Uhm5Ko2yZEU=",
+      "url": "https://storage-us-gcs.bfldr.com/gqcvcwq7wmnx9hv4gxhc544r/v/1279353684/original/3400119Y_rgb.jpg?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=Pn60psQcdUHktbL6Uhm5Ko2yZEU="
     },
     {
       "attachment_id": "265xnttzst3nqjp83hqgkpwm",
@@ -207,8 +207,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/265xnttzst3nqjp83hqgkpwm/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/265xnttzst3nqjp83hqgkpwm/v/1279353689/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_A_rgb.png?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=W-XLMijpguQJ1dynh8PZCsdXsGA=",
-      "url": "https://storage-us-gcs.bfldr.com/265xnttzst3nqjp83hqgkpwm/v/1279353689/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_A_rgb.png?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=W-XLMijpguQJ1dynh8PZCsdXsGA="
+      "original_url": "https://storage-us-gcs.bfldr.com/265xnttzst3nqjp83hqgkpwm/v/1279353689/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_A_rgb.png?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=w_bqRdxx7G6OlyGAN0OMLBarzVA=",
+      "url": "https://storage-us-gcs.bfldr.com/265xnttzst3nqjp83hqgkpwm/v/1279353689/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_A_rgb.png?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=w_bqRdxx7G6OlyGAN0OMLBarzVA="
     },
     {
       "attachment_id": "fz9hqhhk8ttnhmtk56r3fk",
@@ -221,8 +221,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/fz9hqhhk8ttnhmtk56r3fk/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/fz9hqhhk8ttnhmtk56r3fk/v/1279353690/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_B_rgb.png?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=VGYo1Jl0PJbNYgdY59qrGfH5Rk4=",
-      "url": "https://storage-us-gcs.bfldr.com/fz9hqhhk8ttnhmtk56r3fk/v/1279353690/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_B_rgb.png?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=VGYo1Jl0PJbNYgdY59qrGfH5Rk4="
+      "original_url": "https://storage-us-gcs.bfldr.com/fz9hqhhk8ttnhmtk56r3fk/v/1279353690/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_B_rgb.png?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=phxrH4uHVWR1SGBVNwtMniPptvw=",
+      "url": "https://storage-us-gcs.bfldr.com/fz9hqhhk8ttnhmtk56r3fk/v/1279353690/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_B_rgb.png?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=phxrH4uHVWR1SGBVNwtMniPptvw="
     },
     {
       "attachment_id": "pfmzfpfwgw3hmxrhqrjcc8rv",
@@ -235,8 +235,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pfmzfpfwgw3hmxrhqrjcc8rv/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_C_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pfmzfpfwgw3hmxrhqrjcc8rv/v/1279353691/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_C_rgb.png?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=Jh8a4qqDjhp54at_Q1xJM-vp8rw=",
-      "url": "https://storage-us-gcs.bfldr.com/pfmzfpfwgw3hmxrhqrjcc8rv/v/1279353691/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_C_rgb.png?Expires=1784652096&KeyName=gcs-bfldr-prod&Signature=Jh8a4qqDjhp54at_Q1xJM-vp8rw="
+      "original_url": "https://storage-us-gcs.bfldr.com/pfmzfpfwgw3hmxrhqrjcc8rv/v/1279353691/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_C_rgb.png?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=cODy-jmree97B7QZ-wfHwOTeBHw=",
+      "url": "https://storage-us-gcs.bfldr.com/pfmzfpfwgw3hmxrhqrjcc8rv/v/1279353691/original/Slate%2030%2076cm%20griddle%20cover%203400119%203400110%203400119_C_rgb.png?Expires=1784896868&KeyName=gcs-bfldr-prod&Signature=cODy-jmree97B7QZ-wfHwOTeBHw="
     }
   ]
 }

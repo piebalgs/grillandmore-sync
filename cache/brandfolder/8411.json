@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "8411",
   "assets": [
     {
@@ -47,8 +47,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi8wj7-28fekg-c6fvyg/8411A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-c6fvyg/v/2664166/original/8411A.png?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=0scLeEcPLXFa_NURQbjlir9_ABw=",
-      "url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-c6fvyg/v/2664166/original/8411A.png?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=0scLeEcPLXFa_NURQbjlir9_ABw="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-c6fvyg/v/2664166/original/8411A.png?Expires=1784897499&KeyName=gcs-bfldr-prod&Signature=VAetqy6qyp9aMARDDoFIBaYTnts=",
+      "url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-c6fvyg/v/2664166/original/8411A.png?Expires=1784897499&KeyName=gcs-bfldr-prod&Signature=VAetqy6qyp9aMARDDoFIBaYTnts="
     },
     {
       "attachment_id": "pi8wj7-28fekg-eprjju",
@@ -61,8 +61,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pi8wj7-28fekg-eprjju/8411Y.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-eprjju/v/2664167/original/8411Y.jpg?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=m6zbzkIcrKkZUQwgilW6tZpHRr4=",
-      "url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-eprjju/v/2664167/original/8411Y.jpg?Expires=1784652418&KeyName=gcs-bfldr-prod&Signature=m6zbzkIcrKkZUQwgilW6tZpHRr4="
+      "original_url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-eprjju/v/2664167/original/8411Y.jpg?Expires=1784897499&KeyName=gcs-bfldr-prod&Signature=uBhqDHBvD0N1Juky25bWD1ey41A=",
+      "url": "https://storage-us-gcs.bfldr.com/pi8wj7-28fekg-eprjju/v/2664167/original/8411Y.jpg?Expires=1784897499&KeyName=gcs-bfldr-prod&Signature=uBhqDHBvD0N1Juky25bWD1ey41A="
     }
   ]
 }

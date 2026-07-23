@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "6527",
   "assets": [
     {
@@ -47,8 +47,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgrayg-ar4dvk-6tm14s/6527A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-6tm14s/v/2519162/original/6527A.png?Expires=1784652431&KeyName=gcs-bfldr-prod&Signature=GUUCaBxD6IFqtmMn1HWGUaPCJtg=",
-      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-6tm14s/v/2519162/original/6527A.png?Expires=1784652431&KeyName=gcs-bfldr-prod&Signature=GUUCaBxD6IFqtmMn1HWGUaPCJtg="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-6tm14s/v/2519162/original/6527A.png?Expires=1784897534&KeyName=gcs-bfldr-prod&Signature=P6m2zh0x_d3_LEYHyUE1e7tLjdk=",
+      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-6tm14s/v/2519162/original/6527A.png?Expires=1784897534&KeyName=gcs-bfldr-prod&Signature=P6m2zh0x_d3_LEYHyUE1e7tLjdk="
     },
     {
       "attachment_id": "pgrayg-ar4dvk-7s2l7g",
@@ -61,8 +61,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgrayg-ar4dvk-7s2l7g/6527B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-7s2l7g/v/2519163/original/6527B.png?Expires=1784652431&KeyName=gcs-bfldr-prod&Signature=YNLExL1f8mAZJ11qWHxFa65lUYI=",
-      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-7s2l7g/v/2519163/original/6527B.png?Expires=1784652431&KeyName=gcs-bfldr-prod&Signature=YNLExL1f8mAZJ11qWHxFa65lUYI="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-7s2l7g/v/2519163/original/6527B.png?Expires=1784897534&KeyName=gcs-bfldr-prod&Signature=T4EeKBWQI5kmAUIgDJo8wHar9WM=",
+      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-7s2l7g/v/2519163/original/6527B.png?Expires=1784897534&KeyName=gcs-bfldr-prod&Signature=T4EeKBWQI5kmAUIgDJo8wHar9WM="
     },
     {
       "attachment_id": "pgrayg-ar4dvk-27hu28",
@@ -75,8 +75,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pgrayg-ar4dvk-27hu28/6527Y1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-27hu28/v/2519164/original/6527Y1.jpg?Expires=1784652431&KeyName=gcs-bfldr-prod&Signature=GUuNKaOEXE89NdH7HNGPfnZgDko=",
-      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-27hu28/v/2519164/original/6527Y1.jpg?Expires=1784652431&KeyName=gcs-bfldr-prod&Signature=GUuNKaOEXE89NdH7HNGPfnZgDko="
+      "original_url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-27hu28/v/2519164/original/6527Y1.jpg?Expires=1784897534&KeyName=gcs-bfldr-prod&Signature=5T2lI8osoSUJZT9vvlPuUXOH0i4=",
+      "url": "https://storage-us-gcs.bfldr.com/pgrayg-ar4dvk-27hu28/v/2519164/original/6527Y1.jpg?Expires=1784897534&KeyName=gcs-bfldr-prod&Signature=5T2lI8osoSUJZT9vvlPuUXOH0i4="
     }
   ]
 }

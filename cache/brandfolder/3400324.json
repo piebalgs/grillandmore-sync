@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3400324",
   "assets": [
     {
@@ -31,15 +31,15 @@
       "asset_name": "[Celsius] Charcoal Kettle Smart Ring",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400324",
-        "3401210",
-        "14701004",
-        "1502482",
-        "14501001",
-        "3400880",
-        "3400653",
+        "1502483",
         "3401200",
-        "1502483"
+        "3400880",
+        "3400324",
+        "1502482",
+        "3400653",
+        "14701004",
+        "3401210",
+        "14501001"
       ]
     },
     {
@@ -48,11 +48,11 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "3400653",
-        "3400660",
-        "3400324",
         "3400880",
         "3401210",
-        "3401200"
+        "3400660",
+        "3401200",
+        "3400324"
       ]
     },
     {
@@ -60,12 +60,12 @@
       "asset_name": "Charcoal Kettle Smart Ring",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3400880",
         "3401210",
-        "3400660",
-        "3401200",
+        "3400880",
         "3400324",
-        "3400653"
+        "3401200",
+        "3400653",
+        "3400660"
       ]
     }
   ],
@@ -81,8 +81,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mzv8bhxwvgc5kjfwpjxvjbq/3400324_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mzv8bhxwvgc5kjfwpjxvjbq/v/1263102051/original/3400324_B_rgb.png?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=HWzhLRxutqUYMJtSLAEJChTKOBM=",
-      "url": "https://storage-us-gcs.bfldr.com/mzv8bhxwvgc5kjfwpjxvjbq/v/1263102051/original/3400324_B_rgb.png?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=HWzhLRxutqUYMJtSLAEJChTKOBM="
+      "original_url": "https://storage-us-gcs.bfldr.com/mzv8bhxwvgc5kjfwpjxvjbq/v/1263102051/original/3400324_B_rgb.png?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=DxZnuSmJjlCIWzIUibZl88wWDPg=",
+      "url": "https://storage-us-gcs.bfldr.com/mzv8bhxwvgc5kjfwpjxvjbq/v/1263102051/original/3400324_B_rgb.png?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=DxZnuSmJjlCIWzIUibZl88wWDPg="
     },
     {
       "attachment_id": "jft6cpckbn6r3vmk8k8s84pm",
@@ -95,8 +95,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/jft6cpckbn6r3vmk8k8s84pm/3400324_D1_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/jft6cpckbn6r3vmk8k8s84pm/v/1263102053/original/3400324_D1_rgb.png?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=dS6bqcR93s5hhLX7bU3C6KAwicM=",
-      "url": "https://storage-us-gcs.bfldr.com/jft6cpckbn6r3vmk8k8s84pm/v/1263102053/original/3400324_D1_rgb.png?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=dS6bqcR93s5hhLX7bU3C6KAwicM="
+      "original_url": "https://storage-us-gcs.bfldr.com/jft6cpckbn6r3vmk8k8s84pm/v/1263102053/original/3400324_D1_rgb.png?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=V7vouE6fMT168B7H5pMwKKUhWJ8=",
+      "url": "https://storage-us-gcs.bfldr.com/jft6cpckbn6r3vmk8k8s84pm/v/1263102053/original/3400324_D1_rgb.png?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=V7vouE6fMT168B7H5pMwKKUhWJ8="
     },
     {
       "attachment_id": "rrjvgbkpx6nmjm7r4b6n9mx",
@@ -109,8 +109,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/rrjvgbkpx6nmjm7r4b6n9mx/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/rrjvgbkpx6nmjm7r4b6n9mx/v/1290298939/original/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=DKg0KXsZychqAkYzMrMlj4emGvA=",
-      "url": "https://storage-us-gcs.bfldr.com/rrjvgbkpx6nmjm7r4b6n9mx/v/1290298939/original/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=DKg0KXsZychqAkYzMrMlj4emGvA="
+      "original_url": "https://storage-us-gcs.bfldr.com/rrjvgbkpx6nmjm7r4b6n9mx/v/1290298939/original/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=uoULnIBhwEBbD_p855w5-xQAu5M=",
+      "url": "https://storage-us-gcs.bfldr.com/rrjvgbkpx6nmjm7r4b6n9mx/v/1290298939/original/3400653_111_KettleSmartRing_FY2026_EMEA.jpg?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=uoULnIBhwEBbD_p855w5-xQAu5M="
     },
     {
       "attachment_id": "5t2zrwtz2tpmbb6q8jp3rwb",
@@ -123,8 +123,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/5t2zrwtz2tpmbb6q8jp3rwb/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/5t2zrwtz2tpmbb6q8jp3rwb/v/1288169591/original/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=-nYuKdu5JmB_IZ87boJ_IbpwDYo=",
-      "url": "https://storage-us-gcs.bfldr.com/5t2zrwtz2tpmbb6q8jp3rwb/v/1288169591/original/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=-nYuKdu5JmB_IZ87boJ_IbpwDYo="
+      "original_url": "https://storage-us-gcs.bfldr.com/5t2zrwtz2tpmbb6q8jp3rwb/v/1288169591/original/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=QN8l8Ka0xL-iF69WFihzSlZvYgs=",
+      "url": "https://storage-us-gcs.bfldr.com/5t2zrwtz2tpmbb6q8jp3rwb/v/1288169591/original/3400660_048_KettleSmartRing_FY2026_Celsius.jpg?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=QN8l8Ka0xL-iF69WFihzSlZvYgs="
     },
     {
       "attachment_id": "npq42n2f4rx72677573hmq5t",
@@ -137,8 +137,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/npq42n2f4rx72677573hmq5t/3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/npq42n2f4rx72677573hmq5t/v/1288181458/original/3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=LqKlTNGJlqDW-Wg2t52NV7b0rd4=",
-      "url": "https://storage-us-gcs.bfldr.com/npq42n2f4rx72677573hmq5t/v/1288181458/original/3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=LqKlTNGJlqDW-Wg2t52NV7b0rd4="
+      "original_url": "https://storage-us-gcs.bfldr.com/npq42n2f4rx72677573hmq5t/v/1288181458/original/3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=RA3zrSQ5vwA9jDcBxHTJplzZqSA=",
+      "url": "https://storage-us-gcs.bfldr.com/npq42n2f4rx72677573hmq5t/v/1288181458/original/3400660_104_KettleSmartRing_FY2026_AMER_V3.jpg?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=RA3zrSQ5vwA9jDcBxHTJplzZqSA="
     },
     {
       "attachment_id": "mnqgfjhx3kfvbm6qqmjwh6",
@@ -151,8 +151,8 @@
       "mimetype": "image/jpeg",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/mnqgfjhx3kfvbm6qqmjwh6/3400660_105_KettleSmartRing_%20FY2026_AMER_V1.jpg?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/mnqgfjhx3kfvbm6qqmjwh6/v/1288181459/original/3400660_105_KettleSmartRing_%20FY2026_AMER_V1.jpg?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=hBFnRFiuCIkdGM2FwqNAQbUv-IA=",
-      "url": "https://storage-us-gcs.bfldr.com/mnqgfjhx3kfvbm6qqmjwh6/v/1288181459/original/3400660_105_KettleSmartRing_%20FY2026_AMER_V1.jpg?Expires=1784652436&KeyName=gcs-bfldr-prod&Signature=hBFnRFiuCIkdGM2FwqNAQbUv-IA="
+      "original_url": "https://storage-us-gcs.bfldr.com/mnqgfjhx3kfvbm6qqmjwh6/v/1288181459/original/3400660_105_KettleSmartRing_%20FY2026_AMER_V1.jpg?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=H5wrX39YESg59SUBrGSEPLCGVO8=",
+      "url": "https://storage-us-gcs.bfldr.com/mnqgfjhx3kfvbm6qqmjwh6/v/1288181459/original/3400660_105_KettleSmartRing_%20FY2026_AMER_V1.jpg?Expires=1784897546&KeyName=gcs-bfldr-prod&Signature=H5wrX39YESg59SUBrGSEPLCGVO8="
     }
   ]
 }

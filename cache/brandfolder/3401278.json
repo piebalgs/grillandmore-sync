@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401278",
   "assets": [
     {
@@ -167,8 +167,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/wk9tcpvw8hsb5qqsmhh9ncn/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_A_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/wk9tcpvw8hsb5qqsmhh9ncn/v/1270948025/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_A_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=J27upoQhf0jdyBRyFu5DA9QxRKI=",
-      "url": "https://storage-us-gcs.bfldr.com/wk9tcpvw8hsb5qqsmhh9ncn/v/1270948025/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_A_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=J27upoQhf0jdyBRyFu5DA9QxRKI="
+      "original_url": "https://storage-us-gcs.bfldr.com/wk9tcpvw8hsb5qqsmhh9ncn/v/1270948025/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_A_rgb.png?Expires=1784897303&KeyName=gcs-bfldr-prod&Signature=cuH8a3axK6cSGkvl_b79t2HGh2Y=",
+      "url": "https://storage-us-gcs.bfldr.com/wk9tcpvw8hsb5qqsmhh9ncn/v/1270948025/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_A_rgb.png?Expires=1784897303&KeyName=gcs-bfldr-prod&Signature=cuH8a3axK6cSGkvl_b79t2HGh2Y="
     },
     {
       "attachment_id": "q3xbw57nrbk3zww7j9x4s",
@@ -181,8 +181,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/q3xbw57nrbk3zww7j9x4s/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_B_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/q3xbw57nrbk3zww7j9x4s/v/1270948026/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_B_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=d0duOXjGIv40PKg2rbdAfq6P5pk=",
-      "url": "https://storage-us-gcs.bfldr.com/q3xbw57nrbk3zww7j9x4s/v/1270948026/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_B_rgb.png?Expires=1784652335&KeyName=gcs-bfldr-prod&Signature=d0duOXjGIv40PKg2rbdAfq6P5pk="
+      "original_url": "https://storage-us-gcs.bfldr.com/q3xbw57nrbk3zww7j9x4s/v/1270948026/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_B_rgb.png?Expires=1784897303&KeyName=gcs-bfldr-prod&Signature=xk3ONHx_f-Rg7-rG117HbAxiHcU=",
+      "url": "https://storage-us-gcs.bfldr.com/q3xbw57nrbk3zww7j9x4s/v/1270948026/original/3401278-%20Pellet%202%20Piece%20Cleaning%20Set_B_rgb.png?Expires=1784897303&KeyName=gcs-bfldr-prod&Signature=xk3ONHx_f-Rg7-rG117HbAxiHcU="
     }
   ]
 }

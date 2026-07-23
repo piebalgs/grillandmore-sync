@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401232",
   "assets": [
     {
@@ -39,8 +39,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/qkkc98knfmkzmfp8m3j69hwr/3401232_LuminPremiumStand_A_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/qkkc98knfmkzmfp8m3j69hwr/v/1276012619/original/3401232_LuminPremiumStand_A_EMEA_rgb.png?Expires=1784652369&KeyName=gcs-bfldr-prod&Signature=kId8a9jy3O3D93ZRymxwHG-_B00=",
-      "url": "https://storage-us-gcs.bfldr.com/qkkc98knfmkzmfp8m3j69hwr/v/1276012619/original/3401232_LuminPremiumStand_A_EMEA_rgb.png?Expires=1784652369&KeyName=gcs-bfldr-prod&Signature=kId8a9jy3O3D93ZRymxwHG-_B00="
+      "original_url": "https://storage-us-gcs.bfldr.com/qkkc98knfmkzmfp8m3j69hwr/v/1276012619/original/3401232_LuminPremiumStand_A_EMEA_rgb.png?Expires=1784897387&KeyName=gcs-bfldr-prod&Signature=oCT7-sFrXun8I5csphPYvsX58r8=",
+      "url": "https://storage-us-gcs.bfldr.com/qkkc98knfmkzmfp8m3j69hwr/v/1276012619/original/3401232_LuminPremiumStand_A_EMEA_rgb.png?Expires=1784897387&KeyName=gcs-bfldr-prod&Signature=oCT7-sFrXun8I5csphPYvsX58r8="
     },
     {
       "attachment_id": "kkvphnzgcbwn42f8f2xmz69",
@@ -53,8 +53,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/kkvphnzgcbwn42f8f2xmz69/3401232_LuminPremiumStand_B_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/kkvphnzgcbwn42f8f2xmz69/v/1276012622/original/3401232_LuminPremiumStand_B_EMEA_rgb.png?Expires=1784652369&KeyName=gcs-bfldr-prod&Signature=BP0fQIja7AUhhzFjRtXGlBE0Pwk=",
-      "url": "https://storage-us-gcs.bfldr.com/kkvphnzgcbwn42f8f2xmz69/v/1276012622/original/3401232_LuminPremiumStand_B_EMEA_rgb.png?Expires=1784652369&KeyName=gcs-bfldr-prod&Signature=BP0fQIja7AUhhzFjRtXGlBE0Pwk="
+      "original_url": "https://storage-us-gcs.bfldr.com/kkvphnzgcbwn42f8f2xmz69/v/1276012622/original/3401232_LuminPremiumStand_B_EMEA_rgb.png?Expires=1784897387&KeyName=gcs-bfldr-prod&Signature=8a0Qw_klHdzPzZoeVh6iDPG9jro=",
+      "url": "https://storage-us-gcs.bfldr.com/kkvphnzgcbwn42f8f2xmz69/v/1276012622/original/3401232_LuminPremiumStand_B_EMEA_rgb.png?Expires=1784897387&KeyName=gcs-bfldr-prod&Signature=8a0Qw_klHdzPzZoeVh6iDPG9jro="
     },
     {
       "attachment_id": "7zqbngncfhn99n7zpkmbqk8m",
@@ -67,8 +67,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/7zqbngncfhn99n7zpkmbqk8m/3401232_LuminPremiumStand_C_EMEA_rgb.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/7zqbngncfhn99n7zpkmbqk8m/v/1276012624/original/3401232_LuminPremiumStand_C_EMEA_rgb.png?Expires=1784652369&KeyName=gcs-bfldr-prod&Signature=iQci5nH8cx2fixS1FQpHfzUYG1M=",
-      "url": "https://storage-us-gcs.bfldr.com/7zqbngncfhn99n7zpkmbqk8m/v/1276012624/original/3401232_LuminPremiumStand_C_EMEA_rgb.png?Expires=1784652369&KeyName=gcs-bfldr-prod&Signature=iQci5nH8cx2fixS1FQpHfzUYG1M="
+      "original_url": "https://storage-us-gcs.bfldr.com/7zqbngncfhn99n7zpkmbqk8m/v/1276012624/original/3401232_LuminPremiumStand_C_EMEA_rgb.png?Expires=1784897387&KeyName=gcs-bfldr-prod&Signature=cAKwFBjGm7qJpFH9H5x7XiGWqIY=",
+      "url": "https://storage-us-gcs.bfldr.com/7zqbngncfhn99n7zpkmbqk8m/v/1276012624/original/3401232_LuminPremiumStand_C_EMEA_rgb.png?Expires=1784897387&KeyName=gcs-bfldr-prod&Signature=cAKwFBjGm7qJpFH9H5x7XiGWqIY="
     }
   ]
 }

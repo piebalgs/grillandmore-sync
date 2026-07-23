@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17636",
   "assets": [
     {
@@ -7,6 +7,15 @@
       "asset_name": "Cold Smoke Generator 17636 Product",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "17636"
+      ]
+    },
+    {
+      "asset_id": "qflbxv-aqjvg8-56tgfp",
+      "asset_name": "Cold Smoking Accessories Grilltipps Video",
+      "cdn_key": "XBRZ2A26",
+      "skus": [
+        "17614",
         "17636"
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "7195",
   "assets": [
     {
@@ -16,8 +16,8 @@
       "asset_name": "7758/7195 Mood",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "7758",
-        "7195"
+        "7195",
+        "7758"
       ]
     },
     {

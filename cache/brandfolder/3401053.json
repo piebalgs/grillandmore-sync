@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "3401053",
   "assets": [
     {
@@ -31,8 +31,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/bxqr948hm6fnk2qjjbt8h2f/3401053_PelletFuel_Oak_Back_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/bxqr948hm6fnk2qjjbt8h2f/v/1266873314/original/3401053_PelletFuel_Oak_Back_1800x1800.png?Expires=1784652331&KeyName=gcs-bfldr-prod&Signature=fWbUBF2Hice67dpAFlg4hJYECi8=",
-      "url": "https://storage-us-gcs.bfldr.com/bxqr948hm6fnk2qjjbt8h2f/v/1266873314/original/3401053_PelletFuel_Oak_Back_1800x1800.png?Expires=1784652331&KeyName=gcs-bfldr-prod&Signature=fWbUBF2Hice67dpAFlg4hJYECi8="
+      "original_url": "https://storage-us-gcs.bfldr.com/bxqr948hm6fnk2qjjbt8h2f/v/1266873314/original/3401053_PelletFuel_Oak_Back_1800x1800.png?Expires=1784897289&KeyName=gcs-bfldr-prod&Signature=8aTfqljiL5EU7c4dMfTvmCsXqwM=",
+      "url": "https://storage-us-gcs.bfldr.com/bxqr948hm6fnk2qjjbt8h2f/v/1266873314/original/3401053_PelletFuel_Oak_Back_1800x1800.png?Expires=1784897289&KeyName=gcs-bfldr-prod&Signature=8aTfqljiL5EU7c4dMfTvmCsXqwM="
     },
     {
       "attachment_id": "374p8f7x7vz9v7qft8h2ssj",
@@ -45,8 +45,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/374p8f7x7vz9v7qft8h2ssj/3401053_PelletFuel_Oak_Front_1800x1800.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/374p8f7x7vz9v7qft8h2ssj/v/1266873317/original/3401053_PelletFuel_Oak_Front_1800x1800.png?Expires=1784652331&KeyName=gcs-bfldr-prod&Signature=6i9J-W1yHhXpJAPro9MKzCvTMe8=",
-      "url": "https://storage-us-gcs.bfldr.com/374p8f7x7vz9v7qft8h2ssj/v/1266873317/original/3401053_PelletFuel_Oak_Front_1800x1800.png?Expires=1784652331&KeyName=gcs-bfldr-prod&Signature=6i9J-W1yHhXpJAPro9MKzCvTMe8="
+      "original_url": "https://storage-us-gcs.bfldr.com/374p8f7x7vz9v7qft8h2ssj/v/1266873317/original/3401053_PelletFuel_Oak_Front_1800x1800.png?Expires=1784897289&KeyName=gcs-bfldr-prod&Signature=Tf3Vuors4FB7glRseblZDgoJGzk=",
+      "url": "https://storage-us-gcs.bfldr.com/374p8f7x7vz9v7qft8h2ssj/v/1266873317/original/3401053_PelletFuel_Oak_Front_1800x1800.png?Expires=1784897289&KeyName=gcs-bfldr-prod&Signature=Tf3Vuors4FB7glRseblZDgoJGzk="
     }
   ]
 }

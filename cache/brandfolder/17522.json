@@ -1,5 +1,5 @@
 {
-  "cache_version": 5,
+  "cache_version": 6,
   "sku": "17522",
   "assets": [
     {
@@ -31,8 +31,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pf81aj-g1429s-f8ts5r/17522A.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pf81aj-g1429s-f8ts5r/v/2356631/original/17522A.png?Expires=1784652411&KeyName=gcs-bfldr-prod&Signature=TkuGdHBXhGQVlr-LEbKbyN5Km-s=",
-      "url": "https://storage-us-gcs.bfldr.com/pf81aj-g1429s-f8ts5r/v/2356631/original/17522A.png?Expires=1784652411&KeyName=gcs-bfldr-prod&Signature=TkuGdHBXhGQVlr-LEbKbyN5Km-s="
+      "original_url": "https://storage-us-gcs.bfldr.com/pf81aj-g1429s-f8ts5r/v/2356631/original/17522A.png?Expires=1784897481&KeyName=gcs-bfldr-prod&Signature=RCoIL5e7qyJbPMa3bVNN_K5bTUY=",
+      "url": "https://storage-us-gcs.bfldr.com/pf81aj-g1429s-f8ts5r/v/2356631/original/17522A.png?Expires=1784897481&KeyName=gcs-bfldr-prod&Signature=RCoIL5e7qyJbPMa3bVNN_K5bTUY="
     },
     {
       "attachment_id": "pmf663-1bn654-a9jec1",
@@ -45,8 +45,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/pmf663-1bn654-a9jec1/17522B.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/pmf663-1bn654-a9jec1/v/3053315/original/17522B.png?Expires=1784652411&KeyName=gcs-bfldr-prod&Signature=wrqivii9OLq8aoW782l3756NnwA=",
-      "url": "https://storage-us-gcs.bfldr.com/pmf663-1bn654-a9jec1/v/3053315/original/17522B.png?Expires=1784652411&KeyName=gcs-bfldr-prod&Signature=wrqivii9OLq8aoW782l3756NnwA="
+      "original_url": "https://storage-us-gcs.bfldr.com/pmf663-1bn654-a9jec1/v/3053315/original/17522B.png?Expires=1784897481&KeyName=gcs-bfldr-prod&Signature=iwblOksd38MR0exH6d5W76hsJ68=",
+      "url": "https://storage-us-gcs.bfldr.com/pmf663-1bn654-a9jec1/v/3053315/original/17522B.png?Expires=1784897481&KeyName=gcs-bfldr-prod&Signature=iwblOksd38MR0exH6d5W76hsJ68="
     }
   ]
 }

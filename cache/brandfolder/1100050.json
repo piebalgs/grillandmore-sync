@@ -7,14 +7,14 @@
       "asset_name": "3401009_BBQK Module_outdoor bbq cooler",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1100010",
-        "1100050",
         "3401010",
         "1100031",
         "3401009",
-        "1100032",
+        "1100010",
         "1100020",
-        "3401011"
+        "3401011",
+        "1100032",
+        "1100050"
       ]
     },
     {
@@ -22,13 +22,13 @@
       "asset_name": "3401010_BBQK Module_washing module",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1100032",
-        "3401009",
-        "1100020",
-        "3401011",
-        "1100050",
         "3401010",
+        "1100020",
+        "1100050",
         "1100031",
+        "3401009",
+        "3401011",
+        "1100032",
         "1100010"
       ]
     },
@@ -37,14 +37,14 @@
       "asset_name": "BBQ1100010_BBQK Module_door module",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1100010",
-        "3401011",
-        "3401010",
-        "1100032",
-        "1100050",
-        "1100020",
         "1100031",
-        "3401009"
+        "3401011",
+        "1100010",
+        "1100020",
+        "1100050",
+        "1100032",
+        "3401009",
+        "3401010"
       ]
     },
     {
@@ -52,14 +52,14 @@
       "asset_name": "BBQ1100031_BBQK Module_sideburner module flat 1 - Genesis",
       "cdn_key": "XBRZ2A26",
       "skus": [
+        "3401010",
         "1100050",
+        "3401011",
         "1100010",
-        "1100020",
+        "3401009",
         "1100031",
         "1100032",
-        "3401009",
-        "3401010",
-        "3401011"
+        "1100020"
       ]
     },
     {
@@ -67,14 +67,14 @@
       "asset_name": "BBQ1100032_BBQK Module_sideburner module flat - Spirit",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "3401011",
+        "1100032",
         "3401009",
-        "1100020",
-        "3401010",
         "1100050",
-        "1100031",
         "1100010",
-        "1100032"
+        "3401010",
+        "3401011",
+        "1100031",
+        "1100020"
       ]
     },
     {
@@ -83,13 +83,13 @@
       "cdn_key": "XBRZ2A26",
       "skus": [
         "1100031",
-        "3401009",
-        "3401010",
-        "1100032",
-        "1100020",
         "1100050",
-        "1100010",
-        "3401011"
+        "3401011",
+        "1100020",
+        "3401010",
+        "3401009",
+        "1100032",
+        "1100010"
       ]
     },
     {
@@ -97,14 +97,14 @@
       "asset_name": "BBQ1100020_BBQK Module_double drawer module",
       "cdn_key": "XBRZ2A26",
       "skus": [
-        "1100031",
         "3401009",
+        "1100020",
+        "1100031",
+        "3401010",
         "1100032",
         "1100050",
-        "3401010",
-        "1100020",
-        "1100010",
-        "3401011"
+        "3401011",
+        "1100010"
       ]
     },
     {
@@ -232,8 +232,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/3z2v8n38mk78sh7fm84jth/3401009_BBQK%20Module_outdoor%20bbq%20cooler.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/3z2v8n38mk78sh7fm84jth/v/1263108019/original/3401009_BBQK%20Module_outdoor%20bbq%20cooler.png?Expires=1784651995&KeyName=gcs-bfldr-prod&Signature=KbXxbL6eBYFY1BySIxVKZzRtNug=",
-      "url": "https://storage-us-gcs.bfldr.com/3z2v8n38mk78sh7fm84jth/v/1263108019/original/3401009_BBQK%20Module_outdoor%20bbq%20cooler.png?Expires=1784651995&KeyName=gcs-bfldr-prod&Signature=KbXxbL6eBYFY1BySIxVKZzRtNug="
+      "original_url": "https://storage-us-gcs.bfldr.com/3z2v8n38mk78sh7fm84jth/v/1263108019/original/3401009_BBQK%20Module_outdoor%20bbq%20cooler.png?Expires=1784807646&KeyName=gcs-bfldr-prod&Signature=Z7YuzOVQJz-bPRqq2gdiqIy2rDc=",
+      "url": "https://storage-us-gcs.bfldr.com/3z2v8n38mk78sh7fm84jth/v/1263108019/original/3401009_BBQK%20Module_outdoor%20bbq%20cooler.png?Expires=1784807646&KeyName=gcs-bfldr-prod&Signature=Z7YuzOVQJz-bPRqq2gdiqIy2rDc="
     },
     {
       "attachment_id": "53hp5hzvznktzncs4g53pkk",
@@ -246,8 +246,8 @@
       "mimetype": "image/png",
       "cdn_key": "XBRZ2A26",
       "cdn_url": "https://cdn.brandfolder.io/XBRZ2A26/at/53hp5hzvznktzncs4g53pkk/3401010_BBQK%20Module_washing%20module.png?width=800&height=800&pad=true&auto=webp",
-      "original_url": "https://storage-us-gcs.bfldr.com/53hp5hzvznktzncs4g53pkk/v/1263108020/original/3401010_BBQK%20Module_washing%20module.png?Expires=1784651995&KeyName=gcs-bfldr-prod&Signature=tBkTaUgqhOy6fKjr3Bb3i6TFkCo=",
-      "url": "https://storage-us-gcs.bfldr.com/53hp5hzvznktzncs4g53pkk/v/1263108020/original/3401010_BBQK%20Module_washing%20module.png?Expires=1784651995&KeyName=gcs-bfldr-prod&Signature=tBkTaUgqhOy6fKjr3Bb3i6TFkCo="
+      "original_url": "https://storage-us-gcs.bfldr.com/53hp5hzvznktzncs4g53pkk/v/1263108020/original/3401010_BBQK%20Module_washing%20module.png?Expires=1784807646&KeyName=gcs-bfldr-prod&Signature=N9a1YdAlLn7kxo3VpYu6cs_q5oI=",
+      "url": "https://storage-us-gcs.bfldr.com/53hp5hzvznktzncs4g53pkk/v/1263108020/original/3401010_BBQK%20Module_washing%20module.png?Expires=1784807646&KeyName=gcs-bfldr-prod&Signature=N9a1YdAlLn7kxo3VpYu6cs_q5oI="
     }
   ]
 }

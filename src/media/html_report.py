@@ -249,10 +249,7 @@ def _table_rows(results: list[dict[str, Any]]) -> str:
         rows.append(
             "\n".join(
                 [
-                    (
-                        f'<tr data-category="{html.escape(category)}" '
-                        f'data-search="{html.escape(searchable)}">'
-                    ),
+                    f'<tr id="sku-{html.escape(sku)}" '
                     f'<td class="sku-cell">{html.escape(sku)}</td>',
                     f"<td>{html.escape(name)}</td>",
                     (
@@ -324,7 +321,35 @@ def _summary_cards(results: list[dict[str, Any]]) -> str:
         )
         for category, label, value, icon in cards
     )
+def _problem_panel(results: list[dict[str, Any]]) -> str:
+    items = []
 
+    for result in results:
+        category, label, icon = _category_for_result(result)
+
+        if category not in {"manual-review", "verify-failed", "error"}:
+            continue
+
+        sku = html.escape(_result_sku(result) or "")
+        name = html.escape(_result_name(result) or "")
+
+        items.append(
+            f'<li>{icon} '
+            f'<a href="#sku-{sku}"><strong>{sku}</strong> — {name}</a>'
+            "</li>"
+        )
+
+    if not items:
+        return ""
+
+    return (
+        '<section class="problem-panel">'
+        '<h2>⚠ Nepieciešama uzmanība</h2>'
+        '<ul>'
+        + "".join(items)
+        + "</ul>"
+        "</section>"
+    )
 
 def generate_html_report(
     *,
@@ -364,6 +389,7 @@ def generate_html_report(
         "{{SUMMARY_CARDS}}": _summary_cards(results),
         "{{TABLE_ROWS}}": _table_rows(results),
         "{{TOTAL_RESULTS}}": str(len(results)),
+        "{{PROBLEM_PANEL}}": _problem_panel(results),
     }
 
     report_html = template

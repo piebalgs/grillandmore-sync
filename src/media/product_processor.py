@@ -291,13 +291,17 @@ def process_product(
         return result
 
     if skipped_images:
-        result["action"] = "SKIP_REVIEW"
         result["message"] = (
-            "Visus attēlus nevar pievienot "
+            f"Tiks pievienoti {len(missing_images)} attēli. "
+            f"{len(skipped_images)} netiks pievienoti galerijas limita dēļ."
+        )
+        print(
+            f"  ⚠ {len(skipped_images)} attēli izlaisti "
             "galerijas limita dēļ."
         )
-        print(f"  ⚠ {result['message']}")
-        return result
+
+        # Galerijas limits nav bloķējoša kļūda —
+        # turpinām ar plānā iekļautajiem attēliem.
 
     if not apply:
         result["action"] = "DRY_RUN"

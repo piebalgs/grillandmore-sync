@@ -395,7 +395,11 @@
         details[open] summary {
             margin-bottom: 10px;
         }
-
+    th:nth-child(7),
+    td:nth-child(7) {
+    min-width: 680px;
+    width: 680px;
+    }
         .image-list {
             margin: 12px 0;
             padding: 12px;
@@ -406,15 +410,63 @@
             background: #fafbfc;
         }
 
-        .image-list ol {
-            margin: 8px 0 0;
-            padding-left: 22px;
-        }
+       .image-list ol {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(150px, 1fr));
+    gap: 14px;
 
-        .image-list li {
-            margin: 4px 0;
-            overflow-wrap: anywhere;
-        }
+    margin: 12px 0 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.image-list li {
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 0;
+    padding: 10px;
+
+    border: 1px solid #dfe5ec;
+    border-radius: 12px;
+
+    background: #ffffff;
+
+    overflow: hidden;
+    overflow-wrap: anywhere;
+
+    transition:
+        transform 0.18s ease,
+        box-shadow 0.18s ease,
+        border-color 0.18s ease;
+}
+
+.image-list li:hover {
+    transform: translateY(-2px);
+    border-color: #3b82f6;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.image-list img {
+    width: 160px !important;
+    height: 120px !important;
+
+    object-fit: contain;
+    margin-bottom: 8px !important;
+}
+
+.image-list span {
+    width: 100%;
+
+    font-size: 12px;
+    line-height: 1.35;
+    text-align: center;
+    word-break: break-word;
+}
 
         .raw-details {
             margin-top: 12px;
@@ -532,6 +584,40 @@
                 position: static;
             }
         }
+        .report-toolbar {
+    display: flex;
+    align-items: flex-end;
+    gap: 16px;
+    margin: 20px 0;
+}
+
+.search-box {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    width: min(420px, 100%);
+    font-weight: 600;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font: inherit;
+}
+
+.search-box input:focus {
+    outline: 2px solid #2563eb;
+    outline-offset: 1px;
+    border-color: #2563eb;
+}
+
+.search-result-count {
+    padding-bottom: 10px;
+    color: #64748b;
+    font-size: 14px;
+}
     </style>
 </head>
 
@@ -577,8 +663,21 @@
 
         <section class="summary-grid">
             {{SUMMARY_CARDS}}
+            {{PROBLEM_PANEL}}
         </section>
+<div class="report-toolbar">
+    <label class="search-box">
+        <span>Meklēt produktu</span>
+        <input
+            type="search"
+            id="product-search"
+            placeholder="SKU vai produkta nosaukums"
+            autocomplete="off"
+        >
+    </label>
 
+    <div id="search-result-count" class="search-result-count"></div>
+</div>
         <section class="panel">
             <div class="panel-header">
                 <h2>
@@ -794,5 +893,43 @@
 
         applyFilters();
     </script>
+    <script>
+document.addEventListener("DOMContentLoaded", function () {
+    const searchInput = document.getElementById("product-search");
+    const resultCount = document.getElementById("search-result-count");
+    const rows = Array.from(
+        document.querySelectorAll("tbody tr[data-search]")
+    );
+
+    function updateSearch() {
+        const query = searchInput.value
+            .trim()
+            .toLocaleLowerCase("lv-LV");
+
+        let visibleCount = 0;
+
+        rows.forEach(function (row) {
+            const searchable = (
+                row.dataset.search || row.textContent || ""
+            ).toLocaleLowerCase("lv-LV");
+
+            const isVisible =
+                query === "" || searchable.includes(query);
+
+            row.hidden = !isVisible;
+
+            if (isVisible) {
+                visibleCount += 1;
+            }
+        });
+
+        resultCount.textContent = query
+            ? `Atrasti produkti: ${visibleCount}`
+            : "";
+    }
+
+    searchInput.addEventListener("input", updateSearch);
+});
+</script>
 </body>
 </html>

@@ -49,9 +49,6 @@ EXCLUDED_FILENAME_MARKERS = {
     "-PKG",
     " PKG",
     "PACKAGE",
-    "_MASTER",
-    "-MASTER",
-    " MASTER",
 }
 
 # Palielināta versija, lai netiktu izmantota vecā kešatmiņa.
@@ -150,6 +147,14 @@ def is_product_image(filename: str) -> bool:
     if any(
         marker in normalized
         for marker in EXCLUDED_FILENAME_MARKERS
+    ):
+        return False
+
+    # Izslēdz tikai atsevišķu MASTER marķieri,
+    # bet neatmet MASTERTOUCH un citus vārdus.
+    if re.search(
+        r"(?:^|[_\s.-])MASTER(?:[_\s.-]|$)",
+        Path(normalized).stem,
     ):
         return False
 

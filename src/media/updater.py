@@ -14,6 +14,11 @@ from src.image_processor import (
     describe_processed_image,
     process_remote_image,
 )
+from src.media.media_index import (
+    build_media_index,
+    find_media_id,
+    normalize_filename,
+)
 from src.media.planner import filename_from_url
 
 
@@ -44,6 +49,11 @@ RETRY_DELAYS = (
 )
 
 PRODUCT_UPDATE_PAUSE = 3
+
+# Media Library indekss tiek izveidots tikai vienu reizi viena
+# Python procesa laikā. Ja sinhronizē vairākus produktus, visiem
+# produktiem tiek izmantots tas pats atjaunināmais indekss.
+_MEDIA_INDEX_CACHE: dict[str, int] | None = None
 
 # Vienam WooCommerce produktam kopā atļaujam maksimums 10 attēlus.
 # Vajadzības gadījumā .env failā vari norādīt citu vērtību:
@@ -323,6 +333,96 @@ def put_product_image_ids(
     return payload
 
 
+
+def get_media_index(
+    *,
+    force_refresh: bool = False,
+    verbose: bool = True,
+) -> dict[str, int]:
+    """
+    Atgriež WordPress Media Library indeksu.
+
+    Indekss tiek izveidots tikai vienu reizi viena Python procesa
+    laikā. force_refresh=True piespiedu kārtā nolasa Media Library
+    no jauna.
+    """
+    global _MEDIA_INDEX_CACHE
+
+    if _MEDIA_INDEX_CACHE is None or force_refresh:
+        _MEDIA_INDEX_CACHE = build_media_index(
+            verbose=verbose,
+        )
+
+    return _MEDIA_INDEX_CACHE
+
+
+def clear_media_index_cache() -> None:
+    """Notīra šī Python procesa Media Library indeksa kešatmiņu."""
+    global _MEDIA_INDEX_CACHE
+    _MEDIA_INDEX_CACHE = None
+
+
+def resolve_media_id(
+    *,
+    processed: Any,
+    alt_text: str,
+    media_index: dict[str, int],
+) -> int:
+    """
+    Atrod esošu Media ID vai augšupielādē jaunu attēlu.
+
+    Darbības:
+      1. meklē failu Media Library indeksā;
+      2. ja atrod, izmanto esošo Media ID;
+      3. ja neatrod, augšupielādē failu;
+      4. pārbauda jaunā Media ID eksistenci;
+      5. uzreiz papildina indeksu.
+    """
+    filename = str(processed.filename or "").strip()
+
+    if not filename:
+        raise ImageSyncError(
+            "Apstrādātajam attēlam nav faila nosaukuma."
+        )
+
+    existing_media_id = find_media_id(
+        media_index,
+        filename,
+    )
+
+    if existing_media_id is not None:
+        print(
+            f"    ✓ Izmantots esošs Media Library ID: "
+            f"{existing_media_id}"
+        )
+        return int(existing_media_id)
+
+    media = upload_media_file(
+        file_path=processed.path,
+        filename=filename,
+        content_type=processed.content_type,
+        alt_text=alt_text,
+    )
+
+    media_id = int(media["id"])
+    verify_media_exists(media_id)
+
+    index_key = normalize_filename(filename)
+
+    if not index_key:
+        raise ImageSyncError(
+            f"Neizdevās normalizēt faila nosaukumu {filename}."
+        )
+
+    media_index[index_key] = media_id
+
+    print(
+        f"    ✓ Augšupielādēts jauns Media Library ID: "
+        f"{media_id}"
+    )
+
+    return media_id
+
 def update_product_images(
     product_id: int,
     payload_images: list[dict[str, Any]],
@@ -399,6 +499,10 @@ def update_product_images(
             image_ids=current_ids,
         )
 
+    media_index = get_media_index(
+        verbose=True,
+    )
+
     download_session = requests.Session()
     download_session.headers.update(
         {
@@ -449,15 +553,11 @@ def update_product_images(
                 + describe_processed_image(processed)
             )
 
-            media = upload_media_file(
-                file_path=processed.path,
-                filename=processed.filename,
-                content_type=processed.content_type,
+            media_id = resolve_media_id(
+                processed=processed,
                 alt_text=alt_text,
+                media_index=media_index,
             )
-
-            media_id = int(media["id"])
-            verify_media_exists(media_id)
 
             if media_id not in current_ids:
                 current_ids.append(media_id)
@@ -466,10 +566,6 @@ def update_product_images(
             # ar jaunajiem attēliem.
             if len(existing_ids) < MAX_IMAGES_PER_PRODUCT:
                 current_ids = current_ids[:MAX_IMAGES_PER_PRODUCT]
-
-            print(
-                f"    ✓ Media Library ID: {media_id}"
-            )
 
             last_product = put_product_image_ids(
                 product_id=product_id,

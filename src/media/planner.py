@@ -80,6 +80,19 @@ def normalize_filename(value: Any) -> str:
         stem,
     )
 
+    # Brandfolder produktu failiem mēdz būt tehniskais sufikss,
+    # piemēram:
+    #   ..._A.5403_rgb.png
+    #
+    # WordPress augšupielādes laikā daļa aiz punkta var pazust,
+    # tāpēc salīdzināšanai noņemam tikai noslēdzošo tehnisko
+    # ".<cipari>_rgb" daļu. Skata marķieris A/B/C paliek saglabāts.
+    stem = re.sub(
+        r"\.\d+(?:[\s_-]*RGB)?$",
+        "",
+        stem,
+    )
+
     stem = re.sub(
         r"[\s_-]+",
         "",

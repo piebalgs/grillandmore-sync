@@ -16,6 +16,7 @@ from src.descriptions.matching.rules import (
     score_model_code,
     score_producer,
     score_series,
+    score_title_similarity,
 )
 from src.descriptions.matching.score_models import (
     ScoreItem,
@@ -29,10 +30,11 @@ ScoringRule = Callable[
 ]
 
 
-DEFAULT_RULES: tuple[ScoringRule, ...] = (
+DEFAULT_RULES = (
     score_model_code,
     score_series,
     score_producer,
+    score_title_similarity,
 )
 
 

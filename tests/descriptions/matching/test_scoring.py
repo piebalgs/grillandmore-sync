@@ -12,11 +12,12 @@ from src.descriptions.matching.scoring import (
 
 
 def test_default_rules_contain_all_default_rules() -> None:
-    assert len(DEFAULT_RULES) == 3
+    assert len(DEFAULT_RULES) == 4
 
     assert DEFAULT_RULES[0].__name__ == "score_model_code"
     assert DEFAULT_RULES[1].__name__ == "score_series"
     assert DEFAULT_RULES[2].__name__ == "score_producer"
+    assert DEFAULT_RULES[3].__name__ == "score_title_similarity"
 
 
 def test_calculate_score_executes_default_rules() -> None:
@@ -30,15 +31,16 @@ def test_calculate_score_executes_default_rules() -> None:
 
     result = calculate_score(description, supplier)
 
-    assert len(result.items) == 3
+    assert len(result.items) == 4
 
     assert result.items[0].rule == "MODEL_CODE"
     assert result.items[1].rule == "SERIES"
     assert result.items[2].rule == "PRODUCER"
+    assert result.items[3].rule == "TITLE_SIMILARITY"
 
-    assert result.total == 70.0
-    assert result.maximum == 75.0
-    assert result.confidence == 70.0 / 75.0 * 100
+    assert result.total == 93.75
+    assert result.maximum == 100.0
+    assert result.confidence == 93.75
 
 
 def test_calculate_score_returns_zero_for_non_match() -> None:
@@ -53,7 +55,7 @@ def test_calculate_score_returns_zero_for_non_match() -> None:
     result = calculate_score(description, supplier)
 
     assert result.total == 0.0
-    assert result.maximum == 75.0
+    assert result.maximum == 100.0
     assert result.confidence == 0.0
 
 

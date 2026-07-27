@@ -9,7 +9,10 @@ from src.descriptions.matching.models import (
     SupplierProduct,
 )
 from src.descriptions.matching.normalizer import compact_match_text
-from src.descriptions.matching.score_models import ScoreItem
+from src.descriptions.matching.score_models import (
+    RuleStatus,
+    ScoreItem,
+)
 
 
 RULE_NAME = "SERIES"
@@ -52,27 +55,48 @@ def score_series(
     supplier_series = find_series(supplier.name)
 
     if description_series is None and supplier_series is None:
-        reason = "Series could not be determined for either product"
-    elif description_series is None:
-        reason = "Description series could not be determined"
-    elif supplier_series is None:
-        reason = "Supplier series could not be determined"
-    elif description_series == supplier_series:
+        return ScoreItem(
+            rule=RULE_NAME,
+            points=0,
+            maximum=SERIES_POINTS,
+            status=RuleStatus.UNKNOWN,
+            reason="Series could not be determined for either product",
+        )
+
+    if description_series is None:
+        return ScoreItem(
+            rule=RULE_NAME,
+            points=0,
+            maximum=SERIES_POINTS,
+            status=RuleStatus.UNKNOWN,
+            reason="Description series could not be determined",
+        )
+
+    if supplier_series is None:
+        return ScoreItem(
+            rule=RULE_NAME,
+            points=0,
+            maximum=SERIES_POINTS,
+            status=RuleStatus.UNKNOWN,
+            reason="Supplier series could not be determined",
+        )
+
+    if description_series == supplier_series:
         return ScoreItem(
             rule=RULE_NAME,
             points=SERIES_POINTS,
             maximum=SERIES_POINTS,
+            status=RuleStatus.MATCH,
             reason=f"Series matches: {description_series}",
-        )
-    else:
-        reason = (
-            f"Series mismatch: "
-            f"{description_series} vs {supplier_series}"
         )
 
     return ScoreItem(
         rule=RULE_NAME,
         points=0,
         maximum=SERIES_POINTS,
-        reason=reason,
+        status=RuleStatus.NO_MATCH,
+        reason=(
+            f"Series mismatch: "
+            f"{description_series} vs {supplier_series}"
+        ),
     )

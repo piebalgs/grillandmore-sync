@@ -3,6 +3,7 @@
 import pytest
 
 from src.descriptions.matching.score_models import (
+    RuleStatus,
     ScoreItem,
     ScoreResult,
 )
@@ -182,6 +183,60 @@ def test_score_result_calculates_totals_and_confidence() -> None:
         94.736842,
         rel=1e-6,
     )
+
+
+def test_score_result_includes_match_in_total_and_maximum() -> None:
+    result = ScoreResult(
+        items=(
+            ScoreItem(
+                rule="MODEL_CODE",
+                points=50,
+                maximum=50,
+                status=RuleStatus.MATCH,
+                reason="Model code matches",
+            ),
+        )
+    )
+
+    assert result.total == 50.0
+    assert result.maximum == 50.0
+    assert result.confidence == 100.0
+
+
+def test_score_result_includes_no_match_in_maximum_only() -> None:
+    result = ScoreResult(
+        items=(
+            ScoreItem(
+                rule="MODEL_CODE",
+                points=0,
+                maximum=50,
+                status=RuleStatus.NO_MATCH,
+                reason="Model code did not match",
+            ),
+        )
+    )
+
+    assert result.total == 0.0
+    assert result.maximum == 50.0
+    assert result.confidence == 0.0
+
+
+def test_score_result_excludes_unknown_from_total_and_maximum() -> None:
+    result = ScoreResult(
+        items=(
+            ScoreItem(
+                rule="MODEL_CODE",
+                points=0,
+                maximum=50,
+                status=RuleStatus.UNKNOWN,
+                reason="Model code could not be determined",
+            ),
+        )
+    )
+
+    assert result.total == 0.0
+    assert result.maximum == 0.0
+    assert result.confidence == 0.0
 
 
 def test_empty_score_result_has_zero_values() -> None:

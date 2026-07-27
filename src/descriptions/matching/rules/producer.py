@@ -16,7 +16,10 @@ from src.descriptions.matching.normalizer import (
     compact_match_text,
     unique_match_tokens,
 )
-from src.descriptions.matching.score_models import ScoreItem
+from src.descriptions.matching.score_models import (
+    RuleStatus,
+    ScoreItem,
+)
 
 
 RULE_NAME = "PRODUCER"
@@ -70,6 +73,7 @@ def score_producer(
             rule=RULE_NAME,
             points=0,
             maximum=PRODUCER_POINTS,
+            status=RuleStatus.NO_MATCH,
             reason="Supplier producer could not be determined",
         )
 
@@ -78,6 +82,7 @@ def score_producer(
             rule=RULE_NAME,
             points=PRODUCER_POINTS,
             maximum=PRODUCER_POINTS,
+            status=RuleStatus.MATCH,
             reason=f"Producer matches: {EXPECTED_PRODUCER}",
         )
 
@@ -85,6 +90,7 @@ def score_producer(
         rule=RULE_NAME,
         points=0,
         maximum=PRODUCER_POINTS,
+        status=RuleStatus.NO_MATCH,
         reason=(
             f"Producer mismatch: "
             f"{EXPECTED_PRODUCER} vs {supplier.producer}"

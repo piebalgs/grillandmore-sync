@@ -2,6 +2,10 @@
 
 Individual scoring rules live in ``matching.rules``. This module executes
 those rules and combines their results into one ``ScoreResult``.
+
+EAN is intentionally available as an opt-in rule in the first EAN phase.
+It will join ``DEFAULT_RULES`` only after Weber EAN values are populated
+reliably by the description-data mapper.
 """
 
 from __future__ import annotations
@@ -30,7 +34,7 @@ ScoringRule = Callable[
 ]
 
 
-DEFAULT_RULES = (
+DEFAULT_RULES: tuple[ScoringRule, ...] = (
     score_model_code,
     score_series,
     score_producer,
@@ -46,20 +50,10 @@ def calculate_score(
 ) -> ScoreResult:
     """Calculate an explainable match score.
 
-    Args:
-        description:
-            Weber shared-description record.
-
-        supplier:
-            Supplier product being evaluated.
-
-        rules:
-            Optional custom scoring-rule iterable. When omitted, the default
-            matcher rules are used.
-
-    Returns:
-        Combined scoring result containing one item per executed rule.
+    Pass ``rules=(score_ean, *DEFAULT_RULES)`` when EAN evaluation is
+    explicitly required.
     """
+
     selected_rules = (
         DEFAULT_RULES
         if rules is None

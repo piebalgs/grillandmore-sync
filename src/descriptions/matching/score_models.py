@@ -1,40 +1,40 @@
-"""Data models for explainable product-match scoring.
-
-This module contains only immutable scoring result structures. The actual
-comparison rules and point calculations belong in ``scoring.py``.
-"""
+"""Data models for explainable product-match scoring."""
 
 from __future__ import annotations
 
 from dataclasses import dataclass, field
+from enum import Enum
 from typing import Iterable
+
+
+class RuleStatus(str, Enum):
+    """Semantic outcome returned by one matching expert."""
+
+    MATCH = "MATCH"
+    NO_MATCH = "NO_MATCH"
+    UNKNOWN = "UNKNOWN"
+    CONFLICT = "CONFLICT"
 
 
 @dataclass(frozen=True, slots=True)
 class ScoreItem:
     """Result produced by one scoring rule.
 
-    Attributes:
-        rule:
-            Stable technical rule identifier, for example ``MODEL_CODE``.
+    ``UNKNOWN`` means that the rule had insufficient data and therefore its
+    maximum points are excluded from confidence calculation.
 
-        points:
-            Points awarded by the rule.
-
-        maximum:
-            Maximum number of points available from the rule.
-
-        reason:
-            Human-readable explanation of the result.
+    ``CONFLICT`` means that both values existed but contradicted each other.
+    Conflict handling can later be extended with explicit penalties without
+    changing the rule interface.
     """
 
     rule: str
     points: float
     maximum: float
     reason: str
+    status: RuleStatus | str | None = None
 
     def __post_init__(self) -> None:
-        """Normalize and validate the scoring item."""
         rule = self.rule.strip().upper()
         reason = self.reason.strip()
         points = float(self.points)
@@ -42,67 +42,79 @@ class ScoreItem:
 
         if not rule:
             raise ValueError("rule must not be empty")
-
         if not reason:
             raise ValueError("reason must not be empty")
-
         if maximum <= 0:
             raise ValueError("maximum must be greater than 0")
-
         if points < 0:
             raise ValueError("points must not be negative")
-
         if points > maximum:
             raise ValueError("points must not exceed maximum")
+
+        status = self.status
+        if status is None:
+            status = (
+                RuleStatus.MATCH
+                if points > 0
+                else RuleStatus.NO_MATCH
+            )
+        elif isinstance(status, str):
+            try:
+                status = RuleStatus(status.strip().upper())
+            except ValueError as exc:
+                valid = ", ".join(item.value for item in RuleStatus)
+                raise ValueError(
+                    f"Unknown rule status: {status}. "
+                    f"Expected one of: {valid}"
+                ) from exc
+
+        if status is RuleStatus.MATCH and points <= 0:
+            raise ValueError("MATCH status must award points")
+
+        if status in {
+            RuleStatus.UNKNOWN,
+            RuleStatus.CONFLICT,
+            RuleStatus.NO_MATCH,
+        } and points != 0:
+            raise ValueError(
+                f"{status.value} status must award 0 points"
+            )
 
         object.__setattr__(self, "rule", rule)
         object.__setattr__(self, "reason", reason)
         object.__setattr__(self, "points", points)
         object.__setattr__(self, "maximum", maximum)
+        object.__setattr__(self, "status", status)
 
     @property
     def ratio(self) -> float:
-        """Return the awarded share as a value from 0.0 to 1.0."""
         return self.points / self.maximum
 
     @property
     def percentage(self) -> float:
-        """Return the awarded share as a percentage."""
         return self.ratio * 100.0
 
     @property
     def is_full_match(self) -> bool:
-        """Return whether the rule awarded all available points."""
-        return self.points == self.maximum
+        return (
+            self.status is RuleStatus.MATCH
+            and self.points == self.maximum
+        )
 
     @property
     def has_points(self) -> bool:
-        """Return whether the rule awarded any points."""
         return self.points > 0
+
+    @property
+    def is_applicable(self) -> bool:
+        """Return whether this rule had enough data to evaluate."""
+
+        return self.status is not RuleStatus.UNKNOWN
 
 
 @dataclass(frozen=True, slots=True)
 class ScoreResult:
-    """Combined output from multiple scoring rules.
-
-    The confidence value is calculated from awarded points relative to the
-    maximum available points:
-
-        confidence = total / maximum * 100
-
-    Attributes:
-        items:
-            Individual rule results.
-
-        total:
-            Total awarded points.
-
-        maximum:
-            Total available points.
-
-        confidence:
-            Normalized score from 0.0 to 100.0.
-    """
+    """Combined output from multiple scoring rules."""
 
     items: tuple[ScoreItem, ...] = field(default_factory=tuple)
 
@@ -111,12 +123,14 @@ class ScoreResult:
     confidence: float = field(init=False)
 
     def __post_init__(self) -> None:
-        """Convert items to a tuple and calculate score totals."""
         items = tuple(self.items)
+        applicable = tuple(
+            item for item in items
+            if item.is_applicable
+        )
 
-        total = sum(item.points for item in items)
-        maximum = sum(item.maximum for item in items)
-
+        total = sum(item.points for item in applicable)
+        maximum = sum(item.maximum for item in applicable)
         confidence = (
             total / maximum * 100.0
             if maximum > 0
@@ -132,40 +146,50 @@ class ScoreResult:
     def from_items(
         cls,
         items: Iterable[ScoreItem],
-    ) -> ScoreResult:
-        """Create a score result from any iterable of score items."""
+    ) -> "ScoreResult":
         return cls(items=tuple(items))
 
     @property
     def is_empty(self) -> bool:
-        """Return whether the result contains no scoring items."""
         return not self.items
 
     @property
     def reasons(self) -> tuple[str, ...]:
-        """Return human-readable explanations in rule order."""
         return tuple(item.reason for item in self.items)
 
     @property
     def matched_rules(self) -> tuple[str, ...]:
-        """Return identifiers of rules that awarded points."""
         return tuple(
             item.rule
             for item in self.items
-            if item.has_points
+            if item.status is RuleStatus.MATCH
         )
 
     @property
     def full_match_rules(self) -> tuple[str, ...]:
-        """Return identifiers of rules that awarded maximum points."""
         return tuple(
             item.rule
             for item in self.items
             if item.is_full_match
         )
 
+    @property
+    def unknown_rules(self) -> tuple[str, ...]:
+        return tuple(
+            item.rule
+            for item in self.items
+            if item.status is RuleStatus.UNKNOWN
+        )
+
+    @property
+    def conflict_rules(self) -> tuple[str, ...]:
+        return tuple(
+            item.rule
+            for item in self.items
+            if item.status is RuleStatus.CONFLICT
+        )
+
     def get_item(self, rule: str) -> ScoreItem | None:
-        """Return the item for a rule identifier, when present."""
         normalized_rule = rule.strip().upper()
 
         for item in self.items:

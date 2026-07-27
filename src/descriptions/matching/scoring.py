@@ -12,7 +12,11 @@ from src.descriptions.matching.models import (
     DescriptionProduct,
     SupplierProduct,
 )
-from src.descriptions.matching.rules import score_model_code
+from src.descriptions.matching.rules import (
+    score_model_code,
+    score_producer,
+    score_series,
+)
 from src.descriptions.matching.score_models import (
     ScoreItem,
     ScoreResult,
@@ -27,6 +31,8 @@ ScoringRule = Callable[
 
 DEFAULT_RULES: tuple[ScoringRule, ...] = (
     score_model_code,
+    score_series,
+    score_producer,
 )
 
 

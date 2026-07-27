@@ -11,9 +11,12 @@ from src.descriptions.matching.scoring import (
 )
 
 
-def test_default_rules_contain_model_code_rule() -> None:
-    assert len(DEFAULT_RULES) == 1
+def test_default_rules_contain_all_default_rules() -> None:
+    assert len(DEFAULT_RULES) == 3
+
     assert DEFAULT_RULES[0].__name__ == "score_model_code"
+    assert DEFAULT_RULES[1].__name__ == "score_series"
+    assert DEFAULT_RULES[2].__name__ == "score_producer"
 
 
 def test_calculate_score_executes_default_rules() -> None:
@@ -27,11 +30,15 @@ def test_calculate_score_executes_default_rules() -> None:
 
     result = calculate_score(description, supplier)
 
-    assert len(result.items) == 1
+    assert len(result.items) == 3
+
     assert result.items[0].rule == "MODEL_CODE"
-    assert result.total == 50.0
-    assert result.maximum == 50.0
-    assert result.confidence == 100.0
+    assert result.items[1].rule == "SERIES"
+    assert result.items[2].rule == "PRODUCER"
+
+    assert result.total == 70.0
+    assert result.maximum == 75.0
+    assert result.confidence == 70.0 / 75.0 * 100
 
 
 def test_calculate_score_returns_zero_for_non_match() -> None:
@@ -46,7 +53,7 @@ def test_calculate_score_returns_zero_for_non_match() -> None:
     result = calculate_score(description, supplier)
 
     assert result.total == 0.0
-    assert result.maximum == 50.0
+    assert result.maximum == 75.0
     assert result.confidence == 0.0
 
 

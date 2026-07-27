@@ -14,8 +14,10 @@ from src.descriptions.matching.normalizer import (
     compact_match_text,
     normalize_product_name,
 )
-from src.descriptions.matching.score_models import ScoreItem
-
+from src.descriptions.matching.score_models import (
+    RuleStatus,
+    ScoreItem,
+)
 
 RULE_NAME = "MODEL_CODE"
 MAXIMUM_POINTS = 50.0
@@ -93,6 +95,7 @@ def score_model_code(
             rule=RULE_NAME,
             points=0,
             maximum=MAXIMUM_POINTS,
+            status=RuleStatus.UNKNOWN,
             reason="Description does not contain a model code",
         )
 
@@ -101,6 +104,7 @@ def score_model_code(
             rule=RULE_NAME,
             points=0,
             maximum=MAXIMUM_POINTS,
+            status=RuleStatus.UNKNOWN,
             reason="Supplier product does not contain comparison text",
         )
 
@@ -112,9 +116,8 @@ def score_model_code(
                 rule=RULE_NAME,
                 points=MAXIMUM_POINTS,
                 maximum=MAXIMUM_POINTS,
-                reason=(
-                    "Model code matches the complete supplier product name"
-                ),
+                status=RuleStatus.MATCH,
+                reason="Model code matches the complete supplier product name",
             )
 
         if model_code in supplier_compact:
@@ -122,6 +125,7 @@ def score_model_code(
                 rule=RULE_NAME,
                 points=MAXIMUM_POINTS,
                 maximum=MAXIMUM_POINTS,
+                status=RuleStatus.MATCH,
                 reason=f"Model code matches: {model_code}",
             )
 
@@ -129,5 +133,6 @@ def score_model_code(
         rule=RULE_NAME,
         points=0,
         maximum=MAXIMUM_POINTS,
+        status=RuleStatus.NO_MATCH,
         reason="Model code did not match",
     )

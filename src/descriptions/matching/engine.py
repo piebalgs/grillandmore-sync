@@ -1,12 +1,20 @@
-"""First complete orchestration layer for product matching.
+"""Complete orchestration layer for explainable product matching.
+
+The matching engine is evidence-based:
+
+- rules evaluate only information that is available;
+- missing information is neutral and must not count against a candidate;
+- contradictory information may reduce confidence;
+- every rule contributes an explainable piece of evidence;
+- the decision engine assigns the final AUTO / REVIEW / UNMATCHED status.
 
 This module connects the existing matching components:
 
-1. score every supplier product against one Weber description;
+1. score every supplier product against one description;
 2. discard candidates below the configured minimum confidence;
-3. sort candidates from strongest to weakest;
-4. keep only the requested number of candidates;
-5. ask the decision engine for the final AUTO / REVIEW / UNMATCHED status.
+3. sort candidates deterministically from strongest to weakest;
+4. optionally keep only the requested number of candidates;
+5. ask the decision engine for the final status.
 
 The module intentionally contains no product-specific comparison rules.
 Those remain in ``scoring.py`` and ``matching.rules``.
@@ -37,22 +45,28 @@ class MatchingEngineConfig:
     Attributes:
         candidate_limit:
             Maximum number of ranked candidates retained in the result.
+            ``None`` keeps every retained candidate.
 
         minimum_confidence:
             Candidates below this confidence are discarded. The decision
             engine still decides whether retained candidates qualify for
-            AUTO or REVIEW.
+            AUTO, REVIEW or UNMATCHED.
     """
 
-    candidate_limit: int = 5
+    candidate_limit: int | None = None
     minimum_confidence: float = 0.0
 
     def __post_init__(self) -> None:
-        candidate_limit = int(self.candidate_limit)
+        candidate_limit = self.candidate_limit
         minimum_confidence = float(self.minimum_confidence)
 
-        if candidate_limit <= 0:
-            raise ValueError("candidate_limit must be greater than 0")
+        if candidate_limit is not None:
+            candidate_limit = int(candidate_limit)
+
+            if candidate_limit <= 0:
+                raise ValueError(
+                    "candidate_limit must be greater than 0 or None"
+                )
 
         if not 0.0 <= minimum_confidence <= 100.0:
             raise ValueError(
@@ -68,7 +82,7 @@ class MatchingEngineConfig:
 
 
 class MatchingEngine:
-    """Match Weber description records to supplier products."""
+    """Match description records to supplier products."""
 
     def __init__(
         self,
@@ -130,6 +144,9 @@ class MatchingEngine:
             ),
         )
 
+        if self.config.candidate_limit is None:
+            return tuple(ranked)
+
         return tuple(ranked[: self.config.candidate_limit])
 
     def match_one(
@@ -137,7 +154,7 @@ class MatchingEngine:
         description: DescriptionProduct,
         suppliers: Iterable[SupplierProduct],
     ) -> MatchResult:
-        """Match one Weber description to a supplier-product collection."""
+        """Match one description to a supplier-product collection."""
 
         candidates = self.rank_candidates(
             description,

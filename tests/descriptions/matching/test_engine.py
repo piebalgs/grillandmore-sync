@@ -81,6 +81,32 @@ def test_rank_candidates_orders_highest_confidence_first():
     ]
 
 
+def test_rank_candidates_keeps_all_candidates_by_default():
+    engine = MatchingEngine(rules=(score_from_sku,))
+
+    ranked = engine.rank_candidates(
+        make_description(),
+        (
+            make_supplier("LOW"),
+            make_supplier("BEST"),
+            make_supplier("REVIEW"),
+            make_supplier("ZERO"),
+            make_supplier("OTHER"),
+            make_supplier("ANOTHER"),
+        ),
+    )
+
+    assert len(ranked) == 6
+    assert {item.supplier.sku for item in ranked} == {
+        "LOW",
+        "BEST",
+        "REVIEW",
+        "ZERO",
+        "OTHER",
+        "ANOTHER",
+    }
+
+
 def test_rank_candidates_respects_candidate_limit():
     engine = MatchingEngine(
         config=MatchingEngineConfig(candidate_limit=2),

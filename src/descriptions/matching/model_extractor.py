@@ -73,16 +73,28 @@ def extract_model(text: str) -> str:
         return model
 
     match = _SPIRIT_MODEL_RE.search(value)
+
     if match:
         variant = match.group(1).upper()
         number = match.group(2).upper()
-        return f"SPIRIT {variant}-{number}"
+        model = f"SPIRIT {variant}-{number}"
+
+        if re.search(r"\bSTEALTH\b", upper_value):
+            model += " STEALTH"
+
+        return model
 
     match = _GENESIS_MODEL_RE.search(value)
+
     if match:
         variant = match.group(1).upper()
         number = match.group(2).upper()
-        return f"GENESIS {variant}-{number}"
+        model = f"GENESIS {variant}-{number}"
+
+        if re.search(r"\bSTEALTH\b", upper_value):
+            model += " STEALTH"
+
+        return model
 
     match = _SUMMIT_MODEL_RE.search(value)
     if match:

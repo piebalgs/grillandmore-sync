@@ -171,3 +171,40 @@ def test_extract_model_from_texts_prefers_more_precise_q_variant():
 )
 def test_extract_named_portable_models(text, expected):
     assert extract_model(text) == expected
+def test_extract_spirit_e_325_stealth():
+    assert (
+        extract_model("Spirit® E-325 Stealth® Edition Gas Grill")
+        == "SPIRIT E-325 STEALTH"
+    )
+
+
+def test_extract_spirit_e_425c_stealth():
+    assert (
+        extract_model("Spirit® E-425C Stealth® Edition Gas Grill")
+        == "SPIRIT E-425C STEALTH"
+    )
+
+
+def test_extract_spirit_epx_435r_stealth():
+    assert (
+        extract_model(
+            "Spirit® EPX-435R Stealth® Edition Smart Gas Grill"
+        )
+        == "SPIRIT EPX-435R STEALTH"
+    )
+
+
+def test_extract_genesis_e_330wr_stealth():
+    assert (
+        extract_model(
+            "Genesis® E-330WR Stealth® Edition Gas Grill"
+        )
+        == "GENESIS E-330WR STEALTH"
+    )
+
+
+def test_regular_spirit_model_does_not_gain_stealth():
+    assert (
+        extract_model("Spirit® E-325 Gas Grill")
+        == "SPIRIT E-325"
+    )

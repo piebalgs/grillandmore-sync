@@ -141,3 +141,14 @@ def test_extract_model_from_texts_does_not_replace_different_model():
         == "Q1200N"
     )
 
+def test_extract_model_from_texts_prefers_more_precise_q_variant():
+    assert (
+        extract_model_from_texts(
+            "Weber Q 3200 w/cart Gas Grill",
+            (
+                "Enjoy the ultimate backyard grilling experience "
+                "with the powerful Q3200N+ Gas Grill with Premium Cart."
+            ),
+        )
+        == "Q3200N+"
+    )

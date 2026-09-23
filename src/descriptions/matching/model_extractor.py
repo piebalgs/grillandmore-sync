@@ -87,10 +87,11 @@ def extract_model_from_texts(*texts: str) -> str:
     """Extract the best model found across several text fields.
 
     The first detected model remains authoritative unless a later field
-    contains the '+' variant of the exact same base model.
+    contains a more precise Q-series variant of the same base model.
 
-    Example:
+    Examples:
         Q2800N + Q2800N+ -> Q2800N+
+        Q3200  + Q3200N+ -> Q3200N+
         Q1200N + Q2200N  -> Q1200N
     """
     models = [
@@ -104,11 +105,15 @@ def extract_model_from_texts(*texts: str) -> str:
 
     primary = models[0]
 
-    if primary.startswith("Q") and not primary.endswith("+"):
-        plus_variant = f"{primary}+"
+    if not primary.startswith("Q"):
+        return primary
 
-        if plus_variant in models[1:]:
-            return plus_variant
+    for candidate in models[1:]:
+        if (
+            candidate.startswith(primary)
+            and len(candidate) > len(primary)
+        ):
+            return candidate
 
     return primary
 

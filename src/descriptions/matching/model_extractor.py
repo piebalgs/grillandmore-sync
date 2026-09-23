@@ -84,13 +84,33 @@ def extract_model(text: str) -> str:
 
 
 def extract_model_from_texts(*texts: str) -> str:
-    """Return the first model found across several text fields."""
-    for text in texts:
-        model = extract_model(text)
-        if model:
-            return model
+    """Extract the best model found across several text fields.
 
-    return ""
+    The first detected model remains authoritative unless a later field
+    contains the '+' variant of the exact same base model.
+
+    Example:
+        Q2800N + Q2800N+ -> Q2800N+
+        Q1200N + Q2200N  -> Q1200N
+    """
+    models = [
+        model
+        for text in texts
+        if (model := extract_model(text))
+    ]
+
+    if not models:
+        return ""
+
+    primary = models[0]
+
+    if primary.startswith("Q") and not primary.endswith("+"):
+        plus_variant = f"{primary}+"
+
+        if plus_variant in models[1:]:
+            return plus_variant
+
+    return primary
 
 
 def _normalize_input(text: str) -> str:

@@ -120,7 +120,24 @@ def test_extract_model_from_texts_can_use_description():
             "Weber Q 2800N w/cart Gas Grill",
             "Experience new possibilities with the Q2800N+ Gas Grill.",
         )
-        == "Q2800N"
+        == "Q2800N+"
+    )
+def test_extract_model_from_texts_prefers_plus_variant_of_same_model():
+    assert (
+        extract_model_from_texts(
+            "Weber Q 2800N w/cart Gas Grill",
+            "Experience new possibilities with the Q2800N+ Gas Grill.",
+        )
+        == "Q2800N+"
     )
 
+
+def test_extract_model_from_texts_does_not_replace_different_model():
+    assert (
+        extract_model_from_texts(
+            "Weber Q 1200N Gas Grill",
+            "Accessory also compatible with Weber Q2200N.",
+        )
+        == "Q1200N"
+    )
 

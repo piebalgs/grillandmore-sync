@@ -55,6 +55,16 @@ def extract_model(text: str) -> str:
 
     value = _normalize_input(text)
 
+    upper_value = value.upper()
+
+    if re.search(r"\bTRAVELER\s+COMPACT\b", upper_value):
+        return "TRAVELER COMPACT"
+
+    if re.search(r"\bTRAVELER\b", upper_value):
+        return "TRAVELER"
+
+    if re.search(r"\bGO[-\s]ANYWHERE\b", upper_value):
+        return "GO-ANYWHERE"
     match = _Q_MODEL_RE.search(value)
     if match:
         model = f"Q{match.group(1).upper()}"

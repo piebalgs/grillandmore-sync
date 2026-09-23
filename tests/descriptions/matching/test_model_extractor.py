@@ -152,3 +152,22 @@ def test_extract_model_from_texts_prefers_more_precise_q_variant():
         )
         == "Q3200N+"
     )
+@pytest.mark.parametrize(
+    ("text", "expected"),
+    [
+        (
+            "Weber Traveler® Compact Gas Grill",
+            "TRAVELER COMPACT",
+        ),
+        (
+            "Weber Traveler® Gas Grill",
+            "TRAVELER",
+        ),
+        (
+            "Go-Anywhere Gas Grill",
+            "GO-ANYWHERE",
+        ),
+    ],
+)
+def test_extract_named_portable_models(text, expected):
+    assert extract_model(text) == expected

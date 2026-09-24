@@ -65,3 +65,14 @@ def test_non_genesis_w_model_is_not_modified():
 
 def test_empty_model_returns_empty_tuple():
     assert get_model_match_keys("") == ()
+def test_q3200n_plus_can_fall_back_to_q3200n():
+    assert get_model_match_keys("Q3200N+") == (
+        "Q3200N+",
+        "Q3200N",
+    )
+
+
+def test_q2800n_plus_does_not_use_q3200_fallback():
+    assert get_model_match_keys("Q2800N+") == (
+        "Q2800N+",
+    )

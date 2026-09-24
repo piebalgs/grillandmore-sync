@@ -33,4 +33,7 @@ def get_model_match_keys(model: str) -> tuple[str, ...]:
         if fallback:
             keys.append(fallback)
 
+    if model == "Q3200N+":
+        keys.append("Q3200N")
+
     return tuple(keys)

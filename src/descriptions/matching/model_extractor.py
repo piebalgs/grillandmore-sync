@@ -61,7 +61,11 @@ def extract_model(text: str) -> str:
         return "TRAVELER COMPACT"
 
     if re.search(r"\bTRAVELER\b", upper_value):
+        if re.search(r"\bSTEALTH\b", upper_value):
+            return "TRAVELER STEALTH"
+
         return "TRAVELER"
+
 
     if re.search(r"\bGO[-\s]ANYWHERE\b", upper_value):
         return "GO-ANYWHERE"

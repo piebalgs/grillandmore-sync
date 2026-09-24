@@ -208,3 +208,15 @@ def test_regular_spirit_model_does_not_gain_stealth():
         extract_model("Spirit® E-325 Gas Grill")
         == "SPIRIT E-325"
     )
+def test_extracts_traveler_stealth_variant():
+    assert (
+        extract_model("Gāzes grils Weber Traveler LP Stealth")
+        == "TRAVELER STEALTH"
+    )
+
+
+def test_plain_traveler_remains_plain_traveler():
+    assert (
+        extract_model("Gāzes grils Weber Traveler")
+        == "TRAVELER"
+    )

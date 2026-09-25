@@ -1,9 +1,9 @@
-#!/usr/bin/env python3
 """Centralizēta GrillAndMore projekta konfigurācija."""
 
 from __future__ import annotations
 
 import os
+
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Final
@@ -29,6 +29,7 @@ DEFAULT_RETRY_DELAYS: Final[tuple[int, ...]] = (
 
 DEFAULT_PRODUCT_UPDATE_PAUSE: Final[int] = 3
 DEFAULT_MAX_IMAGES_PER_PRODUCT: Final[int] = 10
+DEFAULT_OPENAI_TIMEOUT: Final[int] = 60
 
 
 class ConfigurationError(RuntimeError):
@@ -42,11 +43,13 @@ def project_root() -> Path:
     Paredzētā faila atrašanās vieta:
         project/src/core/config.py
     """
+
     return Path(__file__).resolve().parents[2]
 
 
 def env_file_path() -> Path:
     """Atgriež projekta .env faila ceļu."""
+
     return project_root() / ".env"
 
 
@@ -57,8 +60,10 @@ def load_environment(*, override: bool = False) -> Path:
     Atgriež izmantotā .env faila ceļu arī tad,
     ja pats fails neeksistē.
     """
+
     path = env_file_path()
     load_dotenv(path, override=override)
+
     return path
 
 
@@ -69,6 +74,7 @@ def _get_text(
     strip: bool = True,
 ) -> str:
     """Nolasa teksta vērtību no vides mainīgajiem."""
+
     value = os.getenv(name, default)
 
     if value is None:
@@ -88,6 +94,7 @@ def _get_compact_text(
     Tas ir īpaši noderīgi WordPress Application Password,
     kuru WordPress mēdz attēlot grupās ar atstarpēm.
     """
+
     return "".join(
         _get_text(
             name,
@@ -103,6 +110,7 @@ def _get_int(
     minimum: int | None = None,
 ) -> int:
     """Nolasa veselu skaitli un pārbauda minimālo vērtību."""
+
     raw_value = _get_text(
         name,
         default=str(default),
@@ -137,6 +145,7 @@ def _get_int_tuple(
     Piemērs .env failā:
         RETRY_DELAYS=20,45,90
     """
+
     raw_value = _get_text(name)
 
     if not raw_value:
@@ -179,6 +188,7 @@ def _get_int_set(
     minimum: int | None = None,
 ) -> frozenset[int]:
     """Nolasa ar komatiem atdalītu unikālu skaitļu kopu."""
+
     values = _get_int_tuple(
         name,
         default=tuple(sorted(default)),
@@ -202,6 +212,10 @@ class Settings:
     wp_username: str
     wp_app_password: str
 
+    openai_api_key: str
+    openai_model: str
+    openai_timeout: int
+
     retry_status_codes: frozenset[int]
     retry_delays: tuple[int, ...]
     product_update_pause: int
@@ -210,15 +224,18 @@ class Settings:
     @property
     def wordpress_media_endpoint(self) -> str:
         """WordPress Media API bāzes adrese."""
+
         return f"{self.wc_url}/wp-json/wp/v2/media"
 
     @property
     def woocommerce_products_endpoint(self) -> str:
         """WooCommerce produktu API bāzes adrese."""
+
         return f"{self.wc_url}/wp-json/wc/v3/products"
 
     def missing_woocommerce_values(self) -> tuple[str, ...]:
         """Atgriež trūkstošos WooCommerce laukus."""
+
         missing: list[str] = []
 
         if not self.wc_url:
@@ -234,6 +251,7 @@ class Settings:
 
     def missing_wordpress_values(self) -> tuple[str, ...]:
         """Atgriež trūkstošos WordPress laukus."""
+
         missing: list[str] = []
 
         if not self.wp_username:
@@ -244,8 +262,22 @@ class Settings:
 
         return tuple(missing)
 
+    def missing_openai_values(self) -> tuple[str, ...]:
+        """Atgriež trūkstošos OpenAI konfigurācijas laukus."""
+
+        missing: list[str] = []
+
+        if not self.openai_api_key:
+            missing.append("OPENAI_API_KEY")
+
+        if not self.openai_model:
+            missing.append("OPENAI_MODEL")
+
+        return tuple(missing)
+
     def missing_image_sync_values(self) -> tuple[str, ...]:
         """Atgriež visus Image Sync darbam nepieciešamos laukus."""
+
         return (
             self.missing_woocommerce_values()
             + self.missing_wordpress_values()
@@ -253,6 +285,7 @@ class Settings:
 
     def validate_woocommerce(self) -> None:
         """Pārbauda WooCommerce API konfigurāciju."""
+
         missing = self.missing_woocommerce_values()
 
         if missing:
@@ -263,7 +296,19 @@ class Settings:
 
     def validate_wordpress(self) -> None:
         """Pārbauda WordPress Media API konfigurāciju."""
+
         missing = self.missing_wordpress_values()
+
+        if missing:
+            raise ConfigurationError(
+                ".env failā trūkst: "
+                + ", ".join(missing)
+            )
+
+    def validate_openai(self) -> None:
+        """Pārbauda OpenAI API konfigurāciju."""
+
+        missing = self.missing_openai_values()
 
         if missing:
             raise ConfigurationError(
@@ -273,6 +318,7 @@ class Settings:
 
     def validate_image_sync(self) -> None:
         """Pārbauda visu Image Sync konfigurāciju."""
+
         missing = self.missing_image_sync_values()
 
         if missing:
@@ -292,9 +338,11 @@ def create_settings(
     reload_env=True ļauj testos atkārtoti ielādēt
     .env faila vērtības.
     """
+
     env_path = load_environment(
         override=reload_env,
     )
+
     root = project_root()
 
     return Settings(
@@ -312,6 +360,17 @@ def create_settings(
         ),
         wp_app_password=_get_compact_text(
             "WP_APP_PASSWORD"
+        ),
+        openai_api_key=_get_text(
+            "OPENAI_API_KEY"
+        ),
+        openai_model=_get_text(
+            "OPENAI_MODEL"
+        ),
+        openai_timeout=_get_int(
+            "OPENAI_TIMEOUT",
+            default=DEFAULT_OPENAI_TIMEOUT,
+            minimum=1,
         ),
         retry_status_codes=_get_int_set(
             "RETRY_STATUS_CODES",

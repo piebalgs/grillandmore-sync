@@ -14,7 +14,7 @@ from src.core.config import (
 def clean_environment(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
-    """Remove configuration values relevant to these tests."""
+    """Remove test configuration and prevent loading the real .env file."""
 
     names = (
         "WC_URL",
@@ -29,6 +29,11 @@ def clean_environment(
 
     for name in names:
         monkeypatch.delenv(name, raising=False)
+
+    monkeypatch.setattr(
+        "src.core.config.load_dotenv",
+        lambda *args, **kwargs: False,
+    )
 
 
 def test_openai_settings_are_loaded(

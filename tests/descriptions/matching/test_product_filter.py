@@ -74,3 +74,24 @@ def test_latvian_cover_is_not_grill_candidate():
     }
 
     assert is_grill_candidate(product) is False
+
+
+def test_weber_accessory_in_generic_gas_category_is_not_grill_candidate():
+    product = {
+        "sku": "3400866",
+        "name": "WEBER cepšanas panna Q 1100N/Q 1200N griliem",
+        "categories": [
+            {
+                "id": 471,
+                "name": "Aksesuāri",
+                "slug": "aksesuari",
+            },
+            {
+                "id": 422,
+                "name": "Gāzes grili",
+                "slug": "gazes-grili",
+            },
+        ],
+    }
+
+    assert is_grill_candidate(product) is False

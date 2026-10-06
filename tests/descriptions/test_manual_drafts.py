@@ -28,3 +28,16 @@ def test_repository_rejects_unknown_import_id() -> None:
         match="UNKNOWN_PRODUCT",
     ):
         repository.get("UNKNOWN_PRODUCT")
+def test_repository_can_translate_context_by_import_id() -> None:
+    repository = ManualDraftRepository()
+
+    class Product:
+        import_id = "WEBERQ_1200N_BL"
+
+    class Context:
+        product = Product()
+
+    draft = repository.translate(Context())
+
+    assert isinstance(draft, TranslationDraft)
+    assert draft.title == "Weber Q 1200N gāzes grils"

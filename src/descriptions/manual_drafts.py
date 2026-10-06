@@ -75,3 +75,6 @@ class ManualDraftRepository:
             raise ManualDraftNotFoundError(
                 f"Nav apstiprināta manuālā apraksta produktam {import_id}."
             ) from exc
+    def translate(self, context) -> TranslationDraft:
+        """Return an approved manual draft for a translation context."""
+        return self.get(context.product.import_id)

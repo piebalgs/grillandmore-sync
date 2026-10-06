@@ -338,3 +338,112 @@ def test_missing_woo_target_stops_before_description_generation():
 
     assert context_builder.calls == 0
     assert translator.calls == 0
+def test_q1200n_manual_draft_runs_real_pipeline_for_both_targets_in_dry_run():
+    from src.descriptions.manual_drafts import ManualDraftRepository
+
+    source = ProductDescription(
+        sku="WEBERQ_1200N_BL",
+        import_id="WEBERQ_1200N_BL",
+        title="Weber Q 1200N Gas Grill",
+        source_description=(
+            "The high-efficiency burner and porcelain-enameled cast-iron "
+            "grates ensure your food cooks evenly, delivering delicious "
+            "results every time. With 46% more space under the high-dome "
+            "lid than previous models, you get a large roasting capacity."
+        ),
+        sales_arguments=(
+            "Compact and lightweight design fits nicely in small spaces",
+            "Large grilling surface accommodates up to 9 burgers",
+            "High-dome lid allows more capacity for larger roasts",
+            "High-efficiency burner delivers fast, consistent high heat",
+            "Porcelain-enameled cast-iron grates retain heat for searing",
+            "Side tables add surface space, detach and stow within the cradle",
+            "Front-facing grease tray enables quick and easy grease disposal",
+            "Built-in lid thermometer displays temperature clearly",
+            "Upgraded electronic ignition lights quickly with a single press",
+        ),
+        specifications={
+            "grate_size": "49 x 38 cm",
+            "grate_shape": "SQUARE",
+            "color": "Black",
+            "dimensions_open_lid": "64 x 56 x 105 cm",
+            "dimensions_closed_lid": "38 x 46 x 105 cm",
+            "net_weight": "11 kg",
+            "guarantee": "5_L",
+            "hamburger_capacity": "6",
+        },
+    )
+
+    woo_products = (
+        {
+            "id": 201,
+            "sku": "1501071",
+            "name": "Gāzes grils Weber Q1200N",
+            "description": "",
+            "short_description": "",
+            "meta_data": [],
+            "categories": [{"id": 422}, {"id": 247}],
+        },
+        {
+            "id": 202,
+            "sku": "1501086",
+            "name": "Gāzes grils Weber Q1200N ar statīvu",
+            "description": "",
+            "short_description": "",
+            "meta_data": [],
+            "categories": [{"id": 422}, {"id": 247}],
+        },
+    )
+
+    products_by_sku = {
+        product["sku"]: product
+        for product in woo_products
+    }
+
+    writer_calls = []
+
+    def forbidden_writer(product_id, payload):
+        writer_calls.append((product_id, payload))
+        raise AssertionError(
+            "DRY RUN laikā WooCommerce rakstīšana nedrīkst notikt."
+        )
+
+    updater = ProductUpdater(
+        config=ProductUpdaterConfig(
+            dry_run=True,
+            update_title=False,
+        ),
+        product_loader=lambda sku: products_by_sku.get(sku),
+        product_writer=forbidden_writer,
+    )
+
+    orchestrator = GrillDescriptionOrchestrator(
+        translator=ManualDraftRepository(),
+        updater=updater,
+    )
+
+    result = orchestrator.process(
+        product=source,
+        woo_products=woo_products,
+    )
+
+    assert result.draft.title == "Weber Q 1200N gāzes grils"
+    assert "līdz 9 burgeriem" in result.draft.introduction
+    assert "hamburger_capacity" not in result.draft.specifications_summary
+
+    assert result.quality.passed is True
+
+    assert tuple(
+        update.sku
+        for update in result.updates
+    ) == (
+        "1501071",
+        "1501086",
+    )
+
+    assert all(
+        update.status is UpdateStatus.DRY_RUN
+        for update in result.updates
+    )
+
+    assert writer_calls == []

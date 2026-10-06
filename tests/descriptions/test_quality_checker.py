@@ -21,6 +21,7 @@ from src.descriptions.models import (
     TranslationContext,
     TranslationDraft,
 )
+from src.descriptions.formatter import ProductFormatter
 from src.descriptions.quality_checker import (
     DEFAULT_RULES,
     QualityChecker,
@@ -1544,3 +1545,141 @@ def test_sentence_length_checks_benefit_items():
     )
 
     assert check.passed is False
+
+def test_q1200n_manual_draft_passes_formatter_and_quality_checker():
+    context = make_context(
+        product=ProductContext(
+            sku="WEBERQ_1200N_BL",
+            import_id="WEBERQ_1200N_BL",
+            brand="Weber",
+            product_name="Weber Q 1200N Gas Grill",
+            category=ProductCategory.GAS_GRILL,
+            glossary_terms=(
+                GlossaryMatch(
+                    source="porcelain-enameled cast-iron grates",
+                    target="porcelāna emaljētas čuguna restes",
+                ),
+                GlossaryMatch(
+                    source="built-in lid thermometer",
+                    target="vākā iebūvēts termometrs",
+                ),
+                GlossaryMatch(
+                    source="high-dome lid",
+                    target="augsts kupolveida vāks",
+                ),
+                GlossaryMatch(
+                    source="side tables",
+                    target="sānu galdiņi",
+                ),
+                GlossaryMatch(
+                    source="gas grill",
+                    target="gāzes grils",
+                ),
+            ),
+            knowledge_keys=(),
+            sections=(
+                SectionId.INTRODUCTION,
+                SectionId.BENEFITS,
+                SectionId.SUITABILITY,
+                SectionId.SPECIFICATIONS,
+            ),
+            warnings=(),
+            metadata={},
+        ),
+        source_description=(
+            "The high-efficiency burner and porcelain-enameled cast-iron "
+            "grates ensure your food cooks evenly, delivering delicious "
+            "results every time. With 46% more space under the high-dome "
+            "lid than previous models, you get a large roasting capacity."
+        ),
+        source_sales_arguments=(
+            "Compact and lightweight design fits nicely in small spaces",
+            "Large grilling surface accommodates up to 9 burgers",
+            "High-dome lid allows more capacity for larger roasts",
+            "High-efficiency burner delivers fast, consistent high heat",
+            "Porcelain-enameled cast-iron grates retain heat for searing",
+            "Side tables add surface space, detach and stow within the cradle",
+            "Front-facing grease tray enables quick and easy grease disposal",
+            "Built-in lid thermometer displays temperature clearly",
+            "Upgraded electronic ignition lights quickly with a single press",
+        ),
+        source_specifications={
+            "grate_size": "49 x 38 cm",
+            "grate_shape": "SQUARE",
+            "color": "Black",
+            "dimensions_open_lid": "64 x 56 x 105 cm",
+            "dimensions_closed_lid": "38 x 46 x 105 cm",
+            "net_weight": "11 kg",
+            "guarantee": "5_L",
+            "hamburger_capacity": "6",
+        },
+        translated_specifications={
+            "grate_size": ("Grilēšanas restes", "49 x 38 cm"),
+            "grate_shape": ("Restu forma", "kvadrātveida"),
+            "color": ("Krāsa", "melna"),
+            "dimensions_open_lid": (
+                "Izmēri ar atvērtu vāku",
+                "64 x 56 x 105 cm",
+            ),
+            "dimensions_closed_lid": (
+                "Izmēri ar aizvērtu vāku",
+                "38 x 46 x 105 cm",
+            ),
+            "net_weight": ("Neto svars", "11 kg"),
+            "guarantee": ("Garantija", "5 gadi"),
+        },
+    )
+
+    draft = TranslationDraft(
+        title="Weber Q 1200N gāzes grils",
+        introduction=(
+            "Weber Q 1200N ir kompakts un viegls gāzes grils, kas nodrošina "
+            "pietiekami plašu grilēšanas virsmu līdz 9 burgeriem. Augsts "
+            "kupolveida vāks palielina vietu zem vāka, tāpēc grilā iespējams "
+            "gatavot arī lielākus cepešus. Efektīvais deglis un porcelāna "
+            "emaljētas čuguna restes palīdz nodrošināt vienmērīgu karstumu "
+            "un paredzamu gatavošanas rezultātu."
+        ),
+        benefits=(
+            "Plaša grilēšanas virsma ļauj vienlaikus pagatavot līdz 9 burgeriem.",
+            "Augsts kupolveida vāks nodrošina vairāk vietas lielāku cepešu gatavošanai.",
+            "Efektīvais deglis nodrošina ātru un vienmērīgu augstu karstumu.",
+            "Porcelāna emaljētas čuguna restes labi saglabā karstumu apbrūnināšanai.",
+            "Noņemamie sānu galdiņi nodrošina papildu darba virsmu un ir ievietojami grila pamatnē uzglabāšanai.",
+            "Priekšpusē novietotā tauku savākšanas paplāte atvieglo tās izņemšanu un tīrīšanu.",
+            "Vākā iebūvēts termometrs ļauj ērti sekot temperatūrai.",
+            "Elektroniskā aizdedze ļauj degli iedegt ar vienu pogas nospiešanu.",
+        ),
+        technologies=(),
+        suitability=(
+            "Kompaktais un vieglais Weber Q 1200N ir piemērots vietām, kur "
+            "svarīgi taupīgi izmantot pieejamo platību. Sānu rokturi atvieglo "
+            "grila pārvietošanu, bet noņemamie sānu galdiņi nodrošina papildu "
+            "darba vietu gatavošanas laikā."
+        ),
+        specifications_summary=(
+            "Grilēšanas restes: 49 x 38 cm. Restu forma: kvadrātveida. "
+            "Krāsa: melna. Izmēri ar atvērtu vāku: 64 x 56 x 105 cm. "
+            "Izmēri ar aizvērtu vāku: 38 x 46 x 105 cm. "
+            "Neto svars: 11 kg. Garantija: 5 gadi."
+        ),
+        conclusion=(
+            "Weber Q 1200N apvieno kompaktus izmērus ar praktisku grilēšanas "
+            "virsmu un funkcijām ērtai ikdienas gatavošanai."
+        ),
+        used_knowledge_keys=(),
+        warnings=(),
+        metadata={},
+    )
+
+    product = ProductFormatter().format(
+        context=context,
+        draft=draft,
+    )
+    report = QualityChecker().check(
+        context=context,
+        draft=draft,
+        product=product,
+    )
+
+    assert report.passed is True, format_quality_report(report)

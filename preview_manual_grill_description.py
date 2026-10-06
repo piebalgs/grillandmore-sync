@@ -2,12 +2,31 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
+from typing import Any
+
 from src.descriptions.grill_description_orchestrator import (
+    GrillDescriptionOrchestrator,
     GrillDescriptionResult,
 )
+from src.descriptions.parser import ProductDescription
 
 
 SEPARATOR = "=" * 72
+
+
+def build_manual_preview(
+    *,
+    product: ProductDescription,
+    woo_products: Sequence[dict[str, Any]],
+    orchestrator: GrillDescriptionOrchestrator,
+) -> GrillDescriptionResult:
+    """Run one manually approved description through the grill pipeline."""
+
+    return orchestrator.process(
+        product=product,
+        woo_products=woo_products,
+    )
 
 
 def _status_value(status: object) -> str:

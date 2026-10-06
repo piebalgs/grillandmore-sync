@@ -364,7 +364,11 @@ class ContextBuilder:
             source_features=features,
             source_specifications=dict(product.specifications),
             translated_specifications=translate_specifications(
-                product.specifications
+                {
+                    key: value
+                    for key, value in product.specifications.items()
+                    if key != "hamburger_capacity"
+                }
             ),
             style_instructions=build_translator_instructions(),
             metadata={

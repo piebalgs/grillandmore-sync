@@ -247,3 +247,29 @@ def test_metadata_is_stable_and_useful() -> None:
         "Black",
     )
     assert context.metadata["parser_import_id"] == "demo-1"
+
+
+def test_hamburger_capacity_is_not_in_translated_specifications() -> None:
+    product = make_product(
+        specifications={
+            "barbecue_type": "GAS",
+            "hamburger_capacity": "6",
+        }
+    )
+
+    context = ContextBuilder().build(product)
+
+    assert "hamburger_capacity" not in context.translated_specifications
+
+
+def test_hamburger_capacity_remains_in_source_specifications() -> None:
+    product = make_product(
+        specifications={
+            "barbecue_type": "GAS",
+            "hamburger_capacity": "6",
+        }
+    )
+
+    context = ContextBuilder().build(product)
+
+    assert context.source_specifications["hamburger_capacity"] == "6"

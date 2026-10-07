@@ -12,31 +12,31 @@ class ManualDraftNotFoundError(LookupError):
 _Q1200N = TranslationDraft(
     title="Weber Q 1200N gāzes grils",
     introduction=(
-        "Weber Q 1200N ir kompakts un viegls gāzes grils, kas nodrošina "
-        "pietiekami plašu grilēšanas virsmu līdz 9 burgeriem. Augsts "
-        "kupolveida vāks palielina vietu zem vāka, tāpēc grilā iespējams "
-        "gatavot arī lielākus cepešus. Efektīvais deglis un porcelāna "
-        "emaljētas čuguna restes palīdz nodrošināt vienmērīgu karstumu "
-        "un paredzamu gatavošanas rezultātu."
+        "Weber Q 1200N ir kompakts un viegls gāzes grils ar pietiekami "
+        "plašu grilēšanas virsmu, lai vienlaikus pagatavotu līdz 9 "
+        "burgeriem. Augstais kupolveida vāks nodrošina vairāk vietas "
+        "lielāku cepešu gatavošanai, bet efektīvais deglis un porcelāna "
+        "emaljētās čuguna restes palīdz uzturēt vienmērīgu karstumu."
     ),
     benefits=(
-        "Plaša grilēšanas virsma ļauj vienlaikus pagatavot līdz 9 burgeriem.",
-        "Augsts kupolveida vāks nodrošina vairāk vietas lielāku cepešu "
+        "Efektīvais deglis ātri sasniedz augstu temperatūru un palīdz "
+        "uzturēt vienmērīgu karstumu.",
+        "Augstais kupolveida vāks nodrošina vairāk vietas lielāku cepešu "
         "gatavošanai.",
-        "Efektīvais deglis nodrošina ātru un vienmērīgu augstu karstumu.",
-        "Porcelāna emaljētas čuguna restes labi saglabā karstumu "
-        "apbrūnināšanai.",
+        "Porcelāna emaljētās čuguna restes labi saglabā karstumu un ir "
+        "piemērotas produktu apbrūnināšanai.",
         "Noņemamie sānu galdiņi nodrošina papildu darba virsmu un ir "
         "ievietojami grila pamatnē uzglabāšanai.",
         "Priekšpusē novietotā tauku savākšanas paplāte atvieglo tās "
         "izņemšanu un tīrīšanu.",
-        "Vākā iebūvēts termometrs ļauj ērti sekot temperatūrai.",
-        "Elektroniskā aizdedze ļauj degli iedegt ar vienu pogas nospiešanu.",
+        "Vākā iebūvētais termometrs ļauj ērti sekot temperatūrai.",
+        "Elektroniskā aizdedze ļauj degli iedegt ar vienu pogas "
+        "nospiešanu.",
     ),
     technologies=(),
     suitability=(
         "Kompaktais un vieglais Weber Q 1200N ir piemērots vietām, kur "
-        "svarīgi taupīgi izmantot pieejamo platību. Sānu rokturi atvieglo "
+        "svarīgi taupīgi izmantot pieejamo platību. Sānu rokturi atvieglo"
         "grila pārvietošanu, bet noņemamie sānu galdiņi nodrošina papildu "
         "darba vietu gatavošanas laikā."
     ),
@@ -47,8 +47,8 @@ _Q1200N = TranslationDraft(
         "Neto svars: 11 kg. Garantija: 5 gadi."
     ),
     conclusion=(
-        "Weber Q 1200N apvieno kompaktus izmērus ar praktisku grilēšanas "
-        "virsmu un funkcijām ērtai ikdienas gatavošanai."
+        "Weber Q 1200N apvieno kompaktus izmērus, praktisku grilēšanas "
+        "virsmu un ērtai ikdienas gatavošanai nepieciešamās funkcijas."
     ),
     used_knowledge_keys=(),
     warnings=(),
@@ -75,6 +75,7 @@ class ManualDraftRepository:
             raise ManualDraftNotFoundError(
                 f"Nav apstiprināta manuālā apraksta produktam {import_id}."
             ) from exc
+
     def translate(self, context) -> TranslationDraft:
         """Return an approved manual draft for a translation context."""
         return self.get(context.product.import_id)

@@ -188,6 +188,42 @@ def _truncate_at_word_boundary(
     text: str,
     max_length: int,
 ) -> str:
+    """Truncate text, preferring complete sentences when possible."""
+
+    cleaned = _normalize_text(text)
+
+    if len(cleaned) <= max_length:
+        return cleaned
+
+    if max_length == 1:
+        return "…"
+
+    available = max_length - 1
+    candidate = cleaned[: available + 1]
+
+    sentence_boundaries = (
+        candidate.rfind("."),
+        candidate.rfind("!"),
+        candidate.rfind("?"),
+    )
+    sentence_boundary = max(sentence_boundaries)
+
+    if sentence_boundary >= 0:
+        return cleaned[: sentence_boundary + 1].strip()
+
+    boundary = candidate.rfind(
+        " ",
+        0,
+        available + 1,
+    )
+
+    if boundary <= 0:
+        return cleaned[:available].rstrip() + "…"
+
+    return (
+        cleaned[:boundary].rstrip(" ,;:-")
+        + "…"
+    )
     """Truncate text without cutting a word whenever possible."""
 
     cleaned = _normalize_text(text)

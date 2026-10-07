@@ -873,7 +873,12 @@ def test_meta_description_respects_limit():
         formatted.meta_description
     ) <= 60
 
-    assert formatted.meta_description.endswith(
+    assert formatted.meta_description == (
+        "Jaudīgs un daudzpusīgs grils "
+        "ģimenes maltītēm."
+    )
+
+    assert not formatted.meta_description.endswith(
         "…"
     )
 
@@ -1353,4 +1358,48 @@ def test_weber_spirit_golden_output():
         "ģimenes maltītēm. "
         "Ātri un vienmērīgi uzkarst. "
         "Viegli tīrāms pēc gatavošanas."
+    )
+def test_short_description_prefers_complete_sentence_when_limit_exceeded():
+    formatter = ProductFormatter(
+        FormatterConfig(
+            max_short_description_length=80
+        )
+    )
+
+    formatted = formatter.format(
+        context=make_context(),
+        draft=make_draft(
+            introduction=(
+                "Šis ir pirmais pilnais teikums. "
+                "Šis ir otrais teikums, kas vairs neietilpst noteiktajā limitā."
+            ),
+            benefits=(),
+        ),
+    )
+
+    assert formatted.short_description == (
+        "<p>Šis ir pirmais pilnais teikums.</p>"
+    )
+
+
+def test_meta_description_prefers_complete_sentence_when_limit_exceeded():
+    formatter = ProductFormatter(
+        FormatterConfig(
+            max_meta_description_length=80
+        )
+    )
+
+    formatted = formatter.format(
+        context=make_context(),
+        draft=make_draft(
+            introduction=(
+                "Šis ir pirmais pilnais teikums. "
+                "Šis ir otrais teikums, kas vairs neietilpst noteiktajā limitā."
+            ),
+            benefits=(),
+        ),
+    )
+
+    assert formatted.meta_description == (
+        "Šis ir pirmais pilnais teikums."
     )

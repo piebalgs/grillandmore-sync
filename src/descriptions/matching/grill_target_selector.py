@@ -21,6 +21,41 @@ from src.descriptions.matching.model_extractor import (
 from src.descriptions.parser import ProductDescription
 
 
+def _source_requires_stand(
+    product: ProductDescription,
+) -> bool:
+    """Return whether the Weber source explicitly identifies a stand variant."""
+
+    source_text = " ".join(
+        text
+        for text in (
+            product.title,
+            product.title_line_1,
+        )
+        if text
+    ).lower()
+
+    return (
+        "w/stand" in source_text
+        or "with stand" in source_text
+    )
+
+
+def _woo_product_has_stand(
+    product: dict[str, Any],
+) -> bool:
+    """Return whether a WooCommerce product name identifies a stand variant."""
+
+    name = str(product.get("name") or "").lower()
+
+    return (
+        "ar statīvu" in name
+        or "ar stativu" in name
+        or "w/stand" in name
+        or "with stand" in name
+    )
+
+
 def select_grill_targets(
     *,
     product: ProductDescription,
@@ -31,6 +66,10 @@ def select_grill_targets(
     Model identity is extracted from the Weber title fields first.
     The source description may refine a Q-series model when it contains
     a more precise variant such as Q2800N+ or Q3200N+.
+
+    When the Weber title explicitly identifies a stand variant, only
+    WooCommerce candidates that also identify the stand variant are
+    returned.
 
     Zero, one, or multiple WooCommerce targets may be returned.
     """
@@ -48,7 +87,16 @@ def select_grill_targets(
     if not source_model:
         return ()
 
-    return select_model_candidates(
+    candidates = select_model_candidates(
         source_model,
         woo_products,
     )
+
+    if _source_requires_stand(product):
+        return tuple(
+            candidate
+            for candidate in candidates
+            if _woo_product_has_stand(candidate)
+        )
+
+    return candidates

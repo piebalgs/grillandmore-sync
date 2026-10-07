@@ -130,3 +130,66 @@ def test_select_grill_targets_returns_empty_when_source_model_is_unknown():
     )
 
     assert targets == ()
+def test_select_grill_targets_prefers_stand_variant():
+    source = ProductDescription(
+        sku="WEBERQ_S_1200N_BL",
+        import_id="WEBERQ_S_1200N_BL",
+        title="Weber Q 1200N w/stand Gas Grill",
+        title_line_1="Weber Q 1200N w/stand",
+        source_description=(
+            "Create amazing meals with the portable Q1200N Gas Grill "
+            "with Side Tables and Compact Stand."
+        ),
+    )
+
+    products = (
+        {
+            "id": 201,
+            "sku": "1501071",
+            "name": "Gāzes grils Weber Q1200N",
+            "categories": [{"id": 422}, {"id": 247}],
+        },
+        {
+            "id": 202,
+            "sku": "1501086",
+            "name": "Gāzes grils Weber Q1200N ar statīvu",
+            "categories": [{"id": 422}, {"id": 247}],
+        },
+    )
+
+    targets = select_grill_targets(
+        product=source,
+        woo_products=products,
+    )
+
+    assert tuple(target["sku"] for target in targets) == (
+        "1501086",
+    )
+
+
+def test_select_grill_targets_does_not_invent_stand_target():
+    source = ProductDescription(
+        sku="WEBERQ_S_1200N_BL",
+        import_id="WEBERQ_S_1200N_BL",
+        title="Weber Q 1200N w/stand Gas Grill",
+        title_line_1="Weber Q 1200N w/stand",
+        source_description=(
+            "Q1200N Gas Grill with Compact Stand."
+        ),
+    )
+
+    products = (
+        {
+            "id": 201,
+            "sku": "1501071",
+            "name": "Gāzes grils Weber Q1200N",
+            "categories": [{"id": 422}, {"id": 247}],
+        },
+    )
+
+    targets = select_grill_targets(
+        product=source,
+        woo_products=products,
+    )
+
+    assert targets == ()

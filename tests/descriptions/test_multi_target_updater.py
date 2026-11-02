@@ -172,3 +172,94 @@ def test_update_targets_rejects_string_as_target_skus():
             target_skus="1501071",
             updater=updater,
         )
+
+def test_update_targets_adds_stand_configuration_only_to_bundle():
+    loader = ProductLoader()
+    writer = WriterSpy()
+
+    updater = ProductUpdater(
+        config=ProductUpdaterConfig(
+            dry_run=True,
+            update_title=False,
+        ),
+        product_loader=loader,
+        product_writer=writer,
+    )
+
+    results = update_targets(
+        product=make_product(),
+        quality_report=make_quality_report(),
+        target_skus=("1501071", "1501086"),
+        updater=updater,
+    )
+
+    results_by_sku = {
+        result.sku: result
+        for result in results
+    }
+
+    regular_html = results_by_sku["1501071"].payload["description"]
+    bundle_html = results_by_sku["1501086"].payload["description"]
+
+    assert "<h2>Komplektācija</h2>" not in regular_html
+
+    assert "<h2>Komplektācija</h2>" in bundle_html
+    assert "grils un statīvs" in bundle_html
+
+    assert all(
+        result.status == UpdateStatus.DRY_RUN
+        for result in results
+    )
+
+    assert writer.calls == []
+
+def test_invalid_configuration_html_blocks_woo_update(
+    monkeypatch,
+):
+    from dataclasses import replace
+    import src.descriptions.multi_target_updater as module
+
+    loader = ProductLoader()
+    writer = WriterSpy()
+
+    updater = ProductUpdater(
+        config=ProductUpdaterConfig(
+            dry_run=False,
+            update_title=False,
+        ),
+        product_loader=loader,
+        product_writer=writer,
+    )
+
+    original_apply = module.apply_target_configuration
+
+    def invalid_configuration(*, product, target_sku):
+        configured = original_apply(
+            product=product,
+            target_sku=target_sku,
+        )
+
+        if target_sku == "1501086":
+            return replace(
+                configured,
+                description_html="<p>Neaizvērts HTML",
+            )
+
+        return configured
+
+    monkeypatch.setattr(
+        module,
+        "apply_target_configuration",
+        invalid_configuration,
+    )
+
+    with pytest.raises(ValueError):
+        module.update_targets(
+            product=make_product(),
+            quality_report=make_quality_report(),
+            target_skus=("1501086",),
+            updater=updater,
+        )
+
+    assert writer.calls == []
+

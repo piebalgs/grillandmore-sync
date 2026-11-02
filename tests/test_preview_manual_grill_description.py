@@ -212,7 +212,6 @@ def test_build_manual_preview_runs_q1200n_pipeline_without_writes() -> None:
         for update in result.updates
     ) == (
         "1501071",
-        "1501086",
     )
 
     assert all(
@@ -318,6 +317,91 @@ def test_run_q1200n_preview_loads_real_source_and_stays_dry_run(
 
     assert "Weber Q 1200N gāzes grils" in output
     assert "līdz 9 burgeriem" in output
-    assert "1501071: dry_run" in output
-    assert "1501086: dry_run" in output
+    assert "SKU: 1501071" in output
+    assert "STATUS: dry_run" in output
+    assert "SKU: 1501086" not in output
+    assert "QUALITY: PASSED" in output
+
+
+def test_run_manual_preview_selects_stand_variant(
+    tmp_path,
+    capsys,
+) -> None:
+    """Stand preview targets only the stand WooCommerce product."""
+
+    from preview_manual_grill_description import (
+        run_manual_preview,
+    )
+
+    source_file = tmp_path / "weber.csv"
+    source_file.write_text("placeholder", encoding="utf-8")
+
+    source = ProductDescription(
+        sku="WEBERQ_S_1200N_BL",
+        import_id="WEBERQ_S_1200N_BL",
+        title="Weber Q 1200N w/stand Gas Grill",
+        title_line_1="Weber Q 1200N w/stand",
+        source_description=(
+            "Q1200N Gas Grill with Compact Stand."
+        ),
+        sales_arguments=(
+            "Large grilling surface accommodates up to 9 burgers",
+            "Compact stand adds height and support, plus a storage shelf",
+        ),
+        specifications={
+            "grate_size": "49 x 38 cm",
+            "grate_shape": "SQUARE",
+            "color": "Black",
+            "dimensions_open_lid": "125 x 56 x 105 cm",
+            "dimensions_closed_lid": "99 x 46 x 105 cm",
+            "net_weight": "19 kg",
+            "guarantee": "5_L",
+            "hamburger_capacity": "6",
+        },
+    )
+
+    woo_products = [
+        {
+            "id": 201,
+            "sku": "1501071",
+            "name": "Gāzes grils Weber Q1200N",
+            "description": "",
+            "short_description": "",
+            "meta_data": [],
+            "categories": [{"id": 422}, {"id": 247}],
+        },
+        {
+            "id": 202,
+            "sku": "1501086",
+            "name": "Gāzes grils Weber Q1200N ar statīvu",
+            "description": "",
+            "short_description": "",
+            "meta_data": [],
+            "categories": [{"id": 422}, {"id": 247}],
+        },
+    ]
+
+    with (
+        patch(
+            "preview_manual_grill_description.load_weber_products",
+            return_value=[source],
+        ),
+        patch(
+            "preview_manual_grill_description.load_woo_products",
+            return_value=woo_products,
+        ),
+    ):
+        exit_code = run_manual_preview(
+            import_id="WEBERQ_S_1200N_BL",
+            source_file=source_file,
+        )
+
+    assert exit_code == 0
+
+    output = capsys.readouterr().out
+
+    assert "Weber Q 1200N gāzes grils ar statīvu" in output
+    assert "SKU: 1501086" in output
+    assert "STATUS: dry_run" in output
+    assert "SKU: 1501071" not in output
     assert "QUALITY: PASSED" in output

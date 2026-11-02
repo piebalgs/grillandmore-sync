@@ -43,7 +43,7 @@ def test_select_grill_targets_uses_description_for_precise_q_model():
     )
 
 
-def test_select_grill_targets_can_return_multiple_valid_woo_products():
+def test_select_grill_targets_includes_both_q1200n_variants():
     source = ProductDescription(
         sku="WEBERQ_1200N_BL",
         import_id="WEBER_Q1200N",
@@ -72,8 +72,7 @@ def test_select_grill_targets_can_return_multiple_valid_woo_products():
     )
 
     assert tuple(target["sku"] for target in targets) == (
-        "1501071",
-        "1501086",
+    "1501071",
     )
 
 

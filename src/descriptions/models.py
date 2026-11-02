@@ -233,6 +233,7 @@ class TranslationDraft:
     technologies: tuple[str, ...] = ()
     suitability: str = ""
     specifications_summary: str = ""
+    specifications: tuple[tuple[str, str], ...] = ()
     conclusion: str = ""
     used_knowledge_keys: tuple[str, ...] = ()
     warnings: tuple[str, ...] = ()

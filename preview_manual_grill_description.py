@@ -1,7 +1,9 @@
-"""Preview manually approved grill descriptions without WooCommerce writes."""
+
+"""Preview manual grill descriptions without WooCommerce writes."""
 
 from __future__ import annotations
 
+import argparse
 from collections.abc import Sequence
 from pathlib import Path
 from typing import Any
@@ -10,7 +12,10 @@ from src.descriptions.grill_description_orchestrator import (
     GrillDescriptionOrchestrator,
     GrillDescriptionResult,
 )
-from src.descriptions.manual_drafts import ManualDraftRepository
+from src.descriptions.manual_drafts import (
+    ManualDraftNotFoundError,
+    ManualDraftRepository,
+)
 from src.descriptions.parser import (
     ProductDescription,
     load_products as load_weber_products,
@@ -43,7 +48,7 @@ def build_manual_preview(
     woo_products: Sequence[dict[str, Any]],
     orchestrator: GrillDescriptionOrchestrator,
 ) -> GrillDescriptionResult:
-    """Run one manually approved description through the grill pipeline."""
+    """Run one manual description through the grill pipeline."""
 
     return orchestrator.process(
         product=product,
@@ -86,7 +91,7 @@ def _status_value(status: object) -> str:
 def print_preview(
     result: GrillDescriptionResult,
 ) -> None:
-    """Print the complete formatted result of one grill description."""
+    """Print the formatted description and each target's final payload."""
 
     formatted = result.formatted
 
@@ -116,9 +121,38 @@ def print_preview(
     print("-" * 72)
 
     for update in result.updates:
+        print()
+        print(f"SKU: {update.sku}")
+        print(f"STATUS: {_status_value(update.status)}")
+
+        payload = update.payload
+
+        if not isinstance(payload, dict):
+            print("PAYLOAD: nav pieejams")
+            continue
+
+        description = payload.get("description")
+
+        if description is None:
+            print(
+                "DESCRIPTION: nav izmaiņu "
+                "vai nav sagatavots"
+            )
+            continue
+
+        print()
+        print("FINAL DESCRIPTION HTML")
+        print("-" * 72)
+        print(description)
+
+        print()
         print(
-            f"{update.sku}: "
-            f"{_status_value(update.status)}"
+            "CONFIGURATION SECTION: "
+            + (
+                "YES"
+                if "<h2>Komplektācija</h2>" in description
+                else "NO"
+            )
         )
 
     print()
@@ -134,17 +168,26 @@ def print_preview(
     print(SEPARATOR)
 
 
-def run_q1200n_preview(
+def run_manual_preview(
     *,
+    import_id: str,
     source_file: Path = DEFAULT_SOURCE_FILE,
 ) -> int:
-    """Run the approved Q1200N description through a safe dry run."""
+    """Run one manual Weber description in safe dry-run mode."""
+
+    repository = ManualDraftRepository()
+
+    # Validate the manual draft before loading WooCommerce.
+    try:
+        repository.get(import_id)
+    except ManualDraftNotFoundError as exc:
+        raise PreviewError(str(exc)) from exc
 
     products = load_weber_products(source_file)
 
     product = _find_source_product(
         products=products,
-        import_id=Q1200N_IMPORT_ID,
+        import_id=import_id,
     )
 
     woo_products = load_woo_products(
@@ -180,7 +223,7 @@ def run_q1200n_preview(
     )
 
     orchestrator = GrillDescriptionOrchestrator(
-        translator=ManualDraftRepository(),
+        translator=repository,
         updater=updater,
     )
 
@@ -195,11 +238,39 @@ def run_q1200n_preview(
     return 0
 
 
+def run_q1200n_preview(
+    *,
+    source_file: Path = DEFAULT_SOURCE_FILE,
+) -> int:
+    """Preserve the existing Q1200N preview entry point."""
+
+    return run_manual_preview(
+        import_id=Q1200N_IMPORT_ID,
+        source_file=source_file,
+    )
+
+
 def main() -> int:
     """CLI entry point."""
 
+    parser = argparse.ArgumentParser(
+        description=(
+            "Preview one manual Weber grill description "
+            "without WooCommerce writes."
+        )
+    )
+    parser.add_argument(
+        "--import-id",
+        default=Q1200N_IMPORT_ID,
+        help="Weber source Import ID.",
+    )
+
+    args = parser.parse_args()
+
     try:
-        return run_q1200n_preview()
+        return run_manual_preview(
+            import_id=args.import_id,
+        )
     except PreviewError as exc:
         print(f"Kļūda: {exc}")
         return 1

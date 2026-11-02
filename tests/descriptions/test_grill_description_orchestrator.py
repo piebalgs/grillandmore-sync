@@ -161,7 +161,6 @@ def test_q1200n_is_generated_once_and_planned_for_both_woo_skus():
         for update in result.updates
     ) == (
         "1501071",
-        "1501086",
     )
 
     assert all(
@@ -438,7 +437,6 @@ def test_q1200n_manual_draft_runs_real_pipeline_for_both_targets_in_dry_run():
         for update in result.updates
     ) == (
         "1501071",
-        "1501086",
     )
 
     assert all(

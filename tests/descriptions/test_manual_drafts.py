@@ -20,6 +20,24 @@ def test_repository_returns_q1200n_manual_draft() -> None:
     assert "hamburger_capacity" not in draft.specifications_summary
 
 
+def test_repository_returns_q1200n_stand_manual_draft() -> None:
+    repository = ManualDraftRepository()
+
+    draft = repository.get("WEBERQ_S_1200N_BL")
+
+    assert isinstance(draft, TranslationDraft)
+    assert draft.title == "Weber Q 1200N gāzes grils ar statīvu"
+    assert "līdz 9 burgeriem" in draft.introduction
+    assert "statīv" in (
+        draft.introduction
+        + " "
+        + draft.suitability
+        + " "
+        + " ".join(draft.benefits)
+    ).lower()
+    assert "hamburger_capacity" not in draft.specifications_summary
+
+
 def test_repository_rejects_unknown_import_id() -> None:
     repository = ManualDraftRepository()
 
@@ -28,6 +46,8 @@ def test_repository_rejects_unknown_import_id() -> None:
         match="UNKNOWN_PRODUCT",
     ):
         repository.get("UNKNOWN_PRODUCT")
+
+
 def test_repository_can_translate_context_by_import_id() -> None:
     repository = ManualDraftRepository()
 

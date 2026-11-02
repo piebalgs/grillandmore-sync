@@ -1,3 +1,4 @@
+
 """Select WooCommerce grill targets for one Weber product description.
 
 This module connects parsed Weber product data with the existing
@@ -24,7 +25,7 @@ from src.descriptions.parser import ProductDescription
 def _source_requires_stand(
     product: ProductDescription,
 ) -> bool:
-    """Return whether the Weber source explicitly identifies a stand variant."""
+    """Return whether the source explicitly identifies a stand variant."""
 
     source_text = " ".join(
         text
@@ -44,7 +45,7 @@ def _source_requires_stand(
 def _woo_product_has_stand(
     product: dict[str, Any],
 ) -> bool:
-    """Return whether a WooCommerce product name identifies a stand variant."""
+    """Return whether a WooCommerce name identifies a stand variant."""
 
     name = str(product.get("name") or "").lower()
 
@@ -63,15 +64,13 @@ def select_grill_targets(
 ) -> tuple[dict[str, Any], ...]:
     """Return WooCommerce grill products matching one Weber product.
 
-    Model identity is extracted from the Weber title fields first.
-    The source description may refine a Q-series model when it contains
-    a more precise variant such as Q2800N+ or Q3200N+.
+    Stand variants are matched explicitly.
 
-    When the Weber title explicitly identifies a stand variant, only
-    WooCommerce candidates that also identify the stand variant are
-    returned.
+    For the plain Q1200N source, stand variants are excluded to
+    prevent assigning the wrong description to the stand model.
 
-    Zero, one, or multiple WooCommerce targets may be returned.
+    Other grill models retain their existing candidate-selection
+    behavior.
     """
     if not isinstance(product, ProductDescription):
         raise TypeError(
@@ -97,6 +96,13 @@ def select_grill_targets(
             candidate
             for candidate in candidates
             if _woo_product_has_stand(candidate)
+        )
+
+    if source_model == "Q1200N":
+        return tuple(
+            candidate
+            for candidate in candidates
+            if not _woo_product_has_stand(candidate)
         )
 
     return candidates

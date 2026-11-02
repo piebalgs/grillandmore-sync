@@ -96,6 +96,27 @@ class HTMLBuilder:
         if cleaned:
             self._blocks.append(f"<p>{escape(cleaned)}</p>")
 
+    def specifications_table(self, rows: tuple[tuple[str, str], ...]) -> None:
+        """Render structured specifications as an accessible HTML table."""
+        valid_rows = [
+            (str(label).strip(), str(value).strip())
+            for label, value in rows
+            if str(label).strip() and str(value).strip()
+        ]
+        if not valid_rows:
+            return
+
+        parts = ['<table class="product-specifications">', "<tbody>"]
+        for label, value in valid_rows:
+            parts.append(
+                "<tr>"
+                f'<th scope="row">{escape(label)}</th>'
+                f"<td>{escape(value)}</td>"
+                "</tr>"
+            )
+        parts.extend(["</tbody>", "</table>"])
+        self._blocks.append("\n".join(parts))
+
     def heading(self, text: str) -> None:
         cleaned = _normalize_text(text)
 
@@ -424,12 +445,17 @@ class ProductFormatter:
             text=draft.suitability,
         )
 
-        self._add_text_section(
-            builder=builder,
-            enabled=SectionId.SPECIFICATIONS in enabled_sections,
-            heading=self.config.specifications_heading,
-            text=draft.specifications_summary,
-        )
+        if SectionId.SPECIFICATIONS in enabled_sections:
+            if draft.specifications:
+                builder.heading(self.config.specifications_heading)
+                builder.specifications_table(draft.specifications)
+            else:
+                self._add_text_section(
+                    builder=builder,
+                    enabled=True,
+                    heading=self.config.specifications_heading,
+                    text=draft.specifications_summary,
+                )
 
         if self.config.include_conclusion:
             builder.paragraph(
